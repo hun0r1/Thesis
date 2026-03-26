@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import time
 import re
 from urllib.parse import urljoin
-from pathlib import Path
+from pathlib import Path 
 
 class RAW2KScraper:
     def __init__(self, base_path="D:\\Hunor\\EGYETEM\\A3.felev\\Allamvizsga+tesztek\\AutokReportok\\RAW2K"):
