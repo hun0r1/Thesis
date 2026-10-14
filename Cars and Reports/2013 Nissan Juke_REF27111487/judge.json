@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Nissan Juke_REF27111487",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and the overall severity but missed several key components (e.g., dashboard, engine) and had inconsistencies in structural frame severity, individual part severities, and specific repair actions."
+}

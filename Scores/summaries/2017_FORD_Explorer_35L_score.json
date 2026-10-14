@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": 3,
+  "score_overall": 4,
+  "part_precision": 0.571,
+  "part_recall": 0.5,
+  "part_f1": 0.533,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 4,
+  "severity_match_rate": 1.0,
+  "severity_matches": 4,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 3450.0,
+  "ai_estimated_repair_cost": 3150.0,
+  "cost_abs_error": 300.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "exhaust_system",
+    "rear_bumper",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "front_left_fender",
+    "front_right_fender",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2017_FORD_Explorer_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

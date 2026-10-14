@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Honda CR-V_REF27097353",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report accurately identified some damaged parts and their repair actions, but included numerous unsupported parts (especially on the left side), significantly overestimated overall severity and repair cost, and incorrectly predicted total loss."
+}

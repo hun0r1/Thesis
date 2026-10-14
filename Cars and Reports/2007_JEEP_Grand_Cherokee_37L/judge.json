@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_JEEP_Grand_Cherokee_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified overall severity, total loss prediction, and repair actions and severities for reported parts, but it missed two damaged parts, provided an incorrect location for one, and had a slightly inaccurate total repair cost."
+}

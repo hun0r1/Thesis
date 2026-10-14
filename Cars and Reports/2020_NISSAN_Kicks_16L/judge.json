@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_NISSAN_Kicks_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately predicting total loss and providing plausible repair actions, but it largely misidentifies the damaged parts, their severities, and significantly underestimates the overall repair cost."
+}

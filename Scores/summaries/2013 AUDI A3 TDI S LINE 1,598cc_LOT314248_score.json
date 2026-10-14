@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.55,
+  "part_recall": 0.733,
+  "part_f1": 0.629,
+  "gt_part_count": 15,
+  "ai_part_count": 20,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.818,
+  "severity_matches": 9,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": 6375.0,
+  "ai_estimated_repair_cost": 9850.0,
+  "cost_abs_error": 3475.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left",
+    "wheel_front_right"
+  ],
+  "missed_parts": [
+    "abs_system",
+    "ac_condenser",
+    "cooling_fan",
+    "crossmember"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_passenger",
+    "dashboard",
+    "frame_rail",
+    "grille",
+    "intercooler",
+    "seat_belt",
+    "subframe",
+    "windshield"
+  ],
+  "vehicle_id": "2013 AUDI A3 TDI S LINE 1,598cc_LOT314248",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

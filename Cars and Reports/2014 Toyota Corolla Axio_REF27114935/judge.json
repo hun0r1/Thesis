@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Toyota Corolla Axio_REF27114935",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts with minor discrepancies in naming or location for a few, but frequently misjudged individual part severities and their corresponding repair actions, leading to an incorrect overall severity assessment."
+}

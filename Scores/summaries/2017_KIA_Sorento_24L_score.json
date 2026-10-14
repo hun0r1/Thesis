@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.636,
+  "part_recall": 0.875,
+  "part_f1": 0.737,
+  "gt_part_count": 16,
+  "ai_part_count": 22,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.857,
+  "severity_matches": 12,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 13500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_left_quarter_panel",
+    "tire",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "cowl_panel",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_passenger",
+    "airbag_side",
+    "dashboard",
+    "frame",
+    "suspension"
+  ],
+  "vehicle_id": "2017_KIA_Sorento_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

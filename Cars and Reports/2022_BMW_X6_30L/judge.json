@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_BMW_X6_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbags and structural integrity but significantly underreported damaged parts and their overall severity, though it was accurate on repair actions for the few parts it listed."
+}

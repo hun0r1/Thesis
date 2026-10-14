@@ -1,0 +1,36 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 3,
+  "score_overall": 4,
+  "part_precision": 0.833,
+  "part_recall": 0.833,
+  "part_f1": 0.833,
+  "gt_part_count": 6,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 2450.0,
+  "ai_estimated_repair_cost": 2050.0,
+  "cost_abs_error": 400.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "mirror_left",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "front_right_door"
+  ],
+  "extra_parts": [
+    "hood"
+  ],
+  "vehicle_id": "2014 MERCEDES B-CLASS B180 CDI BLUEEFFICIENCY SPORT 1,461cc_LOT314353",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

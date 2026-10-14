@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_FORD_E-250_42L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report was partially correct, accurately identifying airbags and overall severity, but missed critical parts like the engine and paint damage, made unsupported claims about structural components, and had several inaccuracies in individual part severities."
+}

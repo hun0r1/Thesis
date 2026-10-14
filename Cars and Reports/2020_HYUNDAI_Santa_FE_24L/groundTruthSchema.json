@@ -1,0 +1,110 @@
+{
+  "vehicle_id": "2020_HYUNDAI_Santa_FE_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1019550670-2020-hyundai-santa_fe",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "HYUNDAI",
+    "model": "Santa FE",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "2.4L",
+    "drivetrain": null,
+    "vin": "5NMS33AD4LH285793",
+    "usage_history": "unknown",
+    "odometer_km": 56429.69,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "The vehicle sustained moderate to heavy damage to the entire rear section, including the bumper, tailgate, and right rear quarter panel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "right_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "right_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "underbody_plastics",
+        "location": "underbody",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2050.0,
+    "market_value_pre_accident": 20000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

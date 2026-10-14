@@ -1,0 +1,206 @@
+{
+  "vehicle_id": "2010 VOLKSWAGEN GOLF MATCH TDI BLUEMOTION TECHNOLOGY 1,598cc_LOT314332",
+  "source": {
+    "origin": "other",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2010-volkswagen-golf-match-tdi-bluemotion-technology-314332",
+    "language": "en",
+    "reported_at": "2022-10-26T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2010,
+    "make": "VOLKSWAGEN",
+    "model": "GOLF",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1,598cc Diesel",
+    "drivetrain": "unknown",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2022-10-26T00:00:00Z",
+    "location": {
+      "country": "UK",
+      "city": "Preston"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "The vehicle sustained damage to the front and rear bumpers, both front and rear wheel arches, roof, offside front door and wing, nearside front wing, nearside wing mirror, boot, and a broken nearside front passenger door window, alongside general wear and tear.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_passenger_door_window_glass",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_wheel_arch",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "roof",
+        "location": "roof",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_passenger_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_wing",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_wing",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wing_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_wheel_arch",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "boot",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_lock_mechanism",
+        "location": "unknown",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "interior_trim",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_rim",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "none",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_rim",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "none",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_rim",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "none",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_rim",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "none",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

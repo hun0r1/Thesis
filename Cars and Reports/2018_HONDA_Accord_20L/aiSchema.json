@@ -1,0 +1,77 @@
+{
+  "vehicle_id": "2018_HONDA_Accord_20L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1039553764-2018-honda-accord",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2018,
+    "make": "HONDA",
+    "model": "Accord 2.0L",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "Gasoline",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "left_side",
+    "description": "The vehicle exhibits damage consistent with an attempted theft, specifically a missing front left door handle.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_left_door_handle",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 250,
+    "market_value_pre_accident": 22000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-15T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

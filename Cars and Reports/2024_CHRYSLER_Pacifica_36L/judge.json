@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_CHRYSLER_Pacifica_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately assessed overall severity and total loss, and most individual part severities and repair actions for the items it listed, but it omitted several key damaged parts from the ground truth and had a significant discrepancy in the estimated repair cost."
+}

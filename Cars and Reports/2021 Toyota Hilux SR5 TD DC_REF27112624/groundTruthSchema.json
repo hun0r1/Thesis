@@ -1,0 +1,270 @@
+{
+  "vehicle_id": "2021 Toyota Hilux SR5 TD DC_REF27112624",
+  "source": {
+    "origin": "direct",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/toyota/hilux/27112624",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Hilux",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": "2755 CC",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": "Christchurch"
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Vehicle sustained heavy frontal impact damage, leading to body deformation, structural damage, deployed airbags, and a cracked windscreen. The front right door is jammed, and general dents and scratches are present. The rear canopy is loose and the front right tire is flat.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": true,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "minor",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "cooling_fan",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windscreen",
+        "location": "front",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_wheel",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_tire",
+        "location": "front_right",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_door",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_canopy",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "airbag_driver",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "airbag_passenger",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "airbag_curtain_left",
+        "location": "left_side",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "airbag_curtain_right",
+        "location": "right_side",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "apron_right",
+        "location": "front_right",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "apron_left",
+        "location": "front_left",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "core_support",
+        "location": "front",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "battery",
+        "location": "front_right",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "body_panels_general",
+        "location": "multiple",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 18,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

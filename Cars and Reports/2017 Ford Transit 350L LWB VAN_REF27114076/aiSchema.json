@@ -1,0 +1,157 @@
+{
+  "vehicle_id": "2017 Ford Transit 350L LWB VAN_REF27114076",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/ford/transit/27114076",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "Ford",
+    "model": "Transit 350L LWB VAN",
+    "generation": null,
+    "body_style": "van",
+    "engine": "Puma 2.2 I4 Diesel 155PS",
+    "drivetrain": null,
+    "usage_history": "fleet",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained widespread body damage including a shattered rear door window, heavy scratches and dents on multiple panels, damaged front right mirror and headlight, and a bent rear license plate. The vehicle is also a non-runner.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_right_door_window_glass",
+        "location": "rear_right",
+        "category": "glass",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "rear_right_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "license_plate_housing",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "front_right_headlight_assembly",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "right_side_mirror",
+        "location": "right_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "front_left_door",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "left_cargo_sliding_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "rear_cargo_area_flooring",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "engine_powertrain_assembly",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 1000
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3025,
+    "market_value_pre_accident": 18000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 21,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

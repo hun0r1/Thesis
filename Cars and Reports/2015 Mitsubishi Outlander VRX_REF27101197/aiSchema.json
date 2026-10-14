@@ -1,0 +1,157 @@
+{
+  "vehicle_id": "2015 Mitsubishi Outlander VRX_REF27101197",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/mitsubishi/outlander/27101197",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "Mitsubishi",
+    "model": "Outlander VRX",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": "4wd",
+    "usage_history": "unknown",
+    "market_region": "unknown"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "New Zealand",
+      "city": "Auckland"
+    },
+    "collision_type": "side",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained significant right side damage, along with damage to the front and rear bumpers and mechanical issues.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_right_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "rocker_panel",
+        "location": "right_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 450
+      },
+      {
+        "part": "rear_right_wheel_arch_trim",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "front_bumper_lower_trim",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 1000
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3375,
+    "market_value_pre_accident": 12000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 24,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

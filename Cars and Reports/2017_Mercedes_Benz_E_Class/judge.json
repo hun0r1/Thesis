@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_Mercedes_Benz_E_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identifies many damaged parts, overall severity, estimated repair cost, and total loss prediction, but it omitted two key damaged parts from the ground truth and included some inaccuracies regarding individual part severities and repair actions."
+}

@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.571,
+  "part_recall": 0.727,
+  "part_f1": 0.64,
+  "gt_part_count": 11,
+  "ai_part_count": 14,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_side",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "hood",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_curtain",
+    "dashboard",
+    "mirror_left",
+    "seat_belt",
+    "suspension"
+  ],
+  "vehicle_id": "2018_BMW_530i_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

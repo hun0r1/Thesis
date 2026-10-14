@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 Toyota Hiace_REF27111439",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and the overall severity, but missed several key components and had significant discrepancies in individual part severities and recommended repair actions, particularly for structural and powertrain elements."
+}

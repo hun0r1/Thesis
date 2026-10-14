@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_MAZDA_Cx-5_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified repair actions and total loss status but had significant discrepancies in estimated repair costs, missed several ground truth parts, added numerous unconfirmed parts, and contained critical factual errors regarding airbag deployment and structural damage."
+}

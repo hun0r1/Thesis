@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_KIA_Forte_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions, along with the total loss prediction, but it contained significant inaccuracies regarding structural frame severity and overall estimated repair costs."
+}

@@ -1,0 +1,150 @@
+{
+  "vehicle_id": "2009 Toyota Rav4 5A_REF27034340",
+  "source": {
+    "origin": "other",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/toyota/rav4/27034340",
+    "language": "English",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2009,
+    "make": "Toyota",
+    "model": "Rav4",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "2AZ-FE",
+    "drivetrain": "4WD",
+    "vin": "JTMB D33V90D004756",
+    "usage_history": "unknown",
+    "odometer_km": 254367,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "The vehicle sustained a severe front-left impact, causing extensive damage to the front bumper, grille, left headlight, left fender, hood, and underlying structural components including the core support and inner guard.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "left_front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "radiator_core_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "left_inner_guard",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "bull_bar",
+        "location": "front",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_bumper_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "left_fog_light",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3950,
+    "market_value_pre_accident": 8500,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 14,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_FORD_Fusion_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions, but significantly omitted the severely damaged engine, misclassified the overall severity as moderate instead of severe, and had several inconsistencies in part severities and structural damage compared to the ground truth."
+}

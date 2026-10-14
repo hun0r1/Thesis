@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many individual parts and their repair actions, but contains significant errors in overall cost, total loss prediction, and some severity assessments."
+}

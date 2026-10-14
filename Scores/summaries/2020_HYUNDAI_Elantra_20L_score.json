@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.7,
+  "part_f1": 0.824,
+  "gt_part_count": 10,
+  "ai_part_count": 7,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.286,
+  "severity_matches": 2,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": 4900.0,
+  "ai_estimated_repair_cost": 1725.0,
+  "cost_abs_error": 3175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_body_panel",
+    "rear_bumper",
+    "taillight_left",
+    "taillight_right",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "other",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2020_HYUNDAI_Elantra_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

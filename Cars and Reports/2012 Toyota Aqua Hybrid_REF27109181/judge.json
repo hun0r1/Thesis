@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Toyota Aqua Hybrid_REF27109181",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and their corresponding replacement actions, but presented several inaccuracies in severity assessments, repair actions for minor damages, and made unsupported claims for some null/unknown ground truth fields."
+}

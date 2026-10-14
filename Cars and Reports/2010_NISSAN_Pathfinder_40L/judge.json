@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_NISSAN_Pathfinder_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report was mostly correct, accurately identifying overall severity, repair actions, and total loss prediction, but it contained significant inaccuracies in parts location and the total estimated repair cost."
+}

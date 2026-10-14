@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 Mitsubishi Outlander VRX_REF27101197",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and most individual part severities, but missed two damaged parts from the ground truth while adding five incorrect or unverified parts, and showed discrepancies in the repair actions for several components."
+}

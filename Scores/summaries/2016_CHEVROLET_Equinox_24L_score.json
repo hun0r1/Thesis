@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.714,
+  "part_recall": 0.556,
+  "part_f1": 0.625,
+  "gt_part_count": 9,
+  "ai_part_count": 7,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 2315.0,
+  "ai_estimated_repair_cost": 2300.0,
+  "cost_abs_error": 15.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "fog_light",
+    "front_left_fender",
+    "headlight_left"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "radiator"
+  ],
+  "vehicle_id": "2016_CHEVROLET_Equinox_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

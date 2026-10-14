@@ -1,0 +1,43 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.333,
+  "part_recall": 0.375,
+  "part_f1": 0.353,
+  "gt_part_count": 8,
+  "ai_part_count": 9,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.667,
+  "severity_matches": 2,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "hood"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_curtain",
+    "front_right_fender",
+    "headlight_right",
+    "radiator",
+    "radiator_support"
+  ],
+  "vehicle_id": "2025_KIA_Soul_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

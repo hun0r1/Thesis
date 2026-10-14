@@ -1,0 +1,165 @@
+{
+  "vehicle_id": "2014_NISSAN_Altima_25L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1078552998-2014-nissan-altima",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "NISSAN",
+    "model": "Altima 2.5L",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_right",
+    "description": "Front right impact damage with significant deformation to the bumper, fender, hood, and radiator support structure.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_fender_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 650
+      },
+      {
+        "part": "headlight_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "radiator_assembly",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 550
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "side_mirror_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_door_driver",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_door_passenger",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 4800,
+    "market_value_pre_accident": 9000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-19T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 12,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

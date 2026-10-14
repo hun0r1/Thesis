@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_VOLKSWAGEN_Jetta_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 2,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified many parts and their repair actions, along with overall severity, but missed some key parts, added an unsupported part, had an incorrect location for a part, and significantly deviated on estimated repair cost and total loss prediction."
+}

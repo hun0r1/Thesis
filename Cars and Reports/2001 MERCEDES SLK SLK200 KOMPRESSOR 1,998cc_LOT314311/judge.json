@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001 MERCEDES SLK SLK200 KOMPRESSOR 1,998cc_LOT314311",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, missing several key parts, providing inaccurate severity and repair actions for many identified parts, and making significant errors in total cost estimation and total loss prediction."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_NISSAN_Titan_56L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output missed several critical parts including the engine and A-pillar, contained multiple incorrect part severities and repair actions, and diverged on airbag deployment and overall damage category, despite correctly identifying the overall severity and drivability."
+}

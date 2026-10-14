@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Volvo_XC40_T3_XC40_5d_Technical_issues__ID6796814",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI output is mostly incorrect, significantly missing critical powertrain damage and underestimating the overall repair cost and severity, although it correctly identified the total loss status."
+}

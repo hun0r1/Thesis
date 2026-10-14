@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_CHEVROLET_Equinox_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts and their repair actions, but missed key components like the engine and front right suspension, had minor severity mismatches for a-pillar and front right fender, and ground truth data for cost and total loss was insufficient for scoring."
+}

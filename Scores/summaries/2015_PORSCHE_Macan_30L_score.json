@@ -1,0 +1,32 @@
+{
+  "score_parts": 3,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.5,
+  "part_f1": 0.667,
+  "gt_part_count": 4,
+  "ai_part_count": 2,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "headlight_left"
+  ],
+  "missed_parts": [
+    "front_right_fender",
+    "grille"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2015_PORSCHE_Macan_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,326 @@
+{
+  "vehicle_id": "2008_INFINITI_G35_35L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1009556980-2008-infiniti-g35",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2008,
+    "make": "INFINITI",
+    "model": "G35",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "VQ35(HR)",
+    "drivetrain": "unknown",
+    "vin": "JNKBV61F68M265573",
+    "usage_history": "unknown",
+    "odometer_km": 243702,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained severe front-end collision damage, extensive damage to the left side and rear-left quarter panel, with multiple airbag deployments and a damaged engine.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": false,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_cover",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bumper_reinforcement",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_assembly_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_assembly_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "air_conditioning_condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "cooling_fan_assembly",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine_assembly",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_wheel_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_tire_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_quarter_panel_left",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_bumper_cover",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tail_light_left",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_wheel_left",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_tire_left",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "driver_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "side_curtain_airbag_left",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "dashboard_components",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_frame_rail",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_frame_rail",
+        "location": "front_right",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_subframe",
+        "location": "underbody",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

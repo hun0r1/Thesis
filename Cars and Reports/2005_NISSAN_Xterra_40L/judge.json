@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_NISSAN_Xterra_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output was partially correct, accurately identifying several damaged parts, severities, and repair actions, but critically missed damages to the engine and windshield while adding unconfirmed parts."
+}

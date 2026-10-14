@@ -1,0 +1,142 @@
+{
+  "vehicle_id": "2007_NISSAN_Altima_25L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1019557879-2007-nissan-altima",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2007,
+    "make": "NISSAN",
+    "model": "Altima",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "QR25DE 2.5L",
+    "drivetrain": null,
+    "vin": "1N4AL21E37N419061",
+    "usage_history": "unknown",
+    "odometer_km": 316223,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear_left",
+    "description": "Vehicle sustained heavy rear-end collision damage primarily to the left side, impacting the trunk, rear quarter panel, and bumper.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "rear_left_taillight",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_panel",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "exhaust_muffler",
+        "location": "rear",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_left_wheel",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "rear_left_door_panel",
+        "location": "left_side",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "front_right_wheel",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2525,
+    "market_value_pre_accident": 4000,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

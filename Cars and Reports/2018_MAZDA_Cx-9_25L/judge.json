@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_MAZDA_Cx-9_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified less than half of the damaged parts and made several inaccurate claims regarding missing components and repair costs, though it correctly identified the overall severity."
+}

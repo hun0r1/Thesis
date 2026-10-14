@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_CHEVROLET_Silverado_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction, and was reasonably close on the estimated repair cost; however, it made significant errors in identifying the specific location (left vs. right) for several damaged parts, leading to inaccuracies in individual part severities and repair actions."
+}

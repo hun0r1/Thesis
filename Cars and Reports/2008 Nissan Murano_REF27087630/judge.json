@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Nissan Murano_REF27087630",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly predicts a total loss but misses several key parts, generalizes repair actions, provides a significantly different overall severity classification, and has an estimated cost that deviates substantially from the ground truth."
+}

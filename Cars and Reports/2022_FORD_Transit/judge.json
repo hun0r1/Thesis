@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_FORD_Transit",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their general repair actions, but it missed critical components like the electric powertrain, showed several incorrect severity assessments for individual parts (e.g., headlights from none to heavy), and made unsupported claims where the ground truth was null or unknown."
+}

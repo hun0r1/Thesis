@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.1,
+  "part_recall": 0.5,
+  "part_f1": 0.167,
+  "gt_part_count": 2,
+  "ai_part_count": 10,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4825.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "hood"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_driver",
+    "airbag_passenger",
+    "front_bumper",
+    "headlight_left",
+    "headlight_right",
+    "paint",
+    "radiator",
+    "seat_belt"
+  ],
+  "vehicle_id": "2018_DODGE_Journey_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 FORD MONDEO TITANIUM ECONETIC TDCI 1,997cc_LOT314274",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and a majority of damaged parts but presented several unsupported claims, significant cost discrepancies, and an incorrect total loss prediction."
+}

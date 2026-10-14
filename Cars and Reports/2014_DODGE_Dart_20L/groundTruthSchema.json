@@ -1,0 +1,118 @@
+{
+  "vehicle_id": "2014_DODGE_Dart_20L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1009551991-2014-dodge-dart",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "DODGE",
+    "model": "Dart",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "2.0L",
+    "drivetrain": null,
+    "vin": "1C3CDZFA6ED303397",
+    "usage_history": "unknown",
+    "odometer_km": 285324,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "The vehicle exhibits significant damage to the front left side, including a crumpled fender, a heavily tilted wheel, and potential underlying suspension issues.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_wheel_assembly",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine_cooling_system",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 15,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

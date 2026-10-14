@@ -1,0 +1,174 @@
+{
+  "vehicle_id": "2016 VOLKSWAGEN GOLF GTI 1,984cc_LOT314178",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2016-volkswagen-golf-gti-314178?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D2",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2016,
+    "make": "VOLKSWAGEN",
+    "model": "GOLF GTI",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1.984cc TSI Petrol",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "private",
+    "odometer_km": 167107.0,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "The vehicle exhibits extensive perimeter damage including significant dents and scratches on both front and rear bumpers, all side doors, and wheel arches.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "rear_wheel_arch",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "side_sill_panel",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_wing",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_wing",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "rear_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "rear_wheel_arch",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "side_window_glass",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "side_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3575.0,
+    "market_value_pre_accident": 14000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 15,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

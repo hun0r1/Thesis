@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2000 Toyota Vitz RS_REF27106038",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified total loss status and overall severity, with most parts identified and repair actions correctly reported, but showed some inconsistencies in individual part severities and costs, and missed two parts from the ground truth."
+}

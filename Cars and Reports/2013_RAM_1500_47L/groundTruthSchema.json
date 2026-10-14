@@ -1,0 +1,126 @@
+{
+  "vehicle_id": "2013_RAM_1500_47L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1050654622-2013-ram-1500",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2013,
+    "make": "RAM",
+    "model": "1500",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": "4.7L",
+    "drivetrain": null,
+    "vin": "3C6JR6EPXDG535509",
+    "usage_history": "unknown",
+    "odometer_km": 179782.9,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "Rear-end collision causing significant damage to the tailgate, rear bumper, and right rear quarter panel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "rear_right_lamp",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "right_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "rear_crossmember",
+        "location": "underbody",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "frame",
+        "location": "underbody",
+        "category": "structural",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "left_rear_lamp",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2925.0,
+    "market_value_pre_accident": 20000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

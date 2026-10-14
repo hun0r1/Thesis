@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their repair actions but missed several key components like the engine, provided incorrect severities for some items, and made unsubstantiated claims regarding certain airbags and structural elements."
+}

@@ -1,0 +1,50 @@
+{
+  "score_parts": 1,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.222,
+  "part_recall": 0.143,
+  "part_f1": 0.174,
+  "gt_part_count": 14,
+  "ai_part_count": 9,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_left_fender",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "suspension",
+    "taillight_left",
+    "wheel_rear_left"
+  ],
+  "extra_parts": [
+    "axle",
+    "exhaust_system",
+    "frame_rail",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "taillight_right",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2013 Subaru Legacy I Sport_REF27109388",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

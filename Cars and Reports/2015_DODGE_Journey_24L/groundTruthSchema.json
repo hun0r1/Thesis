@@ -1,0 +1,86 @@
+{
+  "vehicle_id": "2015_DODGE_Journey_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1018556109-2015-dodge-journey",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "DODGE",
+    "model": "Journey",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "3C4PDCBB7FT736688",
+    "usage_history": "unknown",
+    "odometer_km": 350551,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "left_side",
+    "description": "Extensive rust and deformation observed on the left side rocker panel and lower part of the rear left door, indicating significant body damage likely from an impact or prolonged exposure and neglect.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rocker_panel",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "rear_left_door",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1000,
+    "market_value_pre_accident": 5000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 11,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

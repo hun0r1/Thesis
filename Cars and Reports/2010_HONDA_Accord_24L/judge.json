@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately reflected the airbag deployment and general structural damage, but it missed several key damaged parts from the ground truth, introduced many additional parts, and contained discrepancies in specific part severities and repair actions, as well as the overall severity."
+}

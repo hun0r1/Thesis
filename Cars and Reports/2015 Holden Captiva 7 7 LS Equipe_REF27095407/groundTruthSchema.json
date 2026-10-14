@@ -1,0 +1,246 @@
+{
+  "vehicle_id": "2015 Holden Captiva 7 7 LS Equipe_REF27095407",
+  "source": {
+    "origin": "other",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/holden/captiva-7/27095407",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "Holden",
+    "model": "Captiva 7",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "ECOTEC",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 266929,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "New Zealand",
+      "city": "Christchurch"
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Vehicle sustained heavy frontal impact damage, resulting in deployed airbags, significant body damage, and a rough running engine with oil leak.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": true,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "headlight_front_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "headlight_front_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "fender_front_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "fender_front_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "airbag_front_driver",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "airbag_front_passenger",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "ac_condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "engine",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "side_mirror_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "coolant_reservoir",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "washer_fluid_reservoir",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_left_wheel_arch_liner",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "front_right_wheel_arch_liner",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "paintwork",
+        "location": "multiple",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 400.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 6275.0,
+    "market_value_pre_accident": 8000.0,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

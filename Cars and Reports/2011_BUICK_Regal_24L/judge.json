@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_BUICK_Regal_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 5,
+    "total_loss": 2,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately identifying damaged parts, severity, repair actions, and estimated repair cost, but incorrectly provided null for predicted_total_loss instead of false."
+}

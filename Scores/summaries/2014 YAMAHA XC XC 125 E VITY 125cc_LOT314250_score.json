@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.667,
+  "part_f1": 0.667,
+  "gt_part_count": 6,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 480.0,
+  "ai_estimated_repair_cost": 785.0,
+  "cost_abs_error": 305.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "body_panel",
+    "front_left_fender",
+    "handlebar",
+    "mirror_left"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "other"
+  ],
+  "extra_parts": [
+    "brake_system",
+    "engine"
+  ],
+  "vehicle_id": "2014 YAMAHA XC XC 125 E VITY 125cc_LOT314250",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

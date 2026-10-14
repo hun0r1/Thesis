@@ -1,0 +1,48 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.533,
+  "part_f1": 0.593,
+  "gt_part_count": 15,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.875,
+  "severity_matches": 7,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5350.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "cooling_fan",
+    "engine",
+    "front_bumper",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "front_left_door",
+    "front_left_fender",
+    "radiator_support",
+    "subframe",
+    "tire",
+    "washer_system"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "suspension",
+    "windshield"
+  ],
+  "vehicle_id": "2009 Nissan X-Trail_REF27104687",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

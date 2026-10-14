@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Volvo_XC40_T3_XC40_5d_technical_issues__ID6796813",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially aligns with the ground truth, correctly identifying several key damaged parts and their repair actions, along with the structural integrity, but it omits a substantial number of damaged parts, including a major severe component (engine_assembly), and uses a different categorization for overall severity."
+}

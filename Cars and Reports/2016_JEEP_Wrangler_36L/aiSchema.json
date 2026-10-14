@@ -1,0 +1,133 @@
+{
+  "vehicle_id": "2016_JEEP_Wrangler_36L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1078558960-2016-jeep-wrangler",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2016,
+    "make": "JEEP",
+    "model": "Wrangler",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "3.6L V6",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "left_side",
+    "description": "The vehicle sustained moderate side impact damage to the left rear door, left front door, and rocker panel, with structural deformation of the B-pillar.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "minor",
+      "a_pillar": "none",
+      "b_pillar": "severe",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "rear_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 900
+      },
+      {
+        "part": "rocker_panel_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "b_pillar_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1250
+      },
+      {
+        "part": "rear_quarter_panel_left",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "fender_flare_left_rear",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "rear_suspension_left",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "wheel_alignment",
+        "location": "underbody",
+        "category": "suspension",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 75
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 5175,
+    "market_value_pre_accident": 30000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 18,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

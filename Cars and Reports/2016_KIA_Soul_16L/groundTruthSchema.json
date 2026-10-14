@@ -1,0 +1,150 @@
+{
+  "vehicle_id": "2016_KIA_Soul_16L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1087559345-2016-kia-soul",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2016,
+    "make": "KIA",
+    "model": "Soul",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1.6L",
+    "drivetrain": null,
+    "vin": "KNDJN2A21G7842896",
+    "usage_history": "unknown",
+    "odometer_km": 126543,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "The vehicle sustained a frontal impact resulting in damage to the bumper, grille, headlights, and cooling system components, with minor rear bumper damage.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "minor",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "ac_condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2275,
+    "market_value_pre_accident": 9000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 11,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

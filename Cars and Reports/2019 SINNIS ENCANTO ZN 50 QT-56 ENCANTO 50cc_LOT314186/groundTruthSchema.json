@@ -1,0 +1,126 @@
+{
+  "vehicle_id": "2019 SINNIS ENCANTO ZN 50 QT-56 ENCANTO 50cc_LOT314186",
+  "source": {
+    "origin": "other",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2019-sinnis-encanto-zn-50-qt-56-encanto-314186?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D3",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2019,
+    "make": "Sinnis",
+    "model": "Encanto ZN 50 QT-56 Encanto 50cc",
+    "generation": null,
+    "body_style": "other",
+    "engine": "Petrol",
+    "drivetrain": "CVT",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 7611,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2022-01-27",
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "General wear and tear with damage to right-side rear plastics, left-side rear plastics, left-side front floor plastics, left-side brake lever, and a tampered ignition barrel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "right_rear_fairing",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_rear_fairing",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_floor_panel",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_brake_lever",
+        "location": "front_left",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fairing",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_mudguard",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "ignition_barrel",
+        "location": "front",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 13,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

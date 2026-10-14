@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002_TOYOTA_Camry_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The report correctly identifies most damaged parts and overall severity, but significantly miscalculates repair costs and incorrectly predicts total loss."
+}

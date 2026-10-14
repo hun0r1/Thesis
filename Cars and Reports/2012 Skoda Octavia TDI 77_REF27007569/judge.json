@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Skoda Octavia TDI 77_REF27007569",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most key damaged parts and their associated repair actions and severities, with correct overall severity and total loss prediction, but it significantly omitted several minor damaged parts and showed discrepancies in individual part cost estimations."
+}

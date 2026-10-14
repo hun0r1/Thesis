@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Toyota Rav4 GXL SUV_REF27059854",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss, but had some inaccuracies in specific part identification (missing one ground truth part and adding six unconfirmed parts), detailed part severities (including structural frame), and repair actions; however, the estimated repair cost was reasonably close."
+}

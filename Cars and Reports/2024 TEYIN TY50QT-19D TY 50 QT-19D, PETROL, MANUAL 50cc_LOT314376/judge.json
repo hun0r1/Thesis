@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024 TEYIN TY50QT-19D TY 50 QT-19D, PETROL, MANUAL 50cc_LOT314376",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately assessed the overall severity and repair actions for the primary identified body parts, but it missed several minor components from the ground truth and included extraneous damage claims."
+}

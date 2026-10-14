@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Ssangyong Tivoli Sports Manual_REF27105693",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their associated repair actions and severities, but missed several ground truth items, had inaccuracies in severities (often overstating), and diverged on specific repair actions, while cost and total loss could not be evaluated due to missing ground truth data."
+}

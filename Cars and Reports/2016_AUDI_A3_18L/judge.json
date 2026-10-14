@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_AUDI_A3_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and most repair actions, but significantly underestimated the overall severity and total repair cost, while also omitting several damaged parts and misidentifying structural damage."
+}

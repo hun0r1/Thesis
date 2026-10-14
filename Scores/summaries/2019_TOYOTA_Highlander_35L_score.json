@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.818,
+  "part_recall": 0.6,
+  "part_f1": 0.692,
+  "gt_part_count": 15,
+  "ai_part_count": 11,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.778,
+  "severity_matches": 7,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 6925.0,
+  "ai_estimated_repair_cost": 5900.0,
+  "cost_abs_error": 1025.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "other",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "cooling_fan",
+    "engine",
+    "headlight_right",
+    "seat_belt",
+    "subframe"
+  ],
+  "extra_parts": [
+    "cooling_system",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2019_TOYOTA_Highlander_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

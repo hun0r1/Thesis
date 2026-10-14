@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006 FORD TRANSIT 350 MWB HR 2,402cc_LOT314216",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI identified a majority of damaged parts but missed several from the ground truth and included extra, non-existent parts, and while the overall severity was correct, many individual part severities and repair actions were inaccurate."
+}

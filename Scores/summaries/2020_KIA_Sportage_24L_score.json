@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.75,
+  "part_f1": 0.75,
+  "gt_part_count": 16,
+  "ai_part_count": 16,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.667,
+  "severity_matches": 8,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": 6125.0,
+  "ai_estimated_repair_cost": 5325.0,
+  "cost_abs_error": 800.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "subframe"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "impact_bar",
+    "underbody_cover",
+    "washer_system"
+  ],
+  "extra_parts": [
+    "other",
+    "suspension",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "vehicle_id": "2020_KIA_Sportage_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

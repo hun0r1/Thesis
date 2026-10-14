@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.727,
+  "part_recall": 0.667,
+  "part_f1": 0.696,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 1.0,
+  "severity_matches": 7,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2725.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "engine",
+    "front_left_fender",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "suspension"
+  ],
+  "vehicle_id": "2002_PONTIAC_Bonneville_38L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

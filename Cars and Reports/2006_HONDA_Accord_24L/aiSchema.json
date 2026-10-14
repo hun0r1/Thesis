@@ -1,0 +1,165 @@
+{
+  "vehicle_id": "2006_HONDA_Accord_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1078555744-2006-honda-accord",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2006,
+    "make": "HONDA",
+    "model": "Accord",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "2.4L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Vehicle sustained significant front-left impact damage, affecting the fender, bumper, hood, headlight, and internal structural components with deployed side airbags.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_cover",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "front_left_headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_bumper_reinforcement",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "front_left_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_left_inner_fender_liner",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "driver_side_curtain_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "passenger_side_curtain_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "airbag_control_module",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3000,
+    "market_value_pre_accident": 4000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 11,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

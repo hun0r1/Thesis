@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 AUDI A4 TDI SE 1,968cc_LOT314151",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI identified most damage parts correctly with minor naming differences but omitted a few; however, it significantly misjudged overall and individual part severities, and provided repair actions not supported by the ground truth."
+}

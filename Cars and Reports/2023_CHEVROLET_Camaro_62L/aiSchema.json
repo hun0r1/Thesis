@@ -1,0 +1,149 @@
+{
+  "vehicle_id": "2023_CHEVROLET_Camaro_62L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1049551180-2023-chevrolet-camaro",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2023,
+    "make": "CHEVROLET",
+    "model": "Camaro 6.2L",
+    "generation": null,
+    "body_style": "coupe",
+    "engine": "6.2L Gasoline",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "The vehicle sustained heavy front-left impact damage resulting in significant deformation of the front bumper, fender, headlight, and suspension components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 450
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_left_wheel_and_tire",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "front_left_suspension",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_crossmember",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "engine_peripherals",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 400
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 6250,
+    "market_value_pre_accident": 55000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 17,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

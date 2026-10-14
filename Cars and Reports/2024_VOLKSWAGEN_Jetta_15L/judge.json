@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_VOLKSWAGEN_Jetta_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed the total loss status and some core damage aspects, but it frequently missed or misidentified specific damaged parts, assigned incorrect severities and repair actions, and significantly underestimated the total repair cost."
+}

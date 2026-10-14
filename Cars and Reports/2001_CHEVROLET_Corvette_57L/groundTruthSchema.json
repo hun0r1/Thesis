@@ -1,0 +1,118 @@
+{
+  "vehicle_id": "2001_CHEVROLET_Corvette_57L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1088556294-2001-chevrolet-corvette",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2001,
+    "make": "CHEVROLET",
+    "model": "Corvette",
+    "generation": null,
+    "body_style": "coupe",
+    "engine": "5.7L",
+    "drivetrain": null,
+    "vin": "1G1YY22G115110389",
+    "usage_history": "unknown",
+    "odometer_km": 155471,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Front left impact causing significant damage to the fender, headlight, and hood.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "left_headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_bumper_support",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "left_fog_light",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 50
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2000,
+    "market_value_pre_accident": 18000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 11,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

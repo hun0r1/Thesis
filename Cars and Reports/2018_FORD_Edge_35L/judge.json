@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Edge_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified airbag deployment, structural damage, and predicted total loss, but it significantly missed key damaged parts like the engine and transmission, leading to a substantial underestimation of the total repair cost and a less precise overall severity."
+}

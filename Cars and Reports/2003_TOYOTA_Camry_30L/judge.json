@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_TOYOTA_Camry_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss status, and was mostly accurate on individual part severities and repair actions, but it had several omissions and inaccuracies regarding specific damaged parts, their locations, structural details, and associated costs, leading to a noticeable difference in the total repair estimate."
+}

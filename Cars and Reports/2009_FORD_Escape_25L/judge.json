@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_FORD_Escape_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified several major damaged parts and their repair actions, but significantly missed critical components like the engine and windshield, and provided an incorrect overall severity assessment compared to the ground truth."
+}

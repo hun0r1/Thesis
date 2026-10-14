@@ -1,0 +1,51 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.588,
+  "part_recall": 0.667,
+  "part_f1": 0.625,
+  "gt_part_count": 15,
+  "ai_part_count": 17,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.6,
+  "severity_matches": 6,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 6775.0,
+  "ai_estimated_repair_cost": 4600.0,
+  "cost_abs_error": 2175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "intercooler",
+    "rear_bumper",
+    "rocker_panel_left",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "engine",
+    "frame_rail",
+    "radiator",
+    "suspension"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "mirror_left",
+    "other",
+    "radiator_support",
+    "rocker_panel_right",
+    "wheel_front_right",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2013 FORD FIESTA ST-2 1,596cc_LOT314164",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,213 @@
+{
+  "vehicle_id": "2021 Mitsubishi ASX LS_REF25931643",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/mitsubishi/asx/25931643",
+    "language": "english",
+    "reported_at": "2022-05-04T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Mitsubishi",
+    "model": "ASX LS",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "4B11",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2022-05-04T00:00:00Z",
+    "location": {
+      "country": "New Zealand",
+      "city": "Hamilton"
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Vehicle sustained heavy front impact damage, affecting the bonnet, bumper, and both front lights and panels, with additional dents and scratches across the vehicle. The vehicle does not start and has structural deformation.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 275
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 275
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 275
+      },
+      {
+        "part": "air_conditioning_condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 238
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "inner_fender_liner_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "inner_fender_liner_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "engine_subframe",
+        "location": "underbody",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375
+      },
+      {
+        "part": "misc_hoses_and_wiring",
+        "location": "front",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "engine_cooling_fan",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "underbody_cover_front",
+        "location": "underbody",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "engine_operation",
+        "location": "powertrain",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "interior_detailing",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3663,
+    "market_value_pre_accident": 11000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-15T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 14,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

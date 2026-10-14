@@ -1,0 +1,325 @@
+{
+  "vehicle_id": "2019_JEEP_Compass_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1067553116-2019-jeep-compass",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2019,
+    "make": "JEEP",
+    "model": "Compass",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "2.4L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained severe damage to the front, left side, rear, and roof, indicating a multi-impact incident with airbag deployment.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": false,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "severe",
+      "b_pillar": "severe",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "headlight_assembly_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "headlight_assembly_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "front_wheel_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "cooling_system",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "rear_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "quarter_panel_left",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "rocker_panel_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "side_mirror_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_wheel_left",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "suspension_front_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "suspension_rear_left",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "taillight_left",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "taillight_right",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_window",
+        "location": "rear",
+        "category": "glass",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "roof_panel",
+        "location": "roof",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "roof_rails",
+        "location": "roof",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "seat_belt_driver",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "seat_belt_passenger",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "interior_trim",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "airbag_control_module",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "seats_front",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 13850,
+    "market_value_pre_accident": 22000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-07-29T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 17,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "vehicle_id": "2004 NISSAN TERRANO II SE TD 2,664cc_LOT314210",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2004-nissan-terrano-ii-se-td-314210?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D4",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2004,
+    "make": "NISSAN",
+    "model": "TERRANO II",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "Diesel 2,664cc",
+    "drivetrain": "manual",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 210283,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Preston"
+    },
+    "collision_type": "side",
+    "impact_zone": "multiple",
+    "description": "Vehicle shows significant impact damage to the rear right quarter panel and rear bumper, along with damage to the left front fender, right side sill, front bumper, and various other panels, consistent with a multi-zone accident.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "driver_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_door_panel",
+        "location": "right_side",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "side_step",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_mirror",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_wheel_arch",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "sill",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "side_step",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_mirror",
+        "location": "front_left",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 22,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

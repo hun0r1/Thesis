@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_JEEP_Cherokee_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified repair actions for comparable parts but was mostly incorrect regarding the specific parts damaged and the overall severity."
+}

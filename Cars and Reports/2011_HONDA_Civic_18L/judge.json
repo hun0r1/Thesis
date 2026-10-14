@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_HONDA_Civic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identifies airbag deployment and structural damage, and most damaged parts, but omits the engine and has several incorrect severities and repair actions for specific parts, including a different overall severity."
+}

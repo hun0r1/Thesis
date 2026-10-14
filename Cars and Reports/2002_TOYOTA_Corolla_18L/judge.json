@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth damaged parts but included two additional claims, demonstrated mixed accuracy for part severities, and had one incorrect repair action; cost and total loss could not be evaluated due to ground truth null values."
+}

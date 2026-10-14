@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_Mercedes_Benz_C_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI's report showed significant inaccuracies and incompleteness; it missed several key parts, incorrectly assessed the overall severity and structural damage, and provided a substantially lower estimated repair cost compared to the ground truth."
+}

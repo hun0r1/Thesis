@@ -1,0 +1,190 @@
+{
+  "vehicle_id": "2016_FORD_Fusion_20L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1050658579-2016-ford-fusion",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2016,
+    "make": "FORD",
+    "model": "Fusion",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "2.0L",
+    "drivetrain": null,
+    "vin": "3FA6P0K95GR399330",
+    "usage_history": "unknown",
+    "odometer_km": 149015.6,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Vehicle sustained heavy front-left impact damage, resulting in significant deformation of the fender, bumper, and hood, along with deployed airbags and likely suspension damage.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": false,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "headlight_assembly_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "front_wheel_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_suspension_left",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "steering_wheel_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "door_panel_driver",
+        "location": "interior",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "side_airbag_driver",
+        "location": "left_side",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "overhead_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "apron_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 5375.0,
+    "market_value_pre_accident": 10000.0,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

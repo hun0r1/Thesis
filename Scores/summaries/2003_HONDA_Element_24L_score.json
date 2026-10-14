@@ -1,0 +1,39 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.429,
+  "part_recall": 0.5,
+  "part_f1": 0.462,
+  "gt_part_count": 6,
+  "ai_part_count": 7,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2012.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "tire"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_left_door",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "rocker_panel_left",
+    "taillight_left",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2003_HONDA_Element_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

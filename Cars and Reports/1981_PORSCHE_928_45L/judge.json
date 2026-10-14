@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1981_PORSCHE_928_45L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified airbag status and some common body parts, but significantly missed many critical damaged components (like the engine, dashboard, and tires), misjudged most individual part severities, and incorrectly assessed the overall severity and many repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most damaged parts and their repair actions, but incorrectly assessed the structural frame severity, missed critical components, and provided a wrong total loss prediction, with estimated costs also showing significant deviations."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Holden Commodore Calais-V V6_REF27110897",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the overall severity and most damaged parts, but contained inaccuracies in specific part severities and repair actions, and included extra parts not present in the ground truth."
+}

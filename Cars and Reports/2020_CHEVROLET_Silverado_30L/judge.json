@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_CHEVROLET_Silverado_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the overall damage severity and total loss status, but it missed several key damaged parts, significantly underestimated the total repair cost, and had multiple inconsistencies in part-specific severity and repair actions."
+}

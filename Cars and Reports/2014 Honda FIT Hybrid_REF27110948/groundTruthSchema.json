@@ -1,0 +1,198 @@
+{
+  "vehicle_id": "2014 Honda FIT Hybrid_REF27110948",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/honda/fit/27110948",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "Honda",
+    "model": "FIT Hybrid",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "7AT08G2XX19042316",
+    "usage_history": "unknown",
+    "odometer_km": 105424,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "New Zealand",
+      "city": "Auckland"
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Vehicle sustained extensive front impact damage with deformation to the bonnet, bumper, and fenders, and deployed airbags, along with structural damage.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": true,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 525.0
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 700.0
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "front_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "driver_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "passenger_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 550.0
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "frame",
+        "location": "underbody",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 6025.0,
+    "market_value_pre_accident": 10000.0,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 20,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_NISSAN_Maxima_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified total loss status and most repair actions, but was less accurate on parts identified, their severities, and the overall estimated repair cost."
+}

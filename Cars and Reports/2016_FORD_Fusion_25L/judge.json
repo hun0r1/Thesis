@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_Fusion_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified overall severity and many parts with their repair actions, but it omitted several key damaged parts, misidentified the severity for others, and incorrectly provided severity for structural components listed as 'unknown' in the ground truth."
+}

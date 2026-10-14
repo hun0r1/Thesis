@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "2003 Ford Escape_REF27099867",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/ford/escape/27099867",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2003,
+    "make": "Ford",
+    "model": "Escape",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear_left",
+    "description": "Vehicle has a rear left corner impact with various dents, scuffs, and scratches.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "driver_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "body_panels",
+        "location": "multiple",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 800,
+    "market_value_pre_accident": 2500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "mild",
+    "drivable_after_accident": null
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 21,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

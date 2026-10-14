@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.467,
+  "part_recall": 0.778,
+  "part_f1": 0.583,
+  "gt_part_count": 9,
+  "ai_part_count": 15,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 8150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "fog_light",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "engine",
+    "underbody_cover"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_control_module",
+    "airbag_driver",
+    "dashboard",
+    "front_left_door",
+    "radiator",
+    "rear_left_door",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2022_SUBARU_Crosstrek_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

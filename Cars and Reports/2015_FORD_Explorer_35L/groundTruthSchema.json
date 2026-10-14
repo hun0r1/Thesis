@@ -1,0 +1,142 @@
+{
+  "vehicle_id": "2015_FORD_Explorer_35L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1029550668-2015-ford-explorer",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "FORD",
+    "model": "Explorer",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "1FM5K8F85FGA83626",
+    "usage_history": "unknown",
+    "odometer_km": 153076,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Vehicle sustained heavy front-left impact damage, affecting the fender, bumper, headlight, hood, and potentially internal components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "front_left_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 650
+      },
+      {
+        "part": "front_left_wheel_and_tire",
+        "location": "front_left",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 275
+      },
+      {
+        "part": "front_left_fog_light",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "radiator_assembly",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3450,
+    "market_value_pre_accident": 18000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "low",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

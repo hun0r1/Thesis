@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_GMC_Sierra_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and their repair actions, but it critically missed damage to the engine and grille, miscalculated several part severities and overall severity, and provided incorrect repair actions for some identified parts."
+}

@@ -1,0 +1,158 @@
+{
+  "vehicle_id": "1998 HONDA VTR VTR 1000 F FIRESTORM 996cc_LOT314126",
+  "source": {
+    "origin": "other",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/1998-honda-vtr-vtr-1000-f-firestorm-314126?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D1",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 1998,
+    "make": "Honda",
+    "model": "VTR VTR 1000 F Firestorm",
+    "generation": null,
+    "body_style": "other",
+    "engine": "996cc",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "United Kingdom",
+      "city": "Falkirk"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Damage includes scuffs and wear on plastics all around, along with damaged seat and wires.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_fairing",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 450.0
+      },
+      {
+        "part": "left_side_fairing",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "right_side_fairing",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "rear_cowl",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 280.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "wiring_harness",
+        "location": "multiple",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "windscreen",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 120.0
+      },
+      {
+        "part": "exhaust_muffler",
+        "location": "rear_right",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 180.0
+      },
+      {
+        "part": "left_mirror",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "left_footpeg",
+        "location": "left_side",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 75.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2530.0,
+    "market_value_pre_accident": 3000.0,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 4,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

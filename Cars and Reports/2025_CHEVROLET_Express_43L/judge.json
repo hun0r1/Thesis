@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_CHEVROLET_Express_43L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 3,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and their repair actions, but omitted several key parts, made some incorrect severity assessments including an incorrect airbag deployment, and provided a significantly underestimated repair cost and missing total loss prediction."
+}

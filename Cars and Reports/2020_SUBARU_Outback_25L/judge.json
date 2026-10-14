@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_SUBARU_Outback_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report provided a partially correct list of damaged parts with significant omissions and additions, showed inconsistencies in both specific part severities and the overall severity assessment, and assigned several incorrect repair actions."
+}

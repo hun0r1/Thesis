@@ -1,0 +1,238 @@
+{
+  "vehicle_id": "2006 Nissan Tiida_REF27111753",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/nissan/tiida/27111753",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Tiida",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": null,
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Vehicle sustained heavy front impact damage resulting in significant deformation of the front end components, including hood, bumper, and headlights, with probable structural and mechanical issues.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 650.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 450.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "wheel",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "rear_door",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "rear_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_door",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_door",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "boot",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "ac_condenser",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "engine",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "subframe",
+        "location": "underbody",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 6000.0,
+    "market_value_pre_accident": 4000.0,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 26,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

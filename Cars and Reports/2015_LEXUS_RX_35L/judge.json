@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_LEXUS_RX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output accurately determined the estimated repair cost and total loss status, but it missed several critical parts, their severities, and repair actions, primarily due to an incorrect assessment of airbag deployment."
+}

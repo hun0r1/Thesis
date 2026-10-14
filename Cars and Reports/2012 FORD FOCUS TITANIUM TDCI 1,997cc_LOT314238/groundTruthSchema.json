@@ -1,0 +1,102 @@
+{
+  "vehicle_id": "2012 FORD FOCUS TITANIUM TDCI 1,997cc_LOT314238",
+  "source": {
+    "origin": "direct",
+    "publisher": "raw2k",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2012-ford-focus-titanium-tdci-314238",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2012,
+    "make": "Ford",
+    "model": "Focus",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "2.0 TDCI",
+    "drivetrain": "front_wheel_drive",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 288488,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Walsall"
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Damage to the front bumper, near-side front wing, and rear bumper, along with general wear, tear, and scratches on various panels.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 700
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 450
+      },
+      {
+        "part": "body_panel",
+        "location": "multiple",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1750,
+    "market_value_pre_accident": 4500,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 7,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

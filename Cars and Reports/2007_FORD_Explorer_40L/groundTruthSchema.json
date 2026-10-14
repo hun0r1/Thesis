@@ -1,0 +1,142 @@
+{
+  "vehicle_id": "2007_FORD_Explorer_40L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1038550170-2007-ford-explorer",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2007,
+    "make": "FORD",
+    "model": "Explorer",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "4.0L, Burned",
+    "drivetrain": null,
+    "vin": "1FMEU74E67UB04886",
+    "usage_history": "unknown",
+    "odometer_km": 224775,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "The vehicle sustained heavy front left impact damage to the bumper, fender, and headlight, with the engine also reported as burned.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_fog_light",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_inner_fender_liner",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 12,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

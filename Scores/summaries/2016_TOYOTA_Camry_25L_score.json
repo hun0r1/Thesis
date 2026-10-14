@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.727,
+  "part_recall": 0.8,
+  "part_f1": 0.762,
+  "gt_part_count": 10,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 3550.0,
+  "ai_estimated_repair_cost": 5326.0,
+  "cost_abs_error": 1776.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "exhaust_system",
+    "impact_bar",
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "other"
+  ],
+  "extra_parts": [
+    "front_bumper",
+    "taillight_right",
+    "tire"
+  ],
+  "vehicle_id": "2016_TOYOTA_Camry_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

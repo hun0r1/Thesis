@@ -1,0 +1,141 @@
+{
+  "vehicle_id": "2009_TOYOTA_Rav4_25L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1098559579-2009-toyota-rav4",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2009,
+    "make": "TOYOTA",
+    "model": "Rav4",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "The vehicle sustained significant impact damage to the rear, affecting the tailgate, rear bumper, and rear quarter panels.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "moderate"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "rear_window_glass",
+        "location": "rear",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "rear_left_taillight",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "rear_right_taillight",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "spare_tire_cover",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "trunk_floor",
+        "location": "underbody",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2950,
+    "market_value_pre_accident": 7000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

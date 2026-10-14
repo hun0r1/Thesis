@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_VOLKSWAGEN_Atlas_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some damaged parts and their repair actions, but significantly misstated the extent of structural damage, several part severities, omitted a key safety part, and incorrectly assessed the vehicle as drivable."
+}

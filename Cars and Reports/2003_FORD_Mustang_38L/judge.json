@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_FORD_Mustang_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report omitted several damaged parts and included one incorrect part, leading to discrepancies in estimated repair cost and some repair actions, though overall severity and total loss prediction were correct."
+}

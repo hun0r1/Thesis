@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_NISSAN_Kicks_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most key damaged parts, their severities, repair actions, and the overall total loss status, but included additional ungrounded parts and provided an estimated repair cost that significantly deviated from the ground truth."
+}

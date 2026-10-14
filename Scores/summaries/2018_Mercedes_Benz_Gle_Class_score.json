@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.583,
+  "part_f1": 0.737,
+  "gt_part_count": 12,
+  "ai_part_count": 7,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.429,
+  "severity_matches": 3,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3750.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "tailgate",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_body_panel",
+    "rear_left_door",
+    "rear_right_door",
+    "trunk_lid"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2018_Mercedes_Benz_Gle_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

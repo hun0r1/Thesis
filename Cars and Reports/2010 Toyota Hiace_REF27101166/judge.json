@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010 Toyota Hiace_REF27101166",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately matching overall severity and structural damage, along with most part severities and repair actions for detected parts. However, it omitted six key parts, added six parts not present in the ground truth, and incorrectly reported the front passenger airbag deployment."
+}

@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.667,
+  "part_f1": 0.706,
+  "gt_part_count": 9,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 4375.0,
+  "ai_estimated_repair_cost": 3300.0,
+  "cost_abs_error": 1075.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "front_left_door",
+    "front_left_fender",
+    "rear_left_door",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "seat_belt",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "b_pillar",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2010_HONDA_Insight_13L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

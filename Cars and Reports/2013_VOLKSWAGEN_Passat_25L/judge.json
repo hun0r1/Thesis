@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_VOLKSWAGEN_Passat_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed critical damaged parts like the engine and wheel, misidentified the B-pillar damage, and incorrectly assessed the overall severity and several repair actions."
+}

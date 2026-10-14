@@ -1,0 +1,166 @@
+{
+  "vehicle_id": "2008_VOLVO_C30_25L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1050654731-2008-volvo-c30",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2008,
+    "make": "VOLVO",
+    "model": "C30",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "2.5L",
+    "drivetrain": null,
+    "vin": "YV1MK672282069398",
+    "usage_history": "unknown",
+    "odometer_km": 343152,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Frontal impact with damage to the front bumper, left fender, and left headlight assembly, leading to airbag deployment.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": true,
+      "side": true,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "headlight_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "driver_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "passenger_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "seatbelt_pre_tensioner_driver",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "seatbelt_pre_tensioner_passenger",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "srs_control_module",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 100
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2900,
+    "market_value_pre_accident": 5000,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-18T12:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

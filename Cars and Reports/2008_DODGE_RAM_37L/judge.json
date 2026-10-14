@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_DODGE_RAM_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and many repair actions but omitted several damaged parts from the ground truth and provided incorrect severity assessments for others."
+}

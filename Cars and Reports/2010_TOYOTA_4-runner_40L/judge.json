@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_TOYOTA_4-runner_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some damaged parts and repair actions but missed several critical components and their associated severe damage, leading to an incorrect overall severity assessment."
+}

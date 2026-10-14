@@ -1,0 +1,109 @@
+{
+  "vehicle_id": "2008_FORD_Edge_35L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "SCA Auction",
+    "url": "https://sca.auction/en/1078556823-2008-ford-edge",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2008,
+    "make": "FORD",
+    "model": "Edge",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Front bumper and lower grille assembly are missing, exposing the underlying crash structure and potentially damaging fog lights.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_cover",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_lower_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "fog_light_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "fog_light_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "front_bumper_reinforcement",
+        "location": "front",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 125.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 600.0,
+    "market_value_pre_accident": 4000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-03-20T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "vehicle_id": "1997 BENTLEY TURBO R T 6,750cc_LOT314309",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/1997-bentley-turbo-r-t-314309?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D7",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 1997,
+    "make": "Bentley",
+    "model": "Turbo R T",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "6,750cc",
+    "drivetrain": "unknown",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Walsall"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle exhibits extensive neglect, widespread body panel damage, rust, interior trim deterioration, and flat tires, suggesting prolonged disuse or multiple minor incidents.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood_badge",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "side_mirror_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "side_mirror_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_door_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_door_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_door_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_quarter_panel_right",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_quarter_panel_left",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tire_right_front",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tire_right_rear",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tire_left_front",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tire_left_rear",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_right_front",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_right_rear",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_left_front",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "wheel_left_rear",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windshield_trim",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windshield_seal",
+        "location": "front",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_trim_right_front",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_trim_right_rear",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_trim_left_front",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "door_trim_left_rear",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_suspension",
+        "location": "underbody",
+        "category": "suspension",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rocker_panel_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rocker_panel_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood_insulation",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-15T00:00:00Z",
+    "confidence": "high",
+    "images_used": 22,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "vehicle_id": "2012_DODGE_Grand_Caravan_36L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1068554638-2012-dodge-grand_caravan",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2012,
+    "make": "DODGE",
+    "model": "Grand Caravan",
+    "generation": null,
+    "body_style": "van",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "right_side",
+    "description": "Vehicle sustained moderate side impact damage on the right side, affecting multiple body panels and the rear bumper.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "minor",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "right_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "right_sliding_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "right_front_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "rocker_panel_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2550,
+    "market_value_pre_accident": 7000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": null
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 11,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

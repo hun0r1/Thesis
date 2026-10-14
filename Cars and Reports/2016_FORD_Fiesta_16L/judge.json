@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_Fiesta_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some structural details and the total loss prediction, but it missed one damaged part while adding two extra parts not in the ground truth, misidentified a repair action, and provided an incorrect overall severity and estimated repair cost."
+}

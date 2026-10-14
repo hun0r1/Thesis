@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.8,
+  "part_recall": 0.615,
+  "part_f1": 0.696,
+  "gt_part_count": 13,
+  "ai_part_count": 10,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3625.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "taillight_left",
+    "taillight_right",
+    "trunk_lid",
+    "windshield"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_bumper",
+    "headlight_left",
+    "headlight_right",
+    "hood"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "impact_bar"
+  ],
+  "vehicle_id": "2011_HYUNDAI_Sonata_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.455,
+  "part_recall": 0.556,
+  "part_f1": 0.5,
+  "gt_part_count": 9,
+  "ai_part_count": 11,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2100.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "hood",
+    "rear_right_door",
+    "windshield"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "headlight_left",
+    "rear_left_door",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "front_right_door",
+    "headlight_right",
+    "other",
+    "underbody_cover",
+    "wheel_front_right",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2018 FORD TRANSIT CUSTOM 270 LR P_V 1,996cc_LOT314370",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

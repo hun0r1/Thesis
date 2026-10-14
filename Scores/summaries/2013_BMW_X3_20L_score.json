@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.625,
+  "part_recall": 0.833,
+  "part_f1": 0.714,
+  "gt_part_count": 12,
+  "ai_part_count": 16,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 9500.0,
+  "ai_estimated_repair_cost": 13500.0,
+  "cost_abs_error": 4000.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_passenger",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "airbag_side",
+    "frame"
+  ],
+  "extra_parts": [
+    "airbag_curtain",
+    "dashboard",
+    "front_left_fender",
+    "radiator",
+    "seat_belt",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2013_BMW_X3_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

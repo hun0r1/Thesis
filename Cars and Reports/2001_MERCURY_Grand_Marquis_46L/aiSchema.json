@@ -1,0 +1,213 @@
+{
+  "vehicle_id": "2001_MERCURY_Grand_Marquis_46L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1040651443-2001-mercury-grand_marquis",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2001,
+    "make": "MERCURY",
+    "model": "Grand Marquis",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "4.6L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained severe rear-end collision damage, affecting the trunk, bumper, and rear quarter panels, along with moderate front damage to the bumper, grille, and headlights.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "moderate"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "headlight_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "headlight_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 450
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1450
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1450
+      },
+      {
+        "part": "tail_light_left",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "tail_light_right",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "rear_body_panel",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250
+      },
+      {
+        "part": "rear_subframe",
+        "location": "underbody",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 650
+      },
+      {
+        "part": "exhaust_system",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_left_door",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 325
+      },
+      {
+        "part": "front_right_door",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 8850,
+    "market_value_pre_accident": 3500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 15,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

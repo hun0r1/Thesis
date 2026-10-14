@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Holden Cruze Z-Series_REF27043463",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall severity, key deployed airbags, and many primary damaged parts with accurate repair actions, but it missed several minor body panel damages and showed some inaccuracies in part severities, repair actions, and structural details."
+}

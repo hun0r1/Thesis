@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.7,
+  "part_recall": 0.538,
+  "part_f1": 0.609,
+  "gt_part_count": 13,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.429,
+  "severity_matches": 3,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2435.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "subframe",
+    "suspension"
+  ],
+  "extra_parts": [
+    "front_apron",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2013_NISSAN_Altima_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

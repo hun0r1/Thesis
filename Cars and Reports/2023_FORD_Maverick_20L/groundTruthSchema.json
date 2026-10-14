@@ -1,0 +1,102 @@
+{
+  "vehicle_id": "2023_FORD_Maverick_20L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1039550034-2023-ford-maverick",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2023,
+    "make": "FORD",
+    "model": "Maverick",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": "2.0L",
+    "drivetrain": "awd",
+    "vin": "3FTTW8F95PRA39841",
+    "usage_history": "unknown",
+    "odometer_km": 20723.0,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "Rear collision damage including missing bumper and taillights. Engine reported to be burned.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "taillight_left",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "taillight_right",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

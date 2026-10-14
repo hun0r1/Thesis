@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_KIA_Sorento_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbag deployment and overall severity, but missed several key damaged parts, including deployed airbags, leading to a significantly underestimated repair cost, though it correctly predicted no total loss."
+}

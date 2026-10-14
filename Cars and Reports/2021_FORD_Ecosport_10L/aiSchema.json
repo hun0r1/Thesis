@@ -1,0 +1,109 @@
+{
+  "vehicle_id": "2021_FORD_Ecosport_10L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1049553891-2021-ford-ecosport",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Ecosport",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "1.0L Gasoline",
+    "drivetrain": "FWD",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "Vehicle sustained significant impact damage to the rear bumper, tailgate, and right rear quarter panel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 550
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_repaint",
+        "estimated_cost_eur": 575
+      },
+      {
+        "part": "right_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_repaint",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "right_rear_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25
+      },
+      {
+        "part": "rear_panel_inner",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1850,
+    "market_value_pre_accident": 17000,
+    "insurer_total_loss": false,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-04-29T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 17,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

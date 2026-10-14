@@ -1,0 +1,52 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.545,
+  "part_recall": 0.923,
+  "part_f1": 0.686,
+  "gt_part_count": 13,
+  "ai_part_count": 22,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.833,
+  "severity_matches": 10,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": 5850.0,
+  "ai_estimated_repair_cost": 7900.0,
+  "cost_abs_error": 2050.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "suspension"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "battery",
+    "control_arm",
+    "engine",
+    "steering",
+    "strut",
+    "subframe",
+    "washer_system",
+    "wheel_front_left",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2021_KIA_Seltos_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

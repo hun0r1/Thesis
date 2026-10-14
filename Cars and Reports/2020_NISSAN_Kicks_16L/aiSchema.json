@@ -1,0 +1,125 @@
+{
+  "vehicle_id": "2020_NISSAN_Kicks_16L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1078550516-2020-nissan-kicks",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "NISSAN",
+    "model": "Kicks",
+    "generation": null,
+    "body_style": "suv",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "The vehicle sustained damage to the front bumper and grille, along with moderate to severe impact damage on the entire left side, affecting both doors and the rear quarter panel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "left_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "left_rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "left_rear_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "left_rear_wheel_arch_trim",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3150,
+    "market_value_pre_accident": 16500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 17,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_KIA_Optima_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to a critical misclassification of the vehicle as a total loss, significant discrepancies in overall severity and structural frame damage, incorrect repair actions for suspension components, and several missing or incorrectly described parts impacting the overall cost assessment."
+}

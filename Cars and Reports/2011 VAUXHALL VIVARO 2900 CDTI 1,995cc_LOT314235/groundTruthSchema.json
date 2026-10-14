@@ -1,0 +1,174 @@
+{
+  "vehicle_id": "2011 VAUXHALL VIVARO 2900 CDTI 1,995cc_LOT314235",
+  "source": {
+    "origin": "totalcar",
+    "publisher": "Raw2K",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2011-vauxhall-vivaro-2900-cdti-314235",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "VAUXHALL",
+    "model": "VIVARO",
+    "generation": null,
+    "body_style": "van",
+    "engine": "1,995cc CDTI Diesel",
+    "drivetrain": "unknown",
+    "vin": null,
+    "usage_history": "fleet",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Preston"
+    },
+    "collision_type": "multiple_impacts",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained damage to both side sills, side panels, front passenger doors, rear wheel arch, rear bumper, and rear doors, consistent with multiple minor impacts and general wear.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "right_side_sill",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "right_side_panel",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "right_front_door_mechanism",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "left_side_sill",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "left_front_door",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "left_sliding_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "left_rear_wheel_arch",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "rear_door_left",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "rear_door_right",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "left_rear_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "driver_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "interior_cabin",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "other",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2100,
+    "market_value_pre_accident": 4500,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 15,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

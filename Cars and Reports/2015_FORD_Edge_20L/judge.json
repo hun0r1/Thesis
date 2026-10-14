@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_Edge_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The report correctly identified some front-end body damage but significantly missed critical components like the engine assembly and left-side damage, leading to an inaccurate overall severity assessment."
+}

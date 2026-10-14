@@ -1,0 +1,166 @@
+{
+  "vehicle_id": "Audi_A3_Sportback_15_35_TFSi_110kW_5d_damaged_car__ID6796798",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6796798",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": null,
+    "make": "Audi",
+    "model": "A3 Sportback",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1.5 35 TFSi 110kW",
+    "drivetrain": null,
+    "vin": "WAUZZZGY6NA030552",
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Belgium",
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "Vehicle sustained severe rear impact damage, causing significant deformation to the tailgate, bumper, and rear quarter panels, with visible glass breakage. Minor front bumper damage is also present.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "moderate"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_window",
+        "location": "rear",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_tail_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "exhaust_system",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_underbody_components",
+        "location": "underbody",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_lower_grill",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 30,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

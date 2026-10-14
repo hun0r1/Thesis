@@ -1,0 +1,94 @@
+{
+  "vehicle_id": "BMW_5_Reeks_Touring_520e_150kW_5d_Technical_issues__ID6796801",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6796801",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series Touring",
+    "generation": "G31",
+    "body_style": "other",
+    "engine": "Plug-in Hybrid 150kW",
+    "drivetrain": null,
+    "vin": "WBA71CG030CK39041",
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "unknown",
+    "description": "Vehicle has a reported severe mechanical issue with the engine, leading to non-drivability and disassembly of engine components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "engine",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 20000
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "side_mirror_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 20450,
+    "market_value_pre_accident": 40000,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "unknown",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-01-26T12:00:00Z",
+    "confidence": "high",
+    "images_used": 26,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "score_parts": 2,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.429,
+  "part_f1": 0.545,
+  "gt_part_count": 14,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2025.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "paint",
+    "radiator_support",
+    "tailgate",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "cooling_fan"
+  ],
+  "vehicle_id": "1999 Ford Courier XL Crew CAB_REF27056857",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

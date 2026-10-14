@@ -1,0 +1,181 @@
+{
+  "vehicle_id": "2008 AUDI Q7 TDI QUATTRO S LINE 2,967cc",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": null,
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2008,
+    "make": "Audi",
+    "model": "Q7",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "2,967cc TDI",
+    "drivetrain": "quattro",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_right",
+    "description": "The vehicle sustained a significant frontal impact primarily affecting the front right side, resulting in extensive damage to the bumper, grille, and right headlight assembly.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "fender_liner",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "front_passenger_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "wing_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "fuel_cap_cover",
+        "location": "right_side",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "boot_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2075.0,
+    "market_value_pre_accident": 10000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-18T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 5,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

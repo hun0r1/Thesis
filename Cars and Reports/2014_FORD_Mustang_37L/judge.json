@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_Mustang_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified repair actions but made significant errors in part identification, locations, and most notably, the assessment of both overall and individual part severities."
+}

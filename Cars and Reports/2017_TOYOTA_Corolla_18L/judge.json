@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified overall severity, total loss prediction, and repair actions for common parts, but significantly misrepresented specific damaged parts and their locations by identifying the left side as primarily impacted instead of the right, and included many unconfirmed components."
+}

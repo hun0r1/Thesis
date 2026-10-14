@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately assessed overall severity, predicted total loss, and repair actions for listed parts, but it significantly missed several damaged parts, had location errors for others, and largely underestimated the total repair cost."
+}

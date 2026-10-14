@@ -1,0 +1,110 @@
+{
+  "vehicle_id": "2018 KEEWAY RKS RKS 125 STD 125cc_LOT314185",
+  "source": {
+    "origin": "direct",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2018-keeway-rks-rks-125-std-314185",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2018,
+    "make": "KEEWAY",
+    "model": "RKS RKS 125 STD",
+    "generation": null,
+    "body_style": "other",
+    "engine": null,
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 1428,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Falkirk"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Foot pegs, gear lever, tank, plastics, and exhaust are damaged with general scuffs and wear and tear all round the vehicle.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "foot_peg",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "gear_lever",
+        "location": "left_side",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "fuel_tank",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "body_panel",
+        "location": "multiple",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "exhaust_system",
+        "location": "right_side",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 5,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

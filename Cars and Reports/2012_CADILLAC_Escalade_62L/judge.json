@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_CADILLAC_Escalade_62L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and most repair actions but missed several key damaged parts, provided incorrect structural damage assessments for components marked as 'unknown' in the ground truth, and had minor discrepancies in part-specific severities."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_KIA_Soul_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately assessed overall severity and predicted total loss, and most individual part severities and repair actions for identified parts were correct. However, it missed several damaged parts, misidentified the side of one fender, and had a notable discrepancy in the total estimated repair cost compared to the ground truth."
+}

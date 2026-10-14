@@ -1,0 +1,149 @@
+{
+  "vehicle_id": "2012 Mazda Mazda2 Sport_REF27116944",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/mazda/mazda2/27116944",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "Mazda2 Sport",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_right",
+    "description": "The vehicle sustained heavy front right impact damage, affecting the front bumper, bonnet, and right fender, with additional damage to lights and other panels.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "minor",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 650
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 650
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 425
+      },
+      {
+        "part": "front_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 425
+      },
+      {
+        "part": "front_door",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 175
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3475,
+    "market_value_pre_accident": 5000,
+    "insurer_total_loss": true,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 29,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

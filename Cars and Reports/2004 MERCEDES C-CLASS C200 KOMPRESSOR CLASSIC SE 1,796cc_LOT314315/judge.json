@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 MERCEDES C-CLASS C200 KOMPRESSOR CLASSIC SE 1,796cc_LOT314315",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most structural damage and overall severity, but missed some key parts, made several incorrect repair action and individual part severity assessments, and significantly underestimated the total repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_TOYOTA_Sienna_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified repair actions and total loss status, but included some incorrect parts and severities, along with a significantly higher estimated repair cost."
+}

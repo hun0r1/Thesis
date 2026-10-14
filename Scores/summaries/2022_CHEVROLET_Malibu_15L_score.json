@@ -1,0 +1,48 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.625,
+  "part_recall": 0.769,
+  "part_f1": 0.69,
+  "gt_part_count": 13,
+  "ai_part_count": 16,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.8,
+  "severity_matches": 8,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 5025.0,
+  "ai_estimated_repair_cost": 5000.0,
+  "cost_abs_error": 25.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "headlight_right",
+    "suspension"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "frame_rail",
+    "grille",
+    "underbody_cover",
+    "wheel_front_left",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "2022_CHEVROLET_Malibu_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

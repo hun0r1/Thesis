@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_FORD_Escape_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and airbag status, but critically missed the engine assembly and fender_right, misrepresented structural frame severity as moderate instead of severe, and provided inaccurate severity and repair actions for several other parts like the right headlight and front subframe, while also including unsupported parts."
+}

@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "2011 FORD FOCUS SPORT TDCI 1,560cc_LOT314140",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": "raw2k",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2011-ford-focus-sport-tdci-314140?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D1",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "Ford",
+    "model": "Focus",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1.6L TDCI Diesel (1560cc)",
+    "drivetrain": "unknown",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Wales",
+      "city": "Swansea"
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "Front left fender, hood, and left mirror are damaged from a front impact.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "left_side_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_left_wheel",
+        "location": "front_left",
+        "category": "other",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1025.0,
+    "market_value_pre_accident": 3500.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-01-23T10:30:00Z",
+    "confidence": "ai-generated",
+    "images_used": 6,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

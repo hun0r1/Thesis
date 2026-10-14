@@ -1,0 +1,36 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.833,
+  "part_recall": 0.833,
+  "part_f1": 0.833,
+  "gt_part_count": 6,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 2030.0,
+  "ai_estimated_repair_cost": 1150.0,
+  "cost_abs_error": 880.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "hood",
+    "mirror_left",
+    "seat"
+  ],
+  "missed_parts": [
+    "headlight_left"
+  ],
+  "extra_parts": [
+    "headlight_right"
+  ],
+  "vehicle_id": "2011 MERCEDES SLK SLK200 BLUEEFFICIENCY AMG SPORT ED125 1,796cc_LOT314145",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

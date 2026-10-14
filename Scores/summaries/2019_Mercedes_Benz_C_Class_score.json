@@ -1,0 +1,41 @@
+{
+  "score_parts": 1,
+  "score_severity": 5,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.4,
+  "part_recall": 0.222,
+  "part_f1": 0.286,
+  "gt_part_count": 9,
+  "ai_part_count": 5,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": 4050.0,
+  "ai_estimated_repair_cost": 3200.0,
+  "cost_abs_error": 850.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "impact_bar",
+    "rear_body_panel",
+    "rear_right_quarter_panel",
+    "suspension",
+    "taillight_right",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "front_left_fender",
+    "taillight_left",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2019_Mercedes_Benz_C_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,181 @@
+{
+  "vehicle_id": "Audi_A3_Sportback_15_35_TFSi_110kW_5d_damaged_car__ID6796798",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6796798",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A3 Sportback",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "1.5 35 TFSi 110kW",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Belgium",
+      "city": null
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "Severe rear-end collision with significant damage to the tailgate, bumper, and structural components; also minor damage to the front bumper and right side door.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "severe"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "tailgate",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 900.0
+      },
+      {
+        "part": "rear_window_glass",
+        "location": "rear",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "left_rear_taillight",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "right_rear_taillight",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "left_rear_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250.0
+      },
+      {
+        "part": "right_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250.0
+      },
+      {
+        "part": "trunk_floor",
+        "location": "underbody",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "exhaust_system",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_grille_lower",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "right_rear_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "right_rear_wheel",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "rear_suspension",
+        "location": "underbody",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 500.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 6850.0,
+    "market_value_pre_accident": 30000.0,
+    "insurer_total_loss": true,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 32,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

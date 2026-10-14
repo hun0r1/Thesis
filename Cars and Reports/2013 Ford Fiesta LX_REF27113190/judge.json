@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Ford Fiesta LX_REF27113190",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, with several significant omissions regarding damaged parts and incorrect severity and repair actions for some crucial components, in addition to unsupported structural claims and an incorrect drivability status."
+}

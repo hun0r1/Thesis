@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_MITSUBISHI_Endeavor_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output correctly identified structural damage, overall severity, and total loss prediction, with most parts and repair actions being accurate and a close overall repair cost; however, it made a significant factual error regarding airbag deployment, missed one damaged part, and contained several inaccuracies in individual part severities and costs."
+}

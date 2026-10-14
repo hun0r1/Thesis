@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_JEEP_Wrangler_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified some damaged parts and their repair actions, but it omitted a significant number of critical components from the ground truth, included extra unsupported parts, made some incorrect part severity assessments, and provided unsupported airbag deployment statuses."
+}

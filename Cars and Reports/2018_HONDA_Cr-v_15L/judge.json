@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_HONDA_Cr-v_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately reported overall severity and total loss, and most repair actions, but missed a key suspension component while adding unsupported parts, made several errors in part-specific severities, and had a significantly incorrect total repair cost."
+}

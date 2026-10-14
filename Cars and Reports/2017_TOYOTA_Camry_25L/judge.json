@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report contained critical factual errors regarding airbag deployment and the predicted total loss. While it correctly identified the overall severity and repair actions for many parts, it missed several damaged parts from the ground truth and included incorrect parts based on its misdiagnosis, leading to a significantly inaccurate total repair cost."
+}

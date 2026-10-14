@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_TOYOTA_Tacoma_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report misidentifies several key damaged parts, notably missing the engine damage, and provides incorrect severities and repair actions, leading to a drastically different overall damage assessment compared to the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_HONDA_Cr-v_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified total loss status and many individual part repair actions, but significantly diverged on specific part identification, overall severity, and had a minor discrepancy in total estimated repair cost."
+}

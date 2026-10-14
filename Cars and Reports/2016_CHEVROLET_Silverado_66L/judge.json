@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_CHEVROLET_Silverado_66L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified overall severity and most airbags, but significantly erred on the total loss prediction, missed several damaged parts, and provided incorrect repair actions for others."
+}

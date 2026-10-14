@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_TOYOTA_Camry_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, failing to identify the engine damage, mislocating several body panel damages, incorrectly assessing the overall severity as moderate instead of severe, and providing extraneous parts."
+}

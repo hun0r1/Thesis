@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 HONDA CBR CBR 1000 RR-5 998cc_LOT314213",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified most damaged parts and the overall severity, but it missed three ground truth parts, had some discrepancies in individual part severities and repair actions, and introduced one extra part."
+}

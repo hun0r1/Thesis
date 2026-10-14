@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.625,
+  "part_recall": 0.833,
+  "part_f1": 0.714,
+  "gt_part_count": 6,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.2,
+  "severity_matches": 1,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 1725.0,
+  "ai_estimated_repair_cost": 5625.0,
+  "cost_abs_error": 3900.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood"
+  ],
+  "missed_parts": [
+    "washer_system"
+  ],
+  "extra_parts": [
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "vehicle_id": "2011 Volvo S60_REF27101828",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

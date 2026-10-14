@@ -1,0 +1,44 @@
+{
+  "score_parts": 1,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.143,
+  "part_recall": 0.111,
+  "part_f1": 0.125,
+  "gt_part_count": 9,
+  "ai_part_count": 7,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3075.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "b_pillar",
+    "engine",
+    "front_left_door",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "taillight_left",
+    "trunk_lid",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "rocker_panel_right",
+    "suspension",
+    "taillight_right",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2014_VOLKSWAGEN_Jetta_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

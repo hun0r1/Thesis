@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002 RENAULT MEGANE DYNAMIQUE PLUS 16V 1,598cc_LOT314312",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report mostly identified the ground truth parts and their repair actions, but included numerous unsupported additional parts and had inconsistencies in severity for an interior part and the overall damage."
+}

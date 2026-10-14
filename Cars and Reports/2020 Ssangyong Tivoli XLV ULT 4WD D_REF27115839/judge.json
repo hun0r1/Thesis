@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 Ssangyong Tivoli XLV ULT 4WD D_REF27115839",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output accurately assessed economic factors and identified most damaged parts, but significantly erred in overall severity and a substantial number of specific repair actions and part severities."
+}

@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.727,
+  "part_recall": 0.667,
+  "part_f1": 0.696,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 1.0,
+  "severity_matches": 8,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3932.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "front_left_fender",
+    "headlight_left",
+    "washer_system"
+  ],
+  "extra_parts": [
+    "cooling_system",
+    "fog_light",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2017_DODGE_Durango_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

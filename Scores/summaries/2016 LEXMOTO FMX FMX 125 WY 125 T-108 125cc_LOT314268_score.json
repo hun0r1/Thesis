@@ -1,0 +1,32 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 1.0,
+  "part_f1": 1.0,
+  "gt_part_count": 5,
+  "ai_part_count": 5,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 420.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "front_left_fender",
+    "ignition_system",
+    "mirror_left",
+    "mirror_right"
+  ],
+  "missed_parts": [],
+  "extra_parts": [],
+  "vehicle_id": "2016 LEXMOTO FMX FMX 125 WY 125 T-108 125cc_LOT314268",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

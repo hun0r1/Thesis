@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_CHEVROLET_Equinox_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and the overall severity, but made critical errors regarding airbag deployment and structural frame damage, provided largely inaccurate cost estimates, and missed several key components."
+}

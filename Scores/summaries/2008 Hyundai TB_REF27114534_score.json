@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.727,
+  "part_recall": 0.889,
+  "part_f1": 0.8,
+  "gt_part_count": 9,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.875,
+  "severity_matches": 7,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2863.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "fog_light",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "frame_rail",
+    "suspension"
+  ],
+  "vehicle_id": "2008 Hyundai TB_REF27114534",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

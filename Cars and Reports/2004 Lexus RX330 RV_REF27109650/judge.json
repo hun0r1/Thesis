@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Lexus RX330 RV_REF27109650",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several parts and their repair actions, but missed some key damaged components, showed significant discrepancies in overall and part-level severities, and made unsupported claims for airbag deployment and cost estimations."
+}

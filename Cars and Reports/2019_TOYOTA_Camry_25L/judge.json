@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified repair actions for most matched parts and structural damage severity, but it significantly misrepresented 'engine' damage, omitted key structural and electrical components, consistently overestimated individual part severities, and included an improbable extra damage claim (rear bumper) for a front-end collision."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Malibu_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some damaged parts, their severities, and repair actions, but it missed one key part, incorrectly specified the side for two other parts, misidentified the repair action for two parts, and made a significant error in the overall severity assessment."
+}

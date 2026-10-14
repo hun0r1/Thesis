@@ -1,0 +1,341 @@
+{
+  "vehicle_id": "2015_INFINITI_Q50_37L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1040651377-2015-infiniti-q50",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "INFINITI",
+    "model": "Q50",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "3.7L V6 (VQ37VHR)",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Vehicle shows extensive dismantling of front, rear, and interior components, consistent with stripping post-theft.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "severe",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "front_bumper_assembly",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "engine_assembly",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 4000.0
+      },
+      {
+        "part": "transmission",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250.0
+      },
+      {
+        "part": "front_left_suspension_assembly",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "front_right_suspension_assembly",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "front_left_wheel",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_right_wheel",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "front_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "rear_left_door",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "rear_right_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "rear_bumper_assembly",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "rear_left_tail_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "rear_right_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1500.0
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "front_left_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "front_right_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "rear_seat_assembly",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "airbag_modules_and_sensors",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250.0
+      },
+      {
+        "part": "wiring_harness",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1500.0
+      },
+      {
+        "part": "battery",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "exhaust_system",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "front_frame_rail_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "front_frame_rail_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "rear_right_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 24500.0,
+    "market_value_pre_accident": 20000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 10,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

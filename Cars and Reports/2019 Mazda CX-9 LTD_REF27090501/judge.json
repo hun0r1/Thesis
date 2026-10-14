@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019 Mazda CX-9 LTD_REF27090501",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many damaged parts but missing several specific parts and repair actions from the ground truth, while also showing some inaccuracies in part severities and overall severity assessment."
+}

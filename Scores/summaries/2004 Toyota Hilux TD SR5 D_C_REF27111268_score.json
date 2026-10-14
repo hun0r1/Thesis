@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.812,
+  "part_recall": 0.867,
+  "part_f1": 0.839,
+  "gt_part_count": 15,
+  "ai_part_count": 16,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.5,
+  "severity_matches": 6,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_fender",
+    "hood",
+    "rear_bumper",
+    "rear_right_door",
+    "roof",
+    "tailgate",
+    "taillight_left",
+    "taillight_right",
+    "wheel_rear_right",
+    "windshield"
+  ],
+  "missed_parts": [
+    "wheel_rear_left",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "interior_trim",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel"
+  ],
+  "vehicle_id": "2004 Toyota Hilux TD SR5 D_C_REF27111268",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

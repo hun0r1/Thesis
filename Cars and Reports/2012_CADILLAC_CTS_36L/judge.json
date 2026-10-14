@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_CADILLAC_CTS_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted total loss but showed significant discrepancies in estimated repair costs, missed a key damage item, and provided partially incorrect severity and repair action details for other components."
+}

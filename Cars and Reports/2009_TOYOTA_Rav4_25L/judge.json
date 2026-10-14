@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_TOYOTA_Rav4_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report provided a mostly accurate assessment, correctly identifying most parts, repair actions, overall severity, and total loss, despite some inaccuracies in individual part severities, the total estimated repair cost, and the structural frame assessment."
+}

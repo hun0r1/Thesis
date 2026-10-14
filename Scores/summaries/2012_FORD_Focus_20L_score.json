@@ -1,0 +1,35 @@
+{
+  "score_parts": 2,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.429,
+  "part_f1": 0.6,
+  "gt_part_count": 7,
+  "ai_part_count": 3,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 650.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_left_door",
+    "mirror_left",
+    "rear_left_door"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "rear_bumper"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2012_FORD_Focus_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

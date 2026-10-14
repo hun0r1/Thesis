@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 BMW 3 SERIES 335D XDRIVE M SPORT 2,993cc_LOT314299",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some damaged parts and their repair actions/severities but missed several key parts present in the ground truth and misclassified the overall severity of the damage."
+}

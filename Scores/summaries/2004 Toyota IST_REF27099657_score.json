@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.786,
+  "part_recall": 0.733,
+  "part_f1": 0.759,
+  "gt_part_count": 15,
+  "ai_part_count": 14,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.636,
+  "severity_matches": 7,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2725.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "roof",
+    "trunk_lid",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "cowl_panel",
+    "engine",
+    "front_left_door",
+    "grille"
+  ],
+  "extra_parts": [
+    "headlight_right",
+    "rear_right_quarter_panel",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2004 Toyota IST_REF27099657",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

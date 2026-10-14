@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_INFINITI_Qx50_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, identifying many key damaged parts and their repair actions, but it significantly overestimates severity and repair costs, includes numerous unsubstantiated additional damaged parts (including a directly contradicted passenger airbag deployment), and incorrectly predicts a total loss."
+}

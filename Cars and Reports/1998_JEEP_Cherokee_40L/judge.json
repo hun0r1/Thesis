@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1998_JEEP_Cherokee_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified repair actions for most noted parts but missed a significant number of damaged components and misstated the severity of the vehicle's structural frame."
+}

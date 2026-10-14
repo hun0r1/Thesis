@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019 Mahindra Pikup S6_REF27083051",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report demonstrates good accuracy for overall severity and total loss prediction, along with most part-specific severities and repair actions, but exhibits significant omissions in identified parts and a notable discrepancy in the total estimated repair cost."
+}

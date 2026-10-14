@@ -1,0 +1,222 @@
+{
+  "vehicle_id": "2021 Ford Ranger Wildtrak_REF27097324",
+  "source": {
+    "origin": "direct",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/ford/ranger/27097324",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Ford",
+    "model": "Ranger Wildtrak",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "MPBUMFF60MX319504",
+    "usage_history": "unknown",
+    "odometer_km": 90847.3,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_right",
+    "description": "Vehicle sustained heavy front right impact with various dents, scuffs, scratches, and missing engine parts, along with coolant leaking.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 450.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "intercooler",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "cooling_fan",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "windshield_washer_reservoir",
+        "location": "front_right",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "suspension_components",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "wheel",
+        "location": "front_right",
+        "category": "other",
+        "severity": "inspect",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "structural",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 575.0
+      },
+      {
+        "part": "engine_components",
+        "location": "engine",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "front_bumper_beam",
+        "location": "front",
+        "category": "safety",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "underbody_shield",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 113.0
+      },
+      {
+        "part": "left_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "right_rear_taillight",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 5488.0,
+    "market_value_pre_accident": 40000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 29,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

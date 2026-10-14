@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction, but made significant errors in listing specific damaged parts, their severities, repair actions, and most critically, provided a completely incorrect estimated repair cost."
+}

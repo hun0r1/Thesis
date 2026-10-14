@@ -1,0 +1,133 @@
+{
+  "vehicle_id": "2017_GMC_Acadia_36L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1098558412-2017-gmc-acadia",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Acadia",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "3.6L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained damage to the front left bumper and headlight area, and significant damage to the entire rear section with missing bumper and crumpled rear left quarter panel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_cover",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "rear_bumper_cover",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "rear_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1250
+      },
+      {
+        "part": "rear_body_structure",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "exhaust_system",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "driver_seat_upholstery",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3725,
+    "market_value_pre_accident": 20000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

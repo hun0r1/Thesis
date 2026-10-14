@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "Citroën_Grand_C4_Spacetourer_15_BlueHDi_130_SS_EAT8_Feel_5d__ID6796799",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6796799",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2021,
+    "make": "Citroën",
+    "model": "Grand C4 Spacetourer",
+    "generation": null,
+    "body_style": "van",
+    "engine": "1.5 BlueHDi 130",
+    "drivetrain": "front_wheel_drive",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Belgium",
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "unknown",
+    "description": "Vehicle has severe mechanical issues with broken camshaft chain and rocker arms, along with minor body scuffs and displaced interior components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "engine",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 4000
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "interior_trim_panels",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "interior_upholstery",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 50
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 4675,
+    "market_value_pre_accident": 22000,
+    "insurer_total_loss": true,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "unknown",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 34,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

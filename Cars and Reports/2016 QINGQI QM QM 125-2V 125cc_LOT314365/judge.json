@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 QINGQI QM QM 125-2V 125cc_LOT314365",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report performed excellently on overall economic assessments, with minor omissions in the list of damaged parts, some inaccuracies in part-level severity, and a few differences in repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_JEEP_Wrangler_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 5,
+    "repair_action": 2,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified the overall severity and predicted total loss, but it largely misidentified the specific damaged parts and their corresponding repair actions, which resulted in a notably incorrect estimated repair cost."
+}

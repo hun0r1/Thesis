@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "BMW_X1_sDrive18d_110_kW_5d_Damaged_car_ENKEL_IB_I_en_COC_bes_ID6796800",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified the overall severity and most individual part severities and repair actions, but missed some damage parts, had partially incorrect locations/part names, and included several unconfirmed parts not present in the ground truth."
+}

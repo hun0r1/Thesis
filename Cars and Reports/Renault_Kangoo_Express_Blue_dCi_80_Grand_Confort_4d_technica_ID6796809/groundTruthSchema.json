@@ -1,0 +1,174 @@
+{
+  "vehicle_id": "Renault_Kangoo_Express_Blue_dCi_80_Grand_Confort_4d_technica_ID6796809",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6796809",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2020,
+    "make": "Renault",
+    "model": "Kangoo Express",
+    "generation": null,
+    "body_style": "van",
+    "engine": "1.5L dCi 80 Diesel, 59kW",
+    "drivetrain": "unknown",
+    "vin": "VF1NF000865831359",
+    "usage_history": "fleet",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Belgium",
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "unknown",
+    "description": "Minor cosmetic scrapes on various body parts and wheels. The vehicle has critical mechanical issues including a faulty crankshaft and sleepring, a defective windshield washer system, non-functional brake lights, and a warning for the safety restraint system; it does not start or drive.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "windshield_washer_system",
+        "location": "front",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "brake_lights",
+        "location": "rear",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "safety_restraint_system_warning",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "side_mirror_casing",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "wheel_cap",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "wheel_cap",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "wheel_cap",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "wheel_cap",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "drivers_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "rear_door_interior_panel",
+        "location": "rear_right",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 780,
+    "market_value_pre_accident": 13000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "unknown",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 50,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_SUBARU_Forester_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many damaged parts and their repair actions, yet it incorrectly states the passenger airbag deployment status and significantly differs on the overall severity, while also omitting key parts such as the engine."
+}

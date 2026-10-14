@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "2003_HONDA_Accord_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1058552797-2003-honda-accord",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2003,
+    "make": "HONDA",
+    "model": "Accord",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "i-VTEC",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Vehicle shows general wear and tear, heavily oxidized headlights, a flat front-left tire, and missing or heavily damaged front-left and rear-left door glass.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "headlight_assembly",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "front_door_glass",
+        "location": "front_left",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "rear_door_glass",
+        "location": "rear_left",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 125
+      },
+      {
+        "part": "tire",
+        "location": "front_left",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 60
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 635,
+    "market_value_pre_accident": 2500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": null
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

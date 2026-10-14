@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1998 HONDA VTR VTR 1000 F FIRESTORM 996cc_LOT314126",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed a significant number of damaged parts, provided a largely incorrect overall severity and estimated repair cost, although it was partially correct for the repair actions and severities of the parts it did identify."
+}

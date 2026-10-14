@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_Fusion_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified several top-level labels and airbag deployment, but exhibited significant inaccuracies in structural frame damage, missed numerous damaged parts, and provided incorrect severity and repair actions for many identified components, leading to an understated estimated repair cost."
+}

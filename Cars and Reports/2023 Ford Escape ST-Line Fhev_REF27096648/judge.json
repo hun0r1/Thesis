@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023 Ford Escape ST-Line Fhev_REF27096648",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately identifies most damaged parts and their repair actions, along with correct airbag deployment and structural damage assessments, but omits one part and contains several severity mismatches, including a significant difference in the overall severity label."
+}

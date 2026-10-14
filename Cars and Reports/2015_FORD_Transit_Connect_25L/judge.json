@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_Transit_Connect_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified airbag deployment and the overall damage category and severity, and provided correct repair actions for the parts it listed, but it missed several key damaged parts, misidentified some structural and part severities, and all cost estimates, both individual and total, were incorrect."
+}

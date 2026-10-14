@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_CHRYSLER_Pacifica_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to significant omissions of key damaged parts, including the engine, radiator, and cooling fan, and incorrect identification of other parts' locations, leading to a misclassification of overall severity and numerous inaccuracies in part-specific severities and repair actions."
+}

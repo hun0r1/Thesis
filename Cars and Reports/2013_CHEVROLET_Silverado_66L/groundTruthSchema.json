@@ -1,0 +1,158 @@
+{
+  "vehicle_id": "2013_CHEVROLET_Silverado_66L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1068553100-2013-chevrolet-silverado",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2013,
+    "make": "CHEVROLET",
+    "model": "Silverado",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": "6.6L Diesel",
+    "drivetrain": null,
+    "vin": "1GC0KVC87DF167001",
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front_left",
+    "description": "The vehicle sustained significant damage to the front-left portion, including the bumper, fender, and suspension components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "left_front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 425.0
+      },
+      {
+        "part": "left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "left_front_wheel",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "left_front_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "radiator_core_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "frame_member",
+        "location": "front_left",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "exhaust_pipe",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "interior_trim",
+        "location": "interior",
+        "category": "interior",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 4625.0,
+    "market_value_pre_accident": 30000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

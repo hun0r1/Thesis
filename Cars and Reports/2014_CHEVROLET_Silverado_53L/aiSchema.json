@@ -1,0 +1,125 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Silverado_53L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1051650356-2014-chevrolet-silverado",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "CHEVROLET",
+    "model": "Silverado 5.3L",
+    "generation": null,
+    "body_style": "pickup",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "left_side",
+    "description": "The vehicle sustained heavy damage to the left side, affecting the front and rear doors, the left running board, and the left rear fender/bed side. The left rear tire is flat.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "moderate",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "left_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "left_rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "left_running_board",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "left_rear_fender",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "left_rear_wheel",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_bumper_cover",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "b_pillar_left",
+        "location": "left_side",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1000
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 4475,
+    "market_value_pre_accident": 22000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

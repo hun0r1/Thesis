@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2000_GMC_Sierra_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most parts and their repair actions, and correctly predicted no total loss, but made an error in the location of one fender, provided an extra part, significantly misjudged the overall severity, and estimated repair costs with a notable discrepancy."
+}

@@ -1,0 +1,38 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.4,
+  "part_recall": 0.333,
+  "part_f1": 0.364,
+  "gt_part_count": 6,
+  "ai_part_count": 5,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "radiator_support"
+  ],
+  "extra_parts": [
+    "front_left_fender",
+    "grille",
+    "headlight_left"
+  ],
+  "vehicle_id": "2013_TOYOTA_Camry_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

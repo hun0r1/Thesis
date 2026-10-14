@@ -1,0 +1,39 @@
+{
+  "score_parts": 2,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.8,
+  "part_recall": 0.444,
+  "part_f1": 0.571,
+  "gt_part_count": 9,
+  "ai_part_count": 5,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.25,
+  "severity_matches": 1,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "seat",
+    "windshield"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "engine",
+    "paint",
+    "tire",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "rear_window"
+  ],
+  "vehicle_id": "1981_PORSCHE_928_45L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

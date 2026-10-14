@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_FORD_F-250_60L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall total loss status and provided a reasonably accurate repair cost estimate, but showed inconsistencies in part identification, individual part severities, and recommended repair actions, including one missed part and one unsupported part."
+}

@@ -1,0 +1,189 @@
+{
+  "vehicle_id": "2011 Toyota Vitz_REF27029478",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/toyota/vitz/27029478",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Vitz",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained damage to the front bonnet, bumper, front left wheel, front right light, panel, and wheel, along with damage to the rear right door and wheel. Ignition is also damaged, and the vehicle does not start.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "ignition",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 225.0
+      },
+      {
+        "part": "front_left_wheel_and_tire",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_right_wheel_and_tire",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "rear_right_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "rear_right_wheel_and_tire",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_left_door_glass",
+        "location": "front_left",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "interior_trim",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "engine_systems_check",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "unknown",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "steering_column_cover",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2175.0,
+    "market_value_pre_accident": 6500.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 20,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022 LEXMOTO LXS LXS TR125 GP2 E5 125cc_LOT314293",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI provided an accurate overall severity and most repair actions, but significantly misidentified the structural frame damage, a specific body part (`body_paint` vs `body_panel`), and the locations and severities of several other components."
+}

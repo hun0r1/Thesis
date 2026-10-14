@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_KIA_Sedona_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output was mostly incorrect, missing several identified parts, incorrectly classifying overall and individual part severities, and largely misidentifying repair actions."
+}

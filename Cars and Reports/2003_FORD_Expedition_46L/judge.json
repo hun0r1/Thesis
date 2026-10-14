@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_FORD_Expedition_46L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output is mostly incorrect, missing several key damaged parts and their repair actions, incorrectly assessing structural damage severity, and misidentifying damage locations, though it correctly identified the overall severity."
+}

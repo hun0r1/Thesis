@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_HYUNDAI_Santa_FE_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified many damaged parts and their repair actions, but it missed several key parts from the ground truth and incorrectly added multiple extra parts; additionally, it significantly misjudged the overall severity and several individual part severities."
+}

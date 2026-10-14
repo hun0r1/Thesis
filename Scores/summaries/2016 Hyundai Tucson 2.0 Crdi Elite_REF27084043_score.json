@@ -1,0 +1,51 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.789,
+  "part_recall": 0.833,
+  "part_f1": 0.811,
+  "gt_part_count": 18,
+  "ai_part_count": 19,
+  "matched_part_count": 15,
+  "severity_match_rate": 0.643,
+  "severity_matches": 9,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": 4275.0,
+  "ai_estimated_repair_cost": 4750.0,
+  "cost_abs_error": 475.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "rear_bumper",
+    "rear_left_door",
+    "seat",
+    "suspension",
+    "underbody_cover",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "other",
+    "radiator_support",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "intercooler",
+    "paint",
+    "tire",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2016 Hyundai Tucson 2.0 Crdi Elite_REF27084043",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

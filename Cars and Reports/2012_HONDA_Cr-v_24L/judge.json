@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately reported overall damage severity, airbag deployment, structural damage, and correctly assessed most of the identified parts' severities and repair actions, but it omitted several key damaged parts present in the ground truth report."
+}

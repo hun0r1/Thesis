@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010 VOLKSWAGEN GOLF MATCH TDI BLUEMOTION TECHNOLOGY 1,598cc_LOT314332",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified high-level damage details like overall severity, structural integrity, and drivability, but missed a significant number of specific damaged parts and their associated details, and showed multiple inaccuracies in recommended repair actions for the identified parts."
+}

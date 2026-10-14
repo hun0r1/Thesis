@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_KIA_K5_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their repair actions but notably missed critical components like the engine and misjudged the overall severity from severe to moderate."
+}

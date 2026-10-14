@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.385,
+  "part_recall": 0.556,
+  "part_f1": 0.455,
+  "gt_part_count": 9,
+  "ai_part_count": 13,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "fog_light",
+    "radiator_support",
+    "suspension"
+  ],
+  "extra_parts": [
+    "control_arm",
+    "driveshaft",
+    "grille",
+    "mirror_left",
+    "steering",
+    "strut",
+    "subframe",
+    "tire"
+  ],
+  "vehicle_id": "2007_ACURA_MDX_37L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

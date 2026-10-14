@@ -1,0 +1,133 @@
+{
+  "vehicle_id": "2005_HONDA_Accord_24L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1068558046-2005-honda-accord",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2005,
+    "make": "HONDA",
+    "model": "Accord",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "2.4L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Multiple minor scuffs and scratches on body panels and bumpers consistent with general wear and tear or minor incidents. Vehicle reported as a theft loss.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "rocker_panel",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rocker_panel",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1250,
+    "market_value_pre_accident": 3500,
+    "insurer_total_loss": false,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 11,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

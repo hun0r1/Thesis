@@ -1,0 +1,36 @@
+{
+  "score_parts": 1,
+  "score_severity": null,
+  "score_cost": null,
+  "score_overall": 1,
+  "part_precision": 0.0,
+  "part_recall": 0.0,
+  "part_f1": 0.0,
+  "gt_part_count": 2,
+  "ai_part_count": 6,
+  "matched_part_count": 0,
+  "severity_match_rate": null,
+  "severity_matches": 0,
+  "severity_total_compared": 0,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2475.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [],
+  "missed_parts": [
+    "engine",
+    "other"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_side",
+    "front_left_door",
+    "seat_belt"
+  ],
+  "vehicle_id": "2017_FORD_F-150_27L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

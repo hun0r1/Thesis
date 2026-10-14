@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025 Honda HR-V HR-V Sport_REF27106616",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and many repair actions, but included numerous unsupported claims, provided incorrect overall severity and estimated repair cost, and made a completely incorrect total loss prediction."
+}

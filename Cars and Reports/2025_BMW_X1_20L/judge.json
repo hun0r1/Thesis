@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_BMW_X1_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth parts with minor naming variations but included several additional items, and while most repair actions were correct, it had notable discrepancies in overall and some individual part severities."
+}

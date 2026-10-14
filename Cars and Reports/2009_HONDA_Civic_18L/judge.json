@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_HONDA_Civic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and some individual part details but significantly omitted several damaged parts, leading to an inaccurate overall severity and many incorrect repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_FORD_Explorer_Sport_Trac_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss status, but it missed one damaged part, included an unsupported part, had inconsistent part-specific repair actions and severities, and significantly miscalculated the estimated repair cost."
+}

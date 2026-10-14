@@ -1,0 +1,53 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.722,
+  "part_recall": 0.684,
+  "part_f1": 0.703,
+  "gt_part_count": 19,
+  "ai_part_count": 18,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.846,
+  "severity_matches": 11,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": 8000.0,
+  "ai_estimated_repair_cost": 10750.0,
+  "cost_abs_error": 2750.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "rear_bumper",
+    "rear_window",
+    "roof",
+    "suspension",
+    "tailgate",
+    "windshield"
+  ],
+  "missed_parts": [
+    "front_right_door",
+    "front_right_fender",
+    "headlight_right",
+    "rear_left_door",
+    "rear_right_door",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "body_panel",
+    "interior_trim",
+    "mirror_left",
+    "subframe",
+    "taillight_left"
+  ],
+  "vehicle_id": "2008 Toyota Wish_REF27110440",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

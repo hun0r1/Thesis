@@ -1,0 +1,101 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Impala_36L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1009555502-2014-chevrolet-impala",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "CHEVROLET",
+    "model": "Impala",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "3.6L V6 VVT",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Minor scuffs and scrapes on the front lower bumper fascia and a flat left front tire.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_fascia",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_tire",
+        "location": "front_left",
+        "category": "other",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "remote_key",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 300.0,
+    "market_value_pre_accident": 10000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

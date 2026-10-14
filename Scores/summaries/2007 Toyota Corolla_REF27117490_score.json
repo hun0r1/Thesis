@@ -1,0 +1,52 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 0.632,
+  "part_f1": 0.686,
+  "gt_part_count": 19,
+  "ai_part_count": 16,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.833,
+  "severity_matches": 10,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3250.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "license_plate",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "subframe",
+    "suspension",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "crossmember",
+    "rear_right_quarter_panel",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "2007 Toyota Corolla_REF27117490",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

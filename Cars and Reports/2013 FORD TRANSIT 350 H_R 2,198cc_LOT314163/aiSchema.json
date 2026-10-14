@@ -1,0 +1,165 @@
+{
+  "vehicle_id": "2013 FORD TRANSIT 350 H_R 2,198cc_LOT314163",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "RAW2K",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2013-ford-transit-350-hr-314163",
+    "language": "english",
+    "reported_at": "2021-10-28T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2013,
+    "make": "Ford",
+    "model": "Transit 350 H/R",
+    "generation": null,
+    "body_style": "van",
+    "engine": "2,198cc Diesel",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2021-10-28",
+    "location": {
+      "country": "UK",
+      "city": "Preston"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "The vehicle exhibits widespread body damage including dents, rust, and general wear and tear on multiple panels, sills, and the roof, alongside a damaged wing mirror and a deadlocked door, consistent with a Category S structural loss.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "moderate"
+    },
+    "parts": [
+      {
+        "part": "nears_side_sill",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "off_side_sill",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "nears_side_wing_mirror",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "nears_side_front_passenger_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "nears_side_sliding_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_left_door",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_right_door",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "off_side_rear_quarter_panel",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "off_side_rear_wheel_arch",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "roof_panel",
+        "location": "roof",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2300,
+    "market_value_pre_accident": 8000,
+    "insurer_total_loss": true,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

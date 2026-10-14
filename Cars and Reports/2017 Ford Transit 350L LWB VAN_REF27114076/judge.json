@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Ford Transit 350L LWB VAN_REF27114076",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying several damaged parts, their repair actions, and overall severity, but it misses several key damaged parts, incorrectly specifies repair actions or severities for others, and introduces some extra details not supported by the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_Mustang_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately predicted the overall repair cost and total loss status, and most repair actions were correct for identified parts, but it missed several key damaged components and incorrectly reported structural frame severity and front passenger airbag deployment."
+}

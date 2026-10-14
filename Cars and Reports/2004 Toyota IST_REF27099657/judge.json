@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Toyota IST_REF27099657",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts, repair actions, and severities, with several omissions and inaccuracies for individual components, though the overall severity matched."
+}

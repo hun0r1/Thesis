@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_HONDA_Accord_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and their repair actions, but significantly missed several key components like the engine, resulted in an incorrect overall severity assessment, and contained inaccuracies in structural damage and some specific repair actions."
+}

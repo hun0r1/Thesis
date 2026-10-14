@@ -1,0 +1,230 @@
+{
+  "vehicle_id": "2017 SYM SYMPHONY SYMPHONY 125 SR E4 125cc_LOT314276",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2017-sym-symphony-symphony-125-sr-e4-314276?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D6",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "SYM",
+    "model": "SYMPHONY SYMPHONY 125 SR E4",
+    "generation": null,
+    "body_style": "other",
+    "engine": "Petrol",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Vehicle exhibits general wear and tear, major and minor scratches, dents, cracks, and paint damage to the bodywork, with damaged handlebars, a missing seat, loose wires, no power, and seized brakes causing the wheels not to move.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "handlebars",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windscreen",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "right_mirror",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_mudguard",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fairing_upper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fairing_lower",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_side_fairing",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace_repair_repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "right_side_fairing",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace_repair_repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_rack",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_taillight",
+        "location": "rear",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "exhaust_cover",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "engine_powertrain",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "brakes",
+        "location": "front",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "repair_replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_wheel",
+        "location": "front",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_wheel",
+        "location": "rear",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "electrical_wiring",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "battery",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "footboard_footwell",
+        "location": "interior",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_repaint",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fork",
+        "location": "front",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 19,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

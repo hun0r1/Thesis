@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 Mitsubishi Outlander_REF27056391",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified overall severity, structural damage, most individual part severities, and repair actions, and correctly predicted total loss. However, it significantly underestimated the total repair cost and omitted several key structural components from its detailed parts list."
+}

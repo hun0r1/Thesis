@@ -1,0 +1,48 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 0.8,
+  "part_f1": 0.774,
+  "gt_part_count": 15,
+  "ai_part_count": 16,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.583,
+  "severity_matches": 7,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4525.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "subframe",
+    "tire",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_right_fender",
+    "suspension"
+  ],
+  "extra_parts": [
+    "control_arm",
+    "frame_rail",
+    "rear_right_quarter_panel",
+    "strut"
+  ],
+  "vehicle_id": "2019_FORD_Escape_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

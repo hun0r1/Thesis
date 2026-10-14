@@ -1,0 +1,174 @@
+{
+  "vehicle_id": "2017_FORD_Fusion_15L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1088551426-2017-ford-fusion",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "FORD",
+    "model": "Fusion",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "3FA6P0HD1HR309068",
+    "usage_history": "unknown",
+    "odometer_km": 158979,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "left_side",
+    "description": "Vehicle sustained severe side impact damage to the front left fender, A-pillar, and driver's door, leading to airbag deployment and structural deformation.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": false,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "severe",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "left_headlight_assembly",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "left_front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 475
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "front_left_wheel_and_tire",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "front_left_suspension_components",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "a_pillar",
+        "location": "left_side",
+        "category": "structural",
+        "severity": "severe",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1250
+      },
+      {
+        "part": "driver_side_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 750
+      },
+      {
+        "part": "driver_side_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "driver_side_front_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "left_side_curtain_airbag",
+        "location": "interior",
+        "category": "safety",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "radiator_support",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "dashboard_assembly",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 350
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 5775,
+    "market_value_pre_accident": 15000,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 17,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

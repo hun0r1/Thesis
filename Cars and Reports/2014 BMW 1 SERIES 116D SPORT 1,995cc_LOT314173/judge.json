@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 BMW 1 SERIES 116D SPORT 1,995cc_LOT314173",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts and the overall severity, but missed a crucial safety component and frequently misinterpreted part-specific severity and repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_PORSCHE_Boxster_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall total loss status and some common parts, but missed a crucial cooling system component, provided differing severities and repair actions for other listed parts, and significantly overestimated the total repair cost."
+}

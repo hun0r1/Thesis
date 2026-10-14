@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_CHEVROLET_Impala_39L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the vehicle as a total loss, but presented several inaccuracies in the identified damaged parts, their severities, recommended repair actions, and the overall estimated repair cost."
+}

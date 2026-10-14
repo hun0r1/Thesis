@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HYUNDAI_Azera_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and repair actions with a reasonably accurate cost estimate, but it failed to correctly assess the overall severity and incorrectly predicted the vehicle was not a total loss."
+}

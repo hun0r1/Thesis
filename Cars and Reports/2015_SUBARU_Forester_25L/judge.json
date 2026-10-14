@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_SUBARU_Forester_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The report accurately identified overall severity, total loss prediction, and airbags, but omitted two key damaged parts, misidentified repair actions for several parts, and included additional parts not supported by the ground truth."
+}

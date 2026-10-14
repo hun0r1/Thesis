@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_JEEP_Cherokee_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly assessed airbag deployment and predicted total loss, but inaccurately identified structural frame damage, missed several key damaged parts, incorrectly assessed repair actions and severities for multiple components, and significantly underestimated the overall severity and total repair cost."
+}

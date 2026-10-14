@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_SUBARU_Impreza_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts (12/18 GT parts matched, 6 missed) and introduced several erroneous/hallucinated parts (9 extra, including non-existent left-side damage), while showing some accuracy in repair actions (75% correct for matched parts) and overall severity, but crucially made significant errors in airbag deployment status and structural frame severity."
+}

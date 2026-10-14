@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 BMW 1 SERIES 118D ES 1,995cc_LOT314336",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report contained numerous inaccuracies regarding part identification and location, misjudged many repair actions, significantly underestimated the total repair cost, and incorrectly predicted the vehicle was not a total loss."
+}

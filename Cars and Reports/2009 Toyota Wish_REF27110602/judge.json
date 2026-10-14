@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009 Toyota Wish_REF27110602",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially aligns with the ground truth, correctly identifying most parts and some severities, but it omits several damaged parts, has multiple repair action discrepancies, and inaccurately classifies the overall severity as \"total_loss\" instead of \"severe\"."
+}

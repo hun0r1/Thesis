@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 Ford Territory Titanium_REF27097640",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many parts and their repair actions, but it includes several incorrect claims where the ground truth specified 'unknown' or 'none' for severity and structural details, and it significantly generalized or omitted some specific parts."
+}

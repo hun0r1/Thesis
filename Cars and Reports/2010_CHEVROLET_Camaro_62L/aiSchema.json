@@ -1,0 +1,141 @@
+{
+  "vehicle_id": "2010_CHEVROLET_Camaro_62L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "SCA",
+    "url": "https://sca.auction/en/1061651611-2010-chevrolet-camaro",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2010,
+    "make": "CHEVROLET",
+    "model": "Camaro",
+    "generation": null,
+    "body_style": "coupe",
+    "engine": "6.2L",
+    "drivetrain": "unknown",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained water damage, potentially affecting various systems and components.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "interior_electrical_system",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1250
+      },
+      {
+        "part": "interior_upholstery_and_carpeting",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1750
+      },
+      {
+        "part": "body_control_module",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 700
+      },
+      {
+        "part": "engine_control_unit",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "transmission_control_unit",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 700
+      },
+      {
+        "part": "wiring_harness",
+        "location": "multiple",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 2000
+      },
+      {
+        "part": "instrument_cluster",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "audio_system",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "air_intake_system",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 8500,
+    "market_value_pre_accident": 22000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "other",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 12,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 FORD FIESTA ST 1,596cc_LOT314359",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss prediction, along with most repair actions and part severities for the identified damage, but it missed two damaged parts from the ground truth, included two additional unsubstantiated parts, and had a minor discrepancy in the total estimated repair cost."
+}

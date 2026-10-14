@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 BMW X5_REF27106745",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many individual parts and their repair actions, but missed some specific parts and components, added several unsupported parts, and incorrectly assessed overall severity and structural frame damage."
+}

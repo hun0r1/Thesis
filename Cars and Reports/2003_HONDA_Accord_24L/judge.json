@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 1,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed critical damaged parts like the engine and airbag control unit, leading to a fundamentally incorrect overall severity assessment from 'severe' to 'mild', despite accurately identifying repair actions for some of the common parts it did find."
+}

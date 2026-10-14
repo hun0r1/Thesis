@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 NISSAN TERRANO II SE TD 2,664cc_LOT314210",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identifies damaged parts and repair actions with several inaccuracies and omissions, significantly misrepresents overall severity and multiple specific part severities, but correctly reflects the null status for total loss."
+}

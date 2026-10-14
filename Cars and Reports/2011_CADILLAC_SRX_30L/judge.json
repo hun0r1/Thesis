@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_CADILLAC_SRX_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most of the rear body damage and associated repair actions but critically missed severe engine damage and inaccurately assessed the overall severity as moderate instead of severe."
+}

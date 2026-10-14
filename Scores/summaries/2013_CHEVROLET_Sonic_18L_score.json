@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.727,
+  "part_f1": 0.696,
+  "gt_part_count": 11,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "mirror_left",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_left_door",
+    "suspension"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "headlight_left",
+    "radiator",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2013_CHEVROLET_Sonic_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

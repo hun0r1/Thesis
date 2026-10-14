@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Toyota Hilux TD SR5 DCU_REF27085280",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI provided an incomplete list of damaged parts with several key omissions, many inaccuracies in part-specific severities and repair actions, and an incorrect overall severity, although structural damage and airbag deployment were correctly identified."
+}

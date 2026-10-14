@@ -1,0 +1,150 @@
+{
+  "vehicle_id": "1999 YAMAHA TW TW 125 124cc_LOT314128",
+  "source": {
+    "origin": "other",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/1999-yamaha-tw-tw-125-314128",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 1999,
+    "make": "YAMAHA",
+    "model": "TW TW 125 124cc",
+    "generation": null,
+    "body_style": "other",
+    "engine": "124cc Petrol",
+    "drivetrain": "Manual",
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": 12467,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Scotland",
+      "city": "Falkirk"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "General wear and tear, scuffs, and damage to plastics and lights observed across the vehicle.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "body_plastics",
+        "location": "multiple",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_mask",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_fender",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "fuel_tank_cover",
+        "location": "top",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "turn_signal_light",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "turn_signal_light",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "turn_signal_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "turn_signal_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "tail_light",
+        "location": "rear",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": null
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "low",
+    "images_used": 5,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

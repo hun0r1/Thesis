@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_NISSAN_Rogue_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified overall damage categories and total loss status, but missed several key parts from the ground truth and included multiple unverified parts, leading to inaccuracies in individual part severities, repair actions for some items, and a significantly incorrect estimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_TOYOTA_Scion_XA_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI's report accurately identified repair actions, overall severity, and airbag deployment, but showed significant discrepancies in detailed part identification, structural damage severity, and individual component severities."
+}

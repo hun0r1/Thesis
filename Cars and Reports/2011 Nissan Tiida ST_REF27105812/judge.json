@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 Nissan Tiida ST_REF27105812",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report demonstrated good accuracy for repair actions and correctly identified total loss, but exhibited significant omissions and additional claims for parts, notable discrepancies in severity assessments for several components, and a substantial deviation in the estimated repair cost."
+}

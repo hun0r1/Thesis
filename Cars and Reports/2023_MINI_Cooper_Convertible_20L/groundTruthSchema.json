@@ -1,0 +1,126 @@
+{
+  "vehicle_id": "2023_MINI_Cooper_Convertible_20L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1058559525-2023-mini-cooper_convertible",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2023,
+    "make": "MINI",
+    "model": "Cooper Convertible 2.0L",
+    "generation": null,
+    "body_style": "convertible",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "WMW43DL08P3P95204",
+    "usage_history": "unknown",
+    "odometer_km": 39937,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "rear_end",
+    "impact_zone": "rear",
+    "description": "Rear bumper, trunk lid, and surrounding components sustained impact damage from a collision.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper_fascia",
+        "location": "rear",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "rear_bumper_reinforcement",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "trunk_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350.0
+      },
+      {
+        "part": "rear_left_tail_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "rear_right_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "exhaust_system",
+        "location": "rear",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "parking_sensor",
+        "location": "rear",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1475.0,
+    "market_value_pre_accident": 40000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "rear_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

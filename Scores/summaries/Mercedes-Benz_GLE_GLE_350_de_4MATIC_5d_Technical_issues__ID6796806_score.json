@@ -1,0 +1,52 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.333,
+  "part_recall": 0.545,
+  "part_f1": 0.414,
+  "gt_part_count": 11,
+  "ai_part_count": 18,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6675.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "rear_bumper",
+    "roof",
+    "seat"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "taillight_left",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "front_right_door",
+    "front_right_fender",
+    "other",
+    "rear_left_door",
+    "rear_right_door",
+    "rocker_panel_right",
+    "taillight_right",
+    "trunk_lid",
+    "turbocharger",
+    "wheel_front_left",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "Mercedes-Benz_GLE_GLE_350_de_4MATIC_5d_Technical_issues__ID6796806",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

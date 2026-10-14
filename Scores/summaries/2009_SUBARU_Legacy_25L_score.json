@@ -1,0 +1,51 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.933,
+  "part_recall": 0.667,
+  "part_f1": 0.778,
+  "gt_part_count": 21,
+  "ai_part_count": 15,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.786,
+  "severity_matches": 11,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 8550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "radiator",
+    "suspension",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "cowl_panel",
+    "frame_rail",
+    "grille",
+    "radiator_support",
+    "steering",
+    "tire"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "2009_SUBARU_Legacy_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,158 @@
+{
+  "vehicle_id": "2007 MERCEDES VITO 111 CDI EXTRA LONG TRAVELINER LWB 2,148cc_LOT314222",
+  "source": {
+    "origin": "direct",
+    "publisher": "ASM Auto Recycling Ltd",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2007-mercedes-vito-111-cdi-extra-long-traveliner-lwb-314222?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D4",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2007,
+    "make": "Mercedes",
+    "model": "Vito",
+    "generation": null,
+    "body_style": "van",
+    "engine": "2.1L Diesel CDI",
+    "drivetrain": "unknown",
+    "vin": null,
+    "usage_history": "fleet",
+    "odometer_km": 700685,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Vehicle exhibits damage to the front bumper, front right headlight, rear right tail light, and multiple areas on the near side (left) including doors and rear quarter panel with evidence of attempted repairs; additionally, the roof paint is faded and the engine is reported as noisy with heavy white smoke.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 420
+      },
+      {
+        "part": "front_right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 380
+      },
+      {
+        "part": "roof",
+        "location": "roof",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 500
+      },
+      {
+        "part": "front_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 320
+      },
+      {
+        "part": "left_sliding_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "rear_left_quarter_panel",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 280
+      },
+      {
+        "part": "rear_right_tail_light",
+        "location": "rear_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "driver_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 3500
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": 4500,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 16,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Subaru Legacy I Sport_REF27109388",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report inaccurately identifies the primary damage location (right instead of left rear) and misses a substantial number of damaged parts, along with discrepancies in overall severity and structural floor pan assessment."
+}

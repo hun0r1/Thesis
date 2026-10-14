@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.583,
+  "part_f1": 0.636,
+  "gt_part_count": 12,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 8800.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "taillight_right",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "airbag_side",
+    "engine",
+    "rear_right_quarter_panel",
+    "suspension"
+  ],
+  "extra_parts": [
+    "rear_left_door",
+    "seat_belt",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2022_HONDA_Civic_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

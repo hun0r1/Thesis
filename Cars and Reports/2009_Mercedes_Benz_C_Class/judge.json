@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_Mercedes_Benz_C_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately assessed the overall damage category and severity, identifying most primary damaged parts with largely correct repair actions and severities, but it included some incorrect structural damage claims and missed two ground truth parts while adding one not present in the reference."
+}

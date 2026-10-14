@@ -1,0 +1,38 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.429,
+  "part_recall": 0.6,
+  "part_f1": 0.5,
+  "gt_part_count": 5,
+  "ai_part_count": 7,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.667,
+  "severity_matches": 2,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 825.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "rocker_panel_left"
+  ],
+  "extra_parts": [
+    "interior_trim",
+    "paint",
+    "tire",
+    "windshield"
+  ],
+  "vehicle_id": "2014_CHEVROLET_Express_43L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

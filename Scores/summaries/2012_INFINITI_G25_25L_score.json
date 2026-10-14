@@ -1,0 +1,38 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.3,
+  "part_f1": 0.462,
+  "gt_part_count": 10,
+  "ai_part_count": 3,
+  "matched_part_count": 3,
+  "severity_match_rate": 1.0,
+  "severity_matches": 3,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 825.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "headlight_left",
+    "rear_bumper",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "headlight_right",
+    "hood",
+    "other",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "seat",
+    "wheel_rim"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2012_INFINITI_G25_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_KIA_Sorento_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified several damaged parts and their respective severities and repair actions, but crucially missed the severe engine damage, falsely reported the overall severity as 'moderate' instead of 'total_loss', and made unsupported claims regarding structural damage and additional parts."
+}

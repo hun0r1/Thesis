@@ -1,0 +1,11 @@
+DB_PATH: D:\Hunor\EGYETEM\A3.felev\Allamvizsga+tesztek\AutokReportok\db\autokreportok_3tables.sqlite
+
+GT rows (flattened parts): 13296
+AI rows (flattened parts): 12755
+Judge rows: 1078
+
+Part-group mapping loaded: 2297 rows from D:\Hunor\EGYETEM\A3.felev\Allamvizsga+tesztek\AutokReportok\parts_mapping.csv
+
+Bad JSON files skipped (GT/AI): 0
+
+Bad judge files skipped: 0

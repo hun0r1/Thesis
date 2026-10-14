@@ -1,0 +1,51 @@
+{
+  "score_parts": 1,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.125,
+  "part_recall": 0.25,
+  "part_f1": 0.167,
+  "gt_part_count": 8,
+  "ai_part_count": 16,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 9050.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_fender",
+    "headlight_left",
+    "radiator_support",
+    "tire",
+    "windshield"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_passenger",
+    "airbag_side",
+    "dashboard",
+    "front_right_fender",
+    "headlight_right",
+    "hood",
+    "interior_trim",
+    "other",
+    "radiator",
+    "seat",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2021_JEEP_Cherokee_32L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

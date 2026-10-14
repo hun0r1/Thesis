@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 HONDA ANC ANC 125 H 125cc_LOT314282",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI output is mostly correct, accurately identifying most damaged parts and their repair actions and severities, with only minor omissions and a single severity mismatch, while costs and total loss could not be scored due to missing ground truth data."
+}

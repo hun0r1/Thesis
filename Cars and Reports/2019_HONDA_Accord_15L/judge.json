@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_HONDA_Accord_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several major body parts and the overall total loss status, but significantly missed five critical suspension and safety-related parts, and showed considerable inaccuracies in estimated repair costs, granular part severities, and some repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_HONDA_FIT_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified some damaged parts and their repair actions, but it missed critical components, provided an incorrect structural damage assessment, and inaccurately determined the overall severity of the damage."
+}

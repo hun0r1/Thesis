@@ -1,0 +1,51 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.65,
+  "part_recall": 0.867,
+  "part_f1": 0.743,
+  "gt_part_count": 15,
+  "ai_part_count": 20,
+  "matched_part_count": 13,
+  "severity_match_rate": 1.0,
+  "severity_matches": 13,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": 7450.0,
+  "ai_estimated_repair_cost": 10875.0,
+  "cost_abs_error": 3425.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "engine",
+    "exhaust_system",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "rear_body_panel",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "frame",
+    "front_right_fender",
+    "other",
+    "rear_left_quarter_panel",
+    "windshield"
+  ],
+  "vehicle_id": "2022_HONDA_Civic_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_FORD_Ranger_23L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction, but missed several key damaged parts, had inaccuracies in individual part severities and repair actions, and its estimated repair cost was significantly lower than the ground truth."
+}

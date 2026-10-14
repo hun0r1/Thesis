@@ -1,0 +1,102 @@
+{
+  "vehicle_id": "2014_DODGE_Grand_Caravan_36L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1098557136-2014-dodge-grand_caravan",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "DODGE",
+    "model": "Grand Caravan",
+    "generation": null,
+    "body_style": "van",
+    "engine": "3.6L",
+    "drivetrain": null,
+    "vin": "2C4RDGBGXER376605",
+    "usage_history": "unknown",
+    "odometer_km": 162417.8,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "side",
+    "impact_zone": "left_side",
+    "description": "Vehicle sustained side impact damage on the left front fender and left front door. The left front wheel and tire also show damage.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "left_front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400.0
+      },
+      {
+        "part": "left_front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "left_front_wheel",
+        "location": "front_left",
+        "category": "suspension",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "left_front_tire",
+        "location": "front_left",
+        "category": "other",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1125.0,
+    "market_value_pre_accident": 10000.0,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 12,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

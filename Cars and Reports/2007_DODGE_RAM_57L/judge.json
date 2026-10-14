@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_DODGE_RAM_57L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several key damaged parts, misidentified structural damage to the floor pan, and had multiple inaccuracies in overall and individual part severities and repair actions, though the estimated cost was partially correct and the total loss prediction was accurate."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Toyota Hilux TD SR5 D_C_REF27111268",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output was mostly correct in identifying damaged parts, however, it contained several inaccuracies in part-specific severity and repair actions, and provided incorrect structural damage details, with cost and total loss metrics unscoreable due to missing ground truth."
+}

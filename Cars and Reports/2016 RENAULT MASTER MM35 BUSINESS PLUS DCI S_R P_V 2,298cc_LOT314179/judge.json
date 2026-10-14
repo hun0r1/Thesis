@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 RENAULT MASTER MM35 BUSINESS PLUS DCI S_R P_V 2,298cc_LOT314179",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified high-level labels like overall severity and damage category, but exhibited significant inaccuracies in structural damage details, part-specific severities, and included an unsupported part while generalizing or omitting specific interior components."
+}

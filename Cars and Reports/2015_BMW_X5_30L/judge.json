@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_BMW_X5_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and some primary damaged components with their repair actions but missed many specific parts, presented incorrect locations for others, and included inaccuracies in structural damage severity and airbag deployment details."
+}

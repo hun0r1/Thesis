@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_VOLKSWAGEN_Jetta_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbag deployment and overall severity, but missed many damaged parts, contained several discrepancies in part-level severity, had a 20% deviation in estimated cost, and made a completely incorrect prediction regarding total loss."
+}

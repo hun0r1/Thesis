@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Explorer_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their repair actions, but significantly misjudged overall severity, structural damage, and total estimated repair cost, although it correctly assessed total loss status."
+}

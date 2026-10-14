@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_VOLKSWAGEN_Golf_GTI_2L_I4_FI_DOHC_16V_NF4",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, missing key parts like the engine, misstating an airbag deployment status, providing several incorrect individual part severities, and having some incorrect repair actions, despite matching overall severity and structural damage assessment."
+}

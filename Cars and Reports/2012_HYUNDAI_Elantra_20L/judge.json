@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying the presence of most damaged parts, but frequently misidentifies their specific location (e.g., left vs. right) and misses critical components like the engine, significantly misjudging overall severity and some repair actions."
+}

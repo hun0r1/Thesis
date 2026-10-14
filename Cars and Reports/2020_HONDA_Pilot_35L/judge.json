@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts and their general repair actions, but it missed one part and had significant discrepancies in individual part and structural severities, including classifying the floor_pan as unknown and the frame as moderate instead of severe."
+}

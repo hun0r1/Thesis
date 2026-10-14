@@ -1,0 +1,262 @@
+{
+  "vehicle_id": "2008 Subaru Impreza_REF27103287",
+  "source": {
+    "origin": "other",
+    "publisher": "Turners",
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/subaru/impreza/27103287",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2008,
+    "make": "Subaru",
+    "model": "Impreza",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "EL154JP1ME",
+    "drivetrain": null,
+    "vin": "7ATOGF09X19014367",
+    "usage_history": "unknown",
+    "odometer_km": 160534,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "New Zealand",
+      "city": "Auckland"
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained extensive damage to multiple body panels including front, rear, and both sides, with dents, scratches, and a severely impacted front-left fender.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_left",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "headlight_right",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_fog_light_bezel",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "driver_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_passenger_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_wheel",
+        "location": "front_left",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_wheel",
+        "location": "front_right",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_wheel",
+        "location": "rear_left",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_wheel",
+        "location": "rear_right",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "boot",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_fender",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_fender",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 22,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

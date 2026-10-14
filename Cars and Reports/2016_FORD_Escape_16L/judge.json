@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_Escape_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified airbag deployment, structural damage, and most repair actions, but significantly erred in overall and specific part severities, and missed key damaged components like the engine."
+}

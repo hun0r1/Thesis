@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_JEEP_Grand_Cherokee_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and several high-level details, but missed many critical damaged parts and their associated severities and repair actions, while also including several extra claims."
+}

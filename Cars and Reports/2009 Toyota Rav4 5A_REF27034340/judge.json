@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009 Toyota Rav4 5A_REF27034340",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and the overall severity, but it missed two parts, had two incorrect repair actions for identified parts, and provided an estimated repair cost that was significantly different from the ground truth, along with an incorrect total loss prediction."
+}

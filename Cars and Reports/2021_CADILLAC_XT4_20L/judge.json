@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_CADILLAC_XT4_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately identifying overall severity, structural damage, and airbag deployment, but significantly omits many detailed parts and includes numerous inaccuracies in the severity and repair actions of listed components."
+}

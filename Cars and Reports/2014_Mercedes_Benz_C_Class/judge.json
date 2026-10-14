@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_Mercedes_Benz_C_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 4,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts along with their severities and repair actions, but included an extra unsupported part, reported structural frame as 'unknown' instead of 'none', omitted drivability status, and had a minor discrepancy in the estimated total cost."
+}

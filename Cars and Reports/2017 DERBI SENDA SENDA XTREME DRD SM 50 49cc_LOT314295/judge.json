@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 DERBI SENDA SENDA XTREME DRD SM 50 49cc_LOT314295",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly assessed overall severity and total loss, with mostly accurate repair actions and costs, but showed significant discrepancies in identifying specific damaged parts, including omissions and extra claims."
+}

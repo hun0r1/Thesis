@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Mercedes-Benz_GLE_GLE_350_de_4MATIC_5d_Technical_issues__ID6796806",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and the overall severity, but it missed several key interior parts, had some inaccuracies in part naming, location, and specific repair actions, and several part-level severity discrepancies."
+}

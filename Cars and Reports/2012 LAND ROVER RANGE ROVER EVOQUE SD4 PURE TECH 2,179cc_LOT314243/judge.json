@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 LAND ROVER RANGE ROVER EVOQUE SD4 PURE TECH 2,179cc_LOT314243",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their repair actions but contained significant errors regarding airbag deployment, structural damage assessment, estimated repair cost, and contradicted the ground truth on predicted total loss, while also including numerous unsubstantiated parts."
+}

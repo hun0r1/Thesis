@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Toyota Corolla GL_REF27115479",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified structural damage and repair actions for the parts it listed, but it omitted a significant number of damaged parts present in the ground truth and had minor discrepancies in part severity."
+}

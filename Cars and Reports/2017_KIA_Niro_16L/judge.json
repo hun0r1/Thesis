@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_KIA_Niro_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts and repair actions but had several mismatches in individual part severities, structural damage claims, cost estimation deviations, and crucially, an incorrect prediction for total loss."
+}

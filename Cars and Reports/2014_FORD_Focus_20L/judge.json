@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_Focus_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most rear body parts and their corresponding repair actions but missed a critical engine damage, incorrectly assessed overall and several specific severities, and included unsupported parts such as a front bumper grille for a rear collision."
+}

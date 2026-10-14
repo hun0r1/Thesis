@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_JEEP_Grand_Cherokee_Missing",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI provided a partially correct assessment, accurately identifying overall severity and most repair actions, but it missed several key damaged parts, made unsupported claims about structural components, and frequently inflated the severity of individual part damage."
+}

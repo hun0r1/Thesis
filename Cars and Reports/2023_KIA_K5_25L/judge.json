@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_KIA_K5_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and most major damaged parts with their repair actions, but it omitted several key parts and their associated actions/severities from the ground truth, while also including numerous additional, unsupported parts."
+}

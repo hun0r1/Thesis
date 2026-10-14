@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 Toyota Corolla_REF27117490",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified structural damage and overall severity, but it missed several specific damaged parts, had some inaccuracies in individual part severities, and frequently omitted or misidentified specific repair actions."
+}

@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 5,
+  "score_overall": 5,
+  "part_precision": 0.556,
+  "part_recall": 0.833,
+  "part_f1": 0.667,
+  "gt_part_count": 12,
+  "ai_part_count": 18,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 4025.0,
+  "ai_estimated_repair_cost": 4095.0,
+  "cost_abs_error": 70.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_side",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "suspension",
+    "windshield"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_control_module",
+    "axle",
+    "control_arm",
+    "engine",
+    "seat_belt",
+    "shock_absorber",
+    "washer_system"
+  ],
+  "vehicle_id": "2013_KIA_Soul_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

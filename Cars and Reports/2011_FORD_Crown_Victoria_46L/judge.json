@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_FORD_Crown_Victoria_46L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matched the ground truth, correctly identifying overall severity and most body parts but critically omitting the damaged engine and mis-specifying the grille guard's repair action."
+}

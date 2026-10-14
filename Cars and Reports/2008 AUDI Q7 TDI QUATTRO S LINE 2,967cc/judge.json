@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 AUDI Q7 TDI QUATTRO S LINE 2,967cc",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most repair actions and structural damage, but it missed one key damaged part from the ground truth and incorrectly assessed overall and several individual part severities."
+}

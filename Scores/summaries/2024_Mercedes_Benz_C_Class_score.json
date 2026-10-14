@@ -1,0 +1,50 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.846,
+  "part_recall": 0.579,
+  "part_f1": 0.688,
+  "gt_part_count": 19,
+  "ai_part_count": 13,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.545,
+  "severity_matches": 6,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_passenger",
+    "airbag_side",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "rear_left_door",
+    "subframe",
+    "suspension"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "windshield"
+  ],
+  "vehicle_id": "2024_Mercedes_Benz_C_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

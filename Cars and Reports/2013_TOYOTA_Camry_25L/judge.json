@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, missing key parts like the engine and radiator support, misidentifying locations for several parts, and inaccurately assessing overall severity."
+}

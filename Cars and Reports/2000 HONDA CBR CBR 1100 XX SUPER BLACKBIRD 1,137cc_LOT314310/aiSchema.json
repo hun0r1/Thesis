@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "2000 HONDA CBR CBR 1100 XX SUPER BLACKBIRD 1,137cc_LOT314310",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2000-honda-cbr-cbr-1100-xx-super-blackbird-314310",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2000,
+    "make": "Honda",
+    "model": "CBR 1100 XX Super Blackbird",
+    "generation": null,
+    "body_style": "other",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle exhibits scuffs on multiple panels, damage to the front brake lever, and a missing left wing mirror, consistent with a fall or low-speed slide.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "left_lower_fairing",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "front_brake_lever",
+        "location": "front_left",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "left_wing_mirror",
+        "location": "front_left",
+        "category": "body",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 60
+      },
+      {
+        "part": "exhaust_pipe",
+        "location": "rear_right",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "front_fender",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 100
+      },
+      {
+        "part": "front_upper_fairing",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 560,
+    "market_value_pre_accident": 3000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "side_collision",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 8,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

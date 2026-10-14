@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006 Mitsubishi 380_REF27096735",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts with several omissions and additions, and contained multiple inaccuracies in part severities, although repair actions were mostly correct for the identified parts. Cost and total loss predictions could not be evaluated due to missing ground truth."
+}

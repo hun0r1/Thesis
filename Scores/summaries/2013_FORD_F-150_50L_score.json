@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.625,
+  "part_recall": 0.833,
+  "part_f1": 0.714,
+  "gt_part_count": 6,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 2350.0,
+  "ai_estimated_repair_cost": 5250.0,
+  "cost_abs_error": 2900.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "exhaust_system",
+    "frame",
+    "rear_bumper",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "rear_left_quarter_panel"
+  ],
+  "extra_parts": [
+    "body_panel",
+    "pickup_bed",
+    "taillight_right"
+  ],
+  "vehicle_id": "2013_FORD_F-150_50L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

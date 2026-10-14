@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 Hyundai Tucson 2.0 Crdi Elite_REF27084043",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts and their severities but had minor omissions and additions, several repair actions were misidentified, and the critical total loss prediction was incorrect."
+}

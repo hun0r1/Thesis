@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_TOYOTA_Tacoma_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified some parts and their repair actions but critically missed the severe engine damage, leading to a significant underestimation of overall severity."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 LEXMOTO FMX FMX 125 WY 125 T-108 125cc_LOT314268",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI output is mostly correct, with minor inaccuracies in a part's location, some individual part severities, and one repair action."
+}

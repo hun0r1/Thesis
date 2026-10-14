@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.636,
+  "part_recall": 0.875,
+  "part_f1": 0.737,
+  "gt_part_count": 8,
+  "ai_part_count": 11,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.571,
+  "severity_matches": 4,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6575.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_side",
+    "b_pillar",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "wheel_rear_left"
+  ],
+  "missed_parts": [
+    "rocker_panel_left"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "frame",
+    "interior_trim",
+    "taillight_left"
+  ],
+  "vehicle_id": "2007_TOYOTA_Camry_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

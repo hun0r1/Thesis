@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_CHEVROLET_Malibu_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI partially identified some damaged parts and their repair actions but significantly missed the critical engine damage and incorrectly assessed the overall severity and structural damage."
+}

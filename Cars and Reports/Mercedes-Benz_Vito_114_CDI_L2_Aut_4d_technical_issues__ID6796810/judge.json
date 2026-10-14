@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Mercedes-Benz_Vito_114_CDI_L2_Aut_4d_technical_issues__ID6796810",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts, missing key components like the engine and roof panel, and added an extra incorrect rear door. It incorrectly assessed the overall severity as 'mild' instead of 'severe' due to missing the engine's severe damage, and made several errors in specifying repair actions for identified parts."
+}

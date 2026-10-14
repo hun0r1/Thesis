@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_LEXUS_ES_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most damaged parts correctly but significantly underestimated the overall and specific part severities and had some discrepancies in recommended repair actions."
+}

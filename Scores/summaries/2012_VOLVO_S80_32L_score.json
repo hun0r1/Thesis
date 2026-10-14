@@ -1,0 +1,34 @@
+{
+  "score_parts": 5,
+  "score_severity": 2,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.833,
+  "part_recall": 1.0,
+  "part_f1": 0.909,
+  "gt_part_count": 5,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.4,
+  "severity_matches": 2,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 1800.0,
+  "ai_estimated_repair_cost": 1380.0,
+  "cost_abs_error": 420.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "headlight_right",
+    "hood",
+    "wheel_front_left"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "radiator_support"
+  ],
+  "vehicle_id": "2012_VOLVO_S80_32L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

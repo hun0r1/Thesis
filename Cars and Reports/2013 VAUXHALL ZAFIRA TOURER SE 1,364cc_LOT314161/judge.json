@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 VAUXHALL ZAFIRA TOURER SE 1,364cc_LOT314161",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately predicted the vehicle's total loss status and provided a reasonably close estimated repair cost, but it missed several key damaged parts along with their specific severities and repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_JEEP_Compass_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified airbag deployment and the general damage category, but it made significant errors by mislocating damage to the front-right side instead of front-left, omitted many crucial damaged parts from the ground truth, and incorrectly assessed the overall severity as moderate instead of severe."
+}

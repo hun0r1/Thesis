@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_RAM_1500_47L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately predicted total loss and most individual repair actions for identified parts but missed key structural components, added incorrect parts, and was significantly off on overall severity and estimated repair cost."
+}

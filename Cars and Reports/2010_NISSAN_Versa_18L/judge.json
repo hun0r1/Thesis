@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_NISSAN_Versa_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identifies damaged parts, missing critical components like the engine assembly, and has inaccuracies in individual part severities, repair actions, and structural damage assessment, despite correctly identifying the overall severity and airbags."
+}

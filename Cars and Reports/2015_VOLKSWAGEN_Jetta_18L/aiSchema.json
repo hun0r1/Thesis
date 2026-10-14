@@ -1,0 +1,157 @@
+{
+  "vehicle_id": "2015_VOLKSWAGEN_Jetta_18L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1018552350-2015-volkswagen-jetta",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2015,
+    "make": "VOLKSWAGEN",
+    "model": "Jetta",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "1.8L",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multi_vehicle",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained frontal and side impact, resulting in multiple airbag deployments and minor scuffs to the front bumper.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": true,
+      "front_passenger": true,
+      "side": true,
+      "curtain": true
+    },
+    "structural": {
+      "frame": "moderate",
+      "a_pillar": "moderate",
+      "b_pillar": "minor",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "right_headlight",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "steering_wheel",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600.0
+      },
+      {
+        "part": "dashboard",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1100.0
+      },
+      {
+        "part": "front_driver_seat",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 375.0
+      },
+      {
+        "part": "roof_liner",
+        "location": "roof",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 250.0
+      },
+      {
+        "part": "seat_belt_pretensioner_front_driver",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "seat_belt_pretensioner_front_passenger",
+        "location": "interior",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "frame",
+        "location": "underbody",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1000.0
+      },
+      {
+        "part": "a_pillar",
+        "location": "left_side",
+        "category": "structural",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 500.0
+      },
+      {
+        "part": "b_pillar",
+        "location": "left_side",
+        "category": "structural",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 4725.0,
+    "market_value_pre_accident": 10000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-18T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 11,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

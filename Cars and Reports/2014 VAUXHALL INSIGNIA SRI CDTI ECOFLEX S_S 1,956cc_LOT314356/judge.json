@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 VAUXHALL INSIGNIA SRI CDTI ECOFLEX S_S 1,956cc_LOT314356",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and individual part severities, but missed a key damaged part (front_left_fender), provided several incorrect repair actions, and included additional parts not present in the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 Toyota Markx_REF27006223",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly accurate in identifying damaged parts (with minor omissions), their severities, and repair actions, and correctly predicts total loss, but significantly underestimates the estimated repair cost by over 40%."
+}

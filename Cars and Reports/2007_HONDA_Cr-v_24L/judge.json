@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identifies the overall total loss status, airbag deployment, and many individual parts and their repair actions, but incorrectly specifies the side for several suspension and wheel components, misidentifies a structural quarter panel as a fender, provides incorrect severity for critical parts like the windshield and engine, and includes numerous extra parts not present in the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 Honda Integra_REF27104747",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions but contained several inaccuracies in part severity, overall severity, structural damage assessments, and airbag deployment status, alongside some missing or misidentified parts."
+}

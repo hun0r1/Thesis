@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified 10 out of 16 ground truth parts, but missed 6 and included 3 unconfirmed parts, and it showed several discrepancies in severity, repair actions, and estimated costs for individual parts, leading to an overall repair cost difference of approximately 15%."
+}

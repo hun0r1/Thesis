@@ -1,0 +1,35 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 0.6,
+  "part_f1": 0.667,
+  "gt_part_count": 5,
+  "ai_part_count": 4,
+  "matched_part_count": 3,
+  "severity_match_rate": 1.0,
+  "severity_matches": 3,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 650.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "fog_light",
+    "grille"
+  ],
+  "extra_parts": [
+    "front_left_fender"
+  ],
+  "vehicle_id": "2017 BMW 3 SERIES 335D XDRIVE M SPORT 2,993cc_LOT314299",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

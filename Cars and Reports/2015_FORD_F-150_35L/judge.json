@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_F-150_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI correctly identified only one out of four damaged parts and its associated severity and repair action, significantly missing key components like the engine and several other body parts, and incorrectly assessed the overall severity."
+}

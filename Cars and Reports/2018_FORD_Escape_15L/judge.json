@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Escape_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The report is partially correct, accurately identifying overall severity and some major parts and their repair actions, but missing critical structural components like the trunk floor and misrepresenting the severity and repair action for other key structural damages."
+}

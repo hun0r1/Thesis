@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_SUBARU_Crosstrek_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI's report is partially correct, missing key information regarding several ground truth parts including deployed airbags and dashboard, exhibited factual errors in structural floor pan severity, and showed multiple mismatches in individual part severities, though it correctly identified the overall severity and provided consistent repair actions for the parts it did include."
+}

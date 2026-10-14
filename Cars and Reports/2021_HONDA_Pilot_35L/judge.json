@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity and total loss, but includes extra parts, misses one ground truth part, has multiple part severity and repair action mismatches, incorrectly identifies structural floor pan damage, and shows a significant deviation in estimated repair cost."
+}

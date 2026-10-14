@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_FORD_Fusion_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the overall severity and many damaged parts, but missed some key parts, made errors in part locations and severities, and had several incorrect repair actions."
+}

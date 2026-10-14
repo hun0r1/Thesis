@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Mercedes-Benz GLS 350 D_REF27052790",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity and structural damage, but it missed many specific damaged parts, provided an incorrect estimated repair cost, and misidentified the deployment of the front driver airbag."
+}

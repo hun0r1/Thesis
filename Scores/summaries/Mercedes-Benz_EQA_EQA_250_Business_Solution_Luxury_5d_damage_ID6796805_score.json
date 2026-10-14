@@ -1,0 +1,47 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.571,
+  "part_f1": 0.615,
+  "gt_part_count": 14,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 1.0,
+  "severity_matches": 8,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "front_left_door",
+    "front_left_fender",
+    "rear_left_door",
+    "rocker_panel_left",
+    "tire",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "front_right_door",
+    "headlight_left",
+    "mirror_left",
+    "rear_left_quarter_panel",
+    "rear_right_door"
+  ],
+  "extra_parts": [
+    "airbag_side",
+    "b_pillar",
+    "paint",
+    "suspension"
+  ],
+  "vehicle_id": "Mercedes-Benz_EQA_EQA_250_Business_Solution_Luxury_5d_damage_ID6796805",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

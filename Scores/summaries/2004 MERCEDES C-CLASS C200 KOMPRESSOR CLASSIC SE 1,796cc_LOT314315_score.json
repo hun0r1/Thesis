@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.917,
+  "part_recall": 0.846,
+  "part_f1": 0.88,
+  "gt_part_count": 13,
+  "ai_part_count": 12,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.727,
+  "severity_matches": 8,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": 5200.0,
+  "ai_estimated_repair_cost": 3350.0,
+  "cost_abs_error": 1850.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_right_door",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "mirror_right",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_door",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "grille",
+    "radiator"
+  ],
+  "extra_parts": [
+    "radiator_support"
+  ],
+  "vehicle_id": "2004 MERCEDES C-CLASS C200 KOMPRESSOR CLASSIC SE 1,796cc_LOT314315",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

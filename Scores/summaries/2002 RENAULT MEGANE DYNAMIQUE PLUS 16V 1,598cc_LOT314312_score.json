@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.455,
+  "part_recall": 0.833,
+  "part_f1": 0.588,
+  "gt_part_count": 6,
+  "ai_part_count": 11,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1532.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "rear_bumper",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "interior_trim"
+  ],
+  "extra_parts": [
+    "headlight_left",
+    "headlight_right",
+    "other",
+    "tire",
+    "wheel_front_left",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2002 RENAULT MEGANE DYNAMIQUE PLUS 16V 1,598cc_LOT314312",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

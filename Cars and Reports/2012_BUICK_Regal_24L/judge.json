@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_BUICK_Regal_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and their repair actions, but missed key ground truth parts like the right fog light and right front suspension, misidentified locations for some parts, provided incorrect overall severity, and added several unconfirmed parts."
+}

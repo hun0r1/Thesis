@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 VOLKSWAGEN GOLF SE TDI BLUEMOTION TECHNOLOGY DSG 1,968cc_LOT314261",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their repair actions, but significantly missed several key components, made multiple errors in severity assessments including structural and airbag status, and added unsupported claims."
+}

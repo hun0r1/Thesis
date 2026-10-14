@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_Escape_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts (with minor naming variations) and accurately predicted the total loss and overall severity. However, there were significant factual errors in the structural frame damage assessment (reported as 'none' instead of 'moderate'), the estimated repair cost was substantially higher than ground truth, and several individual part severities and one repair action were incorrect."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_F-150_62L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and the overall severity, but it missed critical structural components, had several inaccuracies in part severities and repair actions, misestimated repair costs, and incorrectly categorized the damage type."
+}

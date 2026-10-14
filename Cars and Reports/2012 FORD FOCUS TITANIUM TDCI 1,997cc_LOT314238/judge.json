@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 FORD FOCUS TITANIUM TDCI 1,997cc_LOT314238",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and most damaged parts, but significantly erred on the specific repair actions, severity assessments for parts and overall, and drastically underestimated the total repair cost."
+}

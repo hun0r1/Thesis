@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_CHEVROLET_Traverse_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 3,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified all deployed airbags and some other specific damaged parts with mostly accurate severities and repair actions, but it omitted several key body and suspension parts, reported a significantly different estimated repair cost, and failed to provide a total loss prediction."
+}

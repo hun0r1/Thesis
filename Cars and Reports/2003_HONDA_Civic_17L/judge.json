@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_HONDA_Civic_17L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth damaged parts and the damage category, but significantly overestimated severity and repair actions for several parts, leading to substantial errors in estimated costs and the total loss prediction."
+}

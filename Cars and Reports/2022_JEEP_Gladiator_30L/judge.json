@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_JEEP_Gladiator_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 1,
+    "severity": 2,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 1
+  },
+  "explanation": "The AI report fundamentally misidentified all damaged parts and their locations, leading to an entirely incorrect damage assessment for severity and repair actions, and completely missing critical engine damage."
+}

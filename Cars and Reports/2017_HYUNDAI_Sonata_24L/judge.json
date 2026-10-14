@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HYUNDAI_Sonata_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed critical damaged parts like the engine and front bumper, provided an inaccurate overall severity assessment, but correctly identified the repair action for one shared part."
+}

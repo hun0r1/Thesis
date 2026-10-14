@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002 Toyota Voltz_REF27111397",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified all ground truth parts and overall damage labels but included several unsupported additional parts and had minor discrepancies in specific part severities and repair actions."
+}

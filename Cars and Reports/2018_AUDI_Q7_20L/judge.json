@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_AUDI_Q7_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially aligns with the ground truth, correctly identifying most major parts and repair actions for them, but significantly misses critical parts like the engine and AC condenser, incorrectly assesses the overall severity, and adds several ungrounded parts."
+}

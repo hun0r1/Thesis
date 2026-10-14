@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_CHEVROLET_Silverado_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and their repair actions, but it omitted key damaged components like the engine and right side bed panel, and presented some inconsistencies in structural damage and part severities."
+}

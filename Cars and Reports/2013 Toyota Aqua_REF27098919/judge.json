@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Toyota Aqua_REF27098919",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status but significantly deviated on individual part damages, severities, and repair actions, resulting in an underestimated total repair cost and omissions of several key components."
+}

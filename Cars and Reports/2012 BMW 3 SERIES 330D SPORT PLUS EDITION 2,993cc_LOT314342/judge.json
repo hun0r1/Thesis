@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 BMW 3 SERIES 330D SPORT PLUS EDITION 2,993cc_LOT314342",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified most damaged parts, their individual severities, and repair actions, but it omitted one part, had a minor location discrepancy, one incorrect repair action, and an inaccurate overall severity rating compared to the ground truth."
+}

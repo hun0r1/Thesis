@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_TOYOTA_Avalon_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to missing a severely damaged engine, misstating structural damage and overall severity, and having several incorrect part-specific severities and repair actions, despite correctly identifying most other parts."
+}

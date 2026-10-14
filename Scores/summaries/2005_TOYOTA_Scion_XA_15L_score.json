@@ -1,0 +1,53 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.824,
+  "part_recall": 0.667,
+  "part_f1": 0.737,
+  "gt_part_count": 21,
+  "ai_part_count": 17,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.786,
+  "severity_matches": 11,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5325.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_driver",
+    "airbag_passenger",
+    "dashboard",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "taillight_left",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "radiator_support",
+    "rear_left_quarter_panel",
+    "subframe",
+    "suspension",
+    "wheel_front_right",
+    "windshield"
+  ],
+  "extra_parts": [
+    "frame_rail",
+    "rear_bumper",
+    "seat_belt"
+  ],
+  "vehicle_id": "2005_TOYOTA_Scion_XA_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

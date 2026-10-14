@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_LINCOLN_MKX_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, identifying many damaged parts and the overall severity, but it misses several key components, incorrectly assigns repair actions and specific severities, and inaccurately reports structural damage where the ground truth specified 'unknown'."
+}

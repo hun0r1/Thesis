@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_ACURA_TL_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some body parts and their repair actions, but missed critical damage to the engine and rear bumper, inaccurately assessed overall severity, and incorrectly predicted the total loss status."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_HONDA_Accord_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss status but significantly underestimated repair costs and failed to identify two out of three damaged parts, leading to omissions in specific part severities and repair actions."
+}

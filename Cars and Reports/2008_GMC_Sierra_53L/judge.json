@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_GMC_Sierra_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report missed a critical engine damage component, incorrectly assessed the overall severity, and included an unsupported part, although it correctly identified other parts and their repair actions."
+}

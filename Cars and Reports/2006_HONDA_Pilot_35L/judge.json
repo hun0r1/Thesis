@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified overall severity and most repair actions for the common parts, but significantly missed key damaged parts from the ground truth (e.g., engine, seat belt) and included several parts not supported by the ground truth; minor discrepancies in part severities and structural damage were also present."
+}

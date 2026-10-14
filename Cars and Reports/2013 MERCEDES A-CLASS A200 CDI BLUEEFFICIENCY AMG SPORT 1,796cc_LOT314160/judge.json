@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 MERCEDES A-CLASS A200 CDI BLUEEFFICIENCY AMG SPORT 1,796cc_LOT314160",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI provided fully correct severity assessments, mostly correct repair actions with minor omissions, but missed several key parts from the ground truth and had some inaccuracies in part locations."
+}

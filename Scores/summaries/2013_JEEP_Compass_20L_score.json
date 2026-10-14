@@ -1,0 +1,46 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.625,
+  "part_recall": 0.357,
+  "part_f1": 0.455,
+  "gt_part_count": 14,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1535.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "rear_bumper",
+    "tire",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "engine",
+    "fog_light",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "other"
+  ],
+  "vehicle_id": "2013_JEEP_Compass_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

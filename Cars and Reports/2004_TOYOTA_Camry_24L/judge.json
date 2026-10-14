@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_TOYOTA_Camry_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some damaged parts and their attributes but significantly missed key components like the engine and front grille, leading to an incorrect overall severity assessment and associated repair actions."
+}

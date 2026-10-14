@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_CHEVROLET_Camaro_62L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identifies damaged parts and their repair actions, but significantly misses critical damage to the engine, rear bumper, and undercarriage, leading to an incorrect overall severity assessment of 'moderate' instead of 'severe'."
+}

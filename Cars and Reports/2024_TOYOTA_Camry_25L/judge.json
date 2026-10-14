@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The report correctly identified overall severity and most repair actions, but contained errors in the parts list, total estimated cost, and critically, the total loss prediction."
+}

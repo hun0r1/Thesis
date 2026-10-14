@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly assessed overall severity, repair actions for identified parts, and total loss, but struggled with part completeness, making significant omissions and unverified additions, which also led to considerable inaccuracies in individual and total cost estimates."
+}

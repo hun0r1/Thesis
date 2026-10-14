@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.875,
+  "part_recall": 0.875,
+  "part_f1": 0.875,
+  "gt_part_count": 8,
+  "ai_part_count": 8,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.286,
+  "severity_matches": 2,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "engine",
+    "front_bumper",
+    "front_right_door",
+    "mirror_right",
+    "rear_bumper",
+    "rear_right_door"
+  ],
+  "missed_parts": [
+    "seat_belt"
+  ],
+  "extra_parts": [
+    "other"
+  ],
+  "vehicle_id": "2014 BMW 1 SERIES 116D SPORT 1,995cc_LOT314173",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

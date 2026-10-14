@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.545,
+  "part_recall": 0.5,
+  "part_f1": 0.522,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 6,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6250.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "exhaust_system",
+    "front_left_fender",
+    "rear_bumper",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "airbag_passenger",
+    "engine",
+    "rear_right_quarter_panel",
+    "suspension",
+    "tailgate",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [
+    "frame",
+    "front_left_door",
+    "rear_left_quarter_panel",
+    "trunk_lid",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2023_HYUNDAI_Tucson_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

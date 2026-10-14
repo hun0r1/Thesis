@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_DODGE_Grand_Caravan_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified all ground truth parts, including breaking down one assembly, and accurately predicted the total loss status, but significantly deviated on overall severity and estimated repair costs, while also including several unsupported extra parts."
+}

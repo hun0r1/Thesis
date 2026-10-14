@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Hyundai TB_REF27114534",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matched the ground truth, correctly identifying most parts and the overall severity, but it missed one key part, mislocated another, had inconsistencies in structural and part-specific severities, and introduced additional parts with unverified repair actions."
+}

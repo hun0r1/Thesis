@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.765,
+  "part_recall": 0.812,
+  "part_f1": 0.788,
+  "gt_part_count": 16,
+  "ai_part_count": 17,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.769,
+  "severity_matches": 10,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": 10500.0,
+  "ai_estimated_repair_cost": 15550.0,
+  "cost_abs_error": 5050.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_passenger",
+    "cooling_fan",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension",
+    "tire",
+    "windshield"
+  ],
+  "missed_parts": [
+    "front_left_door",
+    "rear_bumper",
+    "seat_belt"
+  ],
+  "extra_parts": [
+    "airbag_curtain",
+    "airbag_side",
+    "dashboard",
+    "engine"
+  ],
+  "vehicle_id": "2020_FORD_Transit_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

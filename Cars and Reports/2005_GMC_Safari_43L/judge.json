@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_GMC_Safari_43L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some damaged parts and repair actions but missed several key components and significantly misjudged overall and individual part severities."
+}

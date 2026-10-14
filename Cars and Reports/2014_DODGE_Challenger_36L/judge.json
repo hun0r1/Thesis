@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_DODGE_Challenger_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The report had several discrepancies in identified parts (one missing from GT, one extra in AI), disagreed on the overall severity, and showed some differences in recommended repair actions."
+}

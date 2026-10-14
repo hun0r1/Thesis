@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_FORD_Maverick_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some damaged parts and their associated repair actions and severities, but crucially missed the severely damaged engine and its details, misclassified the overall severity, and added an unsupported part."
+}

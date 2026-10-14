@@ -1,0 +1,173 @@
+{
+  "vehicle_id": "2016 VOLKSWAGEN GOLF GTI 1,984cc_LOT314178",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2016-volkswagen-golf-gti-314178?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D2",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2016,
+    "make": "VOLKSWAGEN",
+    "model": "GOLF GTI",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "Petrol",
+    "drivetrain": "Manual",
+    "usage_history": "private",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Damage observed on rear bumper, nearside rear wheel arch, nearside passenger doors, nearside sill, nearside front wing, front bumper, offside front wing, offside passenger doors, and offside rear wheel arch, along with general wear and tear, and broken side windows.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "rear_fender",
+        "location": "rear_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 450
+      },
+      {
+        "part": "rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 600
+      },
+      {
+        "part": "rocker_panel",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "rear_door_window",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair_and_repaint",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect_and_repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_door_window",
+        "location": "right_side",
+        "category": "glass",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175
+      },
+      {
+        "part": "front_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect_and_repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect_and_repaint",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "rear_fender",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "inspect_and_repaint",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 3450,
+    "market_value_pre_accident": 14000,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 15,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

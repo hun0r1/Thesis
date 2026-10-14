@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts, missing two key body panels and incorrectly stating structural damage as unknown instead of moderate. It had significant discrepancies in both overall and individual part severity assessments, although repair actions were mostly correct for the recognized parts; costs and total loss could not be evaluated due to missing ground truth data."
+}

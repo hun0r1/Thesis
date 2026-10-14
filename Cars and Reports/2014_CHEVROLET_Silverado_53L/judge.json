@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Silverado_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified overall damage severity and total loss status, but missed several key damaged parts, incorrectly identified one part, had a mismatch in a repair action, and significantly underestimated the estimated repair cost."
+}

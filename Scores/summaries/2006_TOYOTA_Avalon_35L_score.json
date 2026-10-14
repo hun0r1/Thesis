@@ -1,0 +1,35 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.857,
+  "part_f1": 0.923,
+  "gt_part_count": 7,
+  "ai_part_count": 6,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1525.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "seat"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2006_TOYOTA_Avalon_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,38 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.571,
+  "part_recall": 0.667,
+  "part_f1": 0.615,
+  "gt_part_count": 6,
+  "ai_part_count": 7,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 3550.0,
+  "ai_estimated_repair_cost": 3475.0,
+  "cost_abs_error": 75.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "taillight_right",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2017_Mercedes_Benz_E_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

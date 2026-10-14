@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_CHRYSLER_200_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most damaged parts, overall severity, and total loss prediction, but significantly underestimated repair costs and misjudged several part severities and structural frame damage."
+}

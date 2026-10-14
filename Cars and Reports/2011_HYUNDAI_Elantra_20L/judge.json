@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The report correctly identifies total loss and many repair actions but misses several damaged parts, provides significantly inaccurate cost estimates, and has major discrepancies in severity assessments, especially for structural components."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 VAUXHALL VIVARO 2900 CDTI 1,995cc_LOT314235",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, significantly misjudging the predicted total loss and overall severity, with notable discrepancies in estimated repair cost, individual part severities, and repair actions, despite identifying a fair number of parts correctly."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_TOYOTA_Tacoma_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 1,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report significantly misidentified the damaged parts and their locations, and incorrectly assessed the overall severity, though it correctly identified airbag deployment status, repair actions, damage category, and drivability."
+}

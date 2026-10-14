@@ -1,0 +1,38 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": 2,
+  "score_overall": 2,
+  "part_precision": 0.429,
+  "part_recall": 0.6,
+  "part_f1": 0.5,
+  "gt_part_count": 5,
+  "ai_part_count": 7,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": 2050.0,
+  "ai_estimated_repair_cost": 2925.0,
+  "cost_abs_error": 875.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "tailgate"
+  ],
+  "missed_parts": [
+    "taillight_right",
+    "underbody_cover"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "other",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2020_HYUNDAI_Santa_FE_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

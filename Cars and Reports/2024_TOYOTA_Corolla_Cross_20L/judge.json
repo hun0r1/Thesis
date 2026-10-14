@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_TOYOTA_Corolla_Cross_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified many major damaged parts and the total loss prediction, but missed several smaller parts, incorrectly specified the side for one part, provided inaccurate individual and overall severity assessments, and consequently produced a significantly different estimated repair cost."
+}

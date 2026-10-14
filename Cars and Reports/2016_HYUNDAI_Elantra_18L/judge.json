@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HYUNDAI_Elantra_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The report is partially correct, missing key parts like the engine and bumper absorbers, while including ungrounded extra parts and exhibiting several inaccuracies in part repair actions and minor severity differences."
+}

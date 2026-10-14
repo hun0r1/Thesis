@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_TESLA_Model_3",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately assessing overall severity and total loss, despite minor discrepancies in individual part severities, the omission of a couple of parts including a structural component, and an estimated repair cost 16.7% higher than the ground truth."
+}

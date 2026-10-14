@@ -1,0 +1,43 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.636,
+  "part_f1": 0.667,
+  "gt_part_count": 11,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 1.0,
+  "severity_matches": 7,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3225.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "engine",
+    "frame_rail",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "fog_light",
+    "underbody_cover"
+  ],
+  "vehicle_id": "2013_CADILLAC_XTS_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

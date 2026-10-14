@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI correctly identified most of the directly damaged parts and their repair actions, but made significant factual errors regarding side and curtain airbag deployment, which led to an inflated and partially incorrect list of parts, a largely inaccurate estimated repair cost, and an incorrect total loss prediction, resulting in a mostly incorrect overall assessment."
+}

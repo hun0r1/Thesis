@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_MAZDA_Cx-7_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to significant discrepancies in the identified damaged parts, their associated severities and repair actions, and the overall damage severity, although airbags and structural damage were correctly reported."
+}

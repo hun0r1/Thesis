@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_Mercedes_Benz_Glc_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, identifying about half of the damaged parts with some repair action mismatches, but contains significant factual errors regarding airbag deployment and overall severity, and omits critical damage like the engine assembly."
+}

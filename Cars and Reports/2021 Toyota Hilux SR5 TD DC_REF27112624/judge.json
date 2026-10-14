@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021 Toyota Hilux SR5 TD DC_REF27112624",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified many damaged parts and their repair actions but missed several key parts from the ground truth and had a significant number of inaccuracies in individual part severities."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_CHEVROLET_Traverse_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified high-level damage (airbags, structural, overall severity, drivability, damage category) and most primary damaged parts, but it missed one ground truth part, added two unsupported parts, had several discrepancies in specific part severities and repair actions, and the estimated repair cost deviated significantly; additionally, all labor hours were omitted."
+}

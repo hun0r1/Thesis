@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2026_CHEVROLET_Silverado_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and their repair actions but missed several minor components and had multiple inaccuracies in part severities and the overall severity classification."
+}

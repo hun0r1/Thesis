@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.615,
+  "part_recall": 0.667,
+  "part_f1": 0.64,
+  "gt_part_count": 12,
+  "ai_part_count": 13,
+  "matched_part_count": 8,
+  "severity_match_rate": 1.0,
+  "severity_matches": 8,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6850.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "front_bumper",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "rear_window",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "other",
+    "rear_left_door",
+    "taillight_right",
+    "underbody_cover"
+  ],
+  "extra_parts": [
+    "grille",
+    "rear_right_door",
+    "suspension",
+    "trunk_lid",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "Audi_A3_Sportback_15_35_TFSi_110kW_5d_damaged_car__ID6796798",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_MAZDA_Mazda6_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified overall damage and structural information, but omitted several key parts including the engine and incorrectly identified the side for multiple front components, although it generally provided correct severities and repair actions for the parts it listed."
+}

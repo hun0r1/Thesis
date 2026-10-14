@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 VOLKSWAGEN GOLF GTI 1,984cc_LOT314178",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity, total loss status, and most damaged parts with minor naming differences, but it had several discrepancies in individual part severities, significant differences in proposed repair actions, and missed one ground truth part while adding an unsupported one."
+}

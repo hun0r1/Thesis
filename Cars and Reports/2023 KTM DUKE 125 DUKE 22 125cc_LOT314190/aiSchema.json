@@ -1,0 +1,141 @@
+{
+  "vehicle_id": "2023 KTM DUKE 125 DUKE 22 125cc_LOT314190",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2023-ktm-duke-125-duke-22-314190",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2023,
+    "make": "KTM",
+    "model": "DUKE 125 DUKE 22 125cc",
+    "generation": null,
+    "body_style": "other",
+    "engine": null,
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "United Kingdom",
+      "city": "Falkirk"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Vehicle shows general scuffs and wear on plastics, along with critical electronic failures including ECU and ABS, and a missing ignition barrel.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_fender",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "side_fairing_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "side_fairing_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "ecu",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 400
+      },
+      {
+        "part": "abs_system",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "ignition_barrel",
+        "location": "front",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "exhaust_pipe",
+        "location": "rear_right",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "mirror_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 40
+      },
+      {
+        "part": "instrument_cluster",
+        "location": "front",
+        "category": "electronics",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 25
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 1190,
+    "market_value_pre_accident": 4500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 5,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

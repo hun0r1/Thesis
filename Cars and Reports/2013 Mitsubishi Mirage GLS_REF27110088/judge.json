@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Mitsubishi Mirage GLS_REF27110088",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all core damaged parts and the overall severity, though it often predicted more severe damage or repair actions for specific components compared to the ground truth."
+}

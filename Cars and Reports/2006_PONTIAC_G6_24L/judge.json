@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_PONTIAC_G6_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI identified most damaged parts and many repair actions correctly, but it missed the engine, had some part category and severity mismatches, and incorrectly assessed the overall severity."
+}

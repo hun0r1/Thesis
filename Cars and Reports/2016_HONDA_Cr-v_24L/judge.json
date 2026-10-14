@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed three out of four ground truth damage parts and incorrectly identified the overall severity, although it correctly reported the oil pan's damage attributes."
+}

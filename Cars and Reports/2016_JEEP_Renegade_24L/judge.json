@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_JEEP_Renegade_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed structural damage and overall labels, but significantly omitted key damaged parts such as the engine and left front suspension, and contained inaccuracies in specific part details and additional unsupported claims."
+}

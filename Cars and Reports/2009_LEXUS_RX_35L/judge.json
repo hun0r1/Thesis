@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_LEXUS_RX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report contained numerous inaccuracies across identified parts, their severities (including structural and overall), and recommended repair actions, with significant omissions compared to the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009 Nissan X-Trail_REF27104687",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and mostly accurate repair actions for the detected parts, but significantly missed many specific damaged components and misidentified the severity for the structural frame and several individual parts."
+}

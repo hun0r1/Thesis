@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_FORD_Focus_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbag deployment status, structural damage, and the predicted total loss; however, it omitted numerous damaged parts, understated overall severity, and significantly underestimated the total repair cost."
+}

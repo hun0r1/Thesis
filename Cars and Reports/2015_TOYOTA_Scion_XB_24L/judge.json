@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_TOYOTA_Scion_XB_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many individual parts and their repair actions, but significantly missed the engine assembly, generalized quarter panel damage, and critically misidentified structural damage and overall vehicle severity."
+}

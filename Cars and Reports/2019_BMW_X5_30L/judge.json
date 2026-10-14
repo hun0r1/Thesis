@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_BMW_X5_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report missed several damaged parts and incorrectly identified the side for multiple components, resulting in a significantly underestimated repair cost, though it correctly assessed the overall severity and total loss status."
+}

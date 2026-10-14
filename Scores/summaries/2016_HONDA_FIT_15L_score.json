@@ -1,0 +1,45 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.692,
+  "part_recall": 0.75,
+  "part_f1": 0.72,
+  "gt_part_count": 12,
+  "ai_part_count": 13,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.556,
+  "severity_matches": 5,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 3900.0,
+  "ai_estimated_repair_cost": 2900.0,
+  "cost_abs_error": 1000.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "air_intake",
+    "mirror_left",
+    "windshield"
+  ],
+  "extra_parts": [
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "suspension"
+  ],
+  "vehicle_id": "2016_HONDA_FIT_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

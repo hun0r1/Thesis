@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.545,
+  "part_recall": 0.5,
+  "part_f1": 0.522,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2700.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "rear_right_quarter_panel",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "rear_body_panel",
+    "tire",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2016_TOYOTA_Corolla_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.857,
+  "part_f1": 0.75,
+  "gt_part_count": 14,
+  "ai_part_count": 18,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.833,
+  "severity_matches": 10,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7085.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "engine",
+    "frame_rail",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "air_intake",
+    "subframe"
+  ],
+  "extra_parts": [
+    "fog_light",
+    "impact_bar",
+    "intercooler",
+    "other",
+    "washer_system",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2016_BMW_328i_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

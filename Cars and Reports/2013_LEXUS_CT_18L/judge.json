@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_LEXUS_CT_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most damaged parts and their repair actions but critically missed the severely damaged engine, leading to an incorrect overall severity assessment."
+}

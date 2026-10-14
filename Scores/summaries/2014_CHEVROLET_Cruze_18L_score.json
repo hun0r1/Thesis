@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.778,
+  "part_recall": 0.5,
+  "part_f1": 0.609,
+  "gt_part_count": 14,
+  "ai_part_count": 9,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2625.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "suspension",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "frame_rail",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2014_CHEVROLET_Cruze_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

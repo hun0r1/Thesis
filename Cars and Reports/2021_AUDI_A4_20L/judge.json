@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_AUDI_A4_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity, total loss prediction, and airbag deployment status, but it had significant omissions in structural damage and several damaged parts, along with inaccuracies in individual part costs and severities."
+}

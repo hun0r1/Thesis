@@ -1,0 +1,37 @@
+{
+  "score_parts": 1,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.5,
+  "part_recall": 0.143,
+  "part_f1": 0.222,
+  "gt_part_count": 7,
+  "ai_part_count": 2,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1400.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "seat"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "hood",
+    "interior_trim"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "2022_BMW_X6_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

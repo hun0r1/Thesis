@@ -1,0 +1,85 @@
+{
+  "vehicle_id": "2011 KIA SOUL TEMPEST CRDI 1,582cc_LOT314337",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2011-kia-soul-tempest-crdi-314337?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D8",
+    "language": "English",
+    "reported_at": "2021-10-28T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "KIA",
+    "model": "SOUL",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "Diesel 1.6L CRDI",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2021-10-28T00:00:00Z",
+    "location": {
+      "country": "UK",
+      "city": "Birmingham"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "unknown",
+    "description": "Vehicle exhibits general wear and tear with minor scuffs on bumpers; no significant collision damage visible.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_trim",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "rear_bumper_trim",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 300.0,
+    "market_value_pre_accident": 4500.0,
+    "insurer_total_loss": true,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-18T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 5,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

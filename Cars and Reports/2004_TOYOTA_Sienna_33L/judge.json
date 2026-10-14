@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_TOYOTA_Sienna_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report identified some parts and their repair actions correctly but significantly underestimated the overall severity and estimated repair cost, leading to an incorrect total loss prediction."
+}

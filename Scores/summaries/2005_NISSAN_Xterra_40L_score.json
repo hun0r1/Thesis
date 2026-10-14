@@ -1,0 +1,42 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.375,
+  "part_recall": 0.375,
+  "part_f1": 0.375,
+  "gt_part_count": 8,
+  "ai_part_count": 8,
+  "matched_part_count": 3,
+  "severity_match_rate": 1.0,
+  "severity_matches": 3,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_right_quarter_panel",
+    "taillight_right",
+    "wheel_rear_right",
+    "windshield"
+  ],
+  "extra_parts": [
+    "rear_left_quarter_panel",
+    "suspension",
+    "taillight_left",
+    "trunk_lid",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2005_NISSAN_Xterra_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_INFINITI_G35_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall severity and airbag deployment but missed several key structural and powertrain parts, and had numerous inaccuracies in specific part severities and repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_SUBARU_XV_Crosstrek_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report was partially correct, identifying most repair actions for matched parts accurately, but it omitted several key components, added numerous unconfirmed parts, and significantly diverged on overall and structural severity assessments."
+}

@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.769,
+  "part_recall": 0.714,
+  "part_f1": 0.741,
+  "gt_part_count": 14,
+  "ai_part_count": 13,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 8150.0,
+  "ai_estimated_repair_cost": 5900.0,
+  "cost_abs_error": 2250.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "airbag_control_module",
+    "airbag_curtain",
+    "airbag_side",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "rear_left_door",
+    "rocker_panel_left",
+    "seat_belt",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "b_pillar",
+    "headlight_left",
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "mirror_left",
+    "rear_bumper"
+  ],
+  "vehicle_id": "2021_CHEVROLET_Colorado_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

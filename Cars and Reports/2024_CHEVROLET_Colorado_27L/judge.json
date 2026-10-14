@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_CHEVROLET_Colorado_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly accurate, demonstrating strong agreement on total loss, overall severity, and the majority of part identifications, repair actions, and severities, yet it contains minor errors in estimated cost, some airbag and structural details, and a few part-specific severities and repair actions, while also including additional parts not explicitly supported by the ground truth."
+}

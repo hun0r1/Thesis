@@ -1,0 +1,37 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.889,
+  "part_f1": 0.941,
+  "gt_part_count": 9,
+  "ai_part_count": 8,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.375,
+  "severity_matches": 3,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4250.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "suspension"
+  ],
+  "missed_parts": [
+    "wheel_front_left"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2012_SUBARU_Forester_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

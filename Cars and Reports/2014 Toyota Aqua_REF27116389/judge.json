@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Toyota Aqua_REF27116389",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and repair actions, but contained significant errors in structural damage assessment, missed several key parts, and had a substantial discrepancy in estimated repair cost."
+}

@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.571,
+  "part_recall": 0.5,
+  "part_f1": 0.533,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3400.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "tailgate",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "rear_body_panel",
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "impact_bar",
+    "other",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2022_LEXUS_UX_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

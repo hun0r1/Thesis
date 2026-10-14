@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_CHRYSLER_Town_AND_Country_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity and total loss status but significantly omitting several key damaged parts (e.g., engine, tire), misidentifying others, and showing systematic errors in proposed repair actions and individual part severities."
+}

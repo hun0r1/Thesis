@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_RAM_Cargo_VAN_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to numerous part discrepancies, including incorrect locations, missing critical components like the left rear wheel assembly, adding non-existent damage, and significant errors in proposed repair actions, despite correctly identifying the overall severity and some minor part severities."
+}

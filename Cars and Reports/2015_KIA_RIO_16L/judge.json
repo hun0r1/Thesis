@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_KIA_RIO_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output missed two out of three damaged parts (engine, wiring_harness), incorrectly identified the overall severity as 'mild' instead of 'severe', and provided an incorrect repair action for the identified steering column."
+}

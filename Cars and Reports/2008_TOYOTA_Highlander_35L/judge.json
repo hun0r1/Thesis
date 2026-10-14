@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matches the ground truth, missing critical damage details like engine damage and airbag deployment, which led to an incorrect overall severity assessment, despite accurately identifying several other damaged parts and their repair actions."
+}

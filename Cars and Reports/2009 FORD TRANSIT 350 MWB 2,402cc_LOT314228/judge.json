@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009 FORD TRANSIT 350 MWB 2,402cc_LOT314228",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI identified many damaged parts and their correct repair actions but missed several key components from the ground truth and had some inaccuracies in part and structural severity assessments."
+}

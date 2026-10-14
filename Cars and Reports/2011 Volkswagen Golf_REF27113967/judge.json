@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 Volkswagen Golf_REF27113967",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified most damaged parts and overall severity but critically missed a deployed curtain airbag and its deployment status, and incorrectly recommended 'repair' for two fender parts instead of 'replace'."
+}

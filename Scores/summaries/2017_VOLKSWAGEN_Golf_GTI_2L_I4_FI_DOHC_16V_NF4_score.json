@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.692,
+  "part_f1": 0.72,
+  "gt_part_count": 13,
+  "ai_part_count": 12,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.667,
+  "severity_matches": 6,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5750.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "rear_left_door",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_side",
+    "engine",
+    "rocker_panel_left",
+    "tire"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "dashboard",
+    "grille"
+  ],
+  "vehicle_id": "2017_VOLKSWAGEN_Golf_GTI_2L_I4_FI_DOHC_16V_NF4",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

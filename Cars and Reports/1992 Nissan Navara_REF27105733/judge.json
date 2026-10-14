@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1992 Nissan Navara_REF27105733",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most damaged parts and the overall total loss status, but demonstrated notable discrepancies in estimated repair costs and specific repair actions for some critical components."
+}

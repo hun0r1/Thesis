@@ -1,0 +1,41 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.375,
+  "part_recall": 0.429,
+  "part_f1": 0.4,
+  "gt_part_count": 7,
+  "ai_part_count": 8,
+  "matched_part_count": 3,
+  "severity_match_rate": 1.0,
+  "severity_matches": 3,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2600.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "hood",
+    "rear_bumper",
+    "suspension"
+  ],
+  "missed_parts": [
+    "rear_right_quarter_panel",
+    "rocker_panel_right",
+    "tire",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [
+    "headlight_left",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2014_HYUNDAI_Santa_FE_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

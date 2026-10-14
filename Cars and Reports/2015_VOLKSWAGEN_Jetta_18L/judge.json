@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_VOLKSWAGEN_Jetta_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbag deployment and overall severity, but the detailed list of damaged parts and structural damage assessment significantly differed from the ground truth."
+}

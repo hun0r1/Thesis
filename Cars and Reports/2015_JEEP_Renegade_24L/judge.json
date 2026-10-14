@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_JEEP_Renegade_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified overall severity and total loss, and many repair actions, but significantly mismatched or omitted numerous damaged parts, including critical left/right errors, resulting in a substantial underestimation of the estimated repair cost."
+}

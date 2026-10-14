@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.941,
+  "part_recall": 0.842,
+  "part_f1": 0.889,
+  "gt_part_count": 19,
+  "ai_part_count": 17,
+  "matched_part_count": 16,
+  "severity_match_rate": 0.688,
+  "severity_matches": 11,
+  "severity_total_compared": 16,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6675.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_driver",
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "seat_belt",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_passenger",
+    "transmission",
+    "windshield"
+  ],
+  "extra_parts": [
+    "subframe"
+  ],
+  "vehicle_id": "2019_NISSAN_Sentra_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

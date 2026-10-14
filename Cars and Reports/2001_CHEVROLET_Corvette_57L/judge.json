@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_CHEVROLET_Corvette_57L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly accurate, correctly identifying major parts, overall severity, and total loss status, although there are minor discrepancies in individual part severities, repair actions, estimated costs, and it missed a couple of minor parts while adding another."
+}

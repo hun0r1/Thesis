@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Peugeot_Boxer_22_BlueHDi_SS_165_Asphalt_335_L2H2_4d_technica_ID6796807",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity, but the list of damaged parts had numerous omissions and factual mismatches in part identification and location, leading to corresponding inaccuracies in recommended repair actions for several components and a mismatch in structural assessment."
+}

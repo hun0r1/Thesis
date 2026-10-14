@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_VOLVO_S80_32L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth parts, repair actions, and total loss prediction, but individual part severities and the total estimated cost showed notable discrepancies, and an unlisted part was included."
+}

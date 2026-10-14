@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_LINCOLN_MKZ_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately determined the overall severity and total loss status but provided an incomplete and partially incorrect list of damaged parts, leading to a significantly different estimated repair cost."
+}

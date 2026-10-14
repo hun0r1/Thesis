@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI's parts identification was largely incorrect, missing critical engine damage and misidentifying the side for other parts, which led to an inaccurate overall severity; however, the repair actions for the parts it did identify were mostly correct."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 Mazda Demio_REF27109645",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report provided a partially correct assessment, accurately identifying some damaged parts and their repair actions, but significantly omitted other required parts and their repair actions, while also making unsubstantiated claims regarding structural damage and overall severity."
+}

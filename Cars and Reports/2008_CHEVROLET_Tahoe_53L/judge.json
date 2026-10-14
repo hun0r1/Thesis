@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_CHEVROLET_Tahoe_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, with a mostly accurate list of damaged parts but containing significant inaccuracies in overall and structural damage severity, several individual part severities, and some repair actions."
+}

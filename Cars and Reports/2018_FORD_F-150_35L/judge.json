@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_F-150_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and overall severity, but it made significant errors in structural damage assessment, missed a severely damaged engine, and included an unsupported part."
+}

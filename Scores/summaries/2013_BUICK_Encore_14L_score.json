@@ -1,0 +1,30 @@
+{
+  "score_parts": 1,
+  "score_severity": null,
+  "score_cost": null,
+  "score_overall": 1,
+  "part_precision": 0.0,
+  "part_recall": 0.0,
+  "part_f1": 0.0,
+  "gt_part_count": 1,
+  "ai_part_count": 1,
+  "matched_part_count": 0,
+  "severity_match_rate": null,
+  "severity_matches": 0,
+  "severity_total_compared": 0,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 125.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "front_bumper"
+  ],
+  "vehicle_id": "2013_BUICK_Encore_14L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

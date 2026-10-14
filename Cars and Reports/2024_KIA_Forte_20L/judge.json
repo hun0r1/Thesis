@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_KIA_Forte_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions but contained significant errors in structural damage assessment and overall severity, while also omitting some ground truth parts and adding others that contradicted the structural assessment."
+}

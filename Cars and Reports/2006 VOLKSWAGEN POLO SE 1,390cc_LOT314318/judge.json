@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006 VOLKSWAGEN POLO SE 1,390cc_LOT314318",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed two key parts, identified some parts incorrectly, and showed several inconsistencies in location, severity, and repair actions for the identified parts, also differing on overall severity."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_ACURA_TLX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report contains significant inaccuracies in part identification, overall severity assessment, and structural frame damage, despite correctly identifying some individual repair actions for matched parts."
+}

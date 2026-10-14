@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_BMW_435i_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction but deviated significantly on the specific damaged parts, their locations, individual severities, and the estimated repair cost."
+}

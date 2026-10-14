@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.692,
+  "part_f1": 0.818,
+  "gt_part_count": 13,
+  "ai_part_count": 9,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.667,
+  "severity_matches": 6,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4050.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "engine",
+    "front_left_fender",
+    "windshield"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2012_CADILLAC_CTS_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

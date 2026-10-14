@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 FORD TRANSIT 350 H_R 2,198cc_LOT314163",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several parts, including a critical ignition system, and made significant factual errors in assessing overall severity and structural damage, though many identified part severities and some repair actions were correct."
+}

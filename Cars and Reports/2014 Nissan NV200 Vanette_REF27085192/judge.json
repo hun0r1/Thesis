@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Nissan NV200 Vanette_REF27085192",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially matches the ground truth, with several missing damage parts, some additional unsupported claims, and inaccuracies in severity assessments for individual parts and structural components, though repair actions were largely correct for identified parts."
+}

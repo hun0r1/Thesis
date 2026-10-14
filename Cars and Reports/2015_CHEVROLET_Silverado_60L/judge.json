@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_CHEVROLET_Silverado_60L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the damaged part and overall severity but was significantly inaccurate on the specific repair action and estimated cost for that part."
+}

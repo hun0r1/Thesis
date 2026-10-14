@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 Nissan X-Trail ST_REF27106766",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified airbag deployment and structural damage, and its total loss prediction and overall estimated repair cost were reasonably close; however, it showed significant discrepancies in the specific list of damaged parts, their individual severities, and granular cost estimations."
+}

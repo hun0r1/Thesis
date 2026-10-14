@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_BUICK_Encore_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "While the AI report correctly identified the total loss prediction, it contained several inaccuracies regarding identified parts and their locations, specific repair actions, part severities, the overall damage severity, and significantly underestimated the total repair cost."
+}

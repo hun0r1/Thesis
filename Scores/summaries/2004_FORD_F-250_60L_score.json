@@ -1,0 +1,38 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.571,
+  "part_f1": 0.615,
+  "gt_part_count": 7,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.75,
+  "severity_matches": 3,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 3250.0,
+  "ai_estimated_repair_cost": 3550.0,
+  "cost_abs_error": 300.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "body_panel",
+    "exhaust_system",
+    "rear_left_door"
+  ],
+  "extra_parts": [
+    "pickup_bed",
+    "windshield"
+  ],
+  "vehicle_id": "2004_FORD_F-250_60L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.333,
+  "part_recall": 0.571,
+  "part_f1": 0.421,
+  "gt_part_count": 7,
+  "ai_part_count": 12,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2125.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "fog_light",
+    "front_bumper",
+    "rear_bumper",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "engine",
+    "exhaust_system",
+    "rear_right_quarter_panel"
+  ],
+  "extra_parts": [
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "other",
+    "rear_body_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2007_LEXUS_IS_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

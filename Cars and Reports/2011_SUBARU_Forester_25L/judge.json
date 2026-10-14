@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_SUBARU_Forester_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their attributes, missing several critical components like the engine and radiator, misidentifying structural frame damage severity, and including an extra part not present in the ground truth."
+}

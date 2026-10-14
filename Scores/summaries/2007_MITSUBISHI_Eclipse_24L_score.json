@@ -1,0 +1,39 @@
+{
+  "score_parts": 3,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.833,
+  "part_recall": 0.556,
+  "part_f1": 0.667,
+  "gt_part_count": 9,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 765.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "fog_light",
+    "grille",
+    "tire"
+  ],
+  "extra_parts": [
+    "radiator_support"
+  ],
+  "vehicle_id": "2007_MITSUBISHI_Eclipse_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

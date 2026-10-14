@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 YAMAHA XC XC 125 E VITY 125cc_LOT314250",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss but had significant inaccuracies in specific part identification, inconsistent part-level severity, and largely incorrect individual and total repair costs."
+}

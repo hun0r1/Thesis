@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_HYUNDAI_Palisade_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identifies damaged parts and their severities, correctly matching overall severity and most repair actions for identified parts, but critically misses major components like the engine and misjudges structural frame severity."
+}

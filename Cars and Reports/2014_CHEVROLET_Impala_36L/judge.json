@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Impala_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed critical damage, notably the engine and a rear door, incorrectly assessed the overall severity as mild instead of severe, and provided mostly incorrect repair actions for the identified parts."
+}

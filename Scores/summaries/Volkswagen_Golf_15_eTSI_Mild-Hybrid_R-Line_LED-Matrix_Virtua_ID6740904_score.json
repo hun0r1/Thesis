@@ -1,0 +1,41 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.25,
+  "part_recall": 0.333,
+  "part_f1": 0.286,
+  "gt_part_count": 6,
+  "ai_part_count": 8,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": 20300.0,
+  "ai_estimated_repair_cost": 9150.0,
+  "cost_abs_error": 11150.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "other",
+    "seat"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "front_left_door",
+    "interior_trim",
+    "wiring_harness"
+  ],
+  "extra_parts": [
+    "front_bumper",
+    "hood",
+    "rear_left_door",
+    "wheel_front_left",
+    "wheel_rear_left",
+    "wheel_rim"
+  ],
+  "vehicle_id": "Volkswagen_Golf_15_eTSI_Mild-Hybrid_R-Line_LED-Matrix_Virtua_ID6740904",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,36 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.625,
+  "part_recall": 1.0,
+  "part_f1": 0.769,
+  "gt_part_count": 5,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 390.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "brake_system",
+    "floor_pan",
+    "front_left_fender",
+    "ignition_system"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "headlight_left",
+    "other",
+    "taillight_left"
+  ],
+  "vehicle_id": "2019 SINNIS ENCANTO ZN 50 QT-56 ENCANTO 50cc_LOT314186",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 RENAULT CAPTUR DYNAMIQUE S MEDIANAV ENERGY DCI S_S 1,461cc_LOT314257",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall damage severity and many specific part details, but it omitted two ground truth parts, included three unsubstantiated parts, and had minor discrepancies in severity and repair actions for some items, along with an incorrect assessment of the floor pan's structural damage."
+}

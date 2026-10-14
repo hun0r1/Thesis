@@ -1,0 +1,43 @@
+{
+  "score_parts": 1,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.222,
+  "part_recall": 0.286,
+  "part_f1": 0.25,
+  "gt_part_count": 7,
+  "ai_part_count": 9,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3175.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "hood",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "seat",
+    "tailgate"
+  ],
+  "extra_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "interior_trim",
+    "other",
+    "taillight_left",
+    "windshield"
+  ],
+  "vehicle_id": "1991_FORD_F-150_49L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

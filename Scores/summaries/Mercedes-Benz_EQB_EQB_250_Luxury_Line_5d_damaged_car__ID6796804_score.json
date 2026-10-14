@@ -1,0 +1,52 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.722,
+  "part_recall": 0.722,
+  "part_f1": 0.722,
+  "gt_part_count": 18,
+  "ai_part_count": 18,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.846,
+  "severity_matches": 11,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": 55500.0,
+  "ai_estimated_repair_cost": 11400.0,
+  "cost_abs_error": 44100.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "subframe",
+    "suspension",
+    "wheel_front_left",
+    "wiring_harness"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "battery",
+    "crossmember",
+    "front_left_door",
+    "other"
+  ],
+  "extra_parts": [
+    "a_pillar",
+    "ac_condenser",
+    "radiator_support",
+    "seat_belt",
+    "washer_system"
+  ],
+  "vehicle_id": "Mercedes-Benz_EQB_EQB_250_Luxury_Line_5d_damaged_car__ID6796804",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HYUNDAI_Tucson_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and their repair actions, but it missed several key parts, misjudged overall severity, and provided specific structural damage claims where the ground truth indicated unknown."
+}

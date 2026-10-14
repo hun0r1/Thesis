@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.818,
+  "part_recall": 0.75,
+  "part_f1": 0.783,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.778,
+  "severity_matches": 7,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 5300.0,
+  "ai_estimated_repair_cost": 5475.0,
+  "cost_abs_error": 175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "impact_bar",
+    "radiator",
+    "radiator_support",
+    "washer_system"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "headlight_left",
+    "intercooler"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "frame_rail"
+  ],
+  "vehicle_id": "2019_Mercedes_Benz_Gle_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

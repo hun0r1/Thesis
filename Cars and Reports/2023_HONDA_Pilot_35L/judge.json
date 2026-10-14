@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the vehicle as a total loss, but exhibited significant inaccuracies in the completeness and specific details of damaged parts, their severities, repair actions, and the final estimated repair cost."
+}

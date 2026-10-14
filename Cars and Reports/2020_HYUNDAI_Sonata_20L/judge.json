@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_HYUNDAI_Sonata_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 2,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified several damaged parts, their severities, and repair actions, but it also omitted key ground truth parts, included unsupported parts, reported an incorrect overall severity, estimated an incorrect repair cost, and failed to predict the total loss status."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_HYUNDAI_Kona_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified most damaged parts and their repair actions, but significantly underestimated the overall and several individual part severities."
+}

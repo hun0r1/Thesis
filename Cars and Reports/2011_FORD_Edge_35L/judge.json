@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_FORD_Edge_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss, but contained critical factual errors regarding airbag deployment, significant discrepancies in estimated repair cost, and inaccuracies in the detailed list of damaged parts and their severities."
+}

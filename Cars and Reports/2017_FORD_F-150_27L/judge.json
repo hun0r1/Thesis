@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_FORD_F-150_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified one of the two damaged parts (window glass) and its repair action, as well as the airbag deployment status and other labels like damage category and drivability; however, it crucially omitted the damaged engine, incorrectly assessed severities for the identified part and overall, and added several parts not present in the ground truth."
+}

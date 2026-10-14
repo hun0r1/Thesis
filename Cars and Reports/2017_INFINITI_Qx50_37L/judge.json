@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_INFINITI_Qx50_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most key parts, overall severity, and total loss prediction, but exhibited some inaccuracies in specific part locations, individual part severities, and repair actions."
+}

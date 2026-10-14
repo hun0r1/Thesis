@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Toyota Spade_REF27103680",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts with minor naming variations but included several unverified additional parts, had a differing overall severity assessment and one incorrect part severity, and several repair actions were incorrect or less specific than ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Honda Jazz 1.3S_REF27109264",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "While identifying most damaged parts and their repair actions, the AI report's overall repair cost and total loss prediction were inaccurate, alongside several discrepancies in individual part severities and structural damage."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_LEXUS_RX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified structural damage and airbag deployment status, and the total loss prediction was accurate, but it missed one key body part, included several unsupported parts, provided an incorrect overall severity assessment, and its total estimated repair cost was approximately 29% higher than the ground truth."
+}

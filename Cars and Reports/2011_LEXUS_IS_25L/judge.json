@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_LEXUS_IS_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most body panel damages and overall severity, but it significantly omitted critical powertrain and suspension components, and contained inaccuracies in structural damage assessments and specific repair actions for several parts."
+}

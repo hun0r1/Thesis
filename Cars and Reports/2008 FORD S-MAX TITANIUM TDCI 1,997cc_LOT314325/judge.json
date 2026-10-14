@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 FORD S-MAX TITANIUM TDCI 1,997cc_LOT314325",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and the overall severity, but missed some key parts and had significant inaccuracies in individual part repair actions and severities."
+}

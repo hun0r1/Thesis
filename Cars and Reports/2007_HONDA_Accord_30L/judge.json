@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_HONDA_Accord_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 1,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified some damage parts like paint and headlights but missed critical components such as the engine, specific tires, and engine bay components found in the ground truth, while also adding unconfirmed parts. The severity assessment is largely incorrect, with a complete mismatch for overall severity (mild vs. total_loss) and several individual part severity discrepancies. Repair actions showed some correctness for identified parts but were inconsistent for others."
+}

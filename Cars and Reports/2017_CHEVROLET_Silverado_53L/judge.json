@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_CHEVROLET_Silverado_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, significantly misidentifying airbag deployment status and associated parts, providing substantially incorrect repair costs, and mislabeling overall severity despite correctly predicting total loss."
+}

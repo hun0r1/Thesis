@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_BUICK_Encore_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 1,
+    "severity": 1,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report accurately reflected airbag deployment and structural integrity, but incorrectly identified the damaged part, its severity, and the required repair action, leading to a largely incorrect damage assessment."
+}

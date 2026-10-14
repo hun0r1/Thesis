@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth parts and their repair actions, along with the overall severity, but reported incorrect severities for two parts and included additional parts not present in the ground truth."
+}

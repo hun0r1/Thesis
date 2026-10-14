@@ -1,0 +1,50 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.529,
+  "part_recall": 0.692,
+  "part_f1": 0.6,
+  "gt_part_count": 13,
+  "ai_part_count": 17,
+  "matched_part_count": 9,
+  "severity_match_rate": 1.0,
+  "severity_matches": 8,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 13875.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "cooling_system",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "suspension"
+  ],
+  "missed_parts": [
+    "front_left_door",
+    "front_right_fender",
+    "headlight_right",
+    "radiator_support"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "airbag_passenger",
+    "cooling_fan",
+    "dashboard",
+    "engine",
+    "front_right_door",
+    "intercooler",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2016 Honda Shuttle Hybrid_REF27097561",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

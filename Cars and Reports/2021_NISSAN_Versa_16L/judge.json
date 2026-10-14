@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_NISSAN_Versa_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly accurate regarding parts identified, their repair actions, and overall total loss prediction, but it has significant inaccuracies in part severity levels, structural damage, and estimated repair costs."
+}

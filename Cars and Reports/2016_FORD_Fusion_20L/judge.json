@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_Fusion_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity, structural damage, airbag deployment, and total loss status, but exhibited significant omissions in the specific list of damaged parts, an incorrect repair action for a key component, and a substantial difference in the total estimated repair cost."
+}

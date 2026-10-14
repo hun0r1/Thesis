@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_BMW_X3_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and the overall severity but missed some key parts, made several unsupported claims about structural damage contradicting the ground truth, and had some discrepancies in individual part severities and repair actions."
+}

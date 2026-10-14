@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 CITROEN DISPATCH 1200 L2H1 ENTERPRISE HDI 1,997cc_LOT314239",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI accurately predicted total loss and identified many damaged parts, but frequently erred on individual part severities, repair actions, and the estimated total repair cost, while also missing several critical components."
+}

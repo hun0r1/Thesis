@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_FORD_Ranger_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts and their repair actions/severities, but missed several key components, often exaggerated severities and repair actions, and provided a significantly higher cost estimate."
+}

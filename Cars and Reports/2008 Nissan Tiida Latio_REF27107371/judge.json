@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Nissan Tiida Latio_REF27107371",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity, structural damage, and repair actions for many major front impact components; however, it failed to identify key damage in other areas like the rear and interior, and included some unconfirmed parts."
+}

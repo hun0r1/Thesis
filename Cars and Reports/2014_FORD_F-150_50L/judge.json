@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_F-150_50L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some common damaged parts and their repair actions but missed critical components like the engine and front door, inaccurately assessed overall severity as 'moderate' instead of 'severe', and provided inconsistent details for other items like the radiator."
+}

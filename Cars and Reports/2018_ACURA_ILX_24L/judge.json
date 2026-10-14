@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_ACURA_ILX_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report demonstrated partial accuracy for identified parts and their repair actions, but significantly missed several key damaged components (e.g., engine, passenger airbag), incorrectly assessed the front passenger airbag deployment, and misclassified the overall severity from 'total_loss' to 'severe'."
+}

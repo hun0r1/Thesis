@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_GMC_Sierra_60L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and many repair actions for identified parts, but it missed several key damaged parts, including the engine and steering wheel, and provided mostly incorrect structural damage assessments."
+}

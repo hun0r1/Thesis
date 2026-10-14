@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_Mercedes_Benz_E_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, significantly misrepresenting airbag deployment, structural frame damage, overall severity, and omitting the damaged engine, despite correctly identifying some other parts and their repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_TOYOTA_Prius_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately predicted overall severity, estimated repair cost, and total loss, but exhibited partial completeness and correctness in individual part details, including missing two parts, adding one extra part, and misidentifying severities and repair actions for several matched parts."
+}

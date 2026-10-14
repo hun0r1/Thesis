@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019 KIA RIO GT-Line_REF27111500",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified overall severity, airbag deployment, and repair actions for most identified parts, but missed about half of the specified damaged parts and consistently understated the severity of many identified damages compared to the ground truth."
+}

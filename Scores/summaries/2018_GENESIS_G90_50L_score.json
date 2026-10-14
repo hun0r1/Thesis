@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.615,
+  "part_recall": 0.889,
+  "part_f1": 0.727,
+  "gt_part_count": 9,
+  "ai_part_count": 13,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 12600.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_window",
+    "suspension",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "floor_pan",
+    "other",
+    "paint",
+    "rear_right_quarter_panel",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2018_GENESIS_G90_50L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

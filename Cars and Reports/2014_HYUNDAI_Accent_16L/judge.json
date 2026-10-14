@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HYUNDAI_Accent_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying some damaged parts and the total loss prediction, but it misses several ground truth parts, adds incorrect ones, has significant errors in severity and repair actions for multiple items, includes incorrect structural damage, and its overall estimated repair cost is notably higher."
+}

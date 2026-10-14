@@ -1,0 +1,50 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.722,
+  "part_recall": 0.812,
+  "part_f1": 0.765,
+  "gt_part_count": 16,
+  "ai_part_count": 18,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.692,
+  "severity_matches": 9,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 10750.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_passenger",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "subframe",
+    "tire"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "airbag_side",
+    "cooling_fan",
+    "front_right_fender",
+    "seat_belt"
+  ],
+  "vehicle_id": "2023_HONDA_Odyssey_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 3,
+  "score_overall": 4,
+  "part_precision": 0.889,
+  "part_recall": 0.727,
+  "part_f1": 0.8,
+  "gt_part_count": 11,
+  "ai_part_count": 9,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 2925.0,
+  "ai_estimated_repair_cost": 2688.0,
+  "cost_abs_error": 237.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator_support",
+    "rear_bumper",
+    "suspension"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "radiator",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "cooling_system"
+  ],
+  "vehicle_id": "2015_CHRYSLER_Town_AND_Country_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

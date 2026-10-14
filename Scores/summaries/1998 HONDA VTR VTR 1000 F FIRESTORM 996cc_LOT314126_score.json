@@ -1,0 +1,36 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.5,
+  "part_f1": 0.667,
+  "gt_part_count": 8,
+  "ai_part_count": 4,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.75,
+  "severity_matches": 3,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 2530.0,
+  "ai_estimated_repair_cost": 575.0,
+  "cost_abs_error": 1955.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "body_panel",
+    "front_left_fender",
+    "seat",
+    "wiring_harness"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "mirror_left",
+    "other",
+    "windshield"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "1998 HONDA VTR VTR 1000 F FIRESTORM 996cc_LOT314126",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

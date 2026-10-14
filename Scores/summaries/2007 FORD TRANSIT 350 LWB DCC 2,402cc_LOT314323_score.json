@@ -1,0 +1,50 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.824,
+  "part_recall": 0.778,
+  "part_f1": 0.8,
+  "gt_part_count": 18,
+  "ai_part_count": 17,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.357,
+  "severity_matches": 5,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "hood",
+    "mirror_left",
+    "mirror_right",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_right_door",
+    "roof",
+    "seat",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "left_side_skirt/rocker_panel",
+    "pickup_bed",
+    "right_side_skirt/rocker_panel",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "other",
+    "rocker_panel_left",
+    "rocker_panel_right"
+  ],
+  "vehicle_id": "2007 FORD TRANSIT 350 LWB DCC 2,402cc_LOT314323",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

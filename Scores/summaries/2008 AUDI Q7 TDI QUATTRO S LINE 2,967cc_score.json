@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.727,
+  "part_recall": 0.727,
+  "part_f1": 0.727,
+  "gt_part_count": 11,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.25,
+  "severity_matches": 2,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2075.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "mirror_left",
+    "radiator_support",
+    "rear_bumper",
+    "seat",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "rear_left_door"
+  ],
+  "extra_parts": [
+    "grille",
+    "headlight_left",
+    "other"
+  ],
+  "vehicle_id": "2008 AUDI Q7 TDI QUATTRO S LINE 2,967cc",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

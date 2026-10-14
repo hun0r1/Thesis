@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output incorrectly identified the side of damage for several key rear components, missed multiple damaged parts, misstated the overall severity, provided incorrect repair actions for major components, and inaccurately assessed the structural frame damage and vehicle drivability."
+}

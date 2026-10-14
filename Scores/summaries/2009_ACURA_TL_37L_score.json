@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.5,
+  "part_recall": 0.6,
+  "part_f1": 0.545,
+  "gt_part_count": 5,
+  "ai_part_count": 6,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.667,
+  "severity_matches": 2,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1775.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_left_door",
+    "rear_left_door",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_bumper"
+  ],
+  "extra_parts": [
+    "b_pillar",
+    "rocker_panel_left",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2009_ACURA_TL_37L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

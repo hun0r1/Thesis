@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Citroën_Grand_C4_Spacetourer_15_BlueHDi_130_SS_EAT8_Feel_5d__ID6796799",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified some key damages with mostly correct severities and overall severity, but missed several other specified parts and their associated repair actions, and presented one incorrect repair action for a listed part."
+}

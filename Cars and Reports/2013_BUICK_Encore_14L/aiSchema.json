@@ -1,0 +1,77 @@
+{
+  "vehicle_id": "2013_BUICK_Encore_14L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "SCA Auction",
+    "url": "https://sca.auction/en/1098558179-2013-buick-encore",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2013,
+    "make": "BUICK",
+    "model": "Encore 1.4L",
+    "generation": null,
+    "body_style": "suv",
+    "engine": "1.4L ECOTEC",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "unknown",
+    "description": "The vehicle shows minor wear and tear on plastic components, but no clear signs of recent collision damage.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper_trim",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 125,
+    "market_value_pre_accident": 6500,
+    "insurer_total_loss": false,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 12,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_HYUNDAI_Sonata_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts and the total loss status, but was mostly incorrect in estimated repair costs and had several inaccuracies in part severity and repair actions."
+}

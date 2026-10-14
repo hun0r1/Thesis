@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Escape_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report incorrectly identified the primary side of impact (left vs. right), omitted several key damaged parts while adding unsubstantiated ones, misjudged structural and overall severities, and significantly differed on estimated repair costs, despite correctly predicting total loss."
+}

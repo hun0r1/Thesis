@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_KIA_Optima_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction but missed a significant number of damaged parts, leading to inaccuracies in individual part severities, repair actions, and the total estimated cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_CHEVROLET_Traverse_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified high-level damage details like airbag deployment, structural frame damage, overall severity, and damage category. However, the detailed list of damaged parts was significantly incomplete compared to the ground truth, leading to multiple discrepancies in individual part severities and recommended repair actions."
+}

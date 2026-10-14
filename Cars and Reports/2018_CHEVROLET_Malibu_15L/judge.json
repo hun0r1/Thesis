@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_CHEVROLET_Malibu_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified most damaged parts and their repair actions, along with the overall total loss prediction, but significantly misestimated the total repair cost and several individual part severities."
+}

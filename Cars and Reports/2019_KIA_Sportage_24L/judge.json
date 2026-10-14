@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_KIA_Sportage_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and predicted total loss, and most repair actions, but significantly misidentified the side of the vehicle with damage and greatly underestimated the repair cost."
+}

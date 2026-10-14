@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_CHRYSLER_Town_AND_Country_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified most damaged parts and the total loss status, but significantly underestimated the total repair cost and misjudged the severity for several key components."
+}

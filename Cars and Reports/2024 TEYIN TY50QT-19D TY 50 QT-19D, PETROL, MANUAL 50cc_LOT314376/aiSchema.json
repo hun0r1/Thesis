@@ -1,0 +1,133 @@
+{
+  "vehicle_id": "2024 TEYIN TY50QT-19D TY 50 QT-19D, PETROL, MANUAL 50cc_LOT314376",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2024-teyin-ty50qt-19d-ty-50-qt-19d-petrol-manual-314376",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2024,
+    "make": "TEYIN",
+    "model": "TY50QT-19D",
+    "generation": null,
+    "body_style": "other",
+    "engine": "Petrol",
+    "drivetrain": "Automatic",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Plastics all round have damage, both mirrors, general wear and tear and scratches. The vehicle does not start.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_fairing",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 60.0
+      },
+      {
+        "part": "side_fairing_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 40.0
+      },
+      {
+        "part": "side_fairing_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 40.0
+      },
+      {
+        "part": "rear_fender",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 30.0
+      },
+      {
+        "part": "side_mirror_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "side_mirror_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "engine",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 300.0
+      },
+      {
+        "part": "electrical_system",
+        "location": "unknown",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 125.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 645.0,
+    "market_value_pre_accident": 1800.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-15T12:47:00Z",
+    "confidence": "ai-generated",
+    "images_used": 10,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_SUBARU_Forester_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified overall severity and total loss, but significantly mismatched or omitted parts and their repair actions, leading to an inaccurate cost estimate."
+}

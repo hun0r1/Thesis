@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_TOYOTA_Prius_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their repair actions but missed several key components, had incorrect severity assessments for some parts and overall, showed a significant deviation in estimated repair cost, and completely failed to predict total loss."
+}

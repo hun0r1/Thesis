@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.615,
+  "part_f1": 0.762,
+  "gt_part_count": 13,
+  "ai_part_count": 8,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3125.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "mirror_left",
+    "tire",
+    "windshield"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_right_door",
+    "grille",
+    "headlight_left",
+    "hood"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2016_NISSAN_Frontier_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

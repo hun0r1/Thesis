@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_INFINITI_G25_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is largely incomplete, omitting most damaged parts and incorrectly assessing the overall severity, though it accurately described the repair actions for the few parts it did identify."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_TOYOTA_Tacoma_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI output is mostly correct, accurately identifying most damaged parts and the overall severity, though it missed one specific part and had minor discrepancies in a few part-level severities and repair actions."
+}

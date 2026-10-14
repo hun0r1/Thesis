@@ -1,0 +1,38 @@
+{
+  "score_parts": 2,
+  "score_severity": 2,
+  "score_cost": 2,
+  "score_overall": 2,
+  "part_precision": 0.75,
+  "part_recall": 0.375,
+  "part_f1": 0.5,
+  "gt_part_count": 8,
+  "ai_part_count": 4,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": 1750.0,
+  "ai_estimated_repair_cost": 862.5,
+  "cost_abs_error": 887.5,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left"
+  ],
+  "missed_parts": [
+    "fog_light",
+    "grille",
+    "hood",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "2013_NISSAN_Frontier_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

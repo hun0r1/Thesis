@@ -1,0 +1,45 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.917,
+  "part_recall": 0.733,
+  "part_f1": 0.815,
+  "gt_part_count": 15,
+  "ai_part_count": 12,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.636,
+  "severity_matches": 7,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2800.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "engine",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "underbody_cover"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "front_left_fender",
+    "impact_bar",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "tailgate"
+  ],
+  "vehicle_id": "2023 Toyota Corolla GX_REF27110246",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

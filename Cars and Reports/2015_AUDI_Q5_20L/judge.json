@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_AUDI_Q5_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report provided mostly correct information for overall severity, repair actions for reported parts, and total loss prediction, but contained inaccuracies in specific part identification (e.g., radiator vs radiator support), incorrect locations for some parts, one missing part, and a minor discrepancy in the total estimated repair cost."
+}

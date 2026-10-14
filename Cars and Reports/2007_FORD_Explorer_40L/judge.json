@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_FORD_Explorer_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts and their severities, accurately assessing repair actions for most detected items but significantly missed key components like the engine and misjudged the overall severity."
+}

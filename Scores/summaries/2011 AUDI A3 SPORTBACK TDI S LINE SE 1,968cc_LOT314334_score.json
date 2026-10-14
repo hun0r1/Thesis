@@ -1,0 +1,43 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.9,
+  "part_recall": 0.692,
+  "part_f1": 0.783,
+  "gt_part_count": 13,
+  "ai_part_count": 10,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.889,
+  "severity_matches": 8,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2425.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_right_door",
+    "mirror_right",
+    "other",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rear_right_door",
+    "rear_right_quarter_panel"
+  ],
+  "missed_parts": [
+    "front_right_fender",
+    "rocker_panel_left",
+    "seat",
+    "windshield"
+  ],
+  "extra_parts": [
+    "rocker_panel_right"
+  ],
+  "vehicle_id": "2011 AUDI A3 SPORTBACK TDI S LINE SE 1,968cc_LOT314334",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

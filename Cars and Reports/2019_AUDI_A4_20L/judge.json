@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_AUDI_A4_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several parts and their repair actions but missed a key damaged part (engine), had an incorrect location for another, and significantly misstated overall and structural damage severities."
+}

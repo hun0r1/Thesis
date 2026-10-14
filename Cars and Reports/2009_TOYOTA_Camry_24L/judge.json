@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_TOYOTA_Camry_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matched the ground truth, identifying many correct parts and structural damage details, but it missed critical components like the engine and passenger airbag, incorrectly reported a passenger airbag deployment status, and provided a different overall severity assessment."
+}

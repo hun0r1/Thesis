@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_JEEP_Commander_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and most repair actions but significantly underestimated the estimated repair cost, missed a critical structural part, and had several inaccuracies in part severities and part identification."
+}

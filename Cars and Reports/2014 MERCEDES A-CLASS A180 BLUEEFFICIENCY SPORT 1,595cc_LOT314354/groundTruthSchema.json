@@ -1,0 +1,110 @@
+{
+  "vehicle_id": "2014 MERCEDES A-CLASS A180 BLUEEFFICIENCY SPORT 1,595cc_LOT314354",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2014-mercedes-a-class-a180-blueefficiency-sport-314354?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D9",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "A-Class A180 BlueEFFICIENCY Sport",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "Petrol",
+    "drivetrain": "Manual",
+    "vin": null,
+    "usage_history": "private",
+    "odometer_km": 179251.3,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Falkirk"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle exhibits damage to the offside sill, front left window, nearside front fender, and both nearside doors, alongside general scuffs and wear and tear.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "rocker_panel",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_side_window",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 7,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

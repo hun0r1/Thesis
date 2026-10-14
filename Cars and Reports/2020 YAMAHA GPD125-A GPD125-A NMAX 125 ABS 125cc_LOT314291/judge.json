@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 YAMAHA GPD125-A GPD125-A NMAX 125 ABS 125cc_LOT314291",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and most repair actions but contained several inaccuracies in specific part names, the side of one part, and most individual part severities, while also including additional parts not present in the ground truth."
+}

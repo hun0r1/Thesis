@@ -1,0 +1,45 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.917,
+  "part_recall": 0.733,
+  "part_f1": 0.815,
+  "gt_part_count": 15,
+  "ai_part_count": 12,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.636,
+  "severity_matches": 7,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2898.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "fog_light",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "underbody_cover"
+  ],
+  "missed_parts": [
+    "front_left_door",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel"
+  ],
+  "extra_parts": [
+    "ac_condenser"
+  ],
+  "vehicle_id": "2013_CHEVROLET_Camaro_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 BMW X1 SDRIVE20D M SPORT 1,995cc_LOT314159",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified most damaged parts and the overall severity, but showed some inconsistencies in specific part severities, repair actions, and had a few omissions and additions compared to the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_TOYOTA_Scion_IM_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately matched overall severity and most part-specific severities, yet it omitted several ground truth parts and their repair actions while including some unsupported parts; cost and total loss dimensions were null as per ground truth."
+}

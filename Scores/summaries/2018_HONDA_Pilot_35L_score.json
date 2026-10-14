@@ -1,0 +1,47 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.385,
+  "part_recall": 0.5,
+  "part_f1": 0.435,
+  "gt_part_count": 10,
+  "ai_part_count": 13,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 8500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "other",
+    "rear_body_panel",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_passenger",
+    "dashboard",
+    "front_left_fender",
+    "rear_left_door",
+    "seat_belt",
+    "subframe",
+    "trunk_lid",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2018_HONDA_Pilot_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

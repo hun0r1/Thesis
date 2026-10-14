@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_BMW_X5_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss prediction but showed significant discrepancies in specific damaged parts, their severities, and repair actions, resulting in a substantial overestimation of the repair cost and a factual contradiction regarding structural damage."
+}

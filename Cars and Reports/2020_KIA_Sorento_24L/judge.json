@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_KIA_Sorento_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified several damaged parts and their repair actions, but it missed critical damaged parts like the engine and left-side components, significantly underestimated overall severity, and incorrectly assessed some individual part severities."
+}

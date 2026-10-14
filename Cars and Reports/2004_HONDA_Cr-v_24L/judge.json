@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output is mostly incorrect, significantly underreporting the damaged parts, leading to an incorrect overall severity assessment, although it correctly identified the severity and repair actions for the parts it did detect."
+}

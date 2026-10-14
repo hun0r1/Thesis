@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 Suzuki Ignis_REF27070389",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified the overall damage category and severity, but it omitted several damaged parts, included a few extra not supported by the ground truth, and had numerous inaccuracies regarding the severity and repair actions for the identified parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Audi_A3_Sportback_15_35_TFSi_110kW_5d_damaged_car__ID6796798",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts but missed one specific GT part, added extraneous parts, had several repair action mismatches, and differed significantly on structural and overall severity assessments."
+}

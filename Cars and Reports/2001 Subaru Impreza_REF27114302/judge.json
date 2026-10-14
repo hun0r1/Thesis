@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001 Subaru Impreza_REF27114302",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly indicated that total loss could not be predicted, but it missed critical damaged parts like the driver airbag and steering wheel, provided many incorrect severities for individual parts, had an incorrect overall severity, and frequently recommended incorrect repair actions."
+}

@@ -1,0 +1,141 @@
+{
+  "vehicle_id": "2017 HONDA ANC ANC 125 H 125cc_LOT314282",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2017-honda-anc-anc-125-h-314282?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D6",
+    "language": "unknown",
+    "reported_at": "2024-04-16T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "HONDA",
+    "model": "ANC 125 H",
+    "generation": null,
+    "body_style": "other",
+    "engine": "Petrol",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2024-04-16T00:00:00Z",
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "multiple",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained front and side impact damage, resulting in significant cosmetic and minor functional damage to various components, in addition to pre-existing conditions.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_mudguard",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "front_fairings",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "brake_lever_left",
+        "location": "front_left",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 20.0
+      },
+      {
+        "part": "brake_lever_right",
+        "location": "front_right",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 20.0
+      },
+      {
+        "part": "grips",
+        "location": "front",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 15.0
+      },
+      {
+        "part": "n_s_fairings",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 60.0
+      },
+      {
+        "part": "o_s_fairings",
+        "location": "right_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 60.0
+      },
+      {
+        "part": "leg_guard",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "ignition_wiring",
+        "location": "front",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 600.0,
+    "market_value_pre_accident": 750.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-05-15T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 14,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

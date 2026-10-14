@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_MITSUBISHI_Eclipse_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified about half of the damaged parts but missed critical components like the engine and several body parts, and incorrectly added 'radiator_support'. The severity assessment was largely incorrect, both for individual parts and the overall severity. Repair actions were correct for most identified parts, but many actions for ground truth parts were entirely missed due to the parts not being identified."
+}

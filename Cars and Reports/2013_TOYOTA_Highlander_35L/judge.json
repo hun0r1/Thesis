@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately reported the total estimated repair cost and predicted total loss status, but its detailed parts list was significantly incomplete, missing nearly half of the ground truth items, while also incorrectly identifying others and adding unsupported claims."
+}

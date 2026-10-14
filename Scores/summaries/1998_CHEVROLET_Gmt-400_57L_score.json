@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.5,
+  "part_recall": 0.6,
+  "part_f1": 0.545,
+  "gt_part_count": 5,
+  "ai_part_count": 6,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.667,
+  "severity_matches": 2,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": 975.0,
+  "ai_estimated_repair_cost": 2100.0,
+  "cost_abs_error": 1125.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_left_door",
+    "rocker_panel_left",
+    "tailgate"
+  ],
+  "missed_parts": [
+    "pickup_bed",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "front_left_fender",
+    "rear_bumper",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "1998_CHEVROLET_Gmt-400_57L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

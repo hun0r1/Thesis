@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Express_43L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, missing key damaged parts like the engine and rocker panel, incorrectly identifying other parts, and providing significantly different overall severity and repair actions."
+}

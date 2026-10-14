@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified the overall severity and total loss prediction, and most repair actions were correct, but it missed several damaged parts (e.g., frame), incorrectly identified the side of others (e.g., fenders, fog lights), and had significant inaccuracies in individual part severities and estimated costs."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 BMW 4 SERIES M4 COMPETITION 2,979cc_LOT314290",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified the overall severity, total loss status, structural damage, and most ground truth parts with minor location inaccuracies. However, it included a significant number of additional, unsupported parts, had notable inaccuracies in specific part severities and repair actions, and the estimated repair cost was largely incorrect."
+}

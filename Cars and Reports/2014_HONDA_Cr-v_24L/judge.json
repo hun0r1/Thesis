@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss status, but missed several damaged parts, included extra ungrounded parts, had multiple incorrect individual part severities, and missed all 'inspect' repair actions, leading to a significantly underestimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 FORD FOCUS ZETEC 999cc_LOT314358",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly accurate, identifying most damaged parts with minor discrepancies in naming, one missing part, and slight inaccuracies in one part's severity and another's repair action, while structural and overall severity assessments are correct, but it notably fails to confirm the non-deployment status of the front airbags by reporting them as null."
+}

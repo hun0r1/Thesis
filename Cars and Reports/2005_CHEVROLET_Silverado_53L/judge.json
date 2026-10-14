@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_CHEVROLET_Silverado_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately identifying airbags, structural damage, overall severity, and most part-level severities and repair actions, but it missed one part and erroneously included three extra parts in the damage list."
+}

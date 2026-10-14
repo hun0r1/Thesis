@@ -1,0 +1,36 @@
+{
+  "score_parts": 5,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.625,
+  "part_recall": 1.0,
+  "part_f1": 0.769,
+  "gt_part_count": 5,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3700.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "wheel_front_left"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "a_pillar",
+    "hood",
+    "suspension"
+  ],
+  "vehicle_id": "2019_CHEVROLET_Trax_14L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

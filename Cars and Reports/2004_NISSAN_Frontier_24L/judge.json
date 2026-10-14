@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_NISSAN_Frontier_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and their repair actions, but missed critical damage to the engine and front fenders, resulting in an incorrect overall severity assessment and a structural detail error."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_HYUNDAI_Veloster_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified some damaged parts and their repair actions, but significantly missed other major damages and misjudged the overall severity."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_NISSAN_Rogue_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matches the ground truth, correctly identifying several damaged parts and their attributes but significantly omitting critical parts like the engine and front grille, and introducing some unsupported claims and minor discrepancies in severity and repair actions."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_VOLKSWAGEN_Atlas_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately assessing overall severity and drivability, but it critically misses key components like the engine and airbag system, misjudges the structural frame's severity, and includes several unsupported parts, alongside numerous individual part severity mismatches."
+}

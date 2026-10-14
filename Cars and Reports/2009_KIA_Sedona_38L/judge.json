@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_KIA_Sedona_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately reflected the overall severity and total loss prediction, but showed notable discrepancies in identifying some damaged parts, incorrectly assessed the severity of structural frame damage and other key components, and provided significantly different repair actions and an estimated repair cost almost 30% lower than the ground truth."
+}

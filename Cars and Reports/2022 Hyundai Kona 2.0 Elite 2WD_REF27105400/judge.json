@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022 Hyundai Kona 2.0 Elite 2WD_REF27105400",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts and structural integrity, but it included several extra parts, frequently exaggerated part severities, made incorrect claims about side and curtain airbag deployment, and had some inaccuracies in recommended repair actions."
+}

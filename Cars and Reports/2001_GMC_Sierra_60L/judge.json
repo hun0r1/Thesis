@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_GMC_Sierra_60L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output is mostly correct, accurately identifying all ground truth parts (despite one additional unsupported part), overall severity, and predicted total loss, but it has several inaccuracies in individual part severities and repair actions, and significantly overestimates the total repair cost."
+}

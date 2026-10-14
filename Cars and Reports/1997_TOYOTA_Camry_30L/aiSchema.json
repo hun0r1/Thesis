@@ -1,0 +1,181 @@
+{
+  "vehicle_id": "1997_TOYOTA_Camry_30L",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": null,
+    "url": "https://sca.auction/en/1050657086-1997-toyota-camry",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 1997,
+    "make": "TOYOTA",
+    "model": "Camry",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "3.0L V6",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "The vehicle has minor cosmetic damage to the front bumper and hood, and scratches along the driver's side doors. The rear also shows minor signs of wear. No major structural damage is apparent.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      },
+      {
+        "part": "hood",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 300
+      },
+      {
+        "part": "front_fender_driver_side",
+        "location": "front_left",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "driver_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 150
+      },
+      {
+        "part": "headlight_driver_side",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "headlight_passenger_side",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "front_passenger_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "rear_passenger_door",
+        "location": "right_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "rear_driver_door",
+        "location": "left_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "door_mirror_driver_side",
+        "location": "left_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "door_mirror_passenger_side",
+        "location": "right_side",
+        "category": "body",
+        "severity": "none",
+        "repair_action": "none",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "windshield",
+        "location": "front",
+        "category": "glass",
+        "severity": "none",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 0
+      },
+      {
+        "part": "interior",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "clean",
+        "estimated_cost_eur": 50
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 950,
+    "market_value_pre_accident": 3000,
+    "insurer_total_loss": false,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": true
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 16,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

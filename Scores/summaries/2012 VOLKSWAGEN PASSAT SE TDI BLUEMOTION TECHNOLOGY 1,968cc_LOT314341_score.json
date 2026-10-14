@@ -1,0 +1,45 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.733,
+  "part_recall": 0.917,
+  "part_f1": 0.815,
+  "gt_part_count": 12,
+  "ai_part_count": 15,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.727,
+  "severity_matches": 8,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": 4025.0,
+  "ai_estimated_repair_cost": 3900.0,
+  "cost_abs_error": 125.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "radiator",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "wiper"
+  ],
+  "missed_parts": [
+    "body_panel"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "headlight_right",
+    "impact_bar",
+    "rear_left_door"
+  ],
+  "vehicle_id": "2012 VOLKSWAGEN PASSAT SE TDI BLUEMOTION TECHNOLOGY 1,968cc_LOT314341",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

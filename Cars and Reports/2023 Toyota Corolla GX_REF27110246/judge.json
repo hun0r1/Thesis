@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023 Toyota Corolla GX_REF27110246",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and accurate repair actions for most of the parts it listed, but it missed several key damaged parts present in the ground truth and incorrectly assessed the structural severity of the floor pan."
+}

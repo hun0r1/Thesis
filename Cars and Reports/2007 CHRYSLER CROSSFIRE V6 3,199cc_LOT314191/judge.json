@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 CHRYSLER CROSSFIRE V6 3,199cc_LOT314191",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report missed several specific damaged parts and their repair actions, had a minor discrepancy in part severity, and severely underestimated the estimated repair cost, though the overall severity matched."
+}

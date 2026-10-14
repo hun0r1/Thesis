@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_NISSAN_Pathfinder_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified many damaged parts and their repair actions, along with the overall severity, but it significantly omitted several key components from the ground truth and contained discrepancies in individual part severities, structural damage, and the overall damage category."
+}

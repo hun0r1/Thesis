@@ -1,0 +1,46 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.938,
+  "part_recall": 0.938,
+  "part_f1": 0.938,
+  "gt_part_count": 16,
+  "ai_part_count": 16,
+  "matched_part_count": 15,
+  "severity_match_rate": 0.786,
+  "severity_matches": 11,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2225.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "mirror_right",
+    "other",
+    "rear_left_door",
+    "rear_right_door",
+    "roof",
+    "wheel_rear_left",
+    "wheel_rear_right"
+  ],
+  "missed_parts": [
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "front_right_fender"
+  ],
+  "vehicle_id": "2002 VOLKSWAGEN POLO S 1,198cc_LOT314313",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

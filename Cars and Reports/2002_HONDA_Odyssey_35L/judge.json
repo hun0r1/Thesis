@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002_HONDA_Odyssey_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately predicted total loss and had a very close overall estimated repair cost, but showed inconsistencies in specific part identification, damage severity, and structural details."
+}

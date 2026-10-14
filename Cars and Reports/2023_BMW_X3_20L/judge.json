@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_BMW_X3_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall severity, repair actions for relevant parts, and total loss prediction, but significantly over-reported the number of damaged parts and their specific names, leading to a largely incorrect estimated repair cost."
+}

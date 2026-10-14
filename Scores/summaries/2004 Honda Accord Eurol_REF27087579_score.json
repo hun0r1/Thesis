@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.773,
+  "part_recall": 0.895,
+  "part_f1": 0.829,
+  "gt_part_count": 19,
+  "ai_part_count": 22,
+  "matched_part_count": 17,
+  "severity_match_rate": 0.706,
+  "severity_matches": 12,
+  "severity_total_compared": 17,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 8500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_passenger",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "rear_bumper",
+    "rear_left_door",
+    "trunk_lid",
+    "wheel_front_left",
+    "wheel_front_right",
+    "windshield"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "dashboard",
+    "rear_left_quarter_panel",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "suspension"
+  ],
+  "vehicle_id": "2004 Honda Accord Eurol_REF27087579",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_TOYOTA_4-runner_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately identifying most repair actions but missing several key damaged parts and significantly underestimating the overall and component-level damage severity, including the frame."
+}

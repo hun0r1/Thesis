@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_MITSUBISHI_Outlander_Sport_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report largely matched the ground truth for airbags, structural damage, overall severity, and total loss, but it missed critical parts like the engine and left front fender, and had some discrepancies in individual part severities and repair actions."
+}

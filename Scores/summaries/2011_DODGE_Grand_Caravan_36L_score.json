@@ -1,0 +1,44 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.9,
+  "part_recall": 0.643,
+  "part_f1": 0.75,
+  "gt_part_count": 14,
+  "ai_part_count": 10,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.556,
+  "severity_matches": 5,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3850.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "rear_left_quarter_panel",
+    "tire"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "engine",
+    "other",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "suspension"
+  ],
+  "vehicle_id": "2011_DODGE_Grand_Caravan_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

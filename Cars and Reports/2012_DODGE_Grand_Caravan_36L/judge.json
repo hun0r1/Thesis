@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_DODGE_Grand_Caravan_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity, total loss prediction, airbag deployment status, and damage category, but made significant errors regarding the specific parts damaged by reporting them on the wrong side of the vehicle, and provided an estimated repair cost that was substantially higher than the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_HONDA_Civic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report demonstrates good accuracy for estimated repair costs and overall severity but contains significant errors in identifying all damaged parts (including structural components), specifying repair actions, and critically, predicting total loss."
+}

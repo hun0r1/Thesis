@@ -1,0 +1,77 @@
+{
+  "vehicle_id": "2011 NISSAN LEAF EV AUTO_LOT314234",
+  "source": {
+    "origin": "direct",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2011-nissan-leaf-ev-auto-314234?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D5",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "NISSAN",
+    "model": "LEAF",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "electric",
+    "drivetrain": null,
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "front",
+    "description": "Various cosmetic marks and scratches visible on the front bumper, consistent with general wear and tear or minor parking incidents. The vehicle does not start due to a flat battery.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 250,
+    "market_value_pre_accident": 6500,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 6,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

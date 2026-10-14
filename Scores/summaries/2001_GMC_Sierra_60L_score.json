@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.857,
+  "part_recall": 0.75,
+  "part_f1": 0.8,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 1425.0,
+  "ai_estimated_repair_cost": 2200.0,
+  "cost_abs_error": 775.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "other"
+  ],
+  "missed_parts": [
+    "front_right_fender",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "radiator_support"
+  ],
+  "vehicle_id": "2001_GMC_Sierra_60L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

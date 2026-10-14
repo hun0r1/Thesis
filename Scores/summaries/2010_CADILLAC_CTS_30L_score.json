@@ -1,0 +1,37 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.778,
+  "part_f1": 0.875,
+  "gt_part_count": 9,
+  "ai_part_count": 7,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.571,
+  "severity_matches": 4,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": 2600.0,
+  "ai_estimated_repair_cost": 3100.0,
+  "cost_abs_error": 500.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "headlight_right"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2010_CADILLAC_CTS_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

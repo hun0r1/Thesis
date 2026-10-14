@@ -1,0 +1,48 @@
+{
+  "score_parts": 2,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.7,
+  "part_recall": 0.438,
+  "part_f1": 0.538,
+  "gt_part_count": 16,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.143,
+  "severity_matches": 1,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1840.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "interior_trim",
+    "mirror_left",
+    "rocker_panel_left",
+    "roof",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "front_left_fender",
+    "other",
+    "rear_bumper",
+    "rear_left_door",
+    "rocker_panel_right",
+    "taillight_left",
+    "tire",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [
+    "taillight_right",
+    "wheel_front_right",
+    "windshield"
+  ],
+  "vehicle_id": "2007 CITROEN BERLINGO 600 ENTERPRISE SWB H_C HDI 1,560cc_LOT314219",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

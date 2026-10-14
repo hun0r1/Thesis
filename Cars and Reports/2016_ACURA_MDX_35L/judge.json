@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_ACURA_MDX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and one specific damaged part with its repair action and severity, but it misidentified other damaged parts, their severities, and repair actions, and also included an ungrounded part."
+}

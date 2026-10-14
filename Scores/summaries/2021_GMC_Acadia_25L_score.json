@@ -1,0 +1,49 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.714,
+  "part_recall": 0.625,
+  "part_f1": 0.667,
+  "gt_part_count": 16,
+  "ai_part_count": 14,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7200.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "airbag_passenger",
+    "dashboard",
+    "engine",
+    "frame_rail",
+    "front_right_fender"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "cooling_fan",
+    "seat_belt",
+    "windshield"
+  ],
+  "vehicle_id": "2021_GMC_Acadia_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

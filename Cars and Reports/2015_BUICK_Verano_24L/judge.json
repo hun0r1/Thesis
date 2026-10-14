@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_BUICK_Verano_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output is mostly incorrect, missing critical parts like the engine and a fender, misrepresenting structural damage to the frame, and inaccurately assessing both overall and specific part severities and repair actions."
+}

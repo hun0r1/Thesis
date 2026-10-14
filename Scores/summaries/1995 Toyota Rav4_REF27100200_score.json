@@ -1,0 +1,44 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.556,
+  "part_recall": 0.455,
+  "part_f1": 0.5,
+  "gt_part_count": 11,
+  "ai_part_count": 9,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1275.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "engine",
+    "other",
+    "radiator",
+    "wheel_front_left",
+    "wiper"
+  ],
+  "extra_parts": [
+    "fog_light",
+    "front_right_fender",
+    "headlight_right",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "1995 Toyota Rav4_REF27100200",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,28 @@
+{
+  "score_parts": 5,
+  "score_severity": 1,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 1.0,
+  "part_f1": 1.0,
+  "gt_part_count": 1,
+  "ai_part_count": 1,
+  "matched_part_count": 1,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": 750.0,
+  "ai_estimated_repair_cost": 400.0,
+  "cost_abs_error": 350.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "hood"
+  ],
+  "missed_parts": [],
+  "extra_parts": [],
+  "vehicle_id": "2015_CHEVROLET_Silverado_60L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

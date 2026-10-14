@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 MITSUBISHI LANCER GS2 DI-D 1,968cc_LOT314335",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "While the AI accurately reported the overall severity and total loss status, it struggled with the accuracy and completeness of individual damaged parts, their severities, repair actions, and estimated costs."
+}

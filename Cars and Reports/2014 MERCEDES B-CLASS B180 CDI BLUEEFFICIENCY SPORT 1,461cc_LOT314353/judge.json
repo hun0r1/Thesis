@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 MERCEDES B-CLASS B180 CDI BLUEEFFICIENCY SPORT 1,461cc_LOT314353",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 2,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI provided a mostly accurate assessment, correctly identifying most damaged parts, all severity levels, structural damage, airbags, and total loss prediction, but fell short on specific repair actions and estimated costs, and included one extra unconfirmed part."
+}

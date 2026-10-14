@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_CHEVROLET_Silverado_48L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, missing critical damage to the engine and its associated severity and repair action, while also misidentifying several other parts, their severities, and required repair actions, and significantly misjudging the overall severity of the damage."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_NISSAN_Murano_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified many damaged components and most repair actions, but it struggled with overall severity, specific part severities, and critically, misidentified the front passenger airbag deployment status and missed related damaged parts."
+}

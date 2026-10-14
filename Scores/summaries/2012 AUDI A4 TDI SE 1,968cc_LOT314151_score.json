@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.929,
+  "part_recall": 0.765,
+  "part_f1": 0.839,
+  "gt_part_count": 17,
+  "ai_part_count": 14,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.462,
+  "severity_matches": 6,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3825.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_right_door",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rear_right_door",
+    "rocker_panel_left",
+    "suspension",
+    "windshield"
+  ],
+  "missed_parts": [
+    "paint",
+    "rocker_panel_right",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "rear_right_quarter_panel"
+  ],
+  "vehicle_id": "2012 AUDI A4 TDI SE 1,968cc_LOT314151",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

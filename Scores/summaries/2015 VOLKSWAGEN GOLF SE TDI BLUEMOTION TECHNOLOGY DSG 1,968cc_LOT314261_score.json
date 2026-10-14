@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.778,
+  "part_f1": 0.737,
+  "gt_part_count": 18,
+  "ai_part_count": 20,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.5,
+  "severity_matches": 6,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "steering",
+    "suspension",
+    "taillight_left",
+    "trunk_lid",
+    "wheel_rim",
+    "windshield"
+  ],
+  "missed_parts": [
+    "engine",
+    "radiator",
+    "tire",
+    "transmission"
+  ],
+  "extra_parts": [
+    "airbag_driver",
+    "dashboard",
+    "other",
+    "seat",
+    "seat_belt",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2015 VOLKSWAGEN GOLF SE TDI BLUEMOTION TECHNOLOGY DSG 1,968cc_LOT314261",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

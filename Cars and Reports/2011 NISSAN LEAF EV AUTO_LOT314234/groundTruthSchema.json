@@ -1,0 +1,86 @@
+{
+  "vehicle_id": "2011 NISSAN LEAF EV AUTO_LOT314234",
+  "source": {
+    "origin": "totalcar",
+    "publisher": null,
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2011-nissan-leaf-ev-auto-314234?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D5",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "NISSAN",
+    "model": "LEAF EV AUTO",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": "electric",
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "front_impact",
+    "impact_zone": "front",
+    "description": "Minor scrapes and marks visible on the front bumper and extending to the front right fender.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 350
+      },
+      {
+        "part": "front_right_fender",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 250
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 600,
+    "market_value_pre_accident": 6000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "front_collision",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 6,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_CHEVROLET_Equinox_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and the total loss status, but included numerous extra parts, significantly misrepresented the overall estimated repair cost, and had inaccuracies in overall and individual part severities."
+}

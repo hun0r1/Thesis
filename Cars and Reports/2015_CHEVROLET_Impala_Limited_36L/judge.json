@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_CHEVROLET_Impala_Limited_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report identified only a subset of the damaged parts, significantly missed critical components like the engine and radiator, and made major factual errors regarding the structural frame damage and overall severity, incorrectly classifying a total loss as moderate damage."
+}

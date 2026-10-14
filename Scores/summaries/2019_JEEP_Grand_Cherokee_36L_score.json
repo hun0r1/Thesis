@@ -1,0 +1,45 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": 2,
+  "score_overall": 4,
+  "part_precision": 0.6,
+  "part_recall": 0.9,
+  "part_f1": 0.72,
+  "gt_part_count": 10,
+  "ai_part_count": 15,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.889,
+  "severity_matches": 8,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 3750.0,
+  "ai_estimated_repair_cost": 4750.0,
+  "cost_abs_error": 1000.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "other"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "air_intake",
+    "cooling_fan",
+    "fog_light",
+    "steering",
+    "windshield"
+  ],
+  "vehicle_id": "2019_JEEP_Grand_Cherokee_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

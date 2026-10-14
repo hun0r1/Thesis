@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report was mostly incorrect, significantly misidentifying damaged parts, locations, overall severity, and making critical errors in airbag deployment and structural damage assessment, alongside missing key components like the engine."
+}

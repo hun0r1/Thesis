@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.875,
+  "part_recall": 0.875,
+  "part_f1": 0.875,
+  "gt_part_count": 8,
+  "ai_part_count": 8,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3850.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "taillight_right",
+    "trunk_lid",
+    "wheel_rear_right"
+  ],
+  "missed_parts": [
+    "tire"
+  ],
+  "extra_parts": [
+    "headlight_right"
+  ],
+  "vehicle_id": "2014_DODGE_Challenger_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

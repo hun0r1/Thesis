@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_VOLKSWAGEN_Atlas_Cross_Sport_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified high-level damage indicators like airbag deployment and overall accident labels, but it was partially correct on the specific parts identified, mostly incorrect on individual part severities, and significantly overestimated the repair cost."
+}

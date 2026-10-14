@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identifies most damaged parts, their repair actions, severities, and the overall economic predictions for cost and total loss, but contains several factual inaccuracies and unsupported claims regarding airbag deployment, structural frame, and market value."
+}

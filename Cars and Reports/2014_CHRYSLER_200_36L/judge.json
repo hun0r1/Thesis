@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHRYSLER_200_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and the overall severity and total loss prediction, but it missed a few parts, added extra claims, had several discrepancies in individual part severities and repair actions, and significantly overestimated the total repair cost."
+}

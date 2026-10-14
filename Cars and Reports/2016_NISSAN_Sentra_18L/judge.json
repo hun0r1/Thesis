@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_NISSAN_Sentra_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified many individual part repair actions but significantly underestimated the overall and structural damage severity and missed several critical damaged parts, including the engine and frame horn."
+}

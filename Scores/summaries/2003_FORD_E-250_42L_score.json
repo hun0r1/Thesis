@@ -1,0 +1,39 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.429,
+  "part_recall": 0.5,
+  "part_f1": 0.462,
+  "gt_part_count": 6,
+  "ai_part_count": 7,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1525.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "engine",
+    "paint",
+    "rear_right_quarter_panel"
+  ],
+  "extra_parts": [
+    "dashboard",
+    "rear_left_quarter_panel",
+    "rear_window",
+    "taillight_right"
+  ],
+  "vehicle_id": "2003_FORD_E-250_42L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

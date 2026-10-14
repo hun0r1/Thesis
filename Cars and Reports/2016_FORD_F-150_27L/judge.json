@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_F-150_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and structural damage, but exhibited significant discrepancies in estimated repair costs, part-specific severities, and a direct contradiction in the predicted total loss status."
+}

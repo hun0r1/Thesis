@@ -1,0 +1,44 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.786,
+  "part_recall": 0.917,
+  "part_f1": 0.846,
+  "gt_part_count": 12,
+  "ai_part_count": 14,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.8,
+  "severity_matches": 8,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5350.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "b_pillar",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "wheel_rear_left"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "rocker_panel_left",
+    "suspension",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2006_PONTIAC_G6_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

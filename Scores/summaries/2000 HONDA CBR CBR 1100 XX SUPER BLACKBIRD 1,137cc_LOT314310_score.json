@@ -1,0 +1,35 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.714,
+  "part_f1": 0.833,
+  "gt_part_count": 7,
+  "ai_part_count": 5,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 560.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "brake_system",
+    "exhaust_system",
+    "front_left_fender",
+    "mirror_left"
+  ],
+  "missed_parts": [
+    "headlight_left",
+    "windshield"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2000 HONDA CBR CBR 1100 XX SUPER BLACKBIRD 1,137cc_LOT314310",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

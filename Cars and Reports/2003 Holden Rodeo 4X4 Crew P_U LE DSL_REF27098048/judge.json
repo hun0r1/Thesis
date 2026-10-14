@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003 Holden Rodeo 4X4 Crew P_U LE DSL_REF27098048",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified many damaged parts and the overall total loss status, but missed several key components and had a significant deviation in the estimated repair cost, though individual repair actions and severities for detected parts were mostly correct."
+}

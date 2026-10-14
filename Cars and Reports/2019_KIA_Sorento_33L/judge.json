@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_KIA_Sorento_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report was mostly accurate for costs, total loss, and many repair actions, but contained inaccuracies regarding specific parts identified, part severities, overall damage severity, and some repair actions."
+}

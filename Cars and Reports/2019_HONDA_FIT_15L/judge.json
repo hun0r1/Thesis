@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_HONDA_FIT_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified the overall severity and total loss status, along with most part repair actions and severities for the parts it recognized, but it missed two damaged parts, incorrectly identified one part's location, included an extra part, and had a notable deviation in the total estimated repair cost."
+}

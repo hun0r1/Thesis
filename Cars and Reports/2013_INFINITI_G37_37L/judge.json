@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_INFINITI_G37_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall damage categories and severity, but included several non-existent damaged parts and misidentified some structural components."
+}

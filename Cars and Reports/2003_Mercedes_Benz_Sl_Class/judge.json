@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_Mercedes_Benz_Sl_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some parts and overall severity, but it missed one damaged part entirely and had inaccuracies in the severity and repair actions for other identified parts."
+}

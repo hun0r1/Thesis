@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_PONTIAC_Vibe_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most damaged parts and their repair actions, but it incorrectly assessed the overall severity as moderate instead of total loss, understated several part severities, and missed a key damaged part (the engine)."
+}

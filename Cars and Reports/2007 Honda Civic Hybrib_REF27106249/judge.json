@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 Honda Civic Hybrib_REF27106249",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many damaged parts and their repair actions, but significantly misses critical airbag deployment details, provides unsupported structural severity claims, and includes several extra parts not found in the ground truth."
+}

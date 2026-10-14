@@ -1,0 +1,50 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.688,
+  "part_recall": 0.688,
+  "part_f1": 0.688,
+  "gt_part_count": 16,
+  "ai_part_count": 16,
+  "matched_part_count": 11,
+  "severity_match_rate": 1.0,
+  "severity_matches": 10,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "rear_bumper",
+    "suspension",
+    "tire",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "front_left_door",
+    "grille",
+    "rocker_panel_left",
+    "underbody_cover"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "body_panel",
+    "exhaust_system",
+    "fog_light",
+    "radiator"
+  ],
+  "vehicle_id": "2007 Honda Civic Hybrib_REF27106249",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023 Ford Ranger XLT Double CAB W_SA_REF27092020",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most repair actions and detailed severities but omitted many ground truth parts and had significant discrepancies in overall severity and damage category."
+}

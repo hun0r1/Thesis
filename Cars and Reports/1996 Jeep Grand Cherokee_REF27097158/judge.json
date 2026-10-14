@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1996 Jeep Grand Cherokee_REF27097158",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts and the overall severity, but missed many specific components and inaccurately reported granular severities and repair actions for several identified parts."
+}

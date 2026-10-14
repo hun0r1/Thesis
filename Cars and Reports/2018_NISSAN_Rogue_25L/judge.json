@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_NISSAN_Rogue_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately assessed overall severity and repair actions for identified components, but it missed major components like the engine assembly and included several unconfirmed parts."
+}

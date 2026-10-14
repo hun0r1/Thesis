@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified many correct parts and their overall severity but missed several items, had location discrepancies, and reported incorrect severities or repair actions for some parts, while providing additional unsupported claims."
+}

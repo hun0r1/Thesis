@@ -1,0 +1,36 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.8,
+  "part_f1": 0.727,
+  "gt_part_count": 5,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.75,
+  "severity_matches": 3,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 1125.0,
+  "ai_estimated_repair_cost": 1250.0,
+  "cost_abs_error": 125.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "rear_bumper",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "rear_left_door"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "headlight_left"
+  ],
+  "vehicle_id": "2005_HONDA_Accord_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

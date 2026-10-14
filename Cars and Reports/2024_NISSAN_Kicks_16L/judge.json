@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_NISSAN_Kicks_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 2,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity, but it omitted several key parts and associated repair actions, contained factual errors regarding airbag deployment, estimated a significantly lower repair cost, and failed to provide a total loss prediction."
+}

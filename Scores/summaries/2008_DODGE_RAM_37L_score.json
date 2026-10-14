@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.6,
+  "part_f1": 0.667,
+  "gt_part_count": 10,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "a_pillar",
+    "b_pillar",
+    "front_left_door",
+    "front_left_fender",
+    "mirror_left",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_bumper",
+    "headlight_left",
+    "windshield"
+  ],
+  "extra_parts": [
+    "wheel_front_left",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2008_DODGE_RAM_37L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

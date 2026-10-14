@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021 Volkswagen Tiguan TSI Life 2WD_REF27112075",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report is largely accurate, matching most repair actions, the overall severity, and providing a close estimated repair cost. However, it missed several specific parts, including a critical front airbag, and incorrectly identified the structural frame damage severity, while also including some unsupported part claims."
+}

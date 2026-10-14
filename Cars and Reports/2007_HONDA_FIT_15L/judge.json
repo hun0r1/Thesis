@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_HONDA_FIT_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified overall damage labels and some general parts, but significantly erred by reporting specific damage on the left side of the vehicle instead of the right, and showed mixed accuracy for part-specific severities and repair actions."
+}

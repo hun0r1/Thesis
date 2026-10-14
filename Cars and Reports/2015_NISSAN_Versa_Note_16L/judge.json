@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_NISSAN_Versa_Note_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth parts and the overall severity, but it also included additional parts, had some inaccuracies in individual part severities and one repair action, and the estimated repair cost had a minor deviation."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_CHEVROLET_Malibu_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI provided a highly accurate estimated repair cost and largely correct repair actions, but contained significant errors regarding airbag deployment status, omitted several key damaged parts, and underestimated the overall damage severity."
+}

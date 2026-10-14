@@ -1,0 +1,52 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.824,
+  "part_f1": 0.757,
+  "gt_part_count": 17,
+  "ai_part_count": 20,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.786,
+  "severity_matches": 11,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 12500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_passenger",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "radiator",
+    "radiator_support",
+    "rocker_panel_left",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "dashboard",
+    "engine"
+  ],
+  "extra_parts": [
+    "a_pillar",
+    "b_pillar",
+    "headlight_right",
+    "rear_left_door",
+    "seat_belt",
+    "suspension"
+  ],
+  "vehicle_id": "2019_GMC_Acadia_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

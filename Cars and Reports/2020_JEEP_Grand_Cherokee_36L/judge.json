@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_JEEP_Grand_Cherokee_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report inaccurately identified many damaged parts and their locations, particularly in the rear and front suspension, but correctly determined the overall severity and total loss status, with reasonable estimates for costs and repair actions for the few correctly identified parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_CHEVROLET_Colorado_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity, total loss prediction, and repair actions for the parts it recognized, but it missed several key damaged parts, misidentified one part, and significantly underestimated the total estimated repair cost."
+}

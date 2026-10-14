@@ -1,0 +1,42 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.571,
+  "part_recall": 0.4,
+  "part_f1": 0.471,
+  "gt_part_count": 10,
+  "ai_part_count": 7,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 3100.0,
+  "ai_estimated_repair_cost": 1275.0,
+  "cost_abs_error": 1825.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "hood",
+    "rear_bumper",
+    "rear_right_quarter_panel"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "radiator",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "2016_HYUNDAI_Elantra_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

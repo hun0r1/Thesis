@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_PONTIAC_Bonneville_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately assessed structural damage, identified a majority of main damaged parts with correct repair actions, and correctly predicted a total loss, but it critically misinterpreted airbag deployment status, omitted crucial airbag-related parts, provided a higher estimated repair cost, and misclassified the overall severity."
+}

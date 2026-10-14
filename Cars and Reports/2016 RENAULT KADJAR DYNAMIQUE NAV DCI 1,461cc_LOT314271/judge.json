@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 RENAULT KADJAR DYNAMIQUE NAV DCI 1,461cc_LOT314271",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified most parts and their overall severity, but it missed one ground truth part, had minor discrepancies in part naming, one significant severity mismatch for a key part, and one major repair action mismatch for another."
+}

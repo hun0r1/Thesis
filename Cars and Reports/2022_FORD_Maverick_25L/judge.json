@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_FORD_Maverick_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted total loss and overall severity, but it significantly missed key structural damage details, omitted several damaged parts from the ground truth, included unsupported parts, and had a notable deviation in the overall estimated repair cost and specific repair actions for some identified parts."
+}

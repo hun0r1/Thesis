@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_RAM_2500",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 1,
+    "severity": 1,
+    "repair_action": 1,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the estimated repair cost and total loss status, but completely missed the details of the damaged parts, their severity, and required repair actions."
+}

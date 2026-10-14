@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_TOYOTA_Sequoia_57L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified airbag deployment and overall severity, but its parts list had significant inaccuracies, including misidentifying the side for several exterior components, missing critical parts like the engine assembly, and adding numerous extraneous items, while structural assessment was only partially correct."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006 Mazda Axela_REF27102350",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and overall severity, but missed two minor parts, had several discrepancies in part-level repair actions, and made unsupported claims for structural damage and drivability where the ground truth was unknown or specified as none."
+}

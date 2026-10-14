@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_DODGE_Journey_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss status, but diverged significantly on specific damaged parts, their locations, and associated repair actions and estimated costs."
+}

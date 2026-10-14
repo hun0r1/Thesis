@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_CHEVROLET_HHR_22L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all damaged parts and their repair actions, and the overall severity, but misidentified the severity for multiple individual parts."
+}

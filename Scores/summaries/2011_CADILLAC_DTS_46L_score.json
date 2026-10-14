@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.286,
+  "part_recall": 0.667,
+  "part_f1": 0.4,
+  "gt_part_count": 3,
+  "ai_part_count": 7,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2250.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "fog_light",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "vehicle_id": "2011_CADILLAC_DTS_46L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

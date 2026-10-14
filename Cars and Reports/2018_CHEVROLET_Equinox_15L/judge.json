@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_CHEVROLET_Equinox_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified damaged parts (6 out of 10 ground truth parts were matched, but with some location errors, and many irrelevant parts were added), mostly misrepresented severity due to incorrect airbag deployment and some part severity discrepancies, and showed partial correctness for repair actions with several mismatches. Furthermore, the estimated repair cost was significantly higher, and the critical total loss assessment was completely missed."
+}

@@ -1,0 +1,35 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.8,
+  "part_recall": 0.8,
+  "part_f1": 0.8,
+  "gt_part_count": 5,
+  "ai_part_count": 5,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "other",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "fog_light"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "2006 VOLKSWAGEN POLO SE 1,390cc_LOT314318",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

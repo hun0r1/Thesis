@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_HONDA_Odyssey_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified repair actions for matched parts but had significant discrepancies in structural damage, overall severity, and part identification, including incorrect locations and missing several key components."
+}

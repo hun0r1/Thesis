@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 MERCEDES C-CLASS C180 KOMPRESSOR CLASSIC SE 1,796cc_LOT314134",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their repair actions, notably misrepresenting B-pillar damage in severity and repair action, omitting several minor body and suspension components, while correctly identifying the overall severity."
+}

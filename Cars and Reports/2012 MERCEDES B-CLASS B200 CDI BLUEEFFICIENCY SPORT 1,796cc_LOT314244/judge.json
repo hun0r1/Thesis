@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 MERCEDES B-CLASS B200 CDI BLUEEFFICIENCY SPORT 1,796cc_LOT314244",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately reflected overall severity and had a close estimated repair cost, but missed several ground truth parts, added unsubstantiated parts, had multiple incorrect individual part repair actions and severities, and fundamentally disagreed on the total loss prediction."
+}

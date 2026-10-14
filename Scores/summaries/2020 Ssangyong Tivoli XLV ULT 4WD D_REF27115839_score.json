@@ -1,0 +1,45 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.643,
+  "part_recall": 0.818,
+  "part_f1": 0.72,
+  "gt_part_count": 11,
+  "ai_part_count": 14,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.667,
+  "severity_matches": 6,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 4125.0,
+  "ai_estimated_repair_cost": 4200.0,
+  "cost_abs_error": 75.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_right_door",
+    "headlight_right",
+    "hood",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_right_door",
+    "wheel_front_right"
+  ],
+  "missed_parts": [
+    "other",
+    "tire"
+  ],
+  "extra_parts": [
+    "front_left_fender",
+    "front_right_fender",
+    "rear_right_quarter_panel",
+    "suspension",
+    "underbody_cover"
+  ],
+  "vehicle_id": "2020 Ssangyong Tivoli XLV ULT 4WD D_REF27115839",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002 VOLKSWAGEN POLO S 1,198cc_LOT314313",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, containing a critical error in overall severity (total loss vs. moderate), several inaccuracies in structural damage and individual part severities, and numerous mismatched repair actions, despite identifying most damaged parts."
+}

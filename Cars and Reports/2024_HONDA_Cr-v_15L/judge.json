@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_HONDA_Cr-v_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many rear damages and their repair actions, but missed several critical front and powertrain parts from the ground truth and made an unsupported claim for floor pan severity."
+}

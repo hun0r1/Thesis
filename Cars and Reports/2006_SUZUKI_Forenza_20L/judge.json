@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_SUZUKI_Forenza_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified the overall severity and total loss prediction but missed several damaged parts, including an airbag, resulting in an incomplete list of repair actions and a notable underestimation of the total repair cost."
+}

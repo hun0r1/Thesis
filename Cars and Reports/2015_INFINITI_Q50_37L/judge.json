@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_INFINITI_Q50_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most major damaged parts and the overall severity, but it missed several minor components, sometimes miscategorized parts, and consistently reported higher severities for individual parts."
+}

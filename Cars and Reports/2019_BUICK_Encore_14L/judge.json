@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_BUICK_Encore_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified damaged parts, correctly matching 7 out of 15 from the ground truth but omitting 8 key components. Severity assessment was mostly incorrect, with significant discrepancies in structural damage (e.g., B-pillar severe vs. none) and overall severity (severe vs. moderate), though some individual part severities were close; repair actions were largely consistent for identified parts, but several were missed due to part omissions and one key mismatch for suspension. Costs and total loss could not be scored as the ground truth provided no reference data."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 SYM HD II 125 HD II 125 124cc_LOT314366",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most parts and repair actions and the overall total loss status, but had significant inaccuracies in individual part severities and a completely incorrect estimated repair cost."
+}

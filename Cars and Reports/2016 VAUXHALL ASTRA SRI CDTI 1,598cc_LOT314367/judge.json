@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 VAUXHALL ASTRA SRI CDTI 1,598cc_LOT314367",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 5
+  },
+  "explanation": "The AI report accurately identifies all damaged parts with their correct locations, severities, and repair actions, perfectly aligning with the ground truth for all available comparable dimensions."
+}

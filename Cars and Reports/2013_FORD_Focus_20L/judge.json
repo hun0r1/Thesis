@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_FORD_Focus_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified repair actions for the parts it reported but significantly omitted a major engine damage, which also led to misclassifications in part severities and the overall accident severity."
+}

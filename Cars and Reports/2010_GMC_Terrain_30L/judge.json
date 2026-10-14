@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_GMC_Terrain_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately predicted total loss and had a largely correct estimated repair cost, but showed significant discrepancies in identifying specific damaged parts, their severities, and required repair actions, with several ungrounded additions."
+}

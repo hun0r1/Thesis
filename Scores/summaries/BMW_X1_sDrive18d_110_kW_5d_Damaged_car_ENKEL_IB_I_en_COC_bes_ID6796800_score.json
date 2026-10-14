@@ -1,0 +1,39 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.818,
+  "part_recall": 1.0,
+  "part_f1": 0.9,
+  "gt_part_count": 9,
+  "ai_part_count": 11,
+  "matched_part_count": 9,
+  "severity_match_rate": 1.0,
+  "severity_matches": 9,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3287.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "hood",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "tire",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "roof",
+    "trunk_lid"
+  ],
+  "vehicle_id": "BMW_X1_sDrive18d_110_kW_5d_Damaged_car_ENKEL_IB_I_en_COC_bes_ID6796800",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

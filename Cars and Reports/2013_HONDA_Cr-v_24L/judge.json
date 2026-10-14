@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_HONDA_Cr-v_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying most rear body damage but notably missing the engine, and incorrectly stating the overall severity."
+}

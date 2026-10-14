@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.889,
+  "part_recall": 0.533,
+  "part_f1": 0.667,
+  "gt_part_count": 15,
+  "ai_part_count": 9,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 4767.0,
+  "ai_estimated_repair_cost": 3050.0,
+  "cost_abs_error": 1717.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "exhaust_system",
+    "front_bumper",
+    "hood",
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "taillight_right",
+    "trunk_lid",
+    "wheel_rim"
+  ],
+  "missed_parts": [
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "rear_body_panel",
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "extra_parts": [
+    "dashboard"
+  ],
+  "vehicle_id": "2012_LEXUS_IS_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_HYUNDAI_Santa_FE_Sport_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report contains significant factual errors regarding the damaged parts, including incorrect locations (left vs. right side) for multiple items and missing critical damage to the engine and several airbags, along with inaccurate structural damage details for the frame and b-pillar."
+}

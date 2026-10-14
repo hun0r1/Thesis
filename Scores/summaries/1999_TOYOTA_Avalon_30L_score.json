@@ -1,0 +1,43 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.556,
+  "part_recall": 0.5,
+  "part_f1": 0.526,
+  "gt_part_count": 10,
+  "ai_part_count": 9,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 1650.0,
+  "ai_estimated_repair_cost": 2950.0,
+  "cost_abs_error": 1300.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "interior_trim",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "front_right_door",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "seat",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "hood",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "vehicle_id": "1999_TOYOTA_Avalon_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

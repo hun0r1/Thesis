@@ -1,0 +1,35 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.667,
+  "part_recall": 0.4,
+  "part_f1": 0.5,
+  "gt_part_count": 5,
+  "ai_part_count": 3,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 625.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_fender",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "suspension"
+  ],
+  "vehicle_id": "2015_BUICK_Verano_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.667,
+  "part_f1": 0.8,
+  "gt_part_count": 12,
+  "ai_part_count": 8,
+  "matched_part_count": 8,
+  "severity_match_rate": 1.0,
+  "severity_matches": 8,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4400.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "engine",
+    "fog_light",
+    "windshield"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2021_TOYOTA_4-runner_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI output partially matched the ground truth, correctly identifying overall severity, structural damage, and most repair actions and severities for the parts it listed, but it significantly missed several ground truth parts, included some incorrect parts, had a large discrepancy in the estimated repair cost, and completely failed to predict total loss."
+}

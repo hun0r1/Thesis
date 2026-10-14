@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_HYUNDAI_Sonata_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified parts but critically missed the engine, leading to an incorrect overall severity assessment and several inaccuracies in part-level severities and repair actions."
+}

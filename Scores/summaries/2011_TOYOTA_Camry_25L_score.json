@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 3,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 0.818,
+  "part_f1": 0.783,
+  "gt_part_count": 11,
+  "ai_part_count": 12,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.889,
+  "severity_matches": 8,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 2525.0,
+  "ai_estimated_repair_cost": 2875.0,
+  "cost_abs_error": 350.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "cooling_fan",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_bumper"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "front_right_fender",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2011_TOYOTA_Camry_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

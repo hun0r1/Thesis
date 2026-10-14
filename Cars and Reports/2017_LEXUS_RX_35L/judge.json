@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_LEXUS_RX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted the overall severity and total loss status, but had several discrepancies in part identification (missing one, adding two extra, and a location mismatch), made mostly incorrect repair action recommendations, and significantly overestimated the repair cost."
+}

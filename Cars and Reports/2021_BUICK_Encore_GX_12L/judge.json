@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_BUICK_Encore_GX_12L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified the total loss status and most repair actions but struggled significantly with identifying the correct list of damaged parts, their precise locations, severity levels, and estimated repair costs."
+}

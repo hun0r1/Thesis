@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_TOYOTA_Rav4_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts, but missed one ground truth part and included an extra part; it also showed several discrepancies in part-level severity and repair actions, though the overall severity matched."
+}

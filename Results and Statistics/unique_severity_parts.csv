@@ -1,0 +1,9 @@
+severity,count_total
+heavy,12760
+moderate,6278
+minor,4759
+severe,1632
+none,304
+unknown,265
+inspect,44
+deployed,6

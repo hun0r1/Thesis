@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.733,
+  "part_recall": 0.786,
+  "part_f1": 0.759,
+  "gt_part_count": 14,
+  "ai_part_count": 15,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.818,
+  "severity_matches": 9,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7650.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "engine",
+    "subframe"
+  ],
+  "extra_parts": [
+    "fog_light",
+    "intercooler",
+    "other",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2021_BMW_X5_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

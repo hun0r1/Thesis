@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.818,
+  "part_recall": 0.818,
+  "part_f1": 0.818,
+  "gt_part_count": 11,
+  "ai_part_count": 11,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.556,
+  "severity_matches": 5,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3250.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "fog_light",
+    "tire"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "rear_left_door"
+  ],
+  "vehicle_id": "2013_FORD_Fusion_16L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

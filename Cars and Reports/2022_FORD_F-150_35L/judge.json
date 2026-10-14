@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_FORD_F-150_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially identified damaged parts, missing several key components and making minor errors in part categorization, while airbag parts were split and not directly matching the ground truth. There were inconsistencies in severity terminology for many parts, and a significant mismatch in the overall severity, alongside an incorrect repair action for the dashboard."
+}

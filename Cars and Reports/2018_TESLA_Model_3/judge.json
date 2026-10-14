@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_TESLA_Model_3",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some damaged parts and their attributes, but it significantly omitted key parts like the engine and rear left door, leading to an incorrect overall severity assessment and an inaccurate structural damage report for the b-pillar."
+}

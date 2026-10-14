@@ -1,0 +1,45 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.667,
+  "part_recall": 0.462,
+  "part_f1": 0.545,
+  "gt_part_count": 13,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3600.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "front_left_door",
+    "front_left_fender",
+    "rear_bumper",
+    "rear_left_door",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "engine",
+    "front_bumper",
+    "hood",
+    "radiator",
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "seat_belt",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2012_HONDA_Accord_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

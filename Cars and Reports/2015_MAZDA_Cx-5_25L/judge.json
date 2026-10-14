@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_MAZDA_Cx-5_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most structural and airbag information, but it missed several key damaged parts, added extraneous parts, and incorrectly reported the severity for multiple identified components, while repair actions were mostly accurate."
+}

@@ -1,0 +1,52 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.588,
+  "part_recall": 0.625,
+  "part_f1": 0.606,
+  "gt_part_count": 16,
+  "ai_part_count": 17,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7925.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "subframe"
+  ],
+  "missed_parts": [
+    "air_intake",
+    "battery",
+    "crossmember",
+    "front_right_fender",
+    "headlight_right",
+    "wiper"
+  ],
+  "extra_parts": [
+    "control_arm",
+    "fog_light",
+    "intercooler",
+    "radiator_support",
+    "rear_bumper",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "vehicle_id": "2019_TOYOTA_Camry_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

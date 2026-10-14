@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 FORD TRANSIT CUSTOM 270 LR P_V 1,996cc_LOT314370",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, with significant discrepancies in identified parts and their locations, and a mismatch in overall severity and several individual part severities, though repair actions are mostly accurate for the parts it identified."
+}

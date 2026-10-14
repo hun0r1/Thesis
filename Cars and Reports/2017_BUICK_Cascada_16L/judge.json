@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_BUICK_Cascada_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and their repair actions, but significantly misjudged the overall and structural damage severity, missed several key damaged parts, and incorrectly identified the location or type of other components."
+}

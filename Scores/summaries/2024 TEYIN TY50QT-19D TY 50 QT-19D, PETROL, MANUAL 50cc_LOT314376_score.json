@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.667,
+  "part_f1": 0.667,
+  "gt_part_count": 6,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.667,
+  "severity_matches": 2,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 645.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "front_left_fender",
+    "mirror_left",
+    "other"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "rear_body_panel"
+  ],
+  "extra_parts": [
+    "engine",
+    "mirror_right"
+  ],
+  "vehicle_id": "2024 TEYIN TY50QT-19D TY 50 QT-19D, PETROL, MANUAL 50cc_LOT314376",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

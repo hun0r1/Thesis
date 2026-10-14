@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010 FORD TRANSIT 350 H_R 2,402cc_LOT314232",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified high-level labels and airbags but made several specific errors in part identification (missing a part, adding an extra, incorrect mirror location), structural damage assessment, severity levels, and proposed repair actions for individual parts."
+}

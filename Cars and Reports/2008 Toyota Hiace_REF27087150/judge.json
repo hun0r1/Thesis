@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Toyota Hiace_REF27087150",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified most damaged parts and their repair actions, with minor omissions. However, it made several significant errors in assessing severity, including the overall severity, structural frame damage, and some individual part severities."
+}

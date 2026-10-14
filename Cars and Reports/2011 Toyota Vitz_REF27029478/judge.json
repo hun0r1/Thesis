@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 Toyota Vitz_REF27029478",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": null,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report was partially correct in identifying damaged parts and their severities, but missed several key items and made some incorrect claims; repair actions, costs, and total loss could not be verified against the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_VOLVO_Xc90_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss status. However, it missed two key damaged parts (radiator support, radiator and condenser) and provided significantly different repair actions and severities for multiple parts, leading to a substantially lower estimated repair cost compared to the ground truth."
+}

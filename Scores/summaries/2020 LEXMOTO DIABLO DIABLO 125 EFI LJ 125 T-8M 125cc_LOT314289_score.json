@@ -1,0 +1,35 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.8,
+  "part_recall": 0.8,
+  "part_f1": 0.8,
+  "gt_part_count": 5,
+  "ai_part_count": 5,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 475.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "ignition_system",
+    "mirror_left",
+    "other"
+  ],
+  "missed_parts": [
+    "handlebar"
+  ],
+  "extra_parts": [
+    "radiator_support"
+  ],
+  "vehicle_id": "2020 LEXMOTO DIABLO DIABLO 125 EFI LJ 125 T-8M 125cc_LOT314289",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

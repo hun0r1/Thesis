@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.909,
+  "part_recall": 0.833,
+  "part_f1": 0.87,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 10,
+  "severity_match_rate": 1.0,
+  "severity_matches": 10,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "other",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "roof"
+  ],
+  "missed_parts": [
+    "grille",
+    "mirror_right"
+  ],
+  "extra_parts": [
+    "wiper"
+  ],
+  "vehicle_id": "2014 VAUXHALL COMBO 2300 L2H1 CDTI S_S ECOFLEX 1,248cc_LOT314253",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

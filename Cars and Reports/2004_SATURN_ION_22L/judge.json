@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_SATURN_ION_22L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified the estimated repair cost and predicted total loss, and most repair actions for identified parts, but was less complete on the list of damaged parts and had some inaccuracies in structural damage severity."
+}

@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.6,
+  "part_recall": 0.75,
+  "part_f1": 0.667,
+  "gt_part_count": 8,
+  "ai_part_count": 10,
+  "matched_part_count": 6,
+  "severity_match_rate": 1.0,
+  "severity_matches": 6,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "rear_bumper",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "rocker_panel_left"
+  ],
+  "missed_parts": [
+    "front_right_door",
+    "front_right_fender"
+  ],
+  "extra_parts": [
+    "engine",
+    "headlight_right",
+    "hood",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2015 Mitsubishi Outlander VRX_REF27101197",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

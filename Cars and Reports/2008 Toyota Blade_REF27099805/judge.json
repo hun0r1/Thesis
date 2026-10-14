@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Toyota Blade_REF27099805",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately predicted the total loss status and provided a very close estimated repair cost, but it missed several key parts (e.g., airbag control module, radiator support) and made factual errors by misrepresenting 'unknown' damage statuses for structural components (floor pan) and the engine, also altering the recommended repair action for the engine from 'inspect' to 'replace'."
+}

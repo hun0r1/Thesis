@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006 Subaru Legacy R Wagon_REF27080678",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major body and engine components and their repair actions, but it missed three key parts (engine and both front wheels), had a discrepancy in structural floor pan assessment, and provided a different overall severity classification ('total_loss' vs 'severe')."
+}

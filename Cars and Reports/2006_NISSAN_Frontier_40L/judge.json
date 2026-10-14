@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_NISSAN_Frontier_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed overall severity and total loss, but it missed several key parts, incorrectly identified structural frame damage, and had multiple inaccuracies in part-specific severities, repair actions, and estimated repair costs."
+}

@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.7,
+  "part_recall": 0.538,
+  "part_f1": 0.609,
+  "gt_part_count": 13,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.571,
+  "severity_matches": 4,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "engine",
+    "front_left_door",
+    "radiator",
+    "seat_belt",
+    "windshield"
+  ],
+  "extra_parts": [
+    "grille",
+    "rear_bumper",
+    "taillight_left"
+  ],
+  "vehicle_id": "2020_NISSAN_Altima_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

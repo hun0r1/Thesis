@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 PEUGEOT 108 ACTIVE 998cc_LOT314352",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some parts and the overall severity, but it missed several ground truth parts, included an extra part, and had significant inaccuracies in the specific severity levels and repair actions for individual components, as well as a completely different structural damage assessment."
+}

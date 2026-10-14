@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.5,
+  "part_f1": 0.583,
+  "gt_part_count": 14,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.857,
+  "severity_matches": 6,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4305.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_left_door",
+    "interior_trim",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "a_pillar",
+    "dashboard",
+    "front_bumper",
+    "front_left_fender",
+    "other",
+    "seat",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "wheel_rear_left",
+    "wheel_rim"
+  ],
+  "vehicle_id": "Peugeot_Boxer_22_BlueHDi_SS_165_Asphalt_335_L2H2_4d_technica_ID6796807",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

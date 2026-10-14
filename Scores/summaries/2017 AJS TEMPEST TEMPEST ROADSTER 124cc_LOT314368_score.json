@@ -1,0 +1,36 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.625,
+  "part_f1": 0.769,
+  "gt_part_count": 8,
+  "ai_part_count": 5,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 343.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "front_left_fender",
+    "fuel_tank",
+    "headlight_left",
+    "other"
+  ],
+  "missed_parts": [
+    "handlebar",
+    "license_plate",
+    "mirror_left"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2017 AJS TEMPEST TEMPEST ROADSTER 124cc_LOT314368",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

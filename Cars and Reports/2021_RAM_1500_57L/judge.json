@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_RAM_1500_57L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially aligns with the ground truth, correctly identifying about half of the parts and the overall severity, but it missed several key components and their associated repair actions, and showed minor discrepancies in part severities and repair actions for some identified items."
+}

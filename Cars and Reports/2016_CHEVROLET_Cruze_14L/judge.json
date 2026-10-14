@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_CHEVROLET_Cruze_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed a critical damaged part (engine) and consequently misrepresented the overall severity and structural damage assessment, though identified repair actions for the detected parts were mostly correct."
+}

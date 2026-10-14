@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_MAZDA_Mazda3_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI output identified many correct parts and the overall severity, but it contained significant inaccuracies including incorrect structural damage assessment, missing key parts, several incorrect repair actions, a substantially inflated repair cost, and an erroneous total loss prediction."
+}

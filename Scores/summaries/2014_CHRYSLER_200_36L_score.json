@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.667,
+  "part_recall": 0.667,
+  "part_f1": 0.667,
+  "gt_part_count": 9,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 2250.0,
+  "ai_estimated_repair_cost": 4000.0,
+  "cost_abs_error": 1750.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "fog_light",
+    "headlight_left",
+    "washer_system"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "frame_rail",
+    "headlight_right"
+  ],
+  "vehicle_id": "2014_CHRYSLER_200_36L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

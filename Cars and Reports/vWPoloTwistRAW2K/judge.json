@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "vWPoloTwistRAW2K",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most ground truth parts and repair actions but included many extra parts not supported by the ground truth, had several incorrect part severities, and misidentified the overall damage category as multi-zone instead of front-collision."
+}

@@ -1,0 +1,28 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": 5,
+  "score_overall": 5,
+  "part_precision": 1.0,
+  "part_recall": 1.0,
+  "part_f1": 1.0,
+  "gt_part_count": 1,
+  "ai_part_count": 1,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": 300.0,
+  "ai_estimated_repair_cost": 200.0,
+  "cost_abs_error": 100.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "hood"
+  ],
+  "missed_parts": [],
+  "extra_parts": [],
+  "vehicle_id": "2009_SUBARU_Outback_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

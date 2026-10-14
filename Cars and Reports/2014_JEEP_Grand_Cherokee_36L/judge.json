@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_JEEP_Grand_Cherokee_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified most repair actions and provided a reasonably accurate estimated repair cost, but it missed a key damage part, included unsubstantiated parts, and significantly misidentified several damage severities, including the overall severity and structural damage."
+}

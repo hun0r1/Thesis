@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HYUNDAI_Santa_FE_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 2,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified structural components and airbags, as well as the overall severity, but missed two specific damaged parts, provided a significantly different estimated repair cost, and failed to give a concrete total loss prediction."
+}

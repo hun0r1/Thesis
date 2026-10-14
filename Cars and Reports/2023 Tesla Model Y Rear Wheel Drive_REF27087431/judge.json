@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023 Tesla Model Y Rear Wheel Drive_REF27087431",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts and overall total loss, with slight discrepancies in specific part severities, repair actions, and the inclusion of some unconfirmed or contradictory structural damages like the A-pillar."
+}

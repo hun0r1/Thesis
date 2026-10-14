@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_KIA_Sorento_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all ground truth damaged parts, though it included two unsupported additional parts and had minor discrepancies in part details. Severity and repair actions were mostly correct, with minor errors for one part."
+}

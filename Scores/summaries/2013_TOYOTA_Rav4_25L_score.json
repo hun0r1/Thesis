@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.8,
+  "part_recall": 0.857,
+  "part_f1": 0.828,
+  "gt_part_count": 14,
+  "ai_part_count": 15,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.75,
+  "severity_matches": 9,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": 5275.0,
+  "ai_estimated_repair_cost": 3850.0,
+  "cost_abs_error": 1425.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension",
+    "windshield"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "front_right_fender"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_driver",
+    "other"
+  ],
+  "vehicle_id": "2013_TOYOTA_Rav4_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

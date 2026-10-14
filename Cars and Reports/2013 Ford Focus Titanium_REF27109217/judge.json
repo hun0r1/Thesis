@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Ford Focus Titanium_REF27109217",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and airbag deployments but missed several key components, misclassified structural damage like the A-pillar, showed inconsistencies in individual part severities and repair actions, and inaccurately categorized the overall damage zone."
+}

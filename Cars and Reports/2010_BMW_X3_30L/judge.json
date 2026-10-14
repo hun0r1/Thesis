@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_BMW_X3_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified some damaged parts and their repair actions, but critically missed the severely damaged engine, leading to an incorrect overall severity assessment and drivability status, while also including an unconfirmed part."
+}

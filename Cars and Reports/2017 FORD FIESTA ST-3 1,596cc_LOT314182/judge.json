@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 FORD FIESTA ST-3 1,596cc_LOT314182",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately reported the overall severity and repair actions for all matched parts, but it missed several key parts from the ground truth, included extra parts, and had discrepancies in the severity of the A-pillar and a few components."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_MITSUBISHI_Endeavor_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and most repair actions, but contained several omissions and inaccuracies regarding specific damaged parts, their severities (including an incorrect airbag deployment status), and the estimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_CADILLAC_CTS_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially aligns with the ground truth, accurately identifying many major damaged parts and the overall severity, but it misses several parts and has significant inaccuracies in specific part severities and repair actions for some identified components."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_INFINITI_Q50_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report contained significant factual errors in predicting total loss and overall severity, along with a notable number of omissions and additions in the damaged parts list, which led to a substantial underestimation of the total repair cost."
+}

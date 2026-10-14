@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1997_TOYOTA_Camry_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several key damaged parts, incorrectly assessed the severity for most identified parts and the overall severity, and provided numerous extra claims not present in the ground truth."
+}

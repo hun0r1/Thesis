@@ -1,0 +1,42 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.778,
+  "part_recall": 0.636,
+  "part_f1": 0.7,
+  "gt_part_count": 11,
+  "ai_part_count": 9,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.857,
+  "severity_matches": 6,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2575.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_bumper",
+    "rocker_panel_left",
+    "seat"
+  ],
+  "extra_parts": [
+    "interior_trim",
+    "underbody_cover"
+  ],
+  "vehicle_id": "2004_GMC_Yukon_53L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

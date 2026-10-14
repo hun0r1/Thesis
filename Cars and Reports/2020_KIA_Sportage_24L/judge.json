@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_KIA_Sportage_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, with significant deviations in the identified parts list, structural frame severity, and several individual part severities, despite correctly assessing the overall severity, total loss, and mostly accurate repair actions and estimated costs."
+}

@@ -1,0 +1,197 @@
+{
+  "vehicle_id": "2017 SYM SYMPHONY SYMPHONY 125 SR E4 125cc_LOT314276",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "RAW2K",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2017-sym-symphony-symphony-125-sr-e4-314276?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D6",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "SYM",
+    "model": "SYMPHONY 125 SR E4",
+    "generation": null,
+    "body_style": "other",
+    "engine": null,
+    "drivetrain": "Automatic",
+    "usage_history": "private",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "United Kingdom",
+      "city": "Hereford"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "General wear and tear with extensive scratches, dents, and cracks to body panels, missing seat, damaged handlebars, and non-functional wheels/brakes.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_mudguard",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "front_fairing",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "handlebar",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "mirror_right",
+        "location": "front_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "windscreen",
+        "location": "front",
+        "category": "glass",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 40.0
+      },
+      {
+        "part": "side_panel_left",
+        "location": "left_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "side_panel_right",
+        "location": "right_side",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "seat",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "rear_fairing",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 140.0
+      },
+      {
+        "part": "rear_carrier_rack",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "exhaust_cover",
+        "location": "rear_right",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 60.0
+      },
+      {
+        "part": "engine_assembly",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "heavy",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 750.0
+      },
+      {
+        "part": "front_wheel_assembly",
+        "location": "front",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 125.0
+      },
+      {
+        "part": "front_tire",
+        "location": "front",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 40.0
+      },
+      {
+        "part": "wiring_harness",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 90.0
+      },
+      {
+        "part": "battery",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 35.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 2030.0,
+    "market_value_pre_accident": 1200.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 19,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

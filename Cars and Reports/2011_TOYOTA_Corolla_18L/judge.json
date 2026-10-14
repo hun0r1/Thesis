@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified several body parts with their severities and repair actions, but critically missed the engine damage and its replacement, resulting in an incorrect overall severity classification and other notable omissions."
+}

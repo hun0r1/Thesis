@@ -1,0 +1,53 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.941,
+  "part_recall": 0.696,
+  "part_f1": 0.8,
+  "gt_part_count": 23,
+  "ai_part_count": 17,
+  "matched_part_count": 16,
+  "severity_match_rate": 0.625,
+  "severity_matches": 10,
+  "severity_total_compared": 16,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4215.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_passenger",
+    "dashboard",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "rear_bumper",
+    "roof",
+    "wheel_front_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "engine",
+    "impact_bar",
+    "mirror_left",
+    "radiator_support",
+    "tailgate",
+    "wheel_front_right",
+    "wiper"
+  ],
+  "extra_parts": [
+    "other"
+  ],
+  "vehicle_id": "2019 FORD FIESTA BASE TDCI 1,498cc_LOT314287",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

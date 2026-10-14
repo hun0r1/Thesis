@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_LEXUS_ES_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and their severities, and the overall severity and damage category were accurate. However, it completely missed airbag deployment, omitted critical parts like the engine and a front fender, and provided an incorrect repair action for one identified fender, leading to significant factual inaccuracies and omissions."
+}

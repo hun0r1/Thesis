@@ -1,0 +1,142 @@
+{
+  "vehicle_id": "Volkswagen_Golf_15_eTSI_Mild-Hybrid_R-Line_LED-Matrix_Virtua_ID6740904",
+  "source": {
+    "origin": "ecartrade",
+    "publisher": null,
+    "url": "https://ro.ecarstrade.com/cars/6740904",
+    "language": "unknown",
+    "reported_at": "2022-11-12T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "generation": "Mk8",
+    "body_style": "hatchback",
+    "engine": "1.5 eTSI Mild-Hybrid",
+    "drivetrain": null,
+    "vin": "WVWZZZCD8RW103161",
+    "usage_history": "unknown",
+    "odometer_km": 46949,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2022-11-12",
+    "location": {
+      "country": "Belgium",
+      "city": null
+    },
+    "collision_type": "other",
+    "impact_zone": "interior",
+    "description": "The vehicle sustained extensive interior damage, including stripping of the cabin, damage to the center console, and removal of all seating, indicative of severe smoke or water damage, or a deliberate dismantling.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "dashboard_assembly",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 4000
+      },
+      {
+        "part": "center_console",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1500
+      },
+      {
+        "part": "front_seats",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 3000
+      },
+      {
+        "part": "rear_seats",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 2000
+      },
+      {
+        "part": "floor_carpeting_and_insulation",
+        "location": "interior",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 1000
+      },
+      {
+        "part": "interior_door_panels",
+        "location": "multiple",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 2000
+      },
+      {
+        "part": "main_wiring_harness",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 5000
+      },
+      {
+        "part": "hvac_system_interior_components",
+        "location": "interior",
+        "category": "interior",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 800
+      },
+      {
+        "part": "interior_cleaning",
+        "location": "interior",
+        "category": "other",
+        "severity": "heavy",
+        "repair_action": "repair",
+        "estimated_cost_eur": 1000
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 20300,
+    "market_value_pre_accident": 32000,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "interior_damage",
+    "overall_severity": "total_loss",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 15,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

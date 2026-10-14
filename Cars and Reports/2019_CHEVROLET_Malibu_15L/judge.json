@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_CHEVROLET_Malibu_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report was mostly incorrect, significantly missing key damaged parts like the engine and wheels, misjudging the overall severity and total loss prediction, and making several incorrect individual part and structural damage claims."
+}

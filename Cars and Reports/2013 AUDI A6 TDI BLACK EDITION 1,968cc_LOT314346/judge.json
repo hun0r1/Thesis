@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 AUDI A6 TDI BLACK EDITION 1,968cc_LOT314346",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth repair actions and most parts, but included unsupported damage claims and had discrepancies in overall severity and one part's location and severity."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI provided an accurate overall severity and total loss prediction, with estimated repair cost very close to the ground truth, but missed a significant number of damaged parts and incorrectly identified the repair action for the hood."
+}

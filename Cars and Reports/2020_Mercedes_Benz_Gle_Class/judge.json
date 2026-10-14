@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_Mercedes_Benz_Gle_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately assessed overall severity and total loss, and provided mostly correct repair actions and costs, but omitted several key damaged parts and had one incorrect part severity."
+}

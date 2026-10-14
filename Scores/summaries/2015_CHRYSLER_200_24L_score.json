@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.875,
+  "part_recall": 0.875,
+  "part_f1": 0.875,
+  "gt_part_count": 8,
+  "ai_part_count": 8,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.143,
+  "severity_matches": 1,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": 3250.0,
+  "ai_estimated_repair_cost": 1590.0,
+  "cost_abs_error": 1660.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "radiator"
+  ],
+  "extra_parts": [
+    "cooling_system"
+  ],
+  "vehicle_id": "2015_CHRYSLER_200_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

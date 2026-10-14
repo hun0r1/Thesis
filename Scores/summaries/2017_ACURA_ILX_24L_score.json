@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.462,
+  "part_recall": 0.75,
+  "part_f1": 0.571,
+  "gt_part_count": 8,
+  "ai_part_count": 13,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 4200.0,
+  "ai_estimated_repair_cost": 5500.0,
+  "cost_abs_error": 1300.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_control_module",
+    "airbag_curtain",
+    "front_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "interior_trim"
+  ],
+  "extra_parts": [
+    "airbag_side",
+    "dashboard",
+    "front_left_door",
+    "other",
+    "rear_bumper",
+    "seat_belt",
+    "steering"
+  ],
+  "vehicle_id": "2017_ACURA_ILX_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_Escape_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many parts and their repair actions but missed several key components from the ground truth and made unsupported claims regarding structural damage and included an extra conflicting structural part."
+}

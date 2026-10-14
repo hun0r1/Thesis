@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Ford_Mustang_Mach-E_72kWh_198kW_Standard_Range_RWD_5d_Damage_ID6796802",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified airbag deployment and the overall total loss status, but demonstrated significant errors in detailing specific damaged parts by often identifying the wrong side of the vehicle, and provided a vastly inaccurate estimated repair cost."
+}

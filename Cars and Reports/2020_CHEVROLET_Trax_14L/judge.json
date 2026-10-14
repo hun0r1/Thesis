@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_CHEVROLET_Trax_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying most repair actions and providing a reasonably close total cost, but it incorrectly predicts total loss, significantly underestimates overall severity, and omits several critical structural and safety-related parts."
+}

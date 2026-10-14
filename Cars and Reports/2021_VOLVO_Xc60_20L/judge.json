@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_VOLVO_Xc60_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts but had significant inaccuracies regarding specific part severities, repair actions, and overall structural and vehicle severity, while cost and total loss couldn't be evaluated against ground truth."
+}

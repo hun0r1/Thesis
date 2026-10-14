@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_NISSAN_Rogue_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the overall severity and predicted total loss, but it significantly missed a number of damaged parts, including key structural components and a front passenger airbag, leading to an underestimated repair cost and an incorrect structural floor pan assessment, and omission of 'repair' actions."
+}

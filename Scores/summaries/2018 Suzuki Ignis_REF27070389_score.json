@@ -1,0 +1,47 @@
+{
+  "score_parts": 5,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.824,
+  "part_recall": 0.933,
+  "part_f1": 0.875,
+  "gt_part_count": 15,
+  "ai_part_count": 17,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.538,
+  "severity_matches": 7,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5725.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "fog_light",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "headlight_left"
+  ],
+  "extra_parts": [
+    "front_right_door",
+    "rear_right_door",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "2018 Suzuki Ignis_REF27070389",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

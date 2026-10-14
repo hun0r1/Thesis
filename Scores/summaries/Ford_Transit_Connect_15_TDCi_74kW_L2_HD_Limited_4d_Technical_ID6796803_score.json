@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.9,
+  "part_recall": 0.75,
+  "part_f1": 0.818,
+  "gt_part_count": 12,
+  "ai_part_count": 10,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.889,
+  "severity_matches": 8,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 753.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "roof",
+    "windshield"
+  ],
+  "missed_parts": [
+    "engine",
+    "other",
+    "rear_right_door"
+  ],
+  "extra_parts": [
+    "front_bumper"
+  ],
+  "vehicle_id": "Ford_Transit_Connect_15_TDCi_74kW_L2_HD_Limited_4d_Technical_ID6796803",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.714,
+  "part_recall": 0.714,
+  "part_f1": 0.714,
+  "gt_part_count": 7,
+  "ai_part_count": 7,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3350.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "tailgate",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "engine",
+    "roof"
+  ],
+  "extra_parts": [
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2014_NISSAN_Pathfinder_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

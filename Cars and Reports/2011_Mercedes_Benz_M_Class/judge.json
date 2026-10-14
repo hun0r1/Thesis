@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_Mercedes_Benz_M_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, significantly omitting critical damaged parts like the engine and tires, misclassifying the overall severity from severe to moderate, and presenting numerous factual inaccuracies in individual part severities, repair actions, and airbag deployment status."
+}

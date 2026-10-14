@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 3,
+  "score_overall": 4,
+  "part_precision": 0.8,
+  "part_recall": 0.727,
+  "part_f1": 0.762,
+  "gt_part_count": 11,
+  "ai_part_count": 10,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 5600.0,
+  "ai_estimated_repair_cost": 4850.0,
+  "cost_abs_error": 750.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "roof",
+    "windshield"
+  ],
+  "missed_parts": [
+    "a_pillar",
+    "frame",
+    "front_left_fender"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "front_right_fender"
+  ],
+  "vehicle_id": "2014_FORD_F-150_62L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

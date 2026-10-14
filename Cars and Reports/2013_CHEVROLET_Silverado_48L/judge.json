@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_CHEVROLET_Silverado_48L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall damage category and severity, but its detailed part identification, individual part severities, and repair actions were largely inconsistent with the ground truth, and it generated data for fields that were unknown."
+}

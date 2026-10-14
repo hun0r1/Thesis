@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_TOYOTA_Yaris_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying some damage parts and their details but significantly omitting critical damage such as the engine and misjudging the overall severity."
+}

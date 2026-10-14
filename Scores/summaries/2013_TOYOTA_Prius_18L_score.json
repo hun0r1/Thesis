@@ -1,0 +1,36 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.75,
+  "part_recall": 1.0,
+  "part_f1": 0.857,
+  "gt_part_count": 6,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 1.0,
+  "severity_matches": 6,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "grille",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2013_TOYOTA_Prius_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

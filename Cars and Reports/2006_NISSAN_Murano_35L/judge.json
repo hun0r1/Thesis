@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_NISSAN_Murano_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified many parts and their repair actions accurately, but critically missed the engine and its severe damage, resulting in an incorrect overall severity assessment."
+}

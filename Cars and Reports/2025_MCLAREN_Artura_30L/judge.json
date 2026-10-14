@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_MCLAREN_Artura_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified the main damaged part's details, overall severity, and total loss status, but it included an unsupported part and provided a significantly inaccurate estimated repair cost."
+}

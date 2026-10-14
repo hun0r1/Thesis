@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 NISSAN LEAF EV AUTO_LOT314234",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified one damaged part's details and the overall total loss prediction, but missed a second damaged part and significantly underestimated the total repair cost."
+}

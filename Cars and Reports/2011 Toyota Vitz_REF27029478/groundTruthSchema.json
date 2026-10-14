@@ -1,0 +1,206 @@
+{
+  "vehicle_id": "2011 Toyota Vitz_REF27029478",
+  "source": {
+    "origin": "totalcar",
+    "publisher": null,
+    "url": "https://www.turners.co.nz/Damaged-Vehicles/Damaged-Cars-for-Sale/toyota/vitz/27029478",
+    "language": "unknown",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2011,
+    "make": "Toyota",
+    "model": "Vitz",
+    "generation": null,
+    "body_style": "hatchback",
+    "engine": null,
+    "drivetrain": null,
+    "vin": "NZSTRANSP01A6057",
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": null,
+      "city": null
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "Vehicle sustained extensive damage including to the front bumper, grille, bonnet, front left headlight, and front left fender. Interior damage includes a broken steering column cover and a damaged ignition system. Both front right and rear left tires are flat. The radiator is noted to have no water. Windows on the left side are covered, suggesting glass damage. Additional damages to the rear right door and wheel are also noted.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_grille",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "bonnet",
+        "location": "front",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_headlight",
+        "location": "front_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_left_fender",
+        "location": "front_left",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_wheel_tire",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_wheel_rim",
+        "location": "front_right",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_wheel_tire",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "severe",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_left_wheel_rim",
+        "location": "rear_left",
+        "category": "suspension",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "ignition_system",
+        "location": "interior",
+        "category": "electronics",
+        "severity": "severe",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "steering_column_cover",
+        "location": "interior",
+        "category": "interior",
+        "severity": "severe",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "radiator",
+        "location": "front",
+        "category": "powertrain",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "front_right_fog_light",
+        "location": "front_right",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_front_door_window",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "left_rear_door_window",
+        "location": "left_side",
+        "category": "glass",
+        "severity": "moderate",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_door",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "unknown",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      },
+      {
+        "part": "rear_right_wheel",
+        "location": "rear_right",
+        "category": "suspension",
+        "severity": "unknown",
+        "repair_action": "unknown",
+        "estimated_cost_eur": null
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": null,
+    "market_value_pre_accident": null,
+    "predicted_total_loss": null
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "high",
+    "images_used": 20,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.917,
+  "part_recall": 0.688,
+  "part_f1": 0.786,
+  "gt_part_count": 16,
+  "ai_part_count": 12,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.727,
+  "severity_matches": 8,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": 5350.0,
+  "ai_estimated_repair_cost": 5300.0,
+  "cost_abs_error": 50.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "crossmember",
+    "fog_light",
+    "rear_bumper",
+    "seat_belt"
+  ],
+  "extra_parts": [
+    "frame_rail"
+  ],
+  "vehicle_id": "2015_LEXUS_RX_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

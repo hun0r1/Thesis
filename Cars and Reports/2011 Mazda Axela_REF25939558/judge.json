@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 Mazda Axela_REF25939558",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts but missed several key components, and while it often matched repair actions, it frequently misidentified part severities and the overall damage assessment."
+}

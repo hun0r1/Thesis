@@ -1,0 +1,52 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.632,
+  "part_recall": 0.75,
+  "part_f1": 0.686,
+  "gt_part_count": 16,
+  "ai_part_count": 19,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.833,
+  "severity_matches": 10,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 9580.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_driver",
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "front_right_fender",
+    "headlight_right",
+    "steering"
+  ],
+  "extra_parts": [
+    "airbag_curtain",
+    "airbag_passenger",
+    "other",
+    "seat_belt",
+    "subframe",
+    "suspension",
+    "windshield"
+  ],
+  "vehicle_id": "2017_SUBARU_Crosstrek_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

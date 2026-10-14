@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_TOYOTA_Camry_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and their repair actions, along with general damage labels and airbag deployments, but significantly erred on overall severity and structural frame damage, and included several unconfirmed parts while missing some ground truth parts."
+}

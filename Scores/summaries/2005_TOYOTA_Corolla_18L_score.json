@@ -1,0 +1,36 @@
+{
+  "score_parts": 1,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 1,
+  "part_precision": 0.25,
+  "part_recall": 0.25,
+  "part_f1": 0.25,
+  "gt_part_count": 4,
+  "ai_part_count": 4,
+  "matched_part_count": 1,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1575.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "engine",
+    "rear_right_quarter_panel",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2005_TOYOTA_Corolla_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

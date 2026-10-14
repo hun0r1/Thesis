@@ -1,0 +1,43 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.8,
+  "part_f1": 0.727,
+  "gt_part_count": 10,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.875,
+  "severity_matches": 7,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1775.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "windshield"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "b_pillar",
+    "engine",
+    "headlight_right",
+    "rocker_panel_right"
+  ],
+  "vehicle_id": "2005 MERCEDES C-CLASS C180 KOMPRESSOR CLASSIC SE 1,796cc_LOT314134",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

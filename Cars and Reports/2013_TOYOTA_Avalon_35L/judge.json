@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_TOYOTA_Avalon_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately determined the total loss status and overall estimated repair cost, but showed several factual discrepancies in part-specific details, severity assessments, and structural damage status."
+}

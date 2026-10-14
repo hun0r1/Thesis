@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.889,
+  "part_recall": 0.727,
+  "part_f1": 0.8,
+  "gt_part_count": 11,
+  "ai_part_count": 9,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.625,
+  "severity_matches": 5,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2950.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "cooling_fan",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "engine",
+    "headlight_left"
+  ],
+  "extra_parts": [
+    "washer_system"
+  ],
+  "vehicle_id": "2016_MINI_Countryman_16L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

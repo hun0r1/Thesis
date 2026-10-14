@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Ssangyong Actyon Sport Wrkmte 2WD M_REF27093354",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity but containing several mismatches in individual part severities, repair actions, and missing some damaged parts while adding others not supported by the ground truth, including a structural component that was deemed undamaged in the ground truth."
+}

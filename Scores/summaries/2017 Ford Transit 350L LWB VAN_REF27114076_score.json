@@ -1,0 +1,44 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.444,
+  "part_recall": 0.4,
+  "part_f1": 0.421,
+  "gt_part_count": 10,
+  "ai_part_count": 9,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3025.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_left_door",
+    "license_plate",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "mirror_left",
+    "rear_window",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "mirror_right",
+    "other",
+    "rear_right_door"
+  ],
+  "vehicle_id": "2017 Ford Transit 350L LWB VAN_REF27114076",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

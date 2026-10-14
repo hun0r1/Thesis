@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.818,
+  "part_recall": 0.643,
+  "part_f1": 0.72,
+  "gt_part_count": 14,
+  "ai_part_count": 11,
+  "matched_part_count": 9,
+  "severity_match_rate": 1.0,
+  "severity_matches": 9,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 3300.0,
+  "ai_estimated_repair_cost": 3125.0,
+  "cost_abs_error": 175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator"
+  ],
+  "missed_parts": [
+    "battery",
+    "cooling_fan",
+    "other",
+    "radiator_support",
+    "windshield"
+  ],
+  "extra_parts": [
+    "bull_bar",
+    "fog_light"
+  ],
+  "vehicle_id": "1996 Nissan Terrano_REF27111186",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

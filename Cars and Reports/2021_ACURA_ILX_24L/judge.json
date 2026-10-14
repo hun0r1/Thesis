@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_ACURA_ILX_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most individual parts and their repair actions correctly or with minor differences, but it significantly misjudged the overall severity of the damage and failed to detect a critical part (engine assembly)."
+}

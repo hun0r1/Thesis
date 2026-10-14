@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_KIA_Soul_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI report accurately identified total loss and several major damaged parts with correct repair actions, but contained a critical factual error regarding the damage category, misidentified airbag deployment, estimated repair costs were significantly off, and numerous minor damage details and corresponding repair actions were omitted or misclassified."
+}

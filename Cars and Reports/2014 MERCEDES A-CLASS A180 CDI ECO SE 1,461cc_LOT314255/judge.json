@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 MERCEDES A-CLASS A180 CDI ECO SE 1,461cc_LOT314255",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts with minor naming differences, but it misrepresented one specific part (engine vs. engine oil pan) and included extra, unsupported parts; it also significantly mismatched the overall severity and many individual part severities and repair actions."
+}

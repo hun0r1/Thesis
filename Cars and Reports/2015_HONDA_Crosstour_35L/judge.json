@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_HONDA_Crosstour_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI's report incorrectly identified the side of impact for multiple components, made several omissions and additions in the parts list, significantly underestimated the total repair cost, and incorrectly classified the vehicle as repairable instead of a total loss."
+}

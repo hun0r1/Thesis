@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009 AUDI A3 TDI QUATTRO S LINE SPECIAL EDITION 1,968cc_LOT314229",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identifies the overall severity and some damaged parts, but it incorrectly localizes damage to the front-left instead of front-right for multiple components, omits two distinct body parts, and significantly underestimates the estimated repair cost."
+}

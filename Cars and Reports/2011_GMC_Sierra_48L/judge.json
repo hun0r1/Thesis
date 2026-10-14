@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_GMC_Sierra_48L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report significantly understates the damage, missing key parts like the engine, mischaracterizing the overall severity as 'mild' instead of 'total_loss', and providing mostly incorrect details for identified parts."
+}

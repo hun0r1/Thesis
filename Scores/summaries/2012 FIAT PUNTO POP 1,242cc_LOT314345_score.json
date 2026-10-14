@@ -1,0 +1,46 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.938,
+  "part_recall": 0.938,
+  "part_f1": 0.938,
+  "gt_part_count": 16,
+  "ai_part_count": 16,
+  "matched_part_count": 15,
+  "severity_match_rate": 0.933,
+  "severity_matches": 14,
+  "severity_total_compared": 15,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2125.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "hood",
+    "interior_trim",
+    "mirror_left",
+    "mirror_right",
+    "other",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "trunk_lid",
+    "windshield"
+  ],
+  "missed_parts": [
+    "steering"
+  ],
+  "extra_parts": [
+    "ignition_system"
+  ],
+  "vehicle_id": "2012 FIAT PUNTO POP 1,242cc_LOT314345",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

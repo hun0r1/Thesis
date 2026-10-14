@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_NISSAN_370z_37L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying most severities and repair actions for matching parts, but it significantly omits key parts, adds unsupported ones, and has factual errors in structural damage and airbag deployment details."
+}

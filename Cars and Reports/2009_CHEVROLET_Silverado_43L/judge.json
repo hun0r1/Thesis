@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_CHEVROLET_Silverado_43L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and most repair actions for identified parts, but it missed several damaged parts, added others not present in the ground truth, and provided largely incorrect specific severity assessments, particularly for structural components."
+}

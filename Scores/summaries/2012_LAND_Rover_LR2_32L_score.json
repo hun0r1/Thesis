@@ -1,0 +1,34 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.5,
+  "part_f1": 0.571,
+  "gt_part_count": 4,
+  "ai_part_count": 3,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 300.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "headlight_left"
+  ],
+  "missed_parts": [
+    "dashboard",
+    "engine"
+  ],
+  "extra_parts": [
+    "headlight_right"
+  ],
+  "vehicle_id": "2012_LAND_Rover_LR2_32L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

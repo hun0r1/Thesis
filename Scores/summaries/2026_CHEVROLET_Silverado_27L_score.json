@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.882,
+  "part_recall": 0.833,
+  "part_f1": 0.857,
+  "gt_part_count": 18,
+  "ai_part_count": 17,
+  "matched_part_count": 15,
+  "severity_match_rate": 0.6,
+  "severity_matches": 9,
+  "severity_total_compared": 15,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 13200.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "pickup_bed",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "tailgate",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "exhaust_system",
+    "other"
+  ],
+  "extra_parts": [
+    "frame",
+    "intercooler"
+  ],
+  "vehicle_id": "2026_CHEVROLET_Silverado_27L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

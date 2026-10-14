@@ -1,0 +1,50 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.8,
+  "part_recall": 0.667,
+  "part_f1": 0.727,
+  "gt_part_count": 18,
+  "ai_part_count": 15,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.833,
+  "severity_matches": 10,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_driver",
+    "airbag_passenger",
+    "cooling_system",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_curtain",
+    "cooling_fan",
+    "dashboard",
+    "engine",
+    "front_right_fender",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "crossmember",
+    "other",
+    "suspension"
+  ],
+  "vehicle_id": "2007_DODGE_Caliber_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

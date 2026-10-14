@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_PORSCHE_Macan_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and two damaged parts with one correct repair action, but missed two other damaged parts, provided inaccurate severity for the identified parts, and one incorrect repair action."
+}

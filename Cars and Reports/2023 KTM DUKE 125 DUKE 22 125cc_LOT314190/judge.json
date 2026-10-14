@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023 KTM DUKE 125 DUKE 22 125cc_LOT314190",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 1,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified the repair actions for most specific parts, but misjudged the overall severity and predicted total loss status, while also presenting a significantly different estimated repair cost and including several unsupported parts."
+}

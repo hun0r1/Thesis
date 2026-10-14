@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 OPEL INSIGNIA_LOT314338",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and overall severity, but included an extra part, provided incorrect repair actions for two parts, and significantly miscalculated the estimated total repair cost."
+}

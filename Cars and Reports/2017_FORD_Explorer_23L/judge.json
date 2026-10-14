@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_FORD_Explorer_23L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output identified most key parts and airbag deployment, but it missed several important parts including the engine, had significant inaccuracies in overall and structural severity, and contained multiple incorrect repair actions."
+}

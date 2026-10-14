@@ -1,0 +1,41 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.833,
+  "part_recall": 0.455,
+  "part_f1": 0.588,
+  "gt_part_count": 11,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 1.0,
+  "severity_matches": 5,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6100.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "other",
+    "rear_bumper",
+    "rear_left_quarter_panel"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_fender",
+    "front_right_fender",
+    "interior_trim",
+    "tailgate",
+    "windshield"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "Volvo_XC40_T3_XC40_5d_technical_issues__ID6796813",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

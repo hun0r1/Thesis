@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.846,
+  "part_recall": 0.846,
+  "part_f1": 0.846,
+  "gt_part_count": 13,
+  "ai_part_count": 13,
+  "matched_part_count": 11,
+  "severity_match_rate": 0.375,
+  "severity_matches": 3,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2475.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "headlight_left",
+    "hood",
+    "other",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "seat"
+  ],
+  "missed_parts": [
+    "rear_right_door",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "mirror_left",
+    "turn_signal"
+  ],
+  "vehicle_id": "2004 NISSAN TERRANO II SE TD 2,664cc_LOT314210",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

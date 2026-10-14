@@ -1,0 +1,117 @@
+{
+  "vehicle_id": "2013 AUDI A6 TDI BLACK EDITION 1,968cc_LOT314346",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2013-audi-a6-tdi-black-edition-314346?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D9",
+    "language": "english",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A6 TDI Black Edition",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "Diesel 1,968cc",
+    "drivetrain": "CVT",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "Wales",
+      "city": "Swansea"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "The vehicle sustained damage to the left side mirror, left rear light, and rear window, with boot misalignment and electronic system malfunctions, leading to a Category S structural write-off designation.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "rear_window",
+        "location": "rear",
+        "category": "glass",
+        "severity": "severe",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "left_side_mirror",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 100.0
+      },
+      {
+        "part": "left_rear_light",
+        "location": "rear_left",
+        "category": "lighting",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "boot_lid",
+        "location": "rear",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "repair",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "battery",
+        "location": "underbody",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "electronic_handbrake_system",
+        "location": "unknown",
+        "category": "electronics",
+        "severity": "moderate",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 150.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 900.0,
+    "market_value_pre_accident": 10000.0,
+    "insurer_total_loss": true,
+    "predicted_total_loss": true
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "severe",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2024-03-08T12:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 10,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

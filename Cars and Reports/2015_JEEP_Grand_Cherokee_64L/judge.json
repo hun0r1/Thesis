@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_JEEP_Grand_Cherokee_64L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately predicting total loss and general severity, but it omits several key parts from the ground truth, significantly miscalculates repair costs, and makes unsupported claims regarding airbag deployment and structural frame damage."
+}

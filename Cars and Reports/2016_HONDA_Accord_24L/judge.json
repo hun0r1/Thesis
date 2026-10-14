@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI provided accurate high-level economic predictions and airbag deployment status but missed many specific damaged parts, provided incorrect repair actions and severities for several items, and misidentified structural damage."
+}

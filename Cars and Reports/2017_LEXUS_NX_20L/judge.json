@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_LEXUS_NX_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and airbag deployments but missed several key interior and body components, showed some inconsistencies in structural damage assessment, and inaccurately reported the overall severity as 'total_loss' instead of 'severe' as per ground truth."
+}

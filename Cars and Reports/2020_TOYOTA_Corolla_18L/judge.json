@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most damaged parts and accurately captured the overall severity. However, it omitted several key components found in the ground truth and showed significant discrepancies in recommended repair actions for certain parts."
+}

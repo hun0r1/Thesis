@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_HONDA_Civic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output correctly identified some body panel damages but critically failed to identify the engine damage, leading to an incorrect overall severity assessment and several repair action mismatches, alongside a structural component error."
+}

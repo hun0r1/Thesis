@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HYUNDAI_Elantra_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified about a third of the damaged parts and the overall severity, but missed several key components present in the ground truth and provided incorrect severity and repair actions for some identified parts, as well as discrepancies in structural damage assessment."
+}

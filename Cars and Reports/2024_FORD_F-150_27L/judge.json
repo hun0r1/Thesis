@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_FORD_F-150_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most required parts and repair actions, but significantly diverged on overall and structural severity, and incorrectly located or missed a few key parts."
+}

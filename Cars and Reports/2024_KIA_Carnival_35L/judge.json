@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_KIA_Carnival_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity and total loss prediction, but it significantly miscalculated the estimated repair cost and showed notable discrepancies in the specific list of damaged parts and their repair actions, including omissions of key ground truth items and addition of unsupported claims."
+}

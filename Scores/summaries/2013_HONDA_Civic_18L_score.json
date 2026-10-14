@@ -1,0 +1,39 @@
+{
+  "score_parts": 4,
+  "score_severity": 2,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.727,
+  "part_f1": 0.842,
+  "gt_part_count": 11,
+  "ai_part_count": 8,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.375,
+  "severity_matches": 3,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 2375.0,
+  "ai_estimated_repair_cost": 1625.0,
+  "cost_abs_error": 750.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "rear_bumper",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "headlight_left",
+    "radiator_support",
+    "wheel_front_right"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2013_HONDA_Civic_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

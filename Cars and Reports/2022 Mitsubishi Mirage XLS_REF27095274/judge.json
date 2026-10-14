@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022 Mitsubishi Mirage XLS_REF27095274",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most major damaged parts but omitted three minor ones, and had several inaccuracies in specific part severities and repair actions, although the overall severity was correctly assessed."
+}

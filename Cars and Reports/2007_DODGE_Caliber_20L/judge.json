@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_DODGE_Caliber_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and repair actions but missed critical components like the engine and dashboard, and had significant inaccuracies in structural and overall severity assessments."
+}

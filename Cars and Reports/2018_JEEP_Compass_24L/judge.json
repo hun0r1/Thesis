@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_JEEP_Compass_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified overall damage characteristics, airbag deployment, and structural damage, but had several discrepancies in the specific parts list, including omissions, part name/location mismatches, and inaccurate repair actions and severities for certain components."
+}

@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.765,
+  "part_recall": 0.812,
+  "part_f1": 0.788,
+  "gt_part_count": 16,
+  "ai_part_count": 17,
+  "matched_part_count": 13,
+  "severity_match_rate": 0.846,
+  "severity_matches": 11,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5950.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rear_right_door",
+    "rear_right_quarter_panel"
+  ],
+  "missed_parts": [
+    "engine",
+    "radiator",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "frame",
+    "grille",
+    "radiator_support",
+    "tailgate"
+  ],
+  "vehicle_id": "2009 Toyota Wish_REF27113933",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

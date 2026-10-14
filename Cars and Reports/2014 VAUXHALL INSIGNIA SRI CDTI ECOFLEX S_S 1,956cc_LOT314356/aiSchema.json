@@ -1,0 +1,125 @@
+{
+  "vehicle_id": "2014 VAUXHALL INSIGNIA SRI CDTI ECOFLEX S_S 1,956cc_LOT314356",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2014-vauxhall-insignia-sri-cdti-ecoflex-ss-314356?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D9",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2014,
+    "make": "Vauxhall",
+    "model": "Insignia SRI CDTI Ecoflex",
+    "generation": null,
+    "body_style": "sedan",
+    "engine": "1,956cc Diesel",
+    "drivetrain": "manual",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Crumlin"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "front",
+    "description": "Minor damage observed on the front bumper and general wear and tear.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "front_bumper",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "fog_light_grille_left",
+        "location": "front_left",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "license_plate_bracket_front",
+        "location": "front",
+        "category": "other",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 25.0
+      },
+      {
+        "part": "rear_bumper",
+        "location": "rear",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 175.0
+      },
+      {
+        "part": "instrument_cluster_cover",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "rear_quarter_panel_right",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 200.0
+      },
+      {
+        "part": "interior_cabin",
+        "location": "interior",
+        "category": "interior",
+        "severity": "minor",
+        "repair_action": "clean",
+        "estimated_cost_eur": 37.5
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 862.5,
+    "market_value_pre_accident": 6000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 11,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

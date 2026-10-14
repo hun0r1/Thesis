@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_TOYOTA_Rav4_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified several damaged parts and their repair actions but incorrectly assessed the overall severity, had a notable discrepancy in the estimated repair cost, and consolidated multiple specific parts into a general assembly, omitting detailed information."
+}

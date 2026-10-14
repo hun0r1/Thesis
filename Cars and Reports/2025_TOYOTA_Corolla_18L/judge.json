@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbags and structural frame damage, and most individual part severities and repair actions, but significantly omitted key damaged parts such as the engine assembly, front subframe, and wheels, leading to an incomplete assessment."
+}

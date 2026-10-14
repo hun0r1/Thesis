@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_KIA_Sedona_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 4,
+    "total_loss": 2,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall damage category and severity, most damaged parts, and had a close estimated repair cost, but diverged on individual part severities and repair actions, and did not provide a total loss prediction."
+}

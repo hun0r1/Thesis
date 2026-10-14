@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Audi A3 NZ Spback Tfsi_REF27112010",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed overall severity and many individual part severities, but it missed several damaged parts and provided different repair actions for some identified parts."
+}

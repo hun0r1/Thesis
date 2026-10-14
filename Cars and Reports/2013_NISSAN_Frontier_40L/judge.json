@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_NISSAN_Frontier_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damage, matching overall severity and total loss prediction, but significantly omitted damaged parts, misestimated repair costs, and consistently underestimated part-level severities."
+}

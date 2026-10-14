@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Honda FIT_REF27077791",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified all ground truth parts and their repair actions, but included one extra part, had significant inaccuracies in individual part severities and overall severity, substantially miscalculated the total estimated repair cost, and incorrectly predicted a total loss."
+}

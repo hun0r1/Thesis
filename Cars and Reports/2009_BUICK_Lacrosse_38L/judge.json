@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_BUICK_Lacrosse_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified most damaged parts with accurate repair actions and overall severity, but it missed two parts from the ground truth and included one additional part, with one part's severity incorrectly assessed."
+}

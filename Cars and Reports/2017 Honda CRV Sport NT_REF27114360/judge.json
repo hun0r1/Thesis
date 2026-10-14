@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Honda CRV Sport NT_REF27114360",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and several core damaged parts with their respective severities and repair actions, but it omitted some parts, had discrepancies in several part-specific severities and repair actions, and diverged on structural damage assessments."
+}

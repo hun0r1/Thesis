@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_NISSAN_Rogue_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately determined the overall severity, total loss prediction, and estimated repair cost within a minor margin, but presented a parts list that included several additional items not in the ground truth and varied some individual part severities and repair actions."
+}

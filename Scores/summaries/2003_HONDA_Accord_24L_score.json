@@ -1,0 +1,37 @@
+{
+  "score_parts": 1,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 1,
+  "part_precision": 0.25,
+  "part_recall": 0.2,
+  "part_f1": 0.222,
+  "gt_part_count": 5,
+  "ai_part_count": 4,
+  "matched_part_count": 1,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 635.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "headlight_left"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "engine",
+    "headlight_right",
+    "rear_left_door"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "rear_bumper",
+    "tire"
+  ],
+  "vehicle_id": "2003_HONDA_Accord_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

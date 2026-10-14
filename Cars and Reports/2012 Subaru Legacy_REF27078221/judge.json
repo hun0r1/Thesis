@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Subaru Legacy_REF27078221",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified overall severity and structural damage, but missed several specific parts, included some unsupported parts, and had minor discrepancies in individual part severities and repair actions."
+}

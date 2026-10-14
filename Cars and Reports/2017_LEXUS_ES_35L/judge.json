@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_LEXUS_ES_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to numerous missing parts, several inaccurate claims for structural and airbag damage where ground truth was unknown, significant discrepancies in part severities and repair actions, and a substantial difference in the total estimated repair cost, although the total loss prediction matched."
+}

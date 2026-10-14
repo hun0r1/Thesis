@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 Nissan Leaf_REF27107033",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output partially matches the ground truth for identified parts, severities, and repair actions, but contains significant factual errors regarding structural damage (A/B pillars), airbag deployment, and overall severity, while also omitting several key parts and their associated repair actions."
+}

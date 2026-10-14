@@ -1,0 +1,35 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.4,
+  "part_recall": 0.667,
+  "part_f1": 0.5,
+  "gt_part_count": 3,
+  "ai_part_count": 5,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": 20450.0,
+  "ai_estimated_repair_cost": 8275.0,
+  "cost_abs_error": 12175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "engine",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "mirror_right"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "mirror_left",
+    "rear_left_quarter_panel"
+  ],
+  "vehicle_id": "BMW_5_Reeks_Touring_520e_150kW_5d_Technical_issues__ID6796801",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

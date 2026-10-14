@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Lexus IS250_REF25940142",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified all damaged parts present in the ground truth but included extra unsupported parts and provided numerous incorrect details regarding part severities and repair actions, also misidentifying the overall damage severity."
+}

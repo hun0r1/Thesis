@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_AUDI_SQ5_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report missed several critical damaged parts, notably all deployed airbags and their control module, leading to a significantly underestimated repair cost and incorrect repair actions for key components, despite correctly identifying the overall severity and total loss status."
+}

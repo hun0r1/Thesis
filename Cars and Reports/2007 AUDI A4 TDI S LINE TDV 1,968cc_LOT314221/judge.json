@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 AUDI A4 TDI S LINE TDV 1,968cc_LOT314221",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, with inaccuracies in part identification (e.g., quarter panel vs. rear fender, general fenders), several minor errors in severity and repair actions, and critical misstatements regarding structural components, claiming 'none' where the ground truth indicated 'unknown'."
+}

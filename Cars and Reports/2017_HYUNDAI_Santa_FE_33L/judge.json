@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HYUNDAI_Santa_FE_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted total loss and overall severity but showed significant discrepancies in specific damaged parts, their individual severities, repair actions, and the final estimated repair cost."
+}

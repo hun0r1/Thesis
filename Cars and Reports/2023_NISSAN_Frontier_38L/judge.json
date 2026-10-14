@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_NISSAN_Frontier_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall severity and accurately suggested repair actions for most identified parts, but it missed several key parts, added numerous unsupported parts, and provided an incorrect assessment of some structural damage."
+}

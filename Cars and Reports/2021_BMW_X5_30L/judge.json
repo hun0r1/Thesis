@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_BMW_X5_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified overall damage labels and many specific part damages, but significantly omitted key structural and powertrain components like the engine and front subframe."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_TOYOTA_4-runner_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions but contained significant factual errors regarding airbag deployment and structural damage, with some parts omitted and others incorrectly added."
+}

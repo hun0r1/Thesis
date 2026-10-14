@@ -1,0 +1,40 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.75,
+  "part_f1": 0.706,
+  "gt_part_count": 8,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "rocker_panel_left",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "grille"
+  ],
+  "extra_parts": [
+    "hood",
+    "radiator_support",
+    "suspension"
+  ],
+  "vehicle_id": "2015_ACURA_TLX_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

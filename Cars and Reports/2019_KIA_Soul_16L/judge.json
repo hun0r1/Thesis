@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_KIA_Soul_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified less than half of the damaged parts from the ground truth and included one part not categorized as such in the ground truth; it also had significant inaccuracies in overall and structural severity, though it correctly identified repair actions for half of the common parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 FORD TRANSIT CONNECT 210 TREND TDCI 1,499cc_LOT314371",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 1,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified most damaged parts, their severity, and the total loss prediction, and provided a close cost estimate, though it consistently provided incorrect repair actions for all identified parts and missed two minor components."
+}

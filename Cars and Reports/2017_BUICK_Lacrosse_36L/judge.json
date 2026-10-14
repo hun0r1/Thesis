@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_BUICK_Lacrosse_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all ground truth parts and the overall severity, but it made significant inaccuracies in structural damage severity, several individual part severities, and specific repair actions, while also listing additional unsupported parts."
+}

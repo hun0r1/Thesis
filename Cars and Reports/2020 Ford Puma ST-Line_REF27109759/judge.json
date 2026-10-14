@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 Ford Puma ST-Line_REF27109759",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most parts and repair actions but missed some key parts and had several inaccuracies in damage severity, with no cost or total loss ground truth for comparison."
+}

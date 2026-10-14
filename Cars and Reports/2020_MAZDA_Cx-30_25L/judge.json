@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_MAZDA_Cx-30_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified many individual damaged parts, their severities, and repair actions correctly, but it missed critical components like the engine and suspension, and had significant discrepancies in overall severity and structural frame assessment."
+}

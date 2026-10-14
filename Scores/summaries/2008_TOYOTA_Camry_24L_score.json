@@ -1,0 +1,36 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.833,
+  "part_recall": 0.833,
+  "part_f1": 0.833,
+  "gt_part_count": 6,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "frame_rail",
+    "rear_body_panel",
+    "rear_bumper",
+    "taillight_right",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "rear_left_quarter_panel"
+  ],
+  "extra_parts": [
+    "rear_right_quarter_panel"
+  ],
+  "vehicle_id": "2008_TOYOTA_Camry_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

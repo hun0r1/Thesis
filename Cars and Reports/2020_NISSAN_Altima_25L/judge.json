@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity and most repair actions for identified parts, but it significantly misses numerous key parts, provides incorrect airbag deployment status, and misidentifies the damage category."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_Mercedes_Benz_C_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately identifies the overall severity and total loss prediction, and the total estimated repair cost is very close to the ground truth. However, there are notable omissions of specific damaged parts from the ground truth and some inaccuracies in individual part costs, although severities and repair actions for the identified parts are mostly correct."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted overall severity and total loss but contained critical errors regarding airbag deployment, structural floor pan assessment, and several discrepancies in identified parts and their recommended repair actions."
+}

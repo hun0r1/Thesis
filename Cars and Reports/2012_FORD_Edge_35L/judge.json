@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_FORD_Edge_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified structural damage and repair actions for some common parts, but significantly missed numerous critical damaged components (such as the engine, windshield, and left-side body parts), leading to an incorrect overall severity assessment."
+}

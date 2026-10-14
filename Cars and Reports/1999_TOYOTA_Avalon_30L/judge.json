@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1999_TOYOTA_Avalon_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified airbag deployment status, structural damage, and total loss prediction, but missed several damaged parts, hallucinated others, significantly miscalculated the estimated repair cost, and had multiple inaccuracies in part-specific severities and repair actions."
+}

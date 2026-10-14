@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Honda Accord Eurol_REF27087579",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output accurately identified most ground truth parts and repair actions, but included several extra parts not specified in the ground truth, and displayed significant discrepancies in part severities and the overall damage classification."
+}

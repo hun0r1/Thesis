@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Nissan Tiida Latio_REF27110930",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially aligns with the ground truth, accurately identifying most repair actions but missing several ground truth parts, adding many unsupported parts, and showing significant inaccuracies in damage severity assessments."
+}

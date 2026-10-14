@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_FORD_F-150_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most damaged parts and their repair actions, but significantly differed in individual part severities, estimated repair cost, and failed to determine the total loss status."
+}

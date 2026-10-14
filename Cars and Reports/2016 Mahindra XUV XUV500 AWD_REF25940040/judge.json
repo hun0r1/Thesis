@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 Mahindra XUV XUV500 AWD_REF25940040",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified high-level damage details and most part attributes, but significantly omitted several damaged parts from the ground truth while including some not present in the reference."
+}

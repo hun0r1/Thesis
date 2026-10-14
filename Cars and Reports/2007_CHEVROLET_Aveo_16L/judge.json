@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_CHEVROLET_Aveo_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identifies airbag deployment and mostly matches structural elements but significantly misses key damaged parts like the engine and rear panels, provides an incorrect overall severity and drivability status, and has discrepancies in part-specific severities and repair actions."
+}

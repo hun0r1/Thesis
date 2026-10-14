@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 FORD GALAXY TITANIUM TDCI 1,997cc_LOT314153",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified all damaged parts and the overall total loss status, but its estimations for individual part severities, specific repair actions, and the total estimated repair cost were significantly different from the ground truth."
+}

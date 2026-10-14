@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_CHEVROLET_Impala_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most parts but crucially omitted the 'engine' part. There were also several inaccuracies in part severities and one repair action."
+}

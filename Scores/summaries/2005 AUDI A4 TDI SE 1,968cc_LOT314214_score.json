@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.692,
+  "part_recall": 0.818,
+  "part_f1": 0.75,
+  "gt_part_count": 11,
+  "ai_part_count": 13,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.889,
+  "severity_matches": 8,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 4300.0,
+  "ai_estimated_repair_cost": 1425.0,
+  "cost_abs_error": 2875.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "other",
+    "rear_bumper",
+    "wheel_front_left",
+    "wheel_front_right",
+    "wheel_rear_left",
+    "wheel_rear_right"
+  ],
+  "missed_parts": [
+    "mirror_left",
+    "rear_left_quarter_panel"
+  ],
+  "extra_parts": [
+    "front_right_fender",
+    "mirror_right",
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "vehicle_id": "2005 AUDI A4 TDI SE 1,968cc_LOT314214",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

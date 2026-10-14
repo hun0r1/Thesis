@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_DODGE_Grand_Caravan_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their general repair actions, but significantly erred on overall severity, structural damage assessment, and omitted critical damaged components like the engine."
+}

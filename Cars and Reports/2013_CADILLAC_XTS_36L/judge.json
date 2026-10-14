@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_CADILLAC_XTS_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbags and repair actions for detected parts but missed crucial structural components like frame rails and the engine, provided an incorrect overall severity, and misrepresented structural damage where the ground truth was 'unknown'."
+}

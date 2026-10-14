@@ -1,0 +1,49 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.308,
+  "part_recall": 0.364,
+  "part_f1": 0.333,
+  "gt_part_count": 11,
+  "ai_part_count": 13,
+  "matched_part_count": 4,
+  "severity_match_rate": 1.0,
+  "severity_matches": 4,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6475.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_side",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "engine",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "rocker_panel_right",
+    "tire",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [
+    "b_pillar",
+    "front_left_door",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "seat_belt",
+    "suspension",
+    "taillight_left",
+    "wheel_rear_left"
+  ],
+  "vehicle_id": "2018_HYUNDAI_Santa_FE_Sport_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

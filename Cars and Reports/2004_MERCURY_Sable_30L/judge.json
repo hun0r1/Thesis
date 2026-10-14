@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_MERCURY_Sable_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts and the overall severity, but showed inaccuracies in individual part severities, repair actions, structural assessment, and included an extra part not present in the ground truth."
+}

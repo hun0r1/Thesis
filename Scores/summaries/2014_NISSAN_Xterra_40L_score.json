@@ -1,0 +1,51 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.545,
+  "part_recall": 0.353,
+  "part_f1": 0.429,
+  "gt_part_count": 17,
+  "ai_part_count": 11,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 6225.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "grille",
+    "hood",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "airbag_curtain",
+    "airbag_passenger",
+    "dashboard",
+    "engine",
+    "front_right_fender",
+    "headlight_right",
+    "radiator",
+    "radiator_support",
+    "rocker_panel_right",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "front_left_fender",
+    "headlight_left",
+    "rocker_panel_left",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2014_NISSAN_Xterra_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

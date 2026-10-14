@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_CHRYSLER_Town_AND_Country_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified some body parts and repair actions but significantly missed critical damage (engine, front wheel assembly), misjudged the overall severity from 'severe' to 'mild', and included incorrect parts not present in the ground truth."
+}

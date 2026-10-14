@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_TOYOTA_Tundra_46L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct but missed several key damaged parts, including the engine, radiator, and condenser, leading to an incorrect overall severity assessment and several misaligned repair actions."
+}

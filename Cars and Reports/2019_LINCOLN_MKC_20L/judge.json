@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_LINCOLN_MKC_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss prediction but missed several damaged parts, made errors in recommended repair actions for some identified parts, and significantly overestimated the estimated repair cost."
+}

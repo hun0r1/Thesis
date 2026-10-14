@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 VAUXHALL COMBO 2300 L2H1 CDTI S_S ECOFLEX 1,248cc_LOT314253",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most parts, repair actions, and high-level labels but had several inaccuracies in individual part severities and structural details, and also included an extra part while omitting one from the ground truth."
+}

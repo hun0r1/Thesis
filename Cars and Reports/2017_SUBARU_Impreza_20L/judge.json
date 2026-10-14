@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_SUBARU_Impreza_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed critical damaged parts like the engine and front right fender, significantly underestimated the severity of many items and the overall accident severity, and made several incorrect repair action recommendations."
+}

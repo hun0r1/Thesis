@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016 Holden Commodore VF2 Evoke_REF27101774",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identifies several damaged parts and their repair actions, but significantly omits numerous parts from the ground truth and provides an incorrect overall severity assessment."
+}

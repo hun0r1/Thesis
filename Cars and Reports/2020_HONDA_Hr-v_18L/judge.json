@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_HONDA_Hr-v_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall damage severity and many damaged parts, but it included several unsupported parts, and made inaccuracies in the repair actions and severities for some identified parts."
+}

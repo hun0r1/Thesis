@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1996 Nissan Terrano_REF27111186",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss status, and provided a reasonably close total repair cost; however, it missed several damaged parts, included unsupported parts, incorrectly identified repair actions for some parts, and had a factual discrepancy in the structural assessment."
+}

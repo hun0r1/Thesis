@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_DODGE_Dart_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified the damaged parts, missing several key items and including extraneous ones, although its severity and repair action assessments for matched parts were mostly correct, as was the overall severity."
+}

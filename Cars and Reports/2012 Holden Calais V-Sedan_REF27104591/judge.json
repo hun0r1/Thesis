@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 Holden Calais V-Sedan_REF27104591",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified a significant number of damaged parts and their repair actions, along with the overall severity, but missed several key components and had minor inaccuracies in part location or severity for some items."
+}

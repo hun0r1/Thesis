@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_LAND_Rover_LR2_32L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some front-end parts and their associated repair actions, but missed key components like the engine and dashboard, and had significant inaccuracies in overall severity, drivability, and structural assessment."
+}

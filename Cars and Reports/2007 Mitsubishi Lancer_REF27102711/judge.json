@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 Mitsubishi Lancer_REF27102711",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report was mostly correct in identifying damaged parts, with a few omissions and some additional claims; however, it showed significant discrepancies in structural and individual part severities, often underestimated repair costs, and partially incorrect repair actions."
+}

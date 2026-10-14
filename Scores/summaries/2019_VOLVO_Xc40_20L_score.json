@@ -1,0 +1,45 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.833,
+  "part_recall": 0.714,
+  "part_f1": 0.769,
+  "gt_part_count": 14,
+  "ai_part_count": 12,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.8,
+  "severity_matches": 8,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 5100.0,
+  "ai_estimated_repair_cost": 4900.0,
+  "cost_abs_error": 200.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "air_intake",
+    "cooling_system",
+    "intercooler",
+    "windshield"
+  ],
+  "extra_parts": [
+    "crossmember",
+    "other"
+  ],
+  "vehicle_id": "2019_VOLVO_Xc40_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

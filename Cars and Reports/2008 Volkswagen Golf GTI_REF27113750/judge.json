@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Volkswagen Golf GTI_REF27113750",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many front collision parts but contained several generalizations, missed one specific part, and showed significant inaccuracies in severity and repair actions for many components, particularly on the sides and rear of the vehicle."
+}

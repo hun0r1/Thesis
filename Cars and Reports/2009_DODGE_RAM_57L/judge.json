@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_DODGE_RAM_57L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified the overall severity and total loss status, along with most repair actions, but included numerous additional parts not in the ground truth, showed several discrepancies in individual part severities, and significantly underestimated the repair cost."
+}

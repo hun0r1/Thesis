@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Transit_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified only one out of four damaged parts with an acceptable repair action and a significantly underestimated total repair cost, although its overall severity assessment was correct."
+}

@@ -1,0 +1,31 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.667,
+  "part_f1": 0.8,
+  "gt_part_count": 3,
+  "ai_part_count": 2,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.5,
+  "severity_matches": 1,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1037.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "other"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2003_Mercedes_Benz_Sl_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

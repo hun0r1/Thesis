@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 HYUNDAI I40 CRDI ACTIVE BLUE DRIVE 1,685cc_LOT314170",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified all ground truth parts and the total loss status, but significantly deviated on damage severity, repair actions, and estimated repair costs for multiple components, leading to a substantial underestimation of the overall severity and total cost."
+}

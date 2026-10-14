@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_Mercedes_Benz_S_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified overall severity and total loss status, but missed several damaged parts, made errors in repair actions and severity for some identified parts, and significantly underestimated the total repair cost."
+}

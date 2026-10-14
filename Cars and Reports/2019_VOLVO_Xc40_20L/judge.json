@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_VOLVO_Xc40_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified major damaged parts, overall severity, and total loss prediction, but omitted several smaller components and had some inaccuracies in specific part severities and recommended repair actions."
+}

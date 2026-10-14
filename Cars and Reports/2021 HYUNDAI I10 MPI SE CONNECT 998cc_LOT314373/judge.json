@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021 HYUNDAI I10 MPI SE CONNECT 998cc_LOT314373",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status and most repair actions, but missed several key damaged parts, had significant inaccuracies in part-level severities and estimated costs, and included unrequested damage items."
+}

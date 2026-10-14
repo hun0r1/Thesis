@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 Honda Odyssey_REF27104723",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and most repair actions, but it missed several key damaged parts and had multiple inaccuracies in individual part severity assessments."
+}

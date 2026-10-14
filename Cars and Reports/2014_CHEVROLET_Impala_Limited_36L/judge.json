@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Impala_Limited_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the total loss status and most individual parts, along with their repair actions. However, it significantly differed in overall and individual part repair costs, as well as the overall severity assessment, and missed one specific part from the ground truth."
+}

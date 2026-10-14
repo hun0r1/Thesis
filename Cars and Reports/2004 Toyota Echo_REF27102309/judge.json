@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Toyota Echo_REF27102309",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the total loss status and many damaged parts, but showed significant inaccuracies in overall and individual part severity, recommended repair actions, and estimated repair costs."
+}

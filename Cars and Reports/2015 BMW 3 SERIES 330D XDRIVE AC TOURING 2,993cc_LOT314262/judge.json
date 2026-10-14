@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 BMW 3 SERIES 330D XDRIVE AC TOURING 2,993cc_LOT314262",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately identifying most damaged parts, their severities, and repair actions, with only minor omissions and discrepancies."
+}

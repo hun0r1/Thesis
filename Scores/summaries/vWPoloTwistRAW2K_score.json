@@ -1,0 +1,48 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.471,
+  "part_recall": 0.8,
+  "part_f1": 0.593,
+  "gt_part_count": 10,
+  "ai_part_count": 17,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3287.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "other",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "tire"
+  ],
+  "missed_parts": [
+    "front_left_door",
+    "front_left_fender"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "engine",
+    "headlight_right",
+    "radiator_support",
+    "rear_left_door",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "turn_signal",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "vWPoloTwistRAW2K",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

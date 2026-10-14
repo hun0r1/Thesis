@@ -1,0 +1,42 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.857,
+  "part_recall": 0.5,
+  "part_f1": 0.632,
+  "gt_part_count": 12,
+  "ai_part_count": 7,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1675.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "grille",
+    "radiator_support",
+    "rear_left_quarter_panel",
+    "suspension",
+    "tire"
+  ],
+  "extra_parts": [
+    "pickup_bed"
+  ],
+  "vehicle_id": "2011_CHEVROLET_Silverado_53L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

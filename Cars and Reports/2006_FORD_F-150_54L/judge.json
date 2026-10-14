@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_FORD_F-150_54L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified the overall severity but missed key parts like the engine and grille guard, and provided incorrect severity and repair actions for the headlight assemblies."
+}

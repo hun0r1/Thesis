@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_CHRYSLER_Town_AND_Country_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified many damaged parts and their repair actions, but missed several key components from the ground truth (e.g., engine, left_front_tire, driver_seat), included numerous unverified parts, and had some inaccuracies in part severity levels and structural assessments."
+}

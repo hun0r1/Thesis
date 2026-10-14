@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_HONDA_Odyssey_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified some correct body parts and their associated repair actions, but significantly missed critical damaged components like the engine, resulting in an incorrect overall severity assessment and several mismatched part severities and repair actions."
+}

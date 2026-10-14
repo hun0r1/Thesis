@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_VOLKSWAGEN_Jetta_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identifies most damaged parts, overall severity, and total loss prediction but significantly overestimates repair costs and provides incorrect severity and repair actions for several individual parts."
+}

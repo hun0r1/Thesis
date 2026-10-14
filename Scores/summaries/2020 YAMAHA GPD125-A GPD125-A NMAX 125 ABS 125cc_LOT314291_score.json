@@ -1,0 +1,40 @@
+{
+  "score_parts": 4,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.6,
+  "part_recall": 0.857,
+  "part_f1": 0.706,
+  "gt_part_count": 7,
+  "ai_part_count": 10,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1350.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "brake_system",
+    "front_left_fender",
+    "handlebar",
+    "taillight_left",
+    "windshield",
+    "wiring_harness"
+  ],
+  "missed_parts": [
+    "body_panel"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "headlight_left",
+    "other",
+    "steering"
+  ],
+  "vehicle_id": "2020 YAMAHA GPD125-A GPD125-A NMAX 125 ABS 125cc_LOT314291",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

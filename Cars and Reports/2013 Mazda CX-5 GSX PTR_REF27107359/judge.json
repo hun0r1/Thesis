@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Mazda CX-5 GSX PTR_REF27107359",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately identifying all damaged parts from the ground truth and their repair actions, and correctly predicting total loss, though it includes extra parts and has notable discrepancies in part-level severity and estimated repair cost."
+}

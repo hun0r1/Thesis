@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_KIA_Spectra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts, their severities, and repair actions, including the overall severity and total loss prediction, but included an additional part not in the ground truth and provided significantly different cost estimates."
+}

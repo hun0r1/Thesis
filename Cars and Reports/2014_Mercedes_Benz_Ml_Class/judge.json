@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_Mercedes_Benz_Ml_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts, overall severity, and total loss prediction but showed significant inaccuracies in estimated repair costs, specific repair actions, and structural frame damage."
+}

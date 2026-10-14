@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_HYUNDAI_Accent_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report was mostly correct, accurately identifying most damaged parts, their severities, and repair actions, but it omitted one damaged part."
+}

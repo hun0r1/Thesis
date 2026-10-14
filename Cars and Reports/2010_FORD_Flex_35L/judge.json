@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_FORD_Flex_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report identified most damaged parts and their basic actions correctly, but critically missed the engine damage, incorrectly assessed the overall severity as moderate instead of severe, and included an unsupported part."
+}

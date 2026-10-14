@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_HYUNDAI_Elantra_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified airbags and structural damage but missed key parts like the engine and a specific door, incorrectly identified overall severity as 'moderate' instead of 'severe', and included several unlisted parts."
+}

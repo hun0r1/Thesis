@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_VOLKSWAGEN_Tiguan_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified most damaged parts, repair actions, and the overall total loss prediction, but made errors in structural damage assessment, some part severities, and estimated repair costs were significantly off."
+}

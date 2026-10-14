@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_TOYOTA_4-runner_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified most damaged parts, their categories, and overall severity, but missed two parts, had a mismatch in a structural component's severity, and minor discrepancies in severity and repair action for one part."
+}

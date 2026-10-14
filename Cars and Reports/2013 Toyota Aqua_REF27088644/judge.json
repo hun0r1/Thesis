@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Toyota Aqua_REF27088644",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most body parts and overall damage classification, but missed several key structural and powertrain components, had significant severity discrepancies for the frame and dashboard, and minor mismatches in specific repair actions."
+}

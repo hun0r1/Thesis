@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_TOYOTA_Sienna_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identifies many damaged parts and their repair actions, but it omits several key parts present in the ground truth, incorrectly estimates overall severity and some specific part severities, and includes some extra, unsupported claims."
+}

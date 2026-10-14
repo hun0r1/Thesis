@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_NISSAN_Maxima_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several critical damaged parts, including the engine, fender, bumper, wheel, and tire, leading to a largely incomplete damage assessment and an incorrect drivability status."
+}

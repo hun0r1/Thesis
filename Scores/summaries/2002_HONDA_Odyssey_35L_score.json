@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.727,
+  "part_recall": 0.615,
+  "part_f1": 0.667,
+  "gt_part_count": 13,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 3075.0,
+  "ai_estimated_repair_cost": 3100.0,
+  "cost_abs_error": 25.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "rear_bumper",
+    "seat"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "front_right_fender",
+    "headlight_right",
+    "other",
+    "rocker_panel_right"
+  ],
+  "extra_parts": [
+    "crossmember",
+    "radiator_support",
+    "windshield"
+  ],
+  "vehicle_id": "2002_HONDA_Odyssey_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

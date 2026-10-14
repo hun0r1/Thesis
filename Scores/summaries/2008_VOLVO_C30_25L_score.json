@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.727,
+  "part_f1": 0.696,
+  "gt_part_count": 11,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": 2900.0,
+  "ai_estimated_repair_cost": 5125.0,
+  "cost_abs_error": 2225.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_passenger",
+    "dashboard",
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "rear_bumper",
+    "seat_belt"
+  ],
+  "extra_parts": [
+    "airbag_curtain",
+    "grille",
+    "radiator",
+    "radiator_support"
+  ],
+  "vehicle_id": "2008_VOLVO_C30_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

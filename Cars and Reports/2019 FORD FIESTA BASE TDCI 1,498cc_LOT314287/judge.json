@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019 FORD FIESTA BASE TDCI 1,498cc_LOT314287",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct in identifying damaged parts and repair actions but shows significant discrepancies in part severities and structural damage assessment compared to the ground truth."
+}

@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.667,
+  "part_f1": 0.667,
+  "gt_part_count": 12,
+  "ai_part_count": 12,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.875,
+  "severity_matches": 7,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5800.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_passenger",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "grille",
+    "other",
+    "radiator_support"
+  ],
+  "extra_parts": [
+    "dashboard",
+    "engine",
+    "front_apron",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2021 MG ZS T Essence_REF27105191",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

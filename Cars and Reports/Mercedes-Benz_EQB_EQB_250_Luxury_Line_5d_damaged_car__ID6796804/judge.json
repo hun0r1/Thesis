@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Mercedes-Benz_EQB_EQB_250_Luxury_Line_5d_damaged_car__ID6796804",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the overall total loss and most structural damage, but it had a severely incorrect estimated repair cost, numerous discrepancies in the damaged parts list (omissions, additions, and name/location mismatches), and minor errors in repair actions and airbag deployment details."
+}

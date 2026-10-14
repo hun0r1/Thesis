@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_HYUNDAI_Tucson_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and their associated repair actions, but it omitted key components like the engine and front passenger airbag, and displayed inconsistencies in structural damage reporting and part severity assignments."
+}

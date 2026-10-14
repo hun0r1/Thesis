@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_VOLKSWAGEN_Jetta_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report largely misses significant parts of the damage and incorrectly identifies the side of the vehicle for most reported damage, though its assessment of overall severity is correct."
+}

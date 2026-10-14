@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 4,
+  "score_overall": 4,
+  "part_precision": 0.5,
+  "part_recall": 0.8,
+  "part_f1": 0.615,
+  "gt_part_count": 5,
+  "ai_part_count": 8,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 1850.0,
+  "ai_estimated_repair_cost": 1675.0,
+  "cost_abs_error": 175.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "rear_bumper",
+    "rear_window",
+    "seat",
+    "tailgate"
+  ],
+  "missed_parts": [
+    "ac_condenser"
+  ],
+  "extra_parts": [
+    "front_bumper",
+    "radiator",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "vehicle_id": "2010_GMC_Terrain_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

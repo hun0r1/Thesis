@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_MAZDA_Mazda3_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many major damaged parts and the overall severity, but missed several key parts, provided incorrect severity for structural components and some parts, and made an incorrect repair action claim for one structural part, while also adding unsupported claims for other parts."
+}

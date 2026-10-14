@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.857,
+  "part_recall": 0.8,
+  "part_f1": 0.828,
+  "gt_part_count": 15,
+  "ai_part_count": 14,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.583,
+  "severity_matches": 7,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4600.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "front_right_fender",
+    "tailgate"
+  ],
+  "extra_parts": [
+    "taillight_right",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2019_HYUNDAI_Santa_FE_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

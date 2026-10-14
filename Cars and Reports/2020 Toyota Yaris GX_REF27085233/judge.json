@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 Toyota Yaris GX_REF27085233",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The report accurately identified overall labels and airbag deployment, but contained several inaccuracies in part severities, missed a few ground truth parts, provided less specific details for other parts, and included numerous additional parts not supported by the ground truth."
+}

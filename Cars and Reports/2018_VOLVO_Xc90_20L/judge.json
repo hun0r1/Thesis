@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_VOLVO_Xc90_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most damaged parts and the total loss prediction, but made several errors in assessing part severities, overall severity, estimated repair costs, and one repair action."
+}

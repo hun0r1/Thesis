@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_JAGUAR_E-pace_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several critical damaged parts, including the engine and multiple airbags, and fundamentally misrepresented the overall vehicle severity from 'total loss' to 'severe' with no total loss predicted, though repair actions were mostly consistent for identified parts."
+}

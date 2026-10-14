@@ -1,0 +1,34 @@
+{
+  "score_parts": 5,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 1.0,
+  "part_f1": 0.8,
+  "gt_part_count": 4,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 0.75,
+  "severity_matches": 3,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2175.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_bumper",
+    "rear_right_quarter_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "rear_body_panel",
+    "rear_left_quarter_panel"
+  ],
+  "vehicle_id": "2002_TOYOTA_Corolla_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

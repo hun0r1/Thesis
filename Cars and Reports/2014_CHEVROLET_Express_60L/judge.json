@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Express_60L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major damaged parts and the overall total loss prediction, but showed significant inaccuracies in the estimated repair cost and specific repair actions for key body parts like the front fenders, while also adding extra parts not confirmed by the ground truth."
+}

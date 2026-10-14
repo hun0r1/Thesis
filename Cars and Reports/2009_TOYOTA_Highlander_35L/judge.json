@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_TOYOTA_Highlander_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified some damaged parts and their repair actions, but critically missed the engine damage and consequently misclassified the overall severity from total loss to moderate."
+}

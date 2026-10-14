@@ -1,0 +1,47 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.706,
+  "part_recall": 0.923,
+  "part_f1": 0.8,
+  "gt_part_count": 13,
+  "ai_part_count": 17,
+  "matched_part_count": 12,
+  "severity_match_rate": 1.0,
+  "severity_matches": 12,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7600.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "cooling_fan",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "dashboard",
+    "frame",
+    "subframe",
+    "windshield"
+  ],
+  "vehicle_id": "2006 Subaru Legacy R Wagon_REF27080678",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_LEXUS_RX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report provides a partially correct assessment, accurately determining total loss and some part actions, but contains significant errors in airbag deployment, structural damage severity, specific part identification and actions, and a large discrepancy in estimated repair cost."
+}

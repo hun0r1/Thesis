@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_HONDA_Civic_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially matched the ground truth, accurately identifying many damaged parts and their repair actions, but missing several key components like the engine and front airbags, and making unsupported claims for structural damage and passenger airbag deployment."
+}

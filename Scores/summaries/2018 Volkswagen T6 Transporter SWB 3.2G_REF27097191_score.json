@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 2,
+  "score_overall": 4,
+  "part_precision": 0.875,
+  "part_recall": 0.778,
+  "part_f1": 0.824,
+  "gt_part_count": 18,
+  "ai_part_count": 16,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.923,
+  "severity_matches": 12,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": 5300.0,
+  "ai_estimated_repair_cost": 4425.0,
+  "cost_abs_error": 875.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "grille",
+    "headlight_left",
+    "hood",
+    "interior_trim",
+    "radiator",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "suspension",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "battery",
+    "headlight_right",
+    "radiator_support",
+    "tire"
+  ],
+  "extra_parts": [
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "vehicle_id": "2018 Volkswagen T6 Transporter SWB 3.2G_REF27097191",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

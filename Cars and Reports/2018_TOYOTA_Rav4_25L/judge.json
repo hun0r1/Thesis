@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_TOYOTA_Rav4_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately reported airbag deployment and structural damage but omitted eight ground truth parts and their repair actions, included seven unsubstantiated parts, and incorrectly labeled the damage category as 'front_collision' instead of 'multi_zone', while part-level severity and location had minor inconsistencies for some identified items."
+}

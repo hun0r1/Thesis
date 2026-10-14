@@ -1,0 +1,40 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.667,
+  "part_recall": 0.444,
+  "part_f1": 0.533,
+  "gt_part_count": 9,
+  "ai_part_count": 6,
+  "matched_part_count": 4,
+  "severity_match_rate": 1.0,
+  "severity_matches": 4,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4675.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "rear_left_door",
+    "wheel_rim"
+  ],
+  "missed_parts": [
+    "front_right_door",
+    "other",
+    "seat",
+    "tailgate",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "interior_trim",
+    "rear_bumper"
+  ],
+  "vehicle_id": "Citroën_Grand_C4_Spacetourer_15_BlueHDi_130_SS_EAT8_Feel_5d__ID6796799",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_DODGE_Caliber_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall severity but missed a critical damaged part (engine), had several incorrect part-specific severities and repair actions, and added additional unsubstantiated parts and structural damage details where the ground truth indicated unknown."
+}

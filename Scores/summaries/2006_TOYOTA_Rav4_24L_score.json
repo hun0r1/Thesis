@@ -1,0 +1,36 @@
+{
+  "score_parts": 3,
+  "score_severity": 5,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.4,
+  "part_recall": 0.5,
+  "part_f1": 0.444,
+  "gt_part_count": 4,
+  "ai_part_count": 5,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": 825.0,
+  "ai_estimated_repair_cost": 875.0,
+  "cost_abs_error": 50.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "rear_right_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "front_right_fender",
+    "rear_left_quarter_panel"
+  ],
+  "vehicle_id": "2006_TOYOTA_Rav4_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_FORD_F-150_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly predicted overall severity and total loss but showed significant discrepancies in detailed part identification, specific part severities (claiming heavy damage for parts with no damage in GT), and repair actions, leading to a substantial error in the estimated repair cost, and included several unconfirmed parts."
+}

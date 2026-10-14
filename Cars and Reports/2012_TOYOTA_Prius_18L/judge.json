@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_TOYOTA_Prius_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly identified high-level damage labels but contained inaccuracies in detailed part identification, structural damage assessment, and specific part severities and repair actions."
+}

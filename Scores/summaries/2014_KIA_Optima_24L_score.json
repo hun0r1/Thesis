@@ -1,0 +1,36 @@
+{
+  "score_parts": 5,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 1.0,
+  "part_f1": 0.857,
+  "gt_part_count": 6,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3150.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_left_door",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "wheel_rear_left"
+  ],
+  "missed_parts": [],
+  "extra_parts": [
+    "front_bumper",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2014_KIA_Optima_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

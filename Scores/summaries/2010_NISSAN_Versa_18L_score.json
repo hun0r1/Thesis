@@ -1,0 +1,42 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.9,
+  "part_recall": 0.75,
+  "part_f1": 0.818,
+  "gt_part_count": 12,
+  "ai_part_count": 10,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.667,
+  "severity_matches": 6,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1900.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "engine"
+  ],
+  "extra_parts": [
+    "impact_bar"
+  ],
+  "vehicle_id": "2010_NISSAN_Versa_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

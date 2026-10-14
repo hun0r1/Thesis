@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_CHEVROLET_Equinox_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report provided correct overall damage assessments and repair actions for identified parts, but it missed several damaged components, showed some inaccuracies in individual part severities, and significantly underestimated the total repair cost."
+}

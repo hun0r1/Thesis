@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1991_FORD_F-150_49L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report significantly misidentified damaged parts, missed critical severe damages like the engine and tailgate, incorrectly determined the overall severity, and provided unsupported repair actions for parts where the ground truth specified 'unknown'."
+}

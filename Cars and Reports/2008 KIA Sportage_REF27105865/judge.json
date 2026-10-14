@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 KIA Sportage_REF27105865",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified many major damaged parts and their repair actions, but it missed several other parts present in the ground truth, significantly misjudged the overall severity from 'moderate' to 'total_loss', and provided specific severity claims for items the ground truth marked as 'unknown'."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_CADILLAC_DTS_46L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified structural damage, airbag deployment status, damage category, and drivability, but differed significantly in overall and specific part severity assessments, and partially on part identification and repair actions, though it provided more granular details for powertrain damage."
+}

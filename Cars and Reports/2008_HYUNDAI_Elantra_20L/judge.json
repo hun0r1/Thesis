@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed overall severity and repair actions for the identified common parts, but missed key damaged components like the engine and cooling fan assembly, and included several unsupported additional parts."
+}

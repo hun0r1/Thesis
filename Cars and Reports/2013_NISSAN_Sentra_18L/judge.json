@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_NISSAN_Sentra_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified the total loss status but struggled with parts identification, missing several and mislocalizing others, and also provided incorrect repair actions for multiple components and an overall severity different from the ground truth, significantly overestimating the repair cost."
+}

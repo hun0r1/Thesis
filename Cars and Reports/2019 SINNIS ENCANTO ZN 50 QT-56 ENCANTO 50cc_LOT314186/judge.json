@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019 SINNIS ENCANTO ZN 50 QT-56 ENCANTO 50cc_LOT314186",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity, but it exhibited inaccuracies in identifying some parts, their individual severities, and proposed repair actions, while also including unsupported additional parts."
+}

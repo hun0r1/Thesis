@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2002_PONTIAC_Bonneville_38L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI identified most core damaged parts and correct repair actions but missed several minor and internal components, and had multiple inaccuracies in part-level severity assessments."
+}

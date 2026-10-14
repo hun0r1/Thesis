@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_SUBARU_Legacy_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall total loss and many damaged parts with correct repair actions, but it omits several key structural and powertrain components, misidentifies the severity for many parts and structural elements, and incorrectly specifies repair actions for others."
+}

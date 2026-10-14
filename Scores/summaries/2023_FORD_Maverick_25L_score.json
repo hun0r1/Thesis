@@ -1,0 +1,37 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.5,
+  "part_recall": 0.6,
+  "part_f1": 0.545,
+  "gt_part_count": 5,
+  "ai_part_count": 6,
+  "matched_part_count": 3,
+  "severity_match_rate": 0.333,
+  "severity_matches": 1,
+  "severity_total_compared": 3,
+  "gt_estimated_repair_cost": 1575.0,
+  "ai_estimated_repair_cost": 3375.0,
+  "cost_abs_error": 1800.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "rear_body_panel",
+    "rear_bumper",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "other",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "crossmember",
+    "license_plate",
+    "tailgate"
+  ],
+  "vehicle_id": "2023_FORD_Maverick_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

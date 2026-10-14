@@ -1,0 +1,48 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.833,
+  "part_recall": 0.588,
+  "part_f1": 0.69,
+  "gt_part_count": 17,
+  "ai_part_count": 12,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.6,
+  "severity_matches": 6,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 10850.0,
+  "ai_estimated_repair_cost": 5075.0,
+  "cost_abs_error": 5775.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "a_pillar",
+    "airbag_curtain",
+    "dashboard",
+    "frame",
+    "mirror_left",
+    "suspension",
+    "windshield"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_passenger"
+  ],
+  "vehicle_id": "2025_CHEVROLET_Express_43L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

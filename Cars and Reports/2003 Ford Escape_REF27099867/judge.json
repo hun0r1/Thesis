@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003 Ford Escape_REF27099867",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report significantly misses several ground truth parts, inaccurately reports others, and has discrepancies in part severities, repair actions, and the overall severity."
+}

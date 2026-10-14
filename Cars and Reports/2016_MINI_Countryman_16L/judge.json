@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_MINI_Countryman_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report missed several key damaged parts, including the engine, and incorrectly assessed the overall severity and multiple part severities, despite correctly identifying repair actions for the parts it listed."
+}

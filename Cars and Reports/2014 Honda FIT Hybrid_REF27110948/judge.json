@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Honda FIT Hybrid_REF27110948",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the vehicle as a total loss and the overall damage category, but it omitted several key damaged parts, showed discrepancies in individual part severities and repair actions, and provided an estimated repair cost that was significantly lower than the ground truth."
+}

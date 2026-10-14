@@ -1,0 +1,38 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.6,
+  "part_f1": 0.75,
+  "gt_part_count": 10,
+  "ai_part_count": 6,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 4650.0,
+  "ai_estimated_repair_cost": 4175.0,
+  "cost_abs_error": 475.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "other",
+    "radiator"
+  ],
+  "missed_parts": [
+    "hood",
+    "impact_bar",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2020_Mercedes_Benz_Gle_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

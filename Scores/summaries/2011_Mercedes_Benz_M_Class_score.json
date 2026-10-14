@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.583,
+  "part_recall": 0.636,
+  "part_f1": 0.609,
+  "gt_part_count": 11,
+  "ai_part_count": 12,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5325.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "dashboard",
+    "front_bumper",
+    "front_left_fender",
+    "hood",
+    "rocker_panel_left",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "grille",
+    "interior_trim",
+    "tire"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_curtain",
+    "headlight_left",
+    "rear_left_quarter_panel",
+    "seat_belt"
+  ],
+  "vehicle_id": "2011_Mercedes_Benz_M_Class",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

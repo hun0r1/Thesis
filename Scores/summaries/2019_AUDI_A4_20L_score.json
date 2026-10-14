@@ -1,0 +1,40 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.875,
+  "part_f1": 0.778,
+  "gt_part_count": 8,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.857,
+  "severity_matches": 6,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4325.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_right_fender",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "trunk_lid",
+    "wheel_rear_left"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "exhaust_system",
+    "headlight_right",
+    "suspension"
+  ],
+  "vehicle_id": "2019_AUDI_A4_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

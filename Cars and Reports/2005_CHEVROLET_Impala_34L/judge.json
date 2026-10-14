@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_CHEVROLET_Impala_34L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some damaged parts and their associated severities and repair actions, but missed key severe damages like the engine and wheel, leading to an incorrect overall severity assessment."
+}

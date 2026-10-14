@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.571,
+  "part_recall": 0.8,
+  "part_f1": 0.667,
+  "gt_part_count": 15,
+  "ai_part_count": 21,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.667,
+  "severity_matches": 8,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": 11100.0,
+  "ai_estimated_repair_cost": 11850.0,
+  "cost_abs_error": 750.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "suspension",
+    "windshield"
+  ],
+  "missed_parts": [
+    "frame_rail",
+    "mirror_left",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_passenger",
+    "brake_system",
+    "grille",
+    "headlight_right",
+    "rocker_panel_left",
+    "steering",
+    "subframe",
+    "wheel_rim",
+    "wiring_harness"
+  ],
+  "vehicle_id": "2016_SUBARU_Legacy_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

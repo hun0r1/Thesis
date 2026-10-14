@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying overall severity, cost, and total loss, but contains significant errors in detailing specific damaged parts, their severities, and structural damage."
+}

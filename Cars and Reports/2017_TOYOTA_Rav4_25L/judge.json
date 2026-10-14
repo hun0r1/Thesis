@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_TOYOTA_Rav4_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately identifying overall severity and airbag deployment, but the detailed parts list contains significant omissions of ground truth items and includes unsupported claims, leading to some inconsistencies in structural details, part-level severity, and repair actions."
+}

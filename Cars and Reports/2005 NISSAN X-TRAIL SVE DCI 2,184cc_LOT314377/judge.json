@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005 NISSAN X-TRAIL SVE DCI 2,184cc_LOT314377",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status, but showed significant inaccuracies in the list of damaged parts, their recommended repair actions, the overall severity, and the estimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_HONDA_Pilot_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, missing key parts like the engine and rear spoiler, while also including several unconfirmed parts; however, it generally aligns on overall severity and many individual repair actions despite some specific severity mismatches."
+}

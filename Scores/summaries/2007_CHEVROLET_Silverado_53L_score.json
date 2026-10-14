@@ -1,0 +1,45 @@
+{
+  "score_parts": 2,
+  "score_severity": 2,
+  "score_cost": 1,
+  "score_overall": 2,
+  "part_precision": 0.5,
+  "part_recall": 0.455,
+  "part_f1": 0.476,
+  "gt_part_count": 11,
+  "ai_part_count": 10,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.4,
+  "severity_matches": 2,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 6600.0,
+  "ai_estimated_repair_cost": 5550.0,
+  "cost_abs_error": 1050.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "hood",
+    "radiator_support",
+    "suspension"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "fog_light",
+    "frame_rail",
+    "front_right_fender",
+    "grille",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_passenger",
+    "front_left_fender",
+    "headlight_left",
+    "seat_belt"
+  ],
+  "vehicle_id": "2007_CHEVROLET_Silverado_53L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

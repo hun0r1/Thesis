@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Cruze_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified all parts and their locations from the ground truth, perfectly matched the overall estimated repair cost and total loss prediction, but made a significant error in the repair action for the windshield and a minor error in its severity."
+}

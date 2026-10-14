@@ -1,0 +1,51 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.778,
+  "part_recall": 0.778,
+  "part_f1": 0.778,
+  "gt_part_count": 18,
+  "ai_part_count": 18,
+  "matched_part_count": 14,
+  "severity_match_rate": 1.0,
+  "severity_matches": 14,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 9850.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "airbag_curtain",
+    "airbag_driver",
+    "airbag_passenger",
+    "dashboard",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "airbag_side",
+    "grille",
+    "wheel_front_left",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "engine",
+    "seat_belt",
+    "subframe",
+    "suspension"
+  ],
+  "vehicle_id": "2016_TOYOTA_Scion_IM_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,166 @@
+{
+  "vehicle_id": "2017 DERBI SENDA SENDA XTREME DRD SM 50 49cc_LOT314295",
+  "source": {
+    "origin": "direct",
+    "publisher": "raw2k",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2017-derbi-senda-senda-xtreme-drd-sm-50-314295?previous=%252Fvehicle-auctions%252F%253Fdrives%253Dno%2526page%253D3",
+    "language": "unknown",
+    "reported_at": "2021-10-28T00:00:00Z"
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "DERBI",
+    "model": "SENDA SENDA XTREME DRD SM 50 49cc",
+    "generation": null,
+    "body_style": "other",
+    "engine": null,
+    "drivetrain": null,
+    "vin": null,
+    "usage_history": "unknown",
+    "odometer_km": null,
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": "2021-10-28T00:00:00Z",
+    "location": {
+      "country": null,
+      "city": "Walsall"
+    },
+    "collision_type": "unknown",
+    "impact_zone": "multiple",
+    "description": "The motorcycle sustained damage to its front unit including a missing dash, broken headlight cowl, bent handlebars and front fork, as well as missing left mirror and rear indicators, and damage to the right rear fairing, indicating a widespread impact event.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": false,
+      "front_passenger": false,
+      "side": false,
+      "curtain": false
+    },
+    "structural": {
+      "frame": "unknown",
+      "a_pillar": "unknown",
+      "b_pillar": "unknown",
+      "floor_pan": "unknown"
+    },
+    "parts": [
+      {
+        "part": "dash",
+        "location": "front",
+        "category": "interior",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "left_mirror",
+        "location": "front_left",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 20
+      },
+      {
+        "part": "rear_indicators",
+        "location": "rear",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 30
+      },
+      {
+        "part": "clutch_lever",
+        "location": "front_left",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 15
+      },
+      {
+        "part": "brake_lever",
+        "location": "front_right",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 15
+      },
+      {
+        "part": "rear_right_fairing",
+        "location": "rear_right",
+        "category": "body",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 50
+      },
+      {
+        "part": "headlight",
+        "location": "front",
+        "category": "lighting",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 60
+      },
+      {
+        "part": "front_headlight_cowl",
+        "location": "front",
+        "category": "body",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "front_brake_master_cylinder_cover",
+        "location": "front_right",
+        "category": "safety",
+        "severity": "minor",
+        "repair_action": "replace",
+        "estimated_cost_eur": 25
+      },
+      {
+        "part": "exhaust_pipe",
+        "location": "underbody",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "repair",
+        "estimated_cost_eur": 75
+      },
+      {
+        "part": "handlebars",
+        "location": "front",
+        "category": "safety",
+        "severity": "moderate",
+        "repair_action": "replace",
+        "estimated_cost_eur": 40
+      },
+      {
+        "part": "front_fork_assembly",
+        "location": "front",
+        "category": "suspension",
+        "severity": "heavy",
+        "repair_action": "replace",
+        "estimated_cost_eur": 200
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 680,
+    "market_value_pre_accident": 2000,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "multi_zone",
+    "overall_severity": "moderate",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "moderate",
+    "images_used": 11,
+    "has_damage_ground_truth": true,
+    "has_cost_ground_truth": true,
+    "has_total_loss_ground_truth": true
+  }
+}

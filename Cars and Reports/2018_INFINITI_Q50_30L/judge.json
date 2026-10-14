@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_INFINITI_Q50_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report was partially correct, with accurate overall severity, structural damage, and total loss prediction, but it missed several key damaged parts (left fender and left headlight), misidentified the side of a fender, provided incorrect severities for some items, and included extra parts not present in the ground truth."
+}

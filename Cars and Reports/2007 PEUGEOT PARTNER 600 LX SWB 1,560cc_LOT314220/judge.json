@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 PEUGEOT PARTNER 600 LX SWB 1,560cc_LOT314220",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report captured most damaged parts and the overall severity correctly, but missed several specific parts and had inconsistencies in individual part severities and repair actions."
+}

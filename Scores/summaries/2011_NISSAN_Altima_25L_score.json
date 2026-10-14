@@ -1,0 +1,46 @@
+{
+  "score_parts": 5,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 5,
+  "part_precision": 0.75,
+  "part_recall": 0.923,
+  "part_f1": 0.828,
+  "gt_part_count": 13,
+  "ai_part_count": 16,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.917,
+  "severity_matches": 11,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4400.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_side",
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "dashboard",
+    "front_right_fender"
+  ],
+  "vehicle_id": "2011_NISSAN_Altima_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

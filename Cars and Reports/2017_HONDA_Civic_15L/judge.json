@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_HONDA_Civic_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output is mostly incorrect due to significant omissions of critical parts like the engine and wheels, an inaccurate overall severity assessment, and several misidentified or incorrectly actioned parts, though some basic part identifications and their severities were correct."
+}

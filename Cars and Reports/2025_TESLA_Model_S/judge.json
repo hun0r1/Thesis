@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_TESLA_Model_S",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 1,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, significantly misjudging the overall severity from 'total_loss' to 'moderate' and missing critical components like the engine and a structural pillar, while also incorrectly adding several right-side body parts."
+}

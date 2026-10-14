@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_CHEVROLET_Sonic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified most major parts and repair actions, but missed several key parts, had some location discrepancies, and incorrectly classified the overall severity from 'severe' to 'total_loss' which is an economic outcome."
+}

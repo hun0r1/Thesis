@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_LAND_Rover_Range_Rover_Evoque_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output consistently misidentified the damaged side of the vehicle and failed to detect critical engine damage, leading to significant inaccuracies in identified parts, their severities, and recommended repair actions."
+}

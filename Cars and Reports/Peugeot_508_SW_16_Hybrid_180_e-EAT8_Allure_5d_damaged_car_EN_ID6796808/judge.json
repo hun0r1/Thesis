@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Peugeot_508_SW_16_Hybrid_180_e-EAT8_Allure_5d_damaged_car_EN_ID6796808",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the total loss status and most common parts, but missed a major part (`front_left_door`), inaccurately represented the `cooling_system`, provided multiple incorrect part severities and repair actions, presented an incorrect structural frame assessment, and significantly underestimated the total repair cost."
+}

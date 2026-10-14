@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_NISSAN_Maxima_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most key parts and their repair actions, but it missed some significant body panels, included extra claims not supported by the ground truth, incorrectly identified structural damage as 'unknown' instead of 'moderate', and misclassified the overall severity, though the total repair cost and total loss prediction were largely correct."
+}

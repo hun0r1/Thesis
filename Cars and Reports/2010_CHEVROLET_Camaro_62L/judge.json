@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_CHEVROLET_Camaro_62L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall severity and repair actions but largely failed to identify the actual damaged parts, providing many unsupported claims and incorrectly specifying structural damage."
+}

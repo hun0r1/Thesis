@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_NISSAN_Pathfinder_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all damaged parts, their locations, repair actions, and the total loss prediction. However, it had minor discrepancies in individual part severities (e.g., tire severity) and significant inaccuracies in estimated repair costs, although the overall severity was correctly identified."
+}

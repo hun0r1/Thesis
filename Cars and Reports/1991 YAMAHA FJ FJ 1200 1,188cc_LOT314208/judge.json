@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1991 YAMAHA FJ FJ 1200 1,188cc_LOT314208",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified only 6 out of 16 damaged parts, missing several and adding multiple unsupported or incorrectly located parts; however, it was mostly correct on individual part severities and repair actions for the parts it did identify correctly, and the overall severity was a match."
+}

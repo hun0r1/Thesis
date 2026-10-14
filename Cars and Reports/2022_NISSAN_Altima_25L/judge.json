@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts and their severities, including the overall severity, but it missed several critical structural and powertrain components from the ground truth and introduced unsupported parts with varying repair actions."
+}

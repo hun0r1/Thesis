@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_TOYOTA_Tacoma_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report largely aligns with the ground truth, correctly identifying most parts, their repair actions, overall severity, and total loss status, though individual part severities and estimated repair costs had some differences."
+}

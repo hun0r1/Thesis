@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.857,
+  "part_recall": 0.75,
+  "part_f1": 0.8,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 6,
+  "severity_match_rate": 1.0,
+  "severity_matches": 6,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2000.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "tailgate",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "rear_window"
+  ],
+  "extra_parts": [
+    "rear_right_quarter_panel"
+  ],
+  "vehicle_id": "2010_LEXUS_RX_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.778,
+  "part_f1": 0.737,
+  "gt_part_count": 18,
+  "ai_part_count": 20,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.929,
+  "severity_matches": 13,
+  "severity_total_compared": 14,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 7450.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "airbag_side",
+    "cooling_fan",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_curtain",
+    "airbag_passenger",
+    "engine",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "battery",
+    "frame",
+    "headlight_right",
+    "suspension",
+    "windshield"
+  ],
+  "vehicle_id": "2009_TOYOTA_Camry_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

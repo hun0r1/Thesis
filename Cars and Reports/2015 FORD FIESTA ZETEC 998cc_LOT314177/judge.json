@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 FORD FIESTA ZETEC 998cc_LOT314177",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report accurately identified many damaged parts and their general locations, but significantly misrepresented the severity levels for most components, including structural and overall damage, and provided incorrect repair actions for a majority of the identified parts."
+}

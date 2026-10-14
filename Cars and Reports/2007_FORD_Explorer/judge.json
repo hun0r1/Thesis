@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_FORD_Explorer",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report missed critical parts like the engine, radiator, and driver's airbag, and incorrectly reported the driver's airbag as not deployed, along with a mismatch on the floor pan status, despite matching many other damage and label details."
+}

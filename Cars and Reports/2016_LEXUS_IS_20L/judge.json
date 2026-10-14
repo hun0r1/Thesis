@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_LEXUS_IS_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying structural frame damage and airbags, but it misses several key parts from the ground truth (e.g., engine, intercooler, right-side damage), adds unsupported parts, and misclassifies the overall severity from 'severe' to 'total_loss'."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_HONDA_Accord_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect due to missing the engine damage, incorrectly identifying the primary impact side from front_right to front_left for multiple parts, and consequently misjudging the overall severity and drivability after the accident."
+}

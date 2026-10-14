@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_FORD_F-150_50L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts and overall severity, but missed a key structural component, included several unconfirmed parts, and sometimes overestimated individual part severity and repair actions."
+}

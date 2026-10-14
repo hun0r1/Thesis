@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_GMC_Acadia_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicted the total loss status and repair actions for identified parts, but it missed several key damaged parts, misidentified severities, and significantly underestimated the overall repair cost."
+}

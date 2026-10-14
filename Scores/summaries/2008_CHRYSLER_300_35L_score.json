@@ -1,0 +1,41 @@
+{
+  "score_parts": 2,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.385,
+  "part_f1": 0.556,
+  "gt_part_count": 13,
+  "ai_part_count": 5,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.6,
+  "severity_matches": 3,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2900.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "rear_right_quarter_panel",
+    "tire",
+    "wheel_rear_left",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2008_CHRYSLER_300_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

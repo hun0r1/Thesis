@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall severity, total loss prediction, and airbag/structural status, but struggled with the detailed assessment of individual parts, often misidentifying parts, their severities, and required repair actions, leading to a significantly underestimated total repair cost."
+}

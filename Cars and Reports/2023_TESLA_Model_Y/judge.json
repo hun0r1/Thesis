@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_TESLA_Model_Y",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output accurately assessed overall severity and predicted total loss, with most identified parts having correct severity and repair actions. However, several ground truth parts were omitted or replaced with different ones, and the estimated repair cost deviated significantly from the ground truth."
+}

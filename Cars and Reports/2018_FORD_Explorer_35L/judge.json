@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_FORD_Explorer_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all ground truth damaged parts and the overall severity, but included several unsupported parts and had notable inaccuracies in individual part severities and repair actions."
+}

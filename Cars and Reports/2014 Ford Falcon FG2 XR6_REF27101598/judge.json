@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 Ford Falcon FG2 XR6_REF27101598",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying many parts and the overall severity, but it omits several ground truth parts, misidentifies structural damage severity, and provides incorrect repair actions for multiple components."
+}

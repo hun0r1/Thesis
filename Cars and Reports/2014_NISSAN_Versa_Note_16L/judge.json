@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_NISSAN_Versa_Note_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output correctly identified overall severity, repair actions, and the total loss prediction, but showed some discrepancies in individual part identification (bundling and one omission) and a significant difference in the estimated repair cost."
+}

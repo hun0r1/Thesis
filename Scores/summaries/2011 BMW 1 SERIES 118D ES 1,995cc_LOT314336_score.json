@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.625,
+  "part_recall": 0.556,
+  "part_f1": 0.588,
+  "gt_part_count": 9,
+  "ai_part_count": 8,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": 4100.0,
+  "ai_estimated_repair_cost": 2075.0,
+  "cost_abs_error": 2025.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "hood",
+    "rear_bumper",
+    "rear_left_door"
+  ],
+  "missed_parts": [
+    "front_right_fender",
+    "headlight_right",
+    "wheel_rear_left",
+    "wheel_rear_right"
+  ],
+  "extra_parts": [
+    "front_left_fender",
+    "headlight_left",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2011 BMW 1 SERIES 118D ES 1,995cc_LOT314336",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

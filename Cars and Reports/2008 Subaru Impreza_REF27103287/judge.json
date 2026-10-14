@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008 Subaru Impreza_REF27103287",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 1,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report identified some damage parts and their severities correctly but missed several key components, provided an incorrect overall severity, and made unsupported claims for repair actions."
+}

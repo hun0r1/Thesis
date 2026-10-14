@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1995 Toyota Rav4_REF27100200",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The report is accurate for high-level damage categories, airbag deployment, and structural integrity, but misses several damaged parts and contains some inaccuracies in severity and repair actions for the identified parts."
+}

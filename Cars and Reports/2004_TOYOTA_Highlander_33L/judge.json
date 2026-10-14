@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004_TOYOTA_Highlander_33L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified some structural damage and airbag status, but made significant errors in part identification, confusing left and right sides for multiple parts, completely missing the severely damaged engine, and consequently misjudged overall damage severity."
+}

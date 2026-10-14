@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_CHEVROLET_Cobalt_22L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately reported overall severity and total loss, and provided a reasonably close estimated repair cost, but missed several key damaged parts, their associated severities and repair actions (including all paint-related work, grille, radiator support, and wheel alignment), and also incorrectly assessed the severity for the hood and omitted the side airbag status."
+}

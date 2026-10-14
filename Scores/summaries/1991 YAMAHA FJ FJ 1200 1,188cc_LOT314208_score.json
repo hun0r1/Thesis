@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.9,
+  "part_recall": 0.818,
+  "part_f1": 0.857,
+  "gt_part_count": 11,
+  "ai_part_count": 10,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.556,
+  "severity_matches": 5,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1565.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "engine",
+    "exhaust_system",
+    "front_left_fender",
+    "fuel_tank",
+    "mirror_right",
+    "other",
+    "turn_signal",
+    "windshield"
+  ],
+  "missed_parts": [
+    "handlebar",
+    "seat"
+  ],
+  "extra_parts": [
+    "mirror_left"
+  ],
+  "vehicle_id": "1991 YAMAHA FJ FJ 1200 1,188cc_LOT314208",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

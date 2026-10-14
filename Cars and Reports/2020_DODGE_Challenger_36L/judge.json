@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_DODGE_Challenger_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts, overall severity, and total loss prediction, but missed one part, had discrepancies in some part-specific repair actions and severity, and the estimated repair cost differed significantly."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013 Toyota Corolla Axio_REF27112800",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most parts and the overall severity correctly, but exhibited inaccuracies in specific part severities, repair actions, and the structural frame, along with missing one part."
+}

@@ -1,0 +1,42 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.889,
+  "part_recall": 0.667,
+  "part_f1": 0.762,
+  "gt_part_count": 12,
+  "ai_part_count": 9,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1425.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "front_right_fender",
+    "rear_right_quarter_panel",
+    "taillight_left"
+  ],
+  "extra_parts": [
+    "taillight_right"
+  ],
+  "vehicle_id": "2005 Honda Odyssey_REF27104723",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

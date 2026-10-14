@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_TOYOTA_Rav4_Prime_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified most damaged parts but missed one and included an unsupported part, while also misjudging the overall severity and several specific part and structural severities and associated repair actions."
+}

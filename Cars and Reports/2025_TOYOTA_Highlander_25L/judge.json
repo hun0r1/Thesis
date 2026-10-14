@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_TOYOTA_Highlander_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified many parts and their repair actions correctly, but it suffered from omissions of key parts, inclusion of unverified parts, and several inaccuracies in structural damage and overall severity assessments."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_KIA_Sportage_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified structural damage, airbag deployment, overall severity, and the total loss status, but omitted several specific parts from the ground truth and had notable discrepancies in individual part severities and estimated repair costs."
+}

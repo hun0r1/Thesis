@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_CHEVROLET_Malibu_15L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified some damaged parts and their attributes correctly, but critically missed the engine and hood damage, leading to an inaccurate overall severity assessment."
+}

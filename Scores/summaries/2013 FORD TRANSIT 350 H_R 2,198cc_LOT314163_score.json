@@ -1,0 +1,47 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.727,
+  "part_recall": 0.533,
+  "part_f1": 0.615,
+  "gt_part_count": 15,
+  "ai_part_count": 11,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.875,
+  "severity_matches": 7,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2300.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "roof",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "ignition_system",
+    "rocker_panel_right",
+    "tire"
+  ],
+  "extra_parts": [
+    "front_right_door",
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "vehicle_id": "2013 FORD TRANSIT 350 H_R 2,198cc_LOT314163",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_FORD_Mustang_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified airbag deployment and structural damage, but contained significant omissions of key damaged parts and their severities, alongside some minor inaccuracies in individual part severities and repair actions."
+}

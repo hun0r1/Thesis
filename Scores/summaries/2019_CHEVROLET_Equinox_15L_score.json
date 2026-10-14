@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.643,
+  "part_recall": 0.75,
+  "part_f1": 0.692,
+  "gt_part_count": 12,
+  "ai_part_count": 14,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.778,
+  "severity_matches": 7,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": 3725.0,
+  "ai_estimated_repair_cost": 4675.0,
+  "cost_abs_error": 950.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "intercooler",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "cooling_system",
+    "front_left_fender",
+    "windshield"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "engine",
+    "fog_light",
+    "impact_bar",
+    "washer_system"
+  ],
+  "vehicle_id": "2019_CHEVROLET_Equinox_15L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

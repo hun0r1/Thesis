@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_KIA_Sorento_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified most major damaged parts, their repair actions, and the overall severity, but it included several unsubstantiated part claims and had some inconsistencies in part and structural damage severities."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2026_CHEVROLET_Colorado_27L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified airbag deployment status, structural damage, overall severity, repair actions for identified parts, and the total loss prediction. However, it significantly missed many damaged parts present in the ground truth and included some additional parts not supported by the ground truth; furthermore, the estimated repair cost was substantially lower than the ground truth."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_NISSAN_Versa_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and structural damage but missed key parts like the engine, provided incorrect repair actions for several parts, and misidentified the vehicle's drivability."
+}

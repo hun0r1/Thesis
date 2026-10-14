@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_NISSAN_Rogue_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output significantly underestimated the damage by failing to identify critical parts like the engine and fender, resulting in incorrect severity assessments and repair actions."
+}

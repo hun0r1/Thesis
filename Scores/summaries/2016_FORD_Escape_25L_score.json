@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.75,
+  "part_recall": 0.857,
+  "part_f1": 0.8,
+  "gt_part_count": 7,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1500.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "engine",
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "suspension"
+  ],
+  "extra_parts": [
+    "fog_light",
+    "hood"
+  ],
+  "vehicle_id": "2016_FORD_Escape_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

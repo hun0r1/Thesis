@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022_LEXUS_UX_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report correctly identified some damage parts and their attributes, but it missed several critical components from the ground truth, provided extra claims not supported by the ground truth, and frequently misjudged the severity and repair actions for both individual parts and the overall damage."
+}

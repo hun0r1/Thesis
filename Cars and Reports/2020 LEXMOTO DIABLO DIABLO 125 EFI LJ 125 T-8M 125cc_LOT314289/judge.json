@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020 LEXMOTO DIABLO DIABLO 125 EFI LJ 125 T-8M 125cc_LOT314289",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity, but missed many critical damaged parts and their specific repair actions and severities, while also including unsubstantiated parts."
+}

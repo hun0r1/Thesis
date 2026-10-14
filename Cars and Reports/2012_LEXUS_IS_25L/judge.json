@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_LEXUS_IS_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI output was mostly incorrect due to significant omissions in damaged parts and their associated repair actions/severities, an inaccurate damage category, and a substantial deviation in the estimated repair cost, despite correctly identifying total loss status and overall severity."
+}

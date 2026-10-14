@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "1999 YAMAHA TW TW 125 124cc_LOT314128",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output was partially correct, accurately identifying many parts and the overall severity, but it made several errors in individual part identification, repair actions, and included unsubstantiated parts."
+}

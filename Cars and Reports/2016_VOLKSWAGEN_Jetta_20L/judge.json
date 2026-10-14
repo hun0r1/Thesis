@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_VOLKSWAGEN_Jetta_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified most primary damaged parts and their repair actions, but significantly omitted key damaged components like the engine and several reservoirs, incorrectly assessed the overall damage severity as 'moderate' instead of 'severe', and made errors in specific part severities and repair actions."
+}

@@ -1,0 +1,45 @@
+{
+  "score_parts": 1,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.222,
+  "part_recall": 0.222,
+  "part_f1": 0.222,
+  "gt_part_count": 9,
+  "ai_part_count": 9,
+  "matched_part_count": 2,
+  "severity_match_rate": 1.0,
+  "severity_matches": 2,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3100.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "airbag_side",
+    "engine",
+    "exhaust_system",
+    "front_left_door",
+    "rear_left_quarter_panel",
+    "rocker_panel_left",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_driver",
+    "rear_right_door",
+    "rear_right_quarter_panel",
+    "seat_belt",
+    "taillight_right",
+    "wheel_rear_right"
+  ],
+  "vehicle_id": "2017_MAZDA_Mazda3_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

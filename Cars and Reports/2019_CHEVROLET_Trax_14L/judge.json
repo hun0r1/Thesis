@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_CHEVROLET_Trax_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identified all ground truth parts and their repair actions, with minor location discrepancies for one part and the inclusion of additional components; however, the severity assessment for individual parts was only partially correct, despite the overall severity matching."
+}

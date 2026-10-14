@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.667,
+  "part_f1": 0.667,
+  "gt_part_count": 9,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4425.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "rear_body_panel",
+    "taillight_right"
+  ],
+  "extra_parts": [
+    "frame",
+    "suspension",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2018_NISSAN_Murano_35L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

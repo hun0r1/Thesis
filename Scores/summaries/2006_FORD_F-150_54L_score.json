@@ -1,0 +1,41 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.636,
+  "part_recall": 0.875,
+  "part_f1": 0.737,
+  "gt_part_count": 8,
+  "ai_part_count": 11,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2925.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support"
+  ],
+  "missed_parts": [
+    "engine"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "cooling_fan",
+    "front_left_fender",
+    "front_right_fender"
+  ],
+  "vehicle_id": "2006_FORD_F-150_54L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

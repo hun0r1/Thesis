@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2001_FORD_F-150_54L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying some damaged parts and the overall severity, but it significantly misses other components, provides incorrect details for some, and generates an estimated repair cost 15% higher than the ground truth."
+}

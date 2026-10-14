@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_RAM_Promaster_2500_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss, and most repair actions for identified parts, but displayed significant inaccuracies in estimated repair costs, detailed severity assessments for structural components and airbags, and showed considerable omissions and additions in the list of damaged parts."
+}

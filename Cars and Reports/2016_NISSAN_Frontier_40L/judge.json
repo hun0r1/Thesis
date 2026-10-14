@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_NISSAN_Frontier_40L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately assessed airbag deployment and structural damage and most repair actions for identified parts, but struggled with completeness of damaged parts and accuracy of damage severities."
+}

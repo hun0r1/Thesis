@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022 Toyota Corolla_REF27109049",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified airbag deployment and the total loss prediction, but missed several damaged parts, combined others, showed significant deviation in estimated repair costs, and disagreed on the overall damage severity, while individual repair actions were mostly correct."
+}

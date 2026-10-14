@@ -1,0 +1,47 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.643,
+  "part_recall": 0.692,
+  "part_f1": 0.667,
+  "gt_part_count": 13,
+  "ai_part_count": 14,
+  "matched_part_count": 9,
+  "severity_match_rate": 0.667,
+  "severity_matches": 6,
+  "severity_total_compared": 9,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3300.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "engine",
+    "front_bumper",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "suspension"
+  ],
+  "missed_parts": [
+    "airbag_control_module",
+    "radiator_support",
+    "tire",
+    "wheel_front_right"
+  ],
+  "extra_parts": [
+    "cooling_fan",
+    "fog_light",
+    "front_left_fender",
+    "headlight_left",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2017_BUICK_Cascada_16L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012 VOLKSWAGEN PASSAT SE TDI BLUEMOTION TECHNOLOGY 1,968cc_LOT314341",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 5,
+    "total_loss": 1,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately estimating the repair cost and overall severity, but it incorrectly predicts total loss and has several inaccuracies in specific damaged parts, their severities, and recommended repair actions."
+}

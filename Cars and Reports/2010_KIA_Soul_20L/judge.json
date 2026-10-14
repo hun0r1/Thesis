@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_KIA_Soul_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output identified most damaged parts, structural damage, airbag deployment, total loss status, and estimated repair cost with minor deviation, but missed two minor parts and contained discrepancies in specific part repair actions, severities, and overall severity."
+}

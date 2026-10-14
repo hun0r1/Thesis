@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2005_CHEVROLET_Avalanche_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identifies repair actions and total loss status, but shows significant inaccuracies in detailed part identification, individual part severities, and the overall estimated repair cost."
+}

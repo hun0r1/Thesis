@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HONDA_Civic_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, identifying many damaged parts and some correct repair actions, but it crucially missed the engine damage, incorrectly assessed the overall severity, and provided unsubstantiated structural damage claims."
+}

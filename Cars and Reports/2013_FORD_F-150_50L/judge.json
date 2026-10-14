@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_FORD_F-150_50L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI output shows high accuracy for repair actions and total loss prediction, and generally correct overall severity; however, it has factual errors in identifying specific parts (e.g., quarter panel vs. bed side panel), includes an extra part, and significantly overestimates the total repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2006_TOYOTA_Rav4_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified the overall severity and total loss status, with a close estimate for the repair cost, but it missed one damaged part from the ground truth and included two additional parts, and had some inaccuracies in specific repair actions."
+}

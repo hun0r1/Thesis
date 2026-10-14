@@ -1,0 +1,33 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.5,
+  "part_recall": 0.333,
+  "part_f1": 0.4,
+  "gt_part_count": 3,
+  "ai_part_count": 2,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 550.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ignition_system"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_bumper"
+  ],
+  "extra_parts": [
+    "wheel_rim"
+  ],
+  "vehicle_id": "2017_HYUNDAI_Sonata_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

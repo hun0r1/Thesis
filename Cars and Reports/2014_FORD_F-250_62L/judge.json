@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_FORD_F-250_62L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts and their repair actions, but missed a key suspension component and incorrectly added a front bumper, with significant discrepancies in structural frame and some part severities."
+}

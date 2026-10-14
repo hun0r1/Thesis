@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_FORD_F-150_54L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 2,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately predicts total loss and overall severity, and provides a closely estimated repair cost, but struggles with identifying the correct specific damaged parts and their corresponding repair actions, often missing ground truth parts or adding unsupported ones."
+}

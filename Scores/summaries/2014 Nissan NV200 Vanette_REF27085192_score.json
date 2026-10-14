@@ -1,0 +1,50 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.875,
+  "part_recall": 0.737,
+  "part_f1": 0.8,
+  "gt_part_count": 19,
+  "ai_part_count": 16,
+  "matched_part_count": 14,
+  "severity_match_rate": 0.846,
+  "severity_matches": 11,
+  "severity_total_compared": 13,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4375.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_door",
+    "headlight_left",
+    "hood",
+    "mirror_left",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "suspension",
+    "trunk_lid",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "a_pillar",
+    "front_right_fender",
+    "other",
+    "rear_right_quarter_panel",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "grille",
+    "headlight_right"
+  ],
+  "vehicle_id": "2014 Nissan NV200 Vanette_REF27085192",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

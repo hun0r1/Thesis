@@ -1,0 +1,47 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 0.5,
+  "part_recall": 0.5,
+  "part_f1": 0.5,
+  "gt_part_count": 12,
+  "ai_part_count": 12,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 4325.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "grille",
+    "hood",
+    "radiator",
+    "suspension",
+    "washer_system"
+  ],
+  "missed_parts": [
+    "cooling_fan",
+    "engine",
+    "frame",
+    "front_left_fender",
+    "headlight_left",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "front_right_fender",
+    "headlight_right",
+    "other",
+    "radiator_support",
+    "wheel_front_right"
+  ],
+  "vehicle_id": "2015_NISSAN_Armada_56L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

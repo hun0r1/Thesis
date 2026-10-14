@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_LAND_Rover_Range_Rover_Sport_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report misses key damage to the engine, incorrectly states the vehicle is drivable and its overall severity, and makes unsubstantiated claims about structural integrity where the ground truth reported \"unknown\"."
+}

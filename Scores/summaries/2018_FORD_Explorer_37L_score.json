@@ -1,0 +1,40 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.75,
+  "part_f1": 0.706,
+  "gt_part_count": 8,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.667,
+  "severity_matches": 4,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 4700.0,
+  "ai_estimated_repair_cost": 3575.0,
+  "cost_abs_error": 1125.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "bull_bar",
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "taillight_left",
+    "taillight_right"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "front_bumper"
+  ],
+  "extra_parts": [
+    "rear_right_quarter_panel",
+    "tailgate",
+    "tire"
+  ],
+  "vehicle_id": "2018_FORD_Explorer_37L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

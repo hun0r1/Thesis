@@ -1,0 +1,35 @@
+{
+  "score_parts": 1,
+  "score_severity": 1,
+  "score_cost": 3,
+  "score_overall": 2,
+  "part_precision": 1.0,
+  "part_recall": 0.286,
+  "part_f1": 0.444,
+  "gt_part_count": 7,
+  "ai_part_count": 2,
+  "matched_part_count": 2,
+  "severity_match_rate": 0.0,
+  "severity_matches": 0,
+  "severity_total_compared": 2,
+  "gt_estimated_repair_cost": 2000.0,
+  "ai_estimated_repair_cost": 1750.0,
+  "cost_abs_error": 250.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "exhaust_system",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "abs_system",
+    "crossmember",
+    "impact_bar",
+    "other",
+    "rear_body_panel"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2021_AUDI_A4_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

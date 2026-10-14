@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_GMC_Terrain_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report partially identified body parts and their repair actions, but critically missed engine and electronics damage, leading to an incorrect overall severity and drivability assessment."
+}

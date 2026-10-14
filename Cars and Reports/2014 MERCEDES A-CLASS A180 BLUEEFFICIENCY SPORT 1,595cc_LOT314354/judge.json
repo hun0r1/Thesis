@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014 MERCEDES A-CLASS A180 BLUEEFFICIENCY SPORT 1,595cc_LOT314354",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the main damage categories, overall severity, drivability, and all repair actions for the identified parts, but it incorrectly reported minor frame damage where there was none, misidentified the severity for several individual parts, and included additional parts not present in the ground truth."
+}

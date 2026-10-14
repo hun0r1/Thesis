@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Volkswagen_Caddy_Maxi_20_TDI_Manueel_75_kW_DC_2450_4d_damage_ID6796811",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately identifying many parts, overall severity, and structural damage, but it missed several damaged parts and provided incorrect severities and repair actions for some identified components."
+}

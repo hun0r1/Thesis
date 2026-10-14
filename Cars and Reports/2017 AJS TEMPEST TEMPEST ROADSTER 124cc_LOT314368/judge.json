@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 AJS TEMPEST TEMPEST ROADSTER 124cc_LOT314368",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified all severity levels but significantly omitted many damaged parts and their corresponding repair actions present in the ground truth."
+}

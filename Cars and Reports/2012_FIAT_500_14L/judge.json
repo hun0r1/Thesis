@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_FIAT_500_14L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 5,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified all damaged parts and the overall severity, but exhibited several inconsistencies in part-level severity and repair actions, and made an unsupported claim regarding structural frame damage."
+}

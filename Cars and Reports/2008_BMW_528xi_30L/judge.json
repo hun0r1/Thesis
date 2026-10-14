@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_BMW_528xi_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI accurately identified some minor body damages and their repair actions, but critically missed severe damage to the engine and engine control unit, leading to an incorrect overall severity assessment and drivability status."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately predicted overall severity, repair actions, estimated repair cost, and total loss status, but its specific parts list contained several discrepancies, including incorrect sides for components, one missing major part, and two unlisted extra parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_CHEVROLET_Camaro_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified many frontal parts and their repair actions, but missed several key damaged parts including those on the side and rear of the vehicle, and had inaccuracies in the severity for several components and the overall damage severity."
+}

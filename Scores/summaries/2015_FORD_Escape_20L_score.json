@@ -1,0 +1,40 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.833,
+  "part_recall": 0.5,
+  "part_f1": 0.625,
+  "gt_part_count": 10,
+  "ai_part_count": 6,
+  "matched_part_count": 5,
+  "severity_match_rate": 0.8,
+  "severity_matches": 4,
+  "severity_total_compared": 5,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2425.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "rear_body_panel",
+    "rear_bumper",
+    "tailgate",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "other",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "taillight_right"
+  ],
+  "vehicle_id": "2015_FORD_Escape_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

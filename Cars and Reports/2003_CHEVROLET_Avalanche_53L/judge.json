@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2003_CHEVROLET_Avalanche_53L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is largely incorrect, missing critical damage like the engine and misclassifying overall severity, though it correctly identified some specific repair actions for a few matching parts."
+}

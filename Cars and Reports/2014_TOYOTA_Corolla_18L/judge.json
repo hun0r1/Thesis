@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_TOYOTA_Corolla_18L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts and their repair actions, along with the overall severity, but missed one critical damaged part (engine) and had several discrepancies in individual part severities."
+}

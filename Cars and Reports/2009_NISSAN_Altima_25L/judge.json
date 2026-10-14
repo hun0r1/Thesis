@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2009_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, accurately identifying most primary damaged parts and the total loss outcome, but it misses one ground truth part, adds several unsupported parts, incorrectly assesses overall severity, and has a noticeable deviation in estimated repair costs and some individual part severities/repair actions."
+}

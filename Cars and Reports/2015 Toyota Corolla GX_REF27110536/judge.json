@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015 Toyota Corolla GX_REF27110536",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI accurately identified most damaged parts and their repair actions, along with structural damage and total loss prediction, but missed several parts, added extra parts, and had minor discrepancies in part location and cost estimates."
+}

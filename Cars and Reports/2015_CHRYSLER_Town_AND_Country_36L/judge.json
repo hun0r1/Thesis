@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_CHRYSLER_Town_AND_Country_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report provided a mostly correct assessment of damaged parts, repair actions, and an accurate total loss prediction, but contained some inaccuracies in overall and specific part severities, and had a minor discrepancy in the total estimated repair cost."
+}

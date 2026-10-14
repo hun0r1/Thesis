@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_FORD_Taurus_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified repair actions for all corresponding parts but showed notable inaccuracies in identifying two specific parts and their categories, along with consistently underestimating the severity for critical components and the overall damage."
+}

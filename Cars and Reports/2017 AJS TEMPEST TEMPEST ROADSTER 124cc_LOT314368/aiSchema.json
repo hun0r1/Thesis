@@ -1,0 +1,109 @@
+{
+  "vehicle_id": "2017 AJS TEMPEST TEMPEST ROADSTER 124cc_LOT314368",
+  "source": {
+    "origin": "sca_auction",
+    "publisher": "raw2k.co.uk",
+    "url": "https://www.raw2k.co.uk/vehicle-auctions/2017-ajs-tempest-tempest-roadster-314368?previous=%252Fvehicle-auctions%253Fdrives%253Dno%2526page%253D10",
+    "language": "en",
+    "reported_at": null
+  },
+  "vehicle": {
+    "year": 2017,
+    "make": "AJS",
+    "model": "TEMPEST TEMPEST ROADSTER 124cc",
+    "generation": null,
+    "body_style": "other",
+    "engine": "124cc petrol",
+    "drivetrain": "chain_drive",
+    "usage_history": "unknown",
+    "market_region": "EU"
+  },
+  "accident": {
+    "date": null,
+    "location": {
+      "country": "UK",
+      "city": "Caerphilly"
+    },
+    "collision_type": "other",
+    "impact_zone": "multiple",
+    "description": "Vehicle has minor scratches and scuffs visible on multiple parts, and is currently non-starting with no keys available.",
+    "other_vehicle": null
+  },
+  "damage": {
+    "airbags_deployed": {
+      "front_driver": null,
+      "front_passenger": null,
+      "side": null,
+      "curtain": null
+    },
+    "structural": {
+      "frame": "none",
+      "a_pillar": "none",
+      "b_pillar": "none",
+      "floor_pan": "none"
+    },
+    "parts": [
+      {
+        "part": "fuel_tank",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 150.0
+      },
+      {
+        "part": "front_fender",
+        "location": "front",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 75.0
+      },
+      {
+        "part": "exhaust_system",
+        "location": "left_side",
+        "category": "powertrain",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 38.0
+      },
+      {
+        "part": "side_panel",
+        "location": "left_side",
+        "category": "body",
+        "severity": "minor",
+        "repair_action": "repaint",
+        "estimated_cost_eur": 50.0
+      },
+      {
+        "part": "headlight_housing",
+        "location": "front",
+        "category": "lighting",
+        "severity": "minor",
+        "repair_action": "inspect",
+        "estimated_cost_eur": 30.0
+      }
+    ]
+  },
+  "economics": {
+    "currency": "EUR",
+    "estimated_repair_cost": 343.0,
+    "market_value_pre_accident": 2000.0,
+    "insurer_total_loss": null,
+    "predicted_total_loss": false
+  },
+  "labels": {
+    "damage_category": "minor_damage",
+    "overall_severity": "mild",
+    "drivable_after_accident": false
+  },
+  "meta": {
+    "annotated_by": "hun0r1",
+    "annotated_at": "2026-01-01T00:00:00Z",
+    "confidence": "ai-generated",
+    "images_used": 10,
+    "has_damage_ground_truth": false,
+    "has_cost_ground_truth": false,
+    "has_total_loss_ground_truth": false
+  }
+}

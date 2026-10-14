@@ -1,0 +1,45 @@
+{
+  "score_parts": 3,
+  "score_severity": 1,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.636,
+  "part_recall": 0.583,
+  "part_f1": 0.609,
+  "gt_part_count": 12,
+  "ai_part_count": 11,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.286,
+  "severity_matches": 2,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1750.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "grille",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "mirror_right",
+    "pickup_bed",
+    "radiator",
+    "turn_signal"
+  ],
+  "extra_parts": [
+    "front_left_door",
+    "other",
+    "rear_bumper",
+    "tailgate"
+  ],
+  "vehicle_id": "1995_NISSAN_Pickup_24L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

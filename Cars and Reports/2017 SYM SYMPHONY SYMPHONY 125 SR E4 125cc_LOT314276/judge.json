@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017 SYM SYMPHONY SYMPHONY 125 SR E4 125cc_LOT314276",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report is partially correct, matching many parts and attributes, but it misses several key damaged parts, incorrectly specifies the structural frame, and shows discrepancies in overall severity and specific part repair actions."
+}

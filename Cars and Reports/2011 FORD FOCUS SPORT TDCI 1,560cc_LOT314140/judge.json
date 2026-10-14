@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 FORD FOCUS SPORT TDCI 1,560cc_LOT314140",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most key damage categories, structural integrity, and overall severity, but it omitted two damaged parts and had some inaccuracies in the severity and repair actions for certain identified parts."
+}

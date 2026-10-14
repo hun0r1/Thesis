@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_VOLKSWAGEN_Tiguan_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output correctly assessed overall severity, repair actions for comparable parts, and total loss, but significant discrepancies in the detailed parts list (including omissions, incorrect locations, and extra claims not in ground truth) and a 16% deviation in estimated repair cost indicate areas for improvement."
+}

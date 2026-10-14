@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2022 Toyota Rav4 GX_REF27021718",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI output is mostly correct, accurately identifying most major damaged parts and their severities, but it omitted several key structural and powertrain components, and had minor discrepancies in repair actions and one structural severity."
+}

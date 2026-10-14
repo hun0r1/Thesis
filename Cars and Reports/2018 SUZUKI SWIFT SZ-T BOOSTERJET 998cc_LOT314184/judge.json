@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 SUZUKI SWIFT SZ-T BOOSTERJET 998cc_LOT314184",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately determined the total loss status and most repair actions, but missed several key parts, had numerous inconsistencies in individual part severities, and significantly underestimated the total estimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_LEXUS_GX_46L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identifies most damaged parts and overall severity, but it misses one ground truth part, includes several unsupported additional parts, and shows significant deviations in estimated repair costs for individual items and the total."
+}

@@ -1,0 +1,53 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.632,
+  "part_recall": 0.706,
+  "part_f1": 0.667,
+  "gt_part_count": 17,
+  "ai_part_count": 19,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.583,
+  "severity_matches": 7,
+  "severity_total_compared": 12,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3575.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_fender",
+    "front_right_fender",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "suspension",
+    "tire",
+    "windshield"
+  ],
+  "missed_parts": [
+    "air_intake",
+    "cooling_system",
+    "fog_light",
+    "frame_rail",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_driver",
+    "battery",
+    "cooling_fan",
+    "frame",
+    "headlight_left",
+    "mirror_right"
+  ],
+  "vehicle_id": "2015_SUBARU_Impreza_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

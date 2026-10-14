@@ -1,0 +1,41 @@
+{
+  "score_parts": 3,
+  "score_severity": 2,
+  "score_cost": null,
+  "score_overall": 2,
+  "part_precision": 0.875,
+  "part_recall": 0.636,
+  "part_f1": 0.737,
+  "gt_part_count": 11,
+  "ai_part_count": 8,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.333,
+  "severity_matches": 2,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3950.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_driver",
+    "front_bumper",
+    "grille",
+    "headlight_right",
+    "hood",
+    "radiator_support",
+    "windshield"
+  ],
+  "missed_parts": [
+    "airbag_curtain",
+    "airbag_side",
+    "engine",
+    "headlight_left"
+  ],
+  "extra_parts": [
+    "front_right_fender"
+  ],
+  "vehicle_id": "2022_FORD_Transit",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

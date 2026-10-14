@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007 MERCEDES VITO 111 CDI EXTRA LONG TRAVELINER LWB 2,148cc_LOT314222",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts, but significantly underreported the overall severity and several repair actions due to missing crucial damage like the engine."
+}

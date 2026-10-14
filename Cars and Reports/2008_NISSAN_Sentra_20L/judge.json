@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_NISSAN_Sentra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the total loss status but struggled with the accuracy and completeness of damaged parts, their specific repair actions, and the overall estimated repair cost, leading to a significantly lower total repair estimate and an incorrect overall severity assessment."
+}

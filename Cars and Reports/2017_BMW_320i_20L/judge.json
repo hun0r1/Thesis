@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_BMW_320i_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts, overall severity, estimated repair cost, and total loss status, but showed inaccuracies in individual part severities and missed one suspension component while incorrectly identifying a fender location."
+}

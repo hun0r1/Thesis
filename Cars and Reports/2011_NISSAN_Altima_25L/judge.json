@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011_NISSAN_Altima_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified many damaged parts and their repair actions/severities but crucially missed the engine, added several unsupported parts and claims, and made minor inaccuracies in part details."
+}

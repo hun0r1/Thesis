@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2023_KIA_K5_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 1,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the total loss status and the repair action for the single part it detected, but significantly underestimated the number of damaged parts, their severities, and the overall estimated repair cost."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_HYUNDAI_Elantra_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately identified most damaged parts, missing one but adding two unsupported parts; severities were largely correct with one minor discrepancy, and the overall severity matched. Repair actions had two mismatches, while the estimated repair cost showed a significant difference of over 20% compared to the ground truth. The total loss prediction was perfectly accurate."
+}

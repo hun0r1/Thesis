@@ -1,0 +1,40 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 5,
+  "score_overall": 4,
+  "part_precision": 0.7,
+  "part_recall": 0.875,
+  "part_f1": 0.778,
+  "gt_part_count": 8,
+  "ai_part_count": 10,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.714,
+  "severity_matches": 5,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": 680.0,
+  "ai_estimated_repair_cost": 750.0,
+  "cost_abs_error": 70.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "body_panel",
+    "brake_system",
+    "exhaust_system",
+    "headlight_left",
+    "mirror_left",
+    "other",
+    "turn_signal"
+  ],
+  "missed_parts": [
+    "handlebar"
+  ],
+  "extra_parts": [
+    "dashboard",
+    "paint",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2017 DERBI SENDA SENDA XTREME DRD SM 50 49cc_LOT314295",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

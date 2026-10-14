@@ -1,0 +1,38 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.857,
+  "part_recall": 0.75,
+  "part_f1": 0.8,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1182.5,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "body_panel",
+    "brake_system",
+    "front_left_fender",
+    "handlebar",
+    "turn_signal",
+    "windshield"
+  ],
+  "missed_parts": [
+    "exhaust_system",
+    "wheel_rim"
+  ],
+  "extra_parts": [
+    "seat"
+  ],
+  "vehicle_id": "2005 HONDA CBR CBR 1000 RR-5 998cc_LOT314213",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

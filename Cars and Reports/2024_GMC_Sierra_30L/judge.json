@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2024_GMC_Sierra_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified the repair cost and total loss status, but contained significant factual errors in structural damage claims, incorrectly assessed the overall severity, and had several discrepancies in the detailed parts list and their associated repair actions."
+}

@@ -1,0 +1,36 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 1.0,
+  "part_recall": 0.875,
+  "part_f1": 0.933,
+  "gt_part_count": 8,
+  "ai_part_count": 7,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.857,
+  "severity_matches": 6,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 2950.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "dashboard",
+    "engine",
+    "front_bumper",
+    "front_left_door",
+    "rear_left_door",
+    "wheel_rear_left",
+    "wheel_rear_right"
+  ],
+  "missed_parts": [
+    "rear_bumper"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2016 RENAULT KADJAR DYNAMIQUE NAV DCI 1,461cc_LOT314271",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

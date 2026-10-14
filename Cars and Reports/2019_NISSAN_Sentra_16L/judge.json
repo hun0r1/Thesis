@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_NISSAN_Sentra_16L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and total loss prediction, but it significantly missed several critical damaged parts, including all airbags and suspension components, leading to an estimated repair cost that is nearly 50% of the ground truth due to these omissions and some incorrect repair actions and severities for the parts it did identify."
+}

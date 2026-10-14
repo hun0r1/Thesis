@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018 Volkswagen T6 Transporter SWB 3.2G_REF27097191",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts and their corresponding repair actions. However, it significantly differed in the overall severity assessment, the total estimated repair cost, and some structural damage details, classifying it as partially correct."
+}

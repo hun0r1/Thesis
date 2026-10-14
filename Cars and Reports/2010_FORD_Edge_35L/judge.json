@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_FORD_Edge_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified several damaged parts and the overall severity, but it missed one key ground truth part, added an incorrect part, and contained multiple factual errors in part severities, repair actions, and structural damage assessment."
+}

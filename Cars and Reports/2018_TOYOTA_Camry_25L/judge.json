@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_TOYOTA_Camry_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report missed a key structural part (b_pillar), significantly underestimated the total repair cost, and misidentified the severity and repair actions for several other parts, despite correctly determining the overall severity and total loss status."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_CHEVROLET_Silverado_66L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified most damaged parts and repair actions, and the overall severity, but it contained a significant part misidentification, underestimated severity for airbags, and incorrectly reported the front passenger airbag deployment status as null instead of false."
+}

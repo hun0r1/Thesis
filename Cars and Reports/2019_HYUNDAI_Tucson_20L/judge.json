@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_HYUNDAI_Tucson_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 5,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI report correctly identifies many damaged parts and their repair actions and overall severity, but it omits several key components listed in the ground truth and includes some unsubstantiated parts or services."
+}

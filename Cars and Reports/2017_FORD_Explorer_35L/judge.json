@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_FORD_Explorer_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is mostly correct, accurately identifying most damage severities, repair actions, and the total loss status, but it misidentified some specific body parts (e.g., fenders as quarter panels) and had a slightly different estimated repair cost, along with an extra part not present in the ground truth."
+}

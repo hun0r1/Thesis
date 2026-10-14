@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2020_ACURA_MDX_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report accurately identified airbag status and overall severity but showed several discrepancies in the list of damaged parts, their individual severities, and recommended repair actions, and made unsupported claims regarding structural damage."
+}

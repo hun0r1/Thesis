@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2013_BMW_X3_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified overall severity and total loss, but contained notable inaccuracies in the detailed parts list (missing frame and side airbags, adding extra parts), had a significant estimated repair cost deviation, and incorrectly reported structural frame damage and its repair action."
+}

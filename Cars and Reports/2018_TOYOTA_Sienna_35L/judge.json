@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_TOYOTA_Sienna_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 1,
+    "total_loss": 5,
+    "overall": 2
+  },
+  "explanation": "The AI report exhibited significant incompleteness by missing many damaged parts, made factual errors regarding structural frame damage and part locations (e.g., left vs. right side), and grossly underestimated the repair cost, although it correctly identified airbag deployment status, overall severity, and total loss prediction."
+}

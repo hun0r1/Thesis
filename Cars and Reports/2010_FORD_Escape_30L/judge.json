@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2010_FORD_Escape_30L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified all ground truth parts and the overall total loss status, but included many additional incorrect parts, had significant inaccuracies in part-level severity and repair actions, and greatly overestimated the total repair cost."
+}

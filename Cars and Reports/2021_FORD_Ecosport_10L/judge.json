@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_FORD_Ecosport_10L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report is mostly incorrect, failing to identify a critical damaged component (engine), misjudging the overall severity, and containing multiple inaccuracies for part-level severities and repair actions."
+}

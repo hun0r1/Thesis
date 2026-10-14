@@ -1,0 +1,39 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.667,
+  "part_recall": 0.857,
+  "part_f1": 0.75,
+  "gt_part_count": 7,
+  "ai_part_count": 9,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.833,
+  "severity_matches": 5,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 2213.0,
+  "ai_estimated_repair_cost": 3050.0,
+  "cost_abs_error": 837.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "rear_bumper",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "suspension",
+    "wheel_rear_left"
+  ],
+  "missed_parts": [
+    "seat"
+  ],
+  "extra_parts": [
+    "rocker_panel_left",
+    "taillight_left",
+    "trunk_lid"
+  ],
+  "vehicle_id": "2015_CHEVROLET_Cruze_14L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

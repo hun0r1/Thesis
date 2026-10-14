@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021 BMW 4 Series 420I_REF27070786",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI accurately assessed structural damage and overall labels but missed one key structural part and generalized others in the parts list, provided incorrect repair actions for some items, and made unsubstantiated claims about airbag deployment and additional parts."
+}

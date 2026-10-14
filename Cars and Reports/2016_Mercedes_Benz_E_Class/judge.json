@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_Mercedes_Benz_E_Class",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified most damaged parts and their repair actions/severities, and matched the overall severity, but missed critical components like the engine and front subframe while adding numerous unconfirmed parts."
+}

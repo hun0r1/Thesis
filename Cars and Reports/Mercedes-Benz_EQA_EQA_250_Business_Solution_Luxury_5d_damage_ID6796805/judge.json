@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Mercedes-Benz_EQA_EQA_250_Business_Solution_Luxury_5d_damage_ID6796805",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified many key damaged parts and their associated repair actions, but significantly omitted several other ground truth parts and their repair actions, and displayed inconsistencies in severity assessments for both individual parts and the overall damage category."
+}

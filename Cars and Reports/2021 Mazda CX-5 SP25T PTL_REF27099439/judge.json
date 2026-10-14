@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021 Mazda CX-5 SP25T PTL_REF27099439",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report identified most damaged parts but missed the deployed airbag and included some extra items; structural severity and repair actions had several key inaccuracies compared to the ground truth."
+}

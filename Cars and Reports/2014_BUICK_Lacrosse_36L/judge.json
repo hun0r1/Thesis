@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_BUICK_Lacrosse_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts and their severities, missing key components such as the engine and specific airbags, and incorrectly assessed frame damage severity, though repair actions were mostly correct."
+}

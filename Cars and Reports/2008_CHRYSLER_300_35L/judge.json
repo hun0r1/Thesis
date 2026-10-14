@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2008_CHRYSLER_300_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI report identified less than half of the ground truth damaged parts, frequently using generic names, and also incorrectly assessed the overall damage severity from severe to moderate, though it was largely accurate on repair actions for the parts it did identify."
+}

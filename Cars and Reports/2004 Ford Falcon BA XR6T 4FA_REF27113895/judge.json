@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2004 Ford Falcon BA XR6T 4FA_REF27113895",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI correctly identified the overall damage severity and category, and most primary damaged parts and their repair actions, but significantly omitted several key components, made an incorrect certainty claim for structural damage, and had some discrepancies in individual part severities."
+}

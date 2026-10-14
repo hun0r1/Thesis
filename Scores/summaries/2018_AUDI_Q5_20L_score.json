@@ -1,0 +1,34 @@
+{
+  "score_parts": 2,
+  "score_severity": 5,
+  "score_cost": 3,
+  "score_overall": 3,
+  "part_precision": 0.333,
+  "part_recall": 0.333,
+  "part_f1": 0.333,
+  "gt_part_count": 3,
+  "ai_part_count": 3,
+  "matched_part_count": 1,
+  "severity_match_rate": 1.0,
+  "severity_matches": 1,
+  "severity_total_compared": 1,
+  "gt_estimated_repair_cost": 1025.0,
+  "ai_estimated_repair_cost": 700.0,
+  "cost_abs_error": 325.0,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper"
+  ],
+  "missed_parts": [
+    "body_panel",
+    "front_left_fender"
+  ],
+  "extra_parts": [
+    "grille",
+    "wheel_rim"
+  ],
+  "vehicle_id": "2018_AUDI_Q5_20L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

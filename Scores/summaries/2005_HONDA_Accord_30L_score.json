@@ -1,0 +1,39 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.636,
+  "part_f1": 0.778,
+  "gt_part_count": 11,
+  "ai_part_count": 7,
+  "matched_part_count": 7,
+  "severity_match_rate": 0.571,
+  "severity_matches": 4,
+  "severity_total_compared": 7,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 1275.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator_support",
+    "seat",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "engine",
+    "front_left_door",
+    "radiator",
+    "tire"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2005_HONDA_Accord_30L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

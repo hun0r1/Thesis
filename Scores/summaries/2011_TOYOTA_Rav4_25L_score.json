@@ -1,0 +1,46 @@
+{
+  "score_parts": 3,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.615,
+  "part_recall": 0.667,
+  "part_f1": 0.64,
+  "gt_part_count": 12,
+  "ai_part_count": 13,
+  "matched_part_count": 8,
+  "severity_match_rate": 0.75,
+  "severity_matches": 6,
+  "severity_total_compared": 8,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3525.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "exhaust_system",
+    "front_bumper",
+    "grille",
+    "headlight_left",
+    "headlight_right",
+    "radiator",
+    "radiator_support",
+    "rear_bumper"
+  ],
+  "missed_parts": [
+    "crossmember",
+    "hood",
+    "tire",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "ac_condenser",
+    "fog_light",
+    "front_left_fender",
+    "impact_bar",
+    "wheel_front_left"
+  ],
+  "vehicle_id": "2011_TOYOTA_Rav4_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

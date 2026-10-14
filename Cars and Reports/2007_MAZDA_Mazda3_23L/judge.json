@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2007_MAZDA_Mazda3_23L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts, omitting several from the ground truth and incorrectly adding others (such as the passenger airbag deployment), and showed significant discrepancies in overall and some part-level severities, while largely correctly identifying repair actions for matched parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2012_CHEVROLET_Malibu_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately assessed the overall severity and total loss status, and provided a reasonably close estimated repair cost, but made significant factual errors in identifying specific damaged parts (missing several and incorrectly identifying the side for others), which consequently impacted the accuracy of individual part severities and repair actions."
+}

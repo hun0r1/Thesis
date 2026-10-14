@@ -1,0 +1,49 @@
+{
+  "score_parts": 4,
+  "score_severity": 4,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.625,
+  "part_recall": 0.714,
+  "part_f1": 0.667,
+  "gt_part_count": 14,
+  "ai_part_count": 16,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.7,
+  "severity_matches": 7,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 5400.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "airbag_curtain",
+    "engine",
+    "fog_light",
+    "front_bumper",
+    "grille",
+    "hood",
+    "other",
+    "radiator",
+    "radiator_support",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "airbag_driver",
+    "cooling_fan",
+    "front_right_fender",
+    "headlight_right"
+  ],
+  "extra_parts": [
+    "airbag_control_module",
+    "airbag_side",
+    "dashboard",
+    "front_left_fender",
+    "headlight_left",
+    "seat_belt"
+  ],
+  "vehicle_id": "2021_TOYOTA_Sequoia_57L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

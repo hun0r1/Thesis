@@ -1,0 +1,43 @@
+{
+  "score_parts": 3,
+  "score_severity": 3,
+  "score_cost": 2,
+  "score_overall": 3,
+  "part_precision": 0.75,
+  "part_recall": 0.5,
+  "part_f1": 0.6,
+  "gt_part_count": 12,
+  "ai_part_count": 8,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 2,
+  "severity_total_compared": 4,
+  "gt_estimated_repair_cost": 3600.0,
+  "ai_estimated_repair_cost": 2775.0,
+  "cost_abs_error": 825.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "headlight_left",
+    "headlight_right",
+    "tailgate"
+  ],
+  "missed_parts": [
+    "grille",
+    "interior_trim",
+    "pickup_bed",
+    "rear_bumper",
+    "rocker_panel_left",
+    "rocker_panel_right"
+  ],
+  "extra_parts": [
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel"
+  ],
+  "vehicle_id": "2007_DODGE_RAM_57L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

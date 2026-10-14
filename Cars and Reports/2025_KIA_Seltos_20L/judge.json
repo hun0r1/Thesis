@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2025_KIA_Seltos_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 3,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI output is partially correct, accurately matching some damage details and the total loss prediction, but it deviates significantly in identifying damage location, missing some parts, structural damage assessment, overall severity, and estimated repair cost."
+}

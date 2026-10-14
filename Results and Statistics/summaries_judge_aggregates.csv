@@ -1,0 +1,1079 @@
+vehicle_id,gt_file,ai_file,score_parts,score_severity,score_cost,score_overall,part_precision,part_recall,part_f1,severity_match_rate,cost_abs_error,gt_estimated_repair_cost,ai_estimated_repair_cost
+1981_PORSCHE_928_45L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.8,0.444,0.571,0.25,,,2150.0
+"1991 YAMAHA FJ FJ 1200 1,188cc_LOT314208",groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.9,0.818,0.857,0.556,,,1565.0
+1991_FORD_F-150_49L,groundTruthSchema.json,aiSchema.json,1.0,3.0,,2.0,0.222,0.286,0.25,0.5,,,3175.0
+1992 Nissan Navara_REF27105733,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.857,0.923,0.889,0.833,1050.0,4550.0,5600.0
+1993_CHEVROLET_Corvette_57L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.5,0.625,0.556,0.2,,,1725.0
+1995 Toyota Rav4_REF27100200,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.556,0.455,0.5,0.6,,,1275.0
+1995_CHEVROLET_Gmt-400_57L,groundTruthSchema.json,aiSchema.json,2.0,1.0,1.0,1.0,0.571,0.444,0.5,0.0,1425.0,4125.0,2700.0
+1995_NISSAN_Pickup_24L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.636,0.583,0.609,0.286,,,1750.0
+1996 Jeep Grand Cherokee_REF27097158,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.625,0.357,0.455,0.6,,,2300.0
+1996 Nissan Terrano_REF27111186,groundTruthSchema.json,aiSchema.json,3.0,5.0,4.0,4.0,0.818,0.643,0.72,1.0,175.0,3300.0,3125.0
+"1997 BENTLEY TURBO R T 6,750cc_LOT314309",groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.917,0.647,0.759,0.333,,,11150.0
+1997_FORD_F-350_75L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,1.0,0.75,0.857,0.5,6700.0,8000.0,1300.0
+1997_TOYOTA_Camry_30L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.556,0.5,0.526,0.2,,,950.0
+1998 HONDA VTR VTR 1000 F FIRESTORM 996cc_LOT314126,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,1.0,0.5,0.667,0.75,1955.0,2530.0,575.0
+1998_CHEVROLET_Gmt-400_57L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.5,0.6,0.545,0.667,1125.0,975.0,2100.0
+1998_JEEP_Cherokee_40L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.5,0.615,0.875,,,2480.0
+1999 Ford Courier XL Crew CAB_REF27056857,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.75,0.429,0.545,0.833,,,2025.0
+1999 YAMAHA TW TW 125 124cc_LOT314128,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.75,1.0,0.857,0.833,,,620.0
+1999_TOYOTA_Avalon_30L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.556,0.5,0.526,0.6,1300.0,1650.0,2950.0
+"2000 HONDA CBR CBR 1100 XX SUPER BLACKBIRD 1,137cc_LOT314310",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.714,0.833,1.0,,,560.0
+2000 Toyota Rav4 L_REF27107288,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.818,0.692,0.75,0.778,,,1750.0
+2000 Toyota Vitz RS_REF27106038,groundTruthSchema.json,aiSchema.json,4.0,3.0,4.0,4.0,0.833,0.833,0.833,0.667,150.0,2675.0,2525.0
+2000_BUICK_Lesabre_38L,groundTruthSchema.json,aiSchema.json,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,0.0,400.0,400.0
+2000_GMC_Sierra_53L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.75,0.857,0.8,0.833,475.0,2525.0,3000.0
+"2001 MERCEDES SLK SLK200 KOMPRESSOR 1,998cc_LOT314311",groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.818,0.75,0.783,0.667,2450.0,4000.0,1550.0
+2001 Subaru Impreza_REF27114302,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.667,0.75,0.706,0.4,,,2425.0
+2001 Volkswagen Golf_REF27116633,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.6,0.545,0.571,0.833,,,2350.0
+2001_CHEVROLET_Corvette_57L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.8,0.8,0.8,0.75,150.0,2000.0,1850.0
+2001_FORD_F-150_54L,groundTruthSchema.json,aiSchema.json,3.0,3.0,4.0,3.0,0.5,0.6,0.545,0.667,125.0,825.0,950.0
+2001_FORD_Ranger_40L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.75,0.529,0.621,0.714,2675.0,3075.0,5750.0
+2001_GMC_Sierra_60L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.857,0.75,0.8,0.667,775.0,1425.0,2200.0
+2001_MERCURY_Grand_Marquis_46L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.857,0.75,0.75,,,8850.0
+2001_PONTIAC_Bonneville_38L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.583,0.778,0.667,1.0,537.0,2800.0,3337.0
+2001_TOYOTA_Celica_18L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.857,0.6,0.706,0.667,,,2350.0
+2001_TOYOTA_Sienna_30L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.9,0.692,0.783,0.778,,,1975.0
+"2002 RENAULT MEGANE DYNAMIQUE PLUS 16V 1,598cc_LOT314312",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.455,0.833,0.588,1.0,,,1532.5
+2002 Toyota Vitz_REF27111164,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.75,1.0,0.857,0.667,725.0,1825.0,2550.0
+2002 Toyota Voltz_REF27111397,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.625,0.625,0.625,0.6,,,2050.0
+"2002 VOLKSWAGEN POLO S 1,198cc_LOT314313",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.938,0.938,0.938,0.786,,,2225.0
+2002_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,5.0,4.0,0.727,0.615,0.667,0.75,25.0,3075.0,3100.0
+2002_Mercedes_Benz_Clk_Class,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.429,0.75,0.545,0.667,,,925.0
+2002_PONTIAC_Bonneville_38L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.727,0.667,0.696,1.0,,,2725.0
+2002_TOYOTA_Camry_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.778,0.778,0.778,0.714,1525.0,3550.0,2025.0
+2002_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.667,1.0,0.8,0.75,,,2175.0
+2003 Ford Escape_REF27099867,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.667,0.444,0.533,0.75,,,800.0
+2003 Holden Rodeo 4X4 Crew P_U LE DSL_REF27098048,groundTruthSchema.json,aiSchema.json,3.0,3.0,2.0,3.0,0.867,0.565,0.684,0.615,925.0,3125.0,4050.0
+2003_CHEVROLET_Avalanche_53L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.667,0.444,0.533,0.5,,,1601.0
+2003_CHEVROLET_Trailblazer_42L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.778,0.875,0.824,0.857,625.0,2450.0,1825.0
+2003_FORD_E-250_42L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.429,0.5,0.462,0.333,,,1525.0
+2003_FORD_Expedition_46L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.6,0.3,0.4,0.667,,,2800.0
+2003_FORD_Mustang_38L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.833,0.625,0.714,0.8,327.0,2190.0,1863.0
+2003_FORD_Ranger_30L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.778,0.7,0.737,0.857,,,8300.0
+2003_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.25,0.2,0.222,0.0,,,635.0
+2003_HONDA_Civic_17L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.571,0.8,0.667,0.667,1225.0,800.0,2025.0
+2003_HONDA_Element_24L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.429,0.5,0.462,0.333,,,2012.5
+2003_Mercedes_Benz_Sl_Class,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.667,0.8,0.5,,,1037.5
+2003_TOYOTA_Camry_30L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.867,0.867,0.867,0.846,475.0,4950.0,4475.0
+2004 Ford Falcon BA XR6T 4FA_REF27113895,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.769,0.714,0.7,,,6400.0
+2004 Honda Accord Eurol_REF27087579,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.773,0.895,0.829,0.706,,,8500.0
+2004 Honda FIT_REF27077791,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.9,1.0,0.947,0.667,700.0,2000.0,2700.0
+2004 Lexus RX330 RV_REF27109650,groundTruthSchema.json,aiSchema.json,2.0,2.0,,2.0,0.5,0.429,0.462,0.333,,,1900.0
+"2004 MERCEDES C-CLASS C200 KOMPRESSOR CLASSIC SE 1,796cc_LOT314315",groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.917,0.846,0.88,0.727,1850.0,5200.0,3350.0
+"2004 NISSAN TERRANO II SE TD 2,664cc_LOT314210",groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.846,0.846,0.846,0.375,,,2475.0
+2004 Toyota Corolla GL_REF27115479,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.909,0.526,0.667,0.9,,,4575.0
+2004 Toyota Echo_REF27102309,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.533,0.667,0.593,0.5,2225.0,7050.0,4825.0
+2004 Toyota Hilux TD SR5 D_C_REF27111268,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.812,0.867,0.839,0.5,,,3150.0
+2004 Toyota IST_REF27099657,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.786,0.733,0.759,0.636,,,2725.0
+2004 Toyota Wish_REF27088830,groundTruthSchema.json,aiSchema.json,4.0,2.0,1.0,2.0,0.938,0.833,0.882,0.467,2350.0,6850.0,4500.0
+"2004 VOLKSWAGEN POLO TWIST 1,390cc_LOT314132",groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.812,0.897,0.692,,,1660.0
+2004_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.818,0.818,0.818,0.778,,,7650.0
+2004_FORD_F-250_60L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.667,0.571,0.615,0.75,300.0,3250.0,3550.0
+2004_GMC_Yukon_53L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.778,0.636,0.7,0.857,,,2575.0
+2004_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,1.0,0.4,0.571,1.0,,,700.0
+2004_MERCURY_Sable_30L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.889,1.0,0.941,0.5,,,1475.0
+2004_NISSAN_Frontier_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.5,0.571,0.75,,,1550.0
+2004_SATURN_ION_22L,groundTruthSchema.json,aiSchema.json,3.0,5.0,5.0,4.0,0.786,0.647,0.71,0.909,50.0,5025.0,4975.0
+2004_TOYOTA_Camry_24L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.8,0.667,0.727,1.0,,,850.0
+2004_TOYOTA_Highlander_33L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.5,0.429,0.462,0.667,,,3010.0
+2004_TOYOTA_Sienna_33L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.778,0.583,0.667,0.571,1040.0,2600.0,1560.0
+"2005 AUDI A4 TDI SE 1,968cc_LOT314214",groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.692,0.818,0.75,0.889,2875.0,4300.0,1425.0
+2005 HONDA CBR CBR 1000 RR-5 998cc_LOT314213,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.857,0.75,0.8,0.833,,,1182.5
+2005 Honda Integra_REF27104747,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.917,0.846,0.88,0.7,,,2950.0
+2005 Honda Odyssey_REF27104723,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.889,0.667,0.762,0.75,,,1425.0
+"2005 MERCEDES C-CLASS C180 KOMPRESSOR CLASSIC SE 1,796cc_LOT314134",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.8,0.727,0.875,,,1775.0
+2005 Mitsubishi Outlander_REF27056391,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.862,0.714,0.781,1.0,26450.0,49550.0,23100.0
+"2005 NISSAN X-TRAIL SVE DCI 2,184cc_LOT314377",groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.75,0.8,0.774,0.917,500.0,3700.0,3200.0
+2005_ACURA_MDX_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.667,0.727,0.75,,,1850.0
+2005_ACURA_RL_35L,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,1.0,0.4,0.571,0.833,,,2750.0
+2005_CHEVROLET_Avalanche_53L,groundTruthSchema.json,aiSchema.json,4.0,1.0,3.0,3.0,0.571,0.8,0.667,0.25,275.0,750.0,1025.0
+2005_CHEVROLET_Impala_34L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.667,0.5,0.571,1.0,,,450.0
+2005_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.6,1.0,0.75,0.667,,,2450.0
+2005_FORD_Explorer_Sport_Trac_40L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.667,0.667,0.667,1.0,400.0,150.0,550.0
+2005_GMC_Safari_43L,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.8,0.444,0.571,0.75,,,1300.0
+2005_GMC_Sierra_60L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.778,0.636,0.7,0.571,,,5100.0
+2005_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.667,0.8,0.727,0.75,125.0,1125.0,1250.0
+2005_HONDA_Accord_30L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.636,0.778,0.571,,,1275.0
+2005_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.5,0.571,0.5,,,525.0
+2005_MITSUBISHI_Endeavor_38L,groundTruthSchema.json,aiSchema.json,3.0,3.0,5.0,4.0,0.8,0.667,0.727,0.667,87.0,1513.0,1600.0
+2005_NISSAN_Xterra_40L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.375,0.375,0.375,1.0,,,3150.0
+2005_PONTIAC_Vibe_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.889,0.8,0.842,0.5,,,1700.0
+2005_SUBARU_Outback_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,1.0,0.889,0.941,0.75,575.0,2300.0,1725.0
+2005_TOYOTA_4-runner_40L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.818,0.9,0.889,,,4590.0
+2005_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.25,0.25,0.25,0.0,,,1575.0
+2005_TOYOTA_Prius_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,5.0,4.0,0.875,0.778,0.824,0.571,25.0,1575.0,1600.0
+2005_TOYOTA_Scion_XA_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.824,0.667,0.737,0.786,,,5325.0
+"2006 FORD TRANSIT 350 MWB HR 2,402cc_LOT314216",groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.75,0.75,0.75,0.444,,,3050.0
+2006 Mazda Axela_REF27102350,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,1.0,0.941,0.97,0.875,,,3888.0
+2006 Mitsubishi 380_REF27096735,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.769,0.769,0.769,0.7,,,3425.0
+2006 Nissan Tiida_REF27111753,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,1.0,0.8,0.889,1.0,1975.0,6000.0,4025.0
+2006 Subaru Legacy R Wagon_REF27080678,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.706,0.923,0.8,1.0,,,7600.0
+2006 Toyota Hiace_REF27091518,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.692,0.6,0.643,0.778,,,2100.0
+2006 Toyota Vitz_REF27105162,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.769,0.87,0.5,273.0,1452.0,1725.0
+"2006 VOLKSWAGEN POLO SE 1,390cc_LOT314318",groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.8,0.8,0.8,0.5,,,450.0
+2006_CHEVROLET_Silverado_48L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.778,0.875,0.857,,,2375.0
+2006_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,2.0,5.0,1.0,3.0,0.286,0.333,0.308,1.0,2350.0,1950.0,4300.0
+2006_FORD_F-150_54L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.636,0.875,0.737,0.714,,,2925.0
+2006_FORD_Ranger_23L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.68,0.773,0.723,0.647,,,8925.0
+2006_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.667,0.5,0.571,0.833,1450.0,4450.0,3000.0
+2006_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.833,0.909,0.8,,,2400.0
+2006_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.769,0.833,0.8,0.8,,,5050.0
+2006_KIA_Spectra_20L,groundTruthSchema.json,aiSchema.json,5.0,5.0,3.0,4.0,0.857,1.0,0.923,1.0,300.0,1000.0,1300.0
+2006_LEXUS_GS_30L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,1.0,0.583,0.737,0.714,,,2825.0
+2006_MINI_Cooper_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.75,0.6,0.667,0.889,,,6225.0
+2006_NISSAN_Frontier_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.857,0.75,0.8,0.667,425.0,1750.0,1325.0
+2006_NISSAN_Murano_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.667,0.727,0.75,,,1700.0
+2006_PONTIAC_G6_24L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.786,0.917,0.846,0.8,,,5350.0
+2006_SUZUKI_Forenza_20L,groundTruthSchema.json,aiSchema.json,1.0,,3.0,2.0,0.0,0.0,0.0,,525.0,1525.0,1000.0
+2006_TOYOTA_Avalon_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.857,0.923,0.5,,,1525.0
+2006_TOYOTA_Prius_15L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.556,0.714,1.0,,,1925.0
+2006_TOYOTA_Rav4_24L,groundTruthSchema.json,aiSchema.json,3.0,5.0,5.0,4.0,0.4,0.5,0.444,1.0,50.0,825.0,875.0
+2006_TOYOTA_Rav4_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.857,0.923,0.5,,,1700.0
+2006_TOYOTA_Scion_XA_15L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.556,0.556,0.556,1.0,,,2345.0
+2006_VOLVO_Xc90_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.75,0.75,0.75,0.667,1550.0,3600.0,2050.0
+"2007 AUDI A3 TDI SE 1,968cc_LOT314297",groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.812,0.867,0.839,0.769,6900.0,11050.0,4150.0
+"2007 AUDI A4 TDI S LINE TDV 1,968cc_LOT314221",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.857,0.667,0.75,1.0,,,1575.0
+"2007 AUDI Q7 TDI QUATTRO S LINE 2,967cc_LOT314298",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.857,0.545,0.667,0.5,,,2325.0
+"2007 CHRYSLER CROSSFIRE V6 3,199cc_LOT314191",groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.6,0.6,0.6,0.667,1030.0,1430.0,400.0
+"2007 CITROEN BERLINGO 600 ENTERPRISE SWB H_C HDI 1,560cc_LOT314219",groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.7,0.438,0.538,0.143,,,1840.0
+"2007 FORD TRANSIT 350 LWB DCC 2,402cc_LOT314323",groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.824,0.778,0.8,0.357,,,4150.0
+2007 Honda Civic Hybrib_REF27106249,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.688,0.688,0.688,1.0,,,4500.0
+2007 Mazda Atenza_REF27106659,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.842,0.941,0.889,0.75,,,5775.0
+"2007 MERCEDES VITO 111 CDI EXTRA LONG TRAVELINER LWB 2,148cc_LOT314222",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.7,0.824,1.0,,,1325.0
+2007 Mitsubishi Lancer_REF27102711,groundTruthSchema.json,aiSchema.json,4.0,5.0,2.0,4.0,0.714,0.882,0.789,0.933,895.0,5050.0,4155.0
+2007 Nissan Presage Highway Star_REF27109894,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.75,1.0,0.857,0.667,,,2025.0
+"2007 PEUGEOT PARTNER 600 LX SWB 1,560cc_LOT314220",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.889,0.727,0.8,0.75,,,1600.0
+2007 Toyota Corolla_REF27117490,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.75,0.632,0.686,0.833,,,3250.0
+2007 Toyota Markx_REF27006223,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.938,0.833,0.882,0.933,1500.0,3525.0,2025.0
+2007_ACURA_MDX_37L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.385,0.556,0.455,1.0,,,3450.0
+2007_CHEVROLET_Aveo_16L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.75,0.429,0.545,0.667,,,670.0
+2007_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,2.0,2.0,1.0,2.0,0.5,0.455,0.476,0.4,1050.0,6600.0,5550.0
+2007_DODGE_Caliber_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.667,0.727,0.833,,,5550.0
+2007_DODGE_Caliber_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.8,0.889,0.842,0.75,,,3125.0
+2007_DODGE_RAM_57L,groundTruthSchema.json,aiSchema.json,3.0,3.0,2.0,3.0,0.75,0.5,0.6,0.5,825.0,3600.0,2775.0
+2007_FORD_Explorer_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.75,0.857,0.667,,,1460.0
+2007_FORD_Explorer,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.714,0.556,0.625,1.0,,,3350.0
+2007_FORD_F-150_54L,groundTruthSchema.json,aiSchema.json,5.0,4.0,4.0,4.0,0.625,1.0,0.769,0.8,150.0,2150.0,2300.0
+2007_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.833,0.909,0.8,,,950.0
+2007_HONDA_Accord_30L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.5,0.667,0.571,0.5,,,900.0
+2007_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.75,0.75,0.75,1.0,250.0,775.0,525.0
+2007_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.72,0.947,0.818,0.778,,,7950.0
+2007_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.667,0.5,0.571,0.25,,,1750.0
+2007_JEEP_Grand_Cherokee_37L,groundTruthSchema.json,aiSchema.json,3.0,5.0,5.0,4.0,1.0,0.5,0.667,1.0,35.0,615.0,650.0
+2007_KIA_Sorento_38L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.333,0.5,0.4,0.5,,,1975.0
+2007_LEXUS_IS_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.333,0.571,0.421,0.5,,,2125.0
+2007_LINCOLN_MKZ_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.684,0.591,0.634,0.769,2550.0,7850.0,10400.0
+2007_MAZDA_Mazda3_23L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.591,0.812,0.684,0.615,,,6450.0
+2007_MITSUBISHI_Eclipse_24L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.833,0.556,0.667,0.0,,,765.0
+2007_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,2.0,4.0,1.0,2.0,0.444,0.444,0.444,0.75,1300.0,2525.0,3825.0
+2007_TOYOTA_Camry_24L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.143,0.167,0.154,1.0,,,1935.0
+2007_TOYOTA_Camry_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.636,0.875,0.737,0.571,,,6575.0
+2007_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.857,0.857,0.857,0.5,300.0,2450.0,2150.0
+"2008 AUDI Q7 TDI QUATTRO S LINE 2,967cc_LOT314137",groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.909,0.714,0.8,0.667,2530.0,5730.0,3200.0
+"2008 AUDI Q7 TDI QUATTRO S LINE 2,967cc",groundTruthSchema.json,aiSchema.json,4.0,1.0,,2.0,0.727,0.727,0.727,0.25,,,2075.0
+2008 BMW 116I_REF27106713,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.706,0.8,0.75,0.667,,,5350.0
+"2008 FORD S-MAX TITANIUM TDCI 1,997cc_LOT314325",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.667,0.727,0.5,,,875.0
+2008 Holden Commodore Calais-V V6_REF27110897,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.875,0.933,0.903,0.857,,,3325.0
+2008 Honda FIT_REF27058940,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.778,0.778,0.778,0.714,550.0,3725.0,4275.0
+2008 Hyundai TB_REF27114534,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.889,0.8,0.875,,,2863.0
+2008 KIA Sportage_REF27105865,groundTruthSchema.json,aiSchema.json,2.0,2.0,,2.0,0.667,0.444,0.533,0.333,,,5700.0
+2008 Nissan Murano_REF27087630,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.696,0.762,0.727,0.867,1400.0,8550.0,7150.0
+2008 Nissan Tiida Latio_REF27107371,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.778,0.7,0.737,0.571,,,2175.0
+2008 Subaru Impreza_REF27103287,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.632,0.706,0.667,,,3725.0
+2008 Toyota Blade_REF27099805,groundTruthSchema.json,aiSchema.json,4.0,5.0,5.0,5.0,0.778,0.737,0.757,0.923,100.0,7625.0,7525.0
+2008 Toyota Hiace_REF27087150,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.538,0.875,0.667,1.0,,,2425.0
+2008 Toyota Hilux TD SR5 DCU_REF27085280,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.833,0.625,0.714,0.8,,,5200.0
+2008 Toyota Wish_REF27110440,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.722,0.684,0.703,0.846,2750.0,8000.0,10750.0
+2008 Volkswagen Golf GTI_REF27113750,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.941,0.762,0.842,0.5,,,8325.0
+2008_BMW_528xi_30L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.75,0.75,0.75,1.0,,,1160.0
+2008_CHEVROLET_Silverado_48L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.5,0.5,0.5,0.5,,,550.0
+2008_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,4.0,3.0,4.0,4.0,0.714,0.714,0.714,0.6,175.0,1000.0,1175.0
+2008_CHEVROLET_Tahoe_53L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.818,0.818,0.818,0.333,,,3250.0
+2008_CHRYSLER_300_35L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,1.0,0.385,0.556,0.6,,,2900.0
+2008_CHRYSLER_Town_AND_Country_40L,groundTruthSchema.json,aiSchema.json,2.0,3.0,4.0,3.0,1.0,0.4,0.571,0.5,150.0,450.0,600.0
+2008_DODGE_RAM_37L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.75,0.6,0.667,0.5,,,4375.0
+2008_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.333,0.333,0.333,0.0,,,600.0
+2008_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.556,0.714,0.625,0.6,325.0,1075.0,1400.0
+2008_FORD_Mustang_40L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.923,0.8,0.857,0.833,,,4150.0
+2008_GMC_Sierra_53L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.333,0.333,0.333,1.0,,,1250.0
+2008_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.769,0.87,0.5,475.0,3400.0,2925.0
+2008_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.75,0.545,0.632,0.5,,,1775.0
+2008_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.4,0.333,0.364,0.5,,,475.0
+2008_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.643,0.643,0.643,0.667,2200.0,2600.0,4800.0
+2008_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.8,0.762,0.875,,,2550.0
+2008_INFINITI_G35_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.952,0.769,0.851,0.7,,,16200.0
+2008_JEEP_Commander_37L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.833,0.833,0.833,0.7,2500.0,6500.0,4000.0
+2008_JEEP_Liberty_37L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.9,0.818,0.857,0.444,,,875.0
+2008_KIA_Sedona_38L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.75,0.5,0.6,0.333,,,775.0
+2008_KIA_Sorento_33L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.923,0.857,0.889,0.917,1875.0,4575.0,6450.0
+2008_LEXUS_ES_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.875,0.7,0.778,1.0,,,3350.0
+2008_LEXUS_LS_46L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.5,0.667,0.667,,,1450.0
+2008_NISSAN_Sentra_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,2.0,3.0,0.571,0.5,0.533,1.0,1000.0,1925.0,925.0
+2008_TOYOTA_4-runner_40L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.857,0.923,0.8,,,4580.0
+2008_TOYOTA_Camry_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.833,0.833,0.833,0.6,,,3550.0
+2008_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.778,0.7,0.737,1.0,625.0,1850.0,2475.0
+2008_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.75,0.857,0.833,,,1900.0
+2008_TOYOTA_Yaris_15L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.571,0.615,0.667,,,900.0
+2008_VOLVO_C30_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.667,0.727,0.696,0.75,2225.0,2900.0,5125.0
+"2009 ALFA ROMEO MITO VELOCE T 1,368cc_LOT314138",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.833,0.833,0.833,0.8,,,2550.0
+"2009 AUDI A3 TDI QUATTRO S LINE SPECIAL EDITION 1,968cc_LOT314229",groundTruthSchema.json,aiSchema.json,5.0,3.0,1.0,3.0,0.75,0.9,0.818,0.667,3030.0,6080.0,3050.0
+"2009 FORD TRANSIT 350 MWB 2,402cc_LOT314228",groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.75,0.429,0.545,0.667,,,1950.0
+2009 Nissan X-Trail_REF27104687,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.533,0.593,0.875,,,5350.0
+2009 Toyota Rav4 5A_REF27034340,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.857,0.667,0.75,0.833,725.0,3950.0,3225.0
+2009 Toyota Wish_REF27110602,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.889,0.762,0.821,1.0,,,5725.0
+2009 Toyota Wish_REF27113933,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.765,0.812,0.788,0.846,,,5950.0
+2009_ACURA_TL_37L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.5,0.6,0.545,0.667,,,1775.0
+2009_BUICK_Lacrosse_38L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.667,0.727,0.75,,,1900.0
+2009_CHEVROLET_Cobalt_22L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.818,0.818,0.818,0.833,300.0,4800.0,4500.0
+2009_CHEVROLET_Silverado_43L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.375,0.5,0.429,0.333,,,3025.0
+2009_CHRYSLER_Town_AND_Country_33L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.643,0.783,0.667,,,3250.0
+2009_DODGE_RAM_57L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.583,0.875,0.7,0.714,2450.0,5000.0,2550.0
+2009_FORD_Escape_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.636,0.636,0.636,0.857,,,2510.0
+2009_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.75,0.5,0.6,0.667,,,800.0
+2009_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.833,0.5,0.625,1.0,,,1250.0
+2009_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.6,0.5,0.545,0.667,,,2100.0
+2009_KIA_Sedona_38L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.889,0.8,0.842,0.875,662.5,2300.0,1637.5
+2009_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.778,0.583,0.667,0.571,,,2575.0
+2009_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.571,0.615,0.75,,,3050.0
+2009_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.571,0.8,0.667,0.625,450.0,3100.0,2650.0
+2009_NISSAN_Maxima_35L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.5,0.125,0.2,0.0,,,925.0
+2009_SUBARU_Legacy_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.933,0.667,0.778,0.786,,,8550.0
+2009_SUBARU_Outback_25L,groundTruthSchema.json,aiSchema.json,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,100.0,300.0,200.0
+2009_TOYOTA_Camry_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.7,0.778,0.737,0.929,,,7450.0
+2009_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.2,0.2,0.2,1.0,,,2025.0
+2009_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.778,0.875,0.824,0.571,800.0,2150.0,2950.0
+2009_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.667,0.333,0.444,0.0,,,550.0
+"2010 FORD TRANSIT 350 H_R 2,402cc_LOT314232",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.846,0.846,0.846,0.818,,,6250.0
+2010 Holden Captiva 5_REF27078865,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.609,0.737,0.667,0.643,2850.0,6275.0,9125.0
+"2010 LAND ROVER FREELANDER TD4 HSE 2,179cc_LOT314230",groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.5,0.714,0.588,0.6,1750.0,4350.0,2600.0
+2010 Toyota Hiace_REF27101166,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.68,0.85,0.756,1.0,,,8562.5
+2010 Toyota Rav4 LTD_REF27100151,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.7,0.636,0.667,0.714,,,2300.0
+"2010 VOLKSWAGEN GOLF MATCH TDI BLUEMOTION TECHNOLOGY 1,598cc_LOT314332",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.8,0.762,0.857,,,902.0
+2010_BMW_X3_30L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.667,0.667,0.667,1.0,,,900.0
+2010_CADILLAC_CTS_30L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.778,0.875,0.571,500.0,2600.0,3100.0
+2010_CHEVROLET_Camaro_62L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.286,1.0,0.444,0.5,,,8500.0
+2010_CHEVROLET_Colorado_29L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.812,0.722,0.765,0.692,,,5025.0
+2010_CHEVROLET_Impala_39L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.786,0.688,0.733,0.909,600.0,5275.0,5875.0
+2010_CHRYSLER_Town_AND_Country_38L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.556,0.714,0.625,0.8,,,4850.0
+2010_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.6,0.6,0.6,0.667,,,1700.0
+2010_FORD_Escape_30L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.5,0.857,0.632,0.667,1575.0,1100.0,2675.0
+2010_FORD_Flex_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.833,0.833,0.833,1.0,,,2800.0
+2010_FORD_Fusion_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.75,0.857,0.8,0.5,,,3150.0
+2010_GMC_Terrain_30L,groundTruthSchema.json,aiSchema.json,4.0,3.0,4.0,4.0,0.5,0.8,0.615,0.5,175.0,1850.0,1675.0
+2010_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.652,0.789,0.714,0.867,,,9850.0
+2010_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.75,0.429,0.545,1.0,,,1250.0
+2010_HONDA_Insight_13L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.75,0.667,0.706,0.833,1075.0,4375.0,3300.0
+2010_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.667,0.667,0.667,1.0,,,425.0
+2010_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.6,0.6,0.6,0.333,,,900.0
+2010_KIA_Soul_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,1.0,0.833,0.909,0.8,200.0,3250.0,3450.0
+2010_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.857,0.75,0.8,1.0,,,2000.0
+2010_LINCOLN_MKZ_35L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.875,0.7,0.778,0.429,,,3025.0
+2010_MAZDA_Mazda5_23L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.667,0.75,0.706,0.667,710.0,1415.0,2125.0
+2010_MAZDA_Mx-5_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.765,0.684,0.722,0.692,,,6900.0
+2010_NISSAN_Frontier_40L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.625,0.667,0.645,0.5,,,8575.0
+2010_NISSAN_Pathfinder_40L,groundTruthSchema.json,aiSchema.json,5.0,4.0,3.0,4.0,0.556,1.0,0.714,0.8,680.0,1250.0,1930.0
+2010_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.714,0.625,0.667,0.8,,,4450.0
+2010_NISSAN_Versa_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.9,0.75,0.818,0.667,,,1900.0
+2010_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,2.0,2.0,5.0,3.0,0.75,0.375,0.5,0.333,50.0,1700.0,1750.0
+2010_TOYOTA_4-runner_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.8,0.727,0.762,0.5,,,4400.0
+2010_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.444,0.571,0.5,1.0,,,6000.0
+2010_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,5.0,4.0,5.0,5.0,0.778,1.0,0.875,0.857,75.0,2500.0,2425.0
+2010_TOYOTA_Prius_18L,groundTruthSchema.json,aiSchema.json,2.0,2.0,,2.0,0.857,0.316,0.462,0.4,,,665.0
+2010_TOYOTA_Rav4_35L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.8,1.0,0.889,0.75,,,575.0
+"2011 AUDI A3 SPORTBACK TDI S LINE SE 1,968cc_LOT314334",groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.9,0.692,0.783,0.889,,,2425.0
+"2011 BMW 1 SERIES 118D ES 1,995cc_LOT314336",groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.625,0.556,0.588,0.8,2025.0,4100.0,2075.0
+"2011 FORD FOCUS SPORT TDCI 1,560cc_LOT314140",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.75,0.857,0.833,,,1025.0
+2011 Ford Kuga_REF27118469,groundTruthSchema.json,aiSchema.json,5.0,5.0,1.0,4.0,0.435,0.909,0.588,1.0,5425.0,3875.0,9300.0
+2011 Ford Territory Titanium_REF27097640,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.727,0.842,0.75,,,5675.0
+"2011 KIA SOUL TEMPEST CRDI 1,582cc_LOT314337",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,300.0
+2011 Mazda Axela_REF25939558,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.571,,,6650.0
+"2011 MERCEDES SLK SLK200 BLUEEFFICIENCY AMG SPORT ED125 1,796cc_LOT314145",groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.833,0.833,0.833,0.8,880.0,2030.0,1150.0
+"2011 MITSUBISHI LANCER GS2 DI-D 1,968cc_LOT314335",groundTruthSchema.json,aiSchema.json,2.0,4.0,1.0,2.0,0.667,0.444,0.533,0.75,1900.0,3550.0,1650.0
+2011 NISSAN LEAF EV AUTO_LOT314234,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,1.0,0.5,0.667,1.0,350.0,600.0,250.0
+2011 Nissan Tiida ST_REF27105812,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.789,0.714,0.75,0.833,975.0,3500.0,4475.0
+2011 Toyota Vitz_REF27029478,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.667,0.667,0.75,,,2175.0
+"2011 VAUXHALL VIVARO 2900 CDTI 1,995cc_LOT314235",groundTruthSchema.json,aiSchema.json,2.0,5.0,2.0,3.0,0.5,0.444,0.471,1.0,925.0,2100.0,3025.0
+2011 Volkswagen Golf_REF27113967,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.667,0.833,0.741,0.9,,,5403.0
+2011 Volvo S60_REF27101828,groundTruthSchema.json,aiSchema.json,4.0,1.0,1.0,2.0,0.625,0.833,0.714,0.2,3900.0,1725.0,5625.0
+2011_BUICK_Regal_24L,groundTruthSchema.json,aiSchema.json,5.0,5.0,5.0,5.0,1.0,1.0,1.0,1.0,0.0,400.0,400.0
+2011_CADILLAC_DTS_46L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.286,0.667,0.4,0.5,,,2250.0
+2011_CADILLAC_SRX_30L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.6,0.6,0.6,0.667,,,4200.0
+2011_CHEVROLET_Equinox_24L,groundTruthSchema.json,aiSchema.json,5.0,3.0,1.0,3.0,0.538,1.0,0.7,0.571,1925.0,2150.0,4075.0
+2011_CHEVROLET_HHR_22L,groundTruthSchema.json,aiSchema.json,5.0,1.0,,3.0,1.0,1.0,1.0,0.25,,,1250.0
+2011_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.857,0.5,0.632,0.667,,,1675.0
+2011_CHRYSLER_Town_AND_Country_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.875,0.875,0.875,0.571,795.0,3345.0,2550.0
+2011_DODGE_Grand_Caravan_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.9,0.643,0.75,0.556,,,3850.0
+2011_FORD_Crown_Victoria_46L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.5,0.5,0.5,0.667,,,1325.0
+2011_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.625,0.833,0.714,0.8,2400.0,7750.0,5350.0
+2011_FORD_Edge_37L,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,,400.0
+2011_FORD_Escape_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.526,0.588,0.556,0.8,,,6140.0
+2011_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.6,0.6,0.6,0.667,550.0,1850.0,1300.0
+2011_GMC_Sierra_48L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.333,0.143,0.2,0.0,,,525.0
+2011_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.583,0.875,0.7,0.857,,,7400.0
+2011_HONDA_Element_24L,groundTruthSchema.json,aiSchema.json,5.0,4.0,3.0,4.0,0.786,0.917,0.846,0.818,607.0,3475.0,2868.0
+2011_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.833,0.556,0.667,0.5,,,2300.0
+2011_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.778,0.7,0.737,0.714,2700.0,4900.0,7600.0
+2011_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.615,0.696,0.625,,,3625.0
+2011_KIA_Sorento_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.571,0.571,0.571,0.75,,,2350.0
+2011_LEXUS_IS_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.909,0.833,0.87,0.8,,,4750.0
+2011_Mercedes_Benz_E_Class,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.9,0.818,0.857,0.778,2650.0,6550.0,3900.0
+2011_Mercedes_Benz_M_Class,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.583,0.636,0.609,0.714,,,5325.0
+2011_MITSUBISHI_Endeavor_38L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.762,0.8,0.78,0.75,1175.0,7100.0,5925.0
+2011_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.75,0.923,0.828,0.917,,,4400.0
+2011_NISSAN_Juke_16L,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,,885.0
+2011_NISSAN_Versa_18L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.6,0.6,0.6,1.0,,,1275.0
+2011_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.889,0.667,0.762,0.875,,,2400.0
+2011_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.75,0.818,0.783,0.889,350.0,2525.0,2875.0
+2011_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.75,0.75,0.75,1.0,,,2575.0
+2011_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.615,0.667,0.64,0.75,,,3525.0
+2011_TOYOTA_Sienna_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.917,0.786,0.846,0.818,925.0,3575.0,4500.0
+2011_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.333,0.333,0.333,0.0,,,1010.0
+2011_TOYOTA_Tundra_46L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.75,0.643,0.692,0.889,,,6725.0
+2011_VOLKSWAGEN_Tiguan_20L,groundTruthSchema.json,aiSchema.json,5.0,4.0,3.0,4.0,0.857,1.0,0.923,0.833,375.0,2100.0,2475.0
+"2012 AUDI A4 TDI SE 1,968cc_LOT314151",groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.929,0.765,0.839,0.462,,,3825.0
+"2012 BMW 3 SERIES 330D SPORT PLUS EDITION 2,993cc_LOT314342",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.857,0.923,1.0,,,1550.0
+"2012 CITROEN DISPATCH 1200 L2H1 ENTERPRISE HDI 1,997cc_LOT314239",groundTruthSchema.json,aiSchema.json,4.0,2.0,1.0,2.0,0.909,0.714,0.8,0.444,7425.0,10950.0,3525.0
+"2012 FIAT PUNTO POP 1,242cc_LOT314345",groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.938,0.938,0.938,0.933,,,2125.0
+"2012 FORD FOCUS TITANIUM TDCI 1,997cc_LOT314238",groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,1.0,0.75,0.857,0.667,1475.0,1750.0,275.0
+"2012 FORD GALAXY TITANIUM TDCI 1,997cc_LOT314153",groundTruthSchema.json,aiSchema.json,3.0,2.0,1.0,2.0,0.714,0.625,0.667,0.4,1550.0,3300.0,1750.0
+2012 Ford Mondeo_REF27118453,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.688,0.786,0.733,0.818,,,2231.0
+2012 Holden Calais V-Sedan_REF27104591,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.786,0.647,0.71,0.909,,,4750.0
+2012 Honda CR-V_REF27097353,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.467,0.636,0.538,0.571,1075.0,2400.0,3475.0
+"2012 LAND ROVER RANGE ROVER EVOQUE SD4 PURE TECH 2,179cc_LOT314243",groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.615,0.941,0.744,0.812,2050.0,13150.0,15200.0
+2012 Mazda Mazda2 Sport_REF27116944,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.778,0.583,0.667,0.429,,,3475.0
+"2012 MERCEDES B-CLASS B200 CDI BLUEEFFICIENCY SPORT 1,796cc_LOT314244",groundTruthSchema.json,aiSchema.json,5.0,4.0,4.0,4.0,0.9,1.0,0.947,0.875,150.0,2800.0,2950.0
+2012 Nissan Tiida Latio_REF27110930,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.619,0.722,0.667,0.769,,,5190.0
+2012 OPEL INSIGNIA_LOT314338,groundTruthSchema.json,aiSchema.json,5.0,5.0,3.0,4.0,0.75,1.0,0.857,1.0,250.0,600.0,850.0
+2012 Skoda Octavia TDI 77_REF27007569,groundTruthSchema.json,aiSchema.json,3.0,4.0,5.0,4.0,0.778,0.538,0.636,0.857,75.0,2375.0,2300.0
+2012 Subaru Legacy_REF27078221,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.714,0.69,0.702,1.0,,,19500.0
+2012 Toyota Aqua Hybrid_REF27109181,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.538,0.7,0.609,0.714,,,11000.0
+2012 Toyota Aqua_REF27104251,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.538,0.636,0.583,1.0,1325.0,2600.0,3925.0
+2012 Toyota Porte_REF27113277,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.864,0.905,0.884,0.895,,,5075.0
+"2012 VAUXHALL MOVANO F3500 L3H2 CDTI 2,299cc_LOT314344",groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.778,0.875,0.824,0.714,1000.0,3000.0,2000.0
+"2012 VOLKSWAGEN PASSAT SE TDI BLUEMOTION TECHNOLOGY 1,968cc_LOT314341",groundTruthSchema.json,aiSchema.json,5.0,4.0,4.0,4.0,0.733,0.917,0.815,0.727,125.0,4025.0,3900.0
+2012_BUICK_Regal_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.545,0.75,0.632,1.0,,,3105.0
+2012_CADILLAC_CTS_30L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.692,0.818,0.667,,,4050.0
+2012_CADILLAC_CTS_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.286,0.5,0.364,1.0,440.0,650.0,1090.0
+2012_CADILLAC_Escalade_62L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.625,0.455,0.526,1.0,,,6600.0
+2012_CHEVROLET_Malibu_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,3.0,3.0,0.667,0.462,0.545,1.0,285.0,2440.0,2725.0
+2012_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.68,0.739,0.708,0.882,,,12525.0
+2012_CHRYSLER_Town_AND_Country_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.5,,,635.0
+2012_DODGE_Grand_Caravan_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,2.0,3.0,0.4,0.667,0.5,0.5,950.0,1600.0,2550.0
+2012_FIAT_500_14L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.571,0.667,0.615,0.75,,,2800.0
+2012_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.538,0.389,0.452,0.857,,,4075.0
+2012_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,1.0,0.429,0.6,0.0,,,650.0
+2012_GMC_Terrain_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.667,0.8,0.5,,,900.0
+2012_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.667,0.462,0.545,0.5,,,3600.0
+2012_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,5.0,5.0,0.667,0.769,0.714,0.9,25.0,4225.0,4250.0
+2012_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.889,0.615,0.727,0.875,,,4600.0
+2012_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.625,0.714,0.667,0.5,,,1175.0
+2012_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,2.0,1.0,3.0,2.0,0.2,0.333,0.25,0.0,560.0,300.0,860.0
+2012_HYUNDAI_Veloster_16L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.6,0.75,0.667,,,1500.0
+2012_INFINITI_G25_25L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,1.0,0.3,0.462,1.0,,,825.0
+2012_KIA_Soul_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.778,0.583,0.667,0.714,4400.0,11050.0,15450.0
+2012_LAND_Rover_LR2_32L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.5,0.571,0.5,,,300.0
+2012_LAND_Rover_Range_Rover_Evoque_20L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.5,0.4,0.444,0.5,,,1725.0
+2012_LEXUS_IS_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.889,0.533,0.667,0.625,1717.0,4767.0,3050.0
+2012_MAZDA_Cx-7_25L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.2,0.167,0.182,1.0,,,1775.0
+2012_NISSAN_370z_37L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.8,0.762,0.78,0.75,,,14950.0
+2012_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.889,0.941,0.625,235.0,3000.0,3235.0
+2012_NISSAN_Versa_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.571,0.667,0.75,,,850.0
+2012_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,1.0,0.889,0.941,0.375,,,4250.0
+2012_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,5.0,4.0,0.556,0.625,0.588,1.0,100.0,3500.0,3400.0
+2012_TOYOTA_Prius_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.6,0.857,0.706,0.667,,,3900.0
+2012_VOLKSWAGEN_Tiguan_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.5,,,1100.0
+2012_VOLVO_S80_32L,groundTruthSchema.json,aiSchema.json,5.0,2.0,3.0,3.0,0.833,1.0,0.909,0.4,420.0,1800.0,1380.0
+2013 Audi A3 NZ Spback Tfsi_REF27112010,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.7,0.7,0.857,,,2675.0
+"2013 AUDI A3 TDI S LINE 1,598cc_LOT314248",groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.55,0.733,0.629,0.818,3475.0,6375.0,9850.0
+"2013 AUDI A6 TDI BLACK EDITION 1,968cc_LOT314346",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.667,1.0,0.8,0.75,,,900.0
+"2013 BMW X1 SDRIVE20D M SPORT 1,995cc_LOT314159",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.75,0.667,0.706,1.0,,,2225.0
+2013 BMW X5_REF27106745,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.538,0.7,0.609,0.857,150.0,3450.0,3600.0
+2013 Ford Fiesta LX_REF27113190,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.769,0.87,0.7,,,1750.0
+"2013 FORD FIESTA ST-2 1,596cc_LOT314164",groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.588,0.667,0.625,0.6,2175.0,6775.0,4600.0
+2013 Ford Focus Titanium_REF27109217,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.905,0.731,0.809,0.842,,,17325.0
+"2013 FORD TRANSIT 350 H_R 2,198cc_LOT314163",groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.727,0.533,0.615,0.875,,,2300.0
+2013 Honda Jazz 1.3S_REF27109264,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.818,0.75,0.783,0.667,775.0,4275.0,3500.0
+2013 Lexus IS250_REF25940142,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.636,1.0,0.778,0.714,,,4825.0
+2013 Mazda Axela_REF27079836,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.643,0.857,0.735,0.833,,,14325.0
+2013 Mazda CX-5 GSX PTR_REF27107359,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.769,0.833,0.8,0.8,1525.0,4725.0,6250.0
+"2013 MERCEDES A-CLASS A200 CDI BLUEEFFICIENCY AMG SPORT 1,796cc_LOT314160",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.571,0.727,1.0,,,1525.0
+2013 Mitsubishi Mirage GLS_REF27110088,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.667,1.0,0.8,0.714,,,4360.0
+2013 Nissan Juke_REF27111487,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.737,0.848,0.786,,,4850.0
+2013 Nissan Murano TI_REF27061477,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.8,0.667,0.727,1.0,1700.0,6800.0,5100.0
+2013 Subaru Legacy I Sport_REF27109388,groundTruthSchema.json,aiSchema.json,1.0,3.0,,2.0,0.222,0.143,0.174,0.5,,,5000.0
+2013 Toyota Aqua_REF27088644,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.647,0.733,0.688,0.909,,,7050.0
+2013 Toyota Aqua_REF27098919,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,1.0,0.8,0.889,0.875,1025.0,3950.0,2925.0
+2013 Toyota Aqua_REF27109887,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.696,0.8,0.744,0.933,,,7925.0
+2013 Toyota Corolla Axio_REF27112800,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.818,0.75,0.783,0.556,,,1875.0
+"2013 VAUXHALL ZAFIRA TOURER SE 1,364cc_LOT314161",groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.769,0.556,0.645,0.9,800.0,5975.0,5175.0
+2013_ACURA_TSX_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.9,0.818,0.857,1.0,,,5850.0
+2013_BMW_X3_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.625,0.833,0.714,0.9,4000.0,9500.0,13500.0
+2013_BUICK_Encore_14L,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,,125.0
+2013_CADILLAC_ATS_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.429,0.5,0.462,1.0,,,5225.0
+2013_CADILLAC_XTS_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.7,0.636,0.667,1.0,,,3225.0
+2013_CHEVROLET_Camaro_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.917,0.733,0.815,0.636,,,2898.0
+2013_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,1.0,0.75,0.857,0.667,1225.0,2775.0,1550.0
+2013_CHEVROLET_Cruze_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.875,0.778,0.824,0.571,,,1970.0
+2013_CHEVROLET_Silverado_48L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.25,0.2,0.222,1.0,,,1875.0
+2013_CHEVROLET_Silverado_66L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,1.0,0.545,0.706,0.667,2275.0,4625.0,2350.0
+2013_CHEVROLET_Sonic_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.667,0.727,0.696,0.625,,,4450.0
+2013_DODGE_Dart_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.5,0.667,1.0,,,500.0
+2013_FORD_Escape_16L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.471,0.8,0.593,0.75,900.0,3725.0,4625.0
+2013_FORD_Escape_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.7,0.7,0.7,0.571,,,2650.0
+2013_FORD_Explorer_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.714,0.556,0.625,0.8,,,1315.0
+2013_FORD_F-150_50L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.625,0.833,0.714,0.6,2900.0,2350.0,5250.0
+2013_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.667,0.5,0.571,0.0,,,1050.0
+2013_FORD_Fusion_16L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.818,0.818,0.818,0.556,,,3250.0
+2013_GMC_Acadia_36L,groundTruthSchema.json,aiSchema.json,3.0,1.0,3.0,2.0,0.75,0.6,0.667,0.0,800.0,1850.0,1050.0
+2013_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.5,0.667,0.571,0.75,,,2275.0
+2013_HONDA_Accord_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.818,0.818,0.818,0.778,,,2100.0
+2013_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,2.0,3.0,3.0,1.0,0.727,0.842,0.375,750.0,2375.0,1625.0
+2013_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.375,0.75,0.5,1.0,,,2200.0
+2013_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.857,0.545,0.667,0.833,,,4100.0
+2013_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.5,0.778,0.609,0.857,450.0,2875.0,3325.0
+2013_HYUNDAI_Elantra_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.643,0.643,0.643,0.889,,,3850.0
+2013_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.571,0.667,0.667,,,1025.0
+2013_HYUNDAI_Veloster_16L,groundTruthSchema.json,aiSchema.json,3.0,2.0,2.0,2.0,0.833,0.5,0.625,0.4,950.0,1725.0,775.0
+2013_INFINITI_G37_37L,groundTruthSchema.json,aiSchema.json,5.0,2.0,,4.0,0.429,1.0,0.6,0.333,,,1125.0
+2013_JEEP_Compass_20L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.625,0.357,0.455,1.0,,,1535.0
+2013_JEEP_Wrangler_36L,groundTruthSchema.json,aiSchema.json,5.0,5.0,3.0,4.0,0.6,1.0,0.75,1.0,700.0,150.0,850.0
+2013_KIA_Optima_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.778,0.636,0.7,0.857,,,8100.0
+2013_KIA_Soul_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,5.0,5.0,0.556,0.833,0.667,0.9,70.0,4025.0,4095.0
+2013_LEXUS_CT_18L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,1.0,0.909,0.952,0.6,,,2000.0
+2013_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,1.0,5.0,3.0,3.0,0.25,0.25,0.25,1.0,300.0,1850.0,1550.0
+2013_Mercedes_Benz_E_Class,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.714,0.833,0.769,0.6,,,2350.0
+2013_Mercedes_Benz_Ml_Class,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.667,0.8,0.727,0.875,950.0,6950.0,6000.0
+2013_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.7,0.538,0.609,0.429,,,2435.0
+2013_NISSAN_Frontier_40L,groundTruthSchema.json,aiSchema.json,2.0,2.0,2.0,2.0,0.75,0.375,0.5,0.333,887.5,1750.0,862.5
+2013_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.769,0.476,0.588,0.667,,,3625.0
+2013_NISSAN_Sentra_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.714,0.625,0.667,0.8,1425.0,2200.0,3625.0
+2013_NISSAN_Versa_16L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.75,0.75,0.75,0.75,,,4550.0
+2013_RAM_1500_47L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.667,0.667,0.667,0.667,2300.0,2925.0,5225.0
+2013_RAM_Cargo_VAN_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.429,0.5,0.462,1.0,,,1275.0
+2013_TOYOTA_Avalon_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.778,0.778,0.778,0.786,175.0,8000.0,7825.0
+2013_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.4,0.333,0.364,0.5,,,1000.0
+2013_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,2.0,5.0,5.0,4.0,0.562,0.474,0.514,1.0,100.0,12075.0,12175.0
+2013_TOYOTA_Prius_18L,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.75,1.0,0.857,1.0,,,1550.0
+2013_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.8,0.857,0.828,0.75,1425.0,5275.0,3850.0
+2013_TOYOTA_Sienna_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.571,0.5,0.533,0.5,,,3450.0
+2013_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.545,0.667,0.6,0.833,2600.0,3525.0,6125.0
+2013_VOLKSWAGEN_Passat_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.833,0.909,1.0,,,1775.0
+2014 Audi A4_REF27105574,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.818,0.5,0.621,0.889,500.0,10000.0,10500.0
+"2014 BMW 1 SERIES 116D SPORT 1,995cc_LOT314173",groundTruthSchema.json,aiSchema.json,4.0,1.0,,2.0,0.875,0.875,0.875,0.286,,,1375.0
+2014 Ford Falcon FG2 XR6_REF27101598,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.571,0.8,0.667,1.0,,,2600.0
+2014 FORD FOCUS ZETEC 999cc_LOT314358,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.857,0.5,0.632,1.0,,,1900.0
+2014 Holden Cruze Z-Series_REF27043463,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.706,0.6,0.649,0.833,,,6025.0
+2014 Honda FIT Hybrid_REF27110948,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,1.0,0.5,0.667,0.625,1407.0,6025.0,4618.0
+"2014 HYUNDAI I40 CRDI ACTIVE BLUE DRIVE 1,685cc_LOT314170",groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.818,1.0,0.9,0.556,775.0,2950.0,2175.0
+"2014 MERCEDES A-CLASS A180 BLUEEFFICIENCY SPORT 1,595cc_LOT314354",groundTruthSchema.json,aiSchema.json,5.0,1.0,,3.0,0.571,1.0,0.727,0.25,,,1200.0
+"2014 MERCEDES A-CLASS A180 CDI ECO SE 1,461cc_LOT314255",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.562,1.0,0.72,0.778,,,4225.0
+"2014 MERCEDES B-CLASS B180 CDI BLUEEFFICIENCY SPORT 1,461cc_LOT314353",groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.833,0.833,0.833,1.0,400.0,2450.0,2050.0
+2014 Nissan NV200 Vanette_REF27085192,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.875,0.737,0.8,0.846,,,4375.0
+2014 PEUGEOT 108 ACTIVE 998cc_LOT314352,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.917,0.917,0.917,0.8,,,2563.0
+"2014 RENAULT CAPTUR DYNAMIQUE S MEDIANAV ENERGY DCI S_S 1,461cc_LOT314257",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.818,0.9,0.857,0.778,,,4000.0
+2014 Ssangyong Actyon Sport Wrkmte 2WD M_REF27093354,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.846,0.846,0.846,0.818,,,6250.0
+2014 Toyota Aqua_REF27116389,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.889,0.727,0.8,0.75,525.0,1270.0,1795.0
+2014 TOYOTA AYGO VVT-I X-CITE 998cc_LOT314351,groundTruthSchema.json,aiSchema.json,2.0,5.0,3.0,3.0,0.667,0.462,0.545,1.0,663.0,2838.0,2175.0
+2014 Toyota Corolla Axio_REF27114935,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.882,0.938,0.733,,,4100.0
+2014 Toyota Spade_REF27103680,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.6,0.923,0.727,0.917,,,4600.0
+"2014 VAUXHALL COMBO 2300 L2H1 CDTI S_S ECOFLEX 1,248cc_LOT314253",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.909,0.833,0.87,1.0,,,3000.0
+"2014 VAUXHALL INSIGNIA SRI CDTI ECOFLEX S_S 1,956cc_LOT314356",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.429,0.6,0.5,1.0,,,862.5
+2014 YAMAHA XC XC 125 E VITY 125cc_LOT314250,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.667,0.667,0.667,0.5,305.0,480.0,785.0
+2014_BMW_Alpina_B7_750li_44L,groundTruthSchema.json,aiSchema.json,2.0,5.0,3.0,3.0,0.429,0.375,0.4,1.0,500.0,4300.0,3800.0
+2014_BUICK_Lacrosse_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.8,0.706,0.75,0.75,,,6125.0
+2014_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,5.0,3.0,5.0,4.0,0.5,1.0,0.667,0.5,0.0,300.0,300.0
+2014_CHEVROLET_Cruze_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.778,0.5,0.609,0.714,,,2625.0
+2014_CHEVROLET_Equinox_24L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,1.0,1.0,1.0,0.875,1225.0,2450.0,1225.0
+2014_CHEVROLET_Express_43L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.429,0.6,0.5,0.667,,,825.0
+2014_CHEVROLET_Express_60L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.5,0.727,0.593,0.875,2579.0,3471.0,6050.0
+2014_CHEVROLET_Impala_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.75,0.5,0.6,1.0,,,300.0
+2014_CHEVROLET_Impala_Limited_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.625,0.625,0.625,0.6,575.0,2225.0,2800.0
+2014_CHEVROLET_Malibu_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.857,0.923,0.833,,,1400.0
+2014_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.571,0.571,0.571,1.0,3075.0,7550.0,4475.0
+2014_CHEVROLET_Sonic_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.786,0.786,0.786,0.636,,,8075.0
+2014_CHRYSLER_200_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.667,0.667,0.667,0.5,1750.0,2250.0,4000.0
+2014_DODGE_Challenger_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.875,0.875,0.875,0.714,,,3850.0
+2014_DODGE_Dart_14L,groundTruthSchema.json,aiSchema.json,4.0,3.0,5.0,4.0,0.429,0.75,0.545,0.667,100.0,1900.0,1800.0
+2014_DODGE_Dart_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.6,0.5,0.545,0.667,,,625.0
+2014_DODGE_Grand_Caravan_36L,groundTruthSchema.json,aiSchema.json,1.0,1.0,3.0,2.0,0.167,0.25,0.2,0.0,375.0,1125.0,1500.0
+2014_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,5.0,2.0,,4.0,0.714,1.0,0.833,0.4,,,2050.0
+2014_FORD_Escape_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.846,0.733,0.786,0.818,,,4300.0
+2014_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.667,0.8,0.727,0.667,4600.0,12400.0,17000.0
+2014_FORD_F-150_50L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.714,0.714,0.714,0.6,,,2725.0
+2014_FORD_F-150_62L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.8,0.727,0.762,0.75,750.0,5600.0,4850.0
+2014_FORD_F-250_62L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.833,0.833,0.833,0.8,,,3800.0
+2014_FORD_Flex_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,4.0,4.0,1.0,0.692,0.818,0.889,110.0,3815.0,3925.0
+2014_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,4.0,1.0,,2.0,0.667,0.8,0.727,0.25,,,1825.0
+2014_FORD_Fusion_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.889,0.533,0.667,0.75,1055.0,3450.0,2395.0
+2014_FORD_Mustang_37L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.778,0.875,0.824,0.714,,,7450.0
+2014_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.571,1.0,0.727,0.5,325.0,825.0,1150.0
+2014_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.857,0.923,0.5,,,1275.0
+2014_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,3.0,2.0,1.0,2.0,0.688,0.647,0.667,0.455,1200.0,6250.0,5050.0
+2014_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.5,0.333,0.4,0.5,,,2150.0
+2014_HYUNDAI_Accent_16L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.875,0.875,0.875,0.571,525.0,2525.0,3050.0
+2014_HYUNDAI_Elantra_18L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.8,0.364,0.5,1.0,,,3600.0
+2014_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.889,0.889,0.889,0.875,475.0,2050.0,2525.0
+2014_HYUNDAI_Santa_FE_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.375,0.429,0.4,1.0,,,2600.0
+2014_HYUNDAI_Santa_FE_33L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,1.0,0.6,0.75,0.667,625.0,1200.0,1825.0
+2014_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,1.0,0.5,0.667,0.2,,,1375.0
+2014_INFINITI_Q50_37L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.812,0.812,0.812,0.692,1560.0,9210.0,7650.0
+2014_JEEP_Compass_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.714,0.833,0.769,0.8,,,1725.0
+2014_JEEP_Grand_Cherokee_36L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.75,1.0,0.857,0.5,575.0,3125.0,3700.0
+2014_KIA_Optima_24L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.75,1.0,0.857,0.5,,,3150.0
+2014_KIA_Sorento_33L,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.6,0.562,0.581,1.0,3625.0,8300.0,4675.0
+2014_LINCOLN_MKX_37L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,1.0,0.333,0.5,0.667,,,5250.0
+2014_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,5.0,5.0,5.0,5.0,0.75,1.0,0.857,1.0,75.0,1075.0,1150.0
+2014_Mercedes_Benz_E_Class,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.8,0.8,0.8,1.0,,,3050.0
+2014_Mercedes_Benz_Ml_Class,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.75,0.857,0.8,0.667,1600.0,2250.0,3850.0
+2014_MITSUBISHI_Outlander_24L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.6,0.75,0.667,0.333,,,1550.0
+2014_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.818,0.643,0.72,0.778,1600.0,3200.0,4800.0
+2014_NISSAN_Pathfinder_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.714,0.714,0.714,0.6,,,3350.0
+2014_NISSAN_Versa_Note_16L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,1.0,0.727,0.842,0.875,890.0,3600.0,2710.0
+2014_NISSAN_Xterra_40L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.545,0.353,0.429,0.667,,,6225.0
+2014_PORSCHE_Boxster_27L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.75,0.857,0.5,260.0,490.0,750.0
+2014_SUBARU_XV_Crosstrek_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.6,0.643,0.621,0.889,,,6425.0
+2014_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,1.0,0.857,0.923,1.0,275.0,850.0,1125.0
+2014_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.727,0.889,0.8,0.625,,,5725.0
+2014_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.778,0.824,0.8,1.0,250.0,7150.0,6900.0
+2014_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.8,0.8,0.8,0.875,,,6025.0
+2014_VOLKSWAGEN_Jetta_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.833,0.833,0.833,0.8,425.0,1400.0,1825.0
+2014_VOLKSWAGEN_Jetta_20L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.143,0.111,0.125,1.0,,,3075.0
+2014_VOLKSWAGEN_Passat_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,2.0,3.0,0.857,0.545,0.667,0.833,870.0,3290.0,2420.0
+"2015 BMW 3 SERIES 330D XDRIVE AC TOURING 2,993cc_LOT314262",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,1.0,1.0,1.0,0.882,,,3100.0
+"2015 FIAT DOBLO CARGO 16V MULTIJET 1,248cc_LOT314264",groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,1.0,0.417,0.588,0.8,,,1300.0
+"2015 FORD FIESTA ST 1,596cc_LOT314359",groundTruthSchema.json,aiSchema.json,4.0,4.0,5.0,4.0,0.778,0.7,0.737,0.714,62.5,1212.5,1275.0
+2015 FORD FIESTA ZETEC 998cc_LOT314177,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.8,0.727,0.762,0.5,,,1675.0
+2015 Holden Captiva 7 7 LS Equipe_REF27095407,groundTruthSchema.json,aiSchema.json,3.0,4.0,2.0,3.0,0.769,0.556,0.645,0.8,875.0,6275.0,5400.0
+2015 Mitsubishi Outlander VRX_REF27101197,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.6,0.75,0.667,1.0,,,3375.0
+2015 Ssangyong Tivoli Sports Auto_REF27088967,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.875,0.778,0.857,,,2725.0
+2015 Toyota Corolla GX_REF27110536,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.842,0.762,0.8,0.938,385.0,4440.0,4825.0
+"2015 VOLKSWAGEN GOLF SE TDI BLUEMOTION TECHNOLOGY DSG 1,968cc_LOT314261",groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.7,0.778,0.737,0.5,,,6550.0
+2015_ACURA_TLX_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.75,0.706,0.833,,,5000.0
+2015_AUDI_Q5_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.857,0.75,0.8,0.833,175.0,2275.0,2100.0
+2015_BMW_435i_30L,groundTruthSchema.json,aiSchema.json,3.0,1.0,3.0,2.0,0.2,0.5,0.286,0.0,538.0,425.0,963.0
+2015_BMW_X5_30L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.786,0.846,0.815,0.727,,,6550.0
+2015_BUICK_Lacrosse_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.462,0.857,0.6,0.667,1850.0,1825.0,3675.0
+2015_BUICK_Verano_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.667,0.4,0.5,0.5,,,625.0
+2015_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.667,0.857,0.75,0.833,837.0,2213.0,3050.0
+2015_CHEVROLET_Impala_Limited_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.5,0.667,0.667,,,2205.0
+2015_CHEVROLET_Silverado_60L,groundTruthSchema.json,aiSchema.json,5.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,350.0,750.0,400.0
+2015_CHEVROLET_Silverado_66L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.545,0.857,0.667,1.0,,,7350.0
+2015_CHRYSLER_200_24L,groundTruthSchema.json,aiSchema.json,4.0,1.0,1.0,2.0,0.875,0.875,0.875,0.143,1660.0,3250.0,1590.0
+2015_CHRYSLER_200_36L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.333,0.286,0.308,1.0,,,2150.0
+2015_CHRYSLER_Town_AND_Country_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.889,0.727,0.8,0.75,237.0,2925.0,2688.0
+2015_DODGE_Grand_Caravan_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.933,0.737,0.824,0.857,,,6225.0
+2015_DODGE_Journey_24L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.333,0.5,0.4,1.0,550.0,1000.0,1550.0
+2015_FORD_Edge_20L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.625,0.625,0.625,0.4,,,1700.0
+2015_FORD_Escape_16L,groundTruthSchema.json,aiSchema.json,5.0,3.0,2.0,3.0,0.75,1.0,0.857,0.667,875.0,1200.0,2075.0
+2015_FORD_Escape_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.833,0.5,0.625,0.8,,,2425.0
+2015_FORD_Explorer_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.571,0.889,0.696,0.875,625.0,3450.0,4075.0
+2015_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.333,0.25,0.286,0.0,,,1150.0
+2015_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.9,0.692,0.783,0.667,1925.0,4775.0,2850.0
+2015_FORD_Fusion_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.533,0.8,0.64,0.75,,,7375.0
+2015_FORD_Mustang_37L,groundTruthSchema.json,aiSchema.json,3.0,4.0,4.0,4.0,0.688,0.647,0.667,0.727,125.0,6125.0,6000.0
+2015_FORD_Taurus_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.8,0.667,0.727,1.0,,,1050.0
+2015_FORD_Transit_Connect_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.429,0.6,0.5,0.667,400.0,4025.0,4425.0
+2015_GMC_Acadia_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.75,0.857,0.5,,,1125.0
+2015_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.833,0.833,0.833,0.5,225.0,3525.0,3300.0
+2015_HONDA_Civic_18L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.6,0.333,0.429,0.5,,,1250.0
+2015_HONDA_Crosstour_35L,groundTruthSchema.json,aiSchema.json,1.0,5.0,1.0,2.0,0.4,0.286,0.333,1.0,2350.0,7000.0,4650.0
+2015_HYUNDAI_Elantra_18L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.429,0.5,0.462,1.0,,,1800.0
+2015_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.7,0.7,0.7,0.714,962.0,4200.0,3238.0
+2015_INFINITI_Q50_37L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.552,0.762,0.64,1.0,,,24500.0
+2015_JEEP_Grand_Cherokee_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.692,0.6,0.643,0.556,,,5100.0
+2015_JEEP_Grand_Cherokee_64L,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.739,0.607,0.667,0.941,7350.0,20200.0,27550.0
+2015_JEEP_Grand_Cherokee_Missing,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.75,0.818,0.783,0.444,,,5675.0
+2015_JEEP_Renegade_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,1.0,2.0,0.455,0.312,0.37,0.6,2100.0,6050.0,3950.0
+2015_JEEP_Wrangler_36L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.8,0.4,0.533,0.5,,,2650.0
+2015_KIA_Forte_18L,groundTruthSchema.json,aiSchema.json,5.0,4.0,3.0,4.0,0.833,0.909,0.87,0.8,755.0,3780.0,3025.0
+2015_KIA_RIO_16L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,1.0,0.333,0.5,1.0,,,300.0
+2015_KIA_Sedona_33L,groundTruthSchema.json,aiSchema.json,5.0,1.0,5.0,4.0,0.75,1.0,0.857,0.0,75.0,1250.0,1325.0
+2015_KIA_Sportage_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.812,0.722,0.765,0.731,4250.0,19200.0,23450.0
+2015_LEXUS_CT_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.833,0.769,0.8,1.0,,,5250.0
+2015_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,5.0,4.0,0.917,0.688,0.786,0.727,50.0,5350.0,5300.0
+2015_MAZDA_Cx-5_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.857,0.857,0.857,0.5,,,5055.0
+2015_MAZDA_Mazda3_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.643,0.818,0.72,1.0,4150.0,4475.0,8625.0
+2015_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.667,0.727,0.5,,,2100.0
+2015_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,5.0,4.0,5.0,5.0,0.9,0.9,0.9,0.889,100.0,5925.0,6025.0
+2015_NISSAN_Armada_56L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.5,0.5,0.5,0.667,,,4325.0
+2015_NISSAN_Pathfinder_35L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,1.0,1.0,1.0,0.6,390.0,2100.0,1710.0
+2015_NISSAN_Sentra_18L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.812,0.619,0.703,0.923,,,6025.0
+2015_NISSAN_Versa_Note_16L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,0.727,1.0,0.842,0.625,325.0,2300.0,2625.0
+2015_PORSCHE_Macan_30L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,1.0,0.5,0.667,0.0,,,450.0
+2015_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,4.0,4.0,0.667,0.75,0.706,1.0,150.0,3000.0,3150.0
+2015_SUBARU_Impreza_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.632,0.706,0.667,0.583,,,3575.0
+2015_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.9,0.818,0.857,0.667,1100.0,4025.0,2925.0
+2015_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.667,1.0,0.8,0.5,,,1500.0
+2015_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,1.0,0.714,0.833,0.6,675.0,2925.0,3600.0
+2015_TOYOTA_Scion_XB_24L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.833,0.625,0.714,1.0,,,2200.0
+2015_TOYOTA_Sienna_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.8,0.706,0.75,0.833,1100.0,6900.0,8000.0
+2015_TOYOTA_Tacoma_40L,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,,1250.0
+2015_VOLKSWAGEN_Jetta_18L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.1,0.143,0.118,1.0,,,4725.0
+2015_VOLKSWAGEN_Tiguan_20L,groundTruthSchema.json,aiSchema.json,2.0,4.0,2.0,3.0,0.438,0.438,0.438,0.714,850.0,5275.0,6125.0
+"2016 FORD MONDEO TITANIUM ECONETIC TDCI 1,997cc_LOT314274",groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.571,0.8,0.667,0.583,5650.0,6300.0,11950.0
+2016 Holden Commodore VF2 Evoke_REF27101774,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.833,0.588,0.69,1.0,,,2900.0
+2016 Honda Shuttle Hybrid_REF27097561,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.529,0.692,0.6,1.0,,,13875.0
+2016 Hyundai Tucson 2.0 Crdi Elite_REF27084043,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.789,0.833,0.811,0.643,475.0,4275.0,4750.0
+2016 KEEWAY SUPERLIGHT SUPERLIGHT 124cc_LOT314273,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.667,1.0,0.8,0.75,,,625.0
+2016 LEXMOTO FMX FMX 125 WY 125 T-108 125cc_LOT314268,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,1.0,1.0,1.0,0.8,,,420.0
+2016 Mahindra XUV XUV500 AWD_REF25940040,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.7,0.438,0.538,0.571,,,3275.0
+2016 Mazda Demio_REF27109645,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.818,0.692,0.75,1.0,,,3675.0
+2016 Nissan X-Trail ST_REF27106766,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.75,0.75,0.75,0.905,650.0,13200.0,13850.0
+2016 QINGQI QM QM 125-2V 125cc_LOT314365,groundTruthSchema.json,aiSchema.json,4.0,3.0,5.0,4.0,0.833,0.714,0.769,0.6,20.0,545.0,525.0
+"2016 RENAULT KADJAR DYNAMIQUE NAV DCI 1,461cc_LOT314271",groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.875,0.933,0.857,,,2950.0
+"2016 RENAULT MASTER MM35 BUSINESS PLUS DCI S_R P_V 2,298cc_LOT314179",groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.8,0.706,0.75,0.583,,,4050.0
+2016 SYM HD II 125 HD II 125 124cc_LOT314366,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,1.0,1.0,1.0,0.571,285.0,400.0,685.0
+2016 Toyota Yaris GX_REF27076752,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.824,0.778,0.8,0.857,,,7125.0
+"2016 VAUXHALL ASTRA SRI CDTI 1,598cc_LOT314367",groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.857,0.923,1.0,,,1175.0
+"2016 VOLKSWAGEN GOLF GTI 1,984cc_LOT314178",groundTruthSchema.json,aiSchema.json,3.0,3.0,4.0,3.0,1.0,0.625,0.769,0.6,125.0,3575.0,3450.0
+2016_ACURA_MDX_35L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.333,0.5,0.4,0.0,,,275.0
+2016_AUDI_A3_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.9,0.643,0.75,0.889,3800.0,7600.0,3800.0
+2016_BMW_328i_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.857,0.75,0.833,,,7085.0
+2016_BMW_X3_30L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,1.0,0.727,0.842,0.5,1650.0,4875.0,3225.0
+2016_BUICK_Enclave_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.8,0.889,0.75,,,850.0
+2016_BUICK_Encore_14L,groundTruthSchema.json,aiSchema.json,3.0,2.0,4.0,3.0,1.0,0.6,0.75,0.333,150.0,800.0,650.0
+2016_CHEVROLET_Camaro_62L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,1850.0
+2016_CHEVROLET_Colorado_36L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.714,0.556,0.625,0.8,1175.0,2750.0,1575.0
+2016_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.75,0.857,0.667,,,1400.0
+2016_CHEVROLET_Equinox_24L,groundTruthSchema.json,aiSchema.json,3.0,4.0,5.0,4.0,0.714,0.556,0.625,0.8,15.0,2315.0,2300.0
+2016_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.714,0.714,0.714,0.8,,,1800.0
+2016_CHEVROLET_Silverado_66L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.769,0.667,0.714,1.0,600.0,7550.0,8150.0
+2016_CHEVROLET_Tahoe_53L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.6,0.75,0.667,0.833,,,3850.0
+2016_CHRYSLER_Town_AND_Country_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.812,0.765,0.788,0.846,600.0,7100.0,6500.0
+2016_DODGE_Charger_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.889,0.615,0.727,0.625,,,1625.0
+2016_DODGE_Grand_Caravan_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.533,0.889,0.667,0.875,1500.0,2975.0,4475.0
+2016_FORD_Escape_16L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.875,0.778,0.824,0.714,,,3250.0
+2016_FORD_Escape_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.727,0.8,0.762,0.875,1425.0,4575.0,6000.0
+2016_FORD_Escape_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.75,0.857,0.8,0.5,,,1500.0
+2016_FORD_F-150_27L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.636,0.7,0.667,0.857,3800.0,9550.0,13350.0
+2016_FORD_F-150_50L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.857,0.923,0.833,,,2250.0
+2016_FORD_Fiesta_16L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.5,0.667,0.571,1.0,275.0,475.0,750.0
+2016_FORD_Focus_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.8,0.889,0.5,,,900.0
+2016_FORD_Fusion_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.529,0.692,0.6,0.889,1625.0,5375.0,7000.0
+2016_FORD_Fusion_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.615,0.571,0.593,0.625,,,6400.0
+2016_FORD_Taurus_35L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.857,1.0,0.923,0.667,,,2950.0
+2016_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,2.0,4.0,5.0,4.0,0.636,0.467,0.538,0.714,100.0,5200.0,5100.0
+2016_HONDA_Civic_15L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.833,0.714,0.769,0.4,,,1125.0
+2016_HONDA_Cr-v_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.333,0.333,0.333,1.0,,,525.0
+2016_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,2.0,3.0,0.692,0.75,0.72,0.556,1000.0,3900.0,2900.0
+2016_HYUNDAI_Accent_16L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.833,0.909,1.0,,,2050.0
+2016_HYUNDAI_Azera_33L,groundTruthSchema.json,aiSchema.json,5.0,4.0,3.0,4.0,0.786,1.0,0.88,0.818,350.0,3500.0,3850.0
+2016_HYUNDAI_Elantra_18L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.682,1.0,0.811,0.733,,,4275.0
+2016_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,2.0,3.0,1.0,2.0,0.571,0.4,0.471,0.5,1825.0,3100.0,1275.0
+2016_HYUNDAI_Santa_FE_33L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.5,0.714,0.588,1.0,,,2650.0
+2016_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,3.0,3.0,0.375,0.429,0.4,0.667,425.0,1950.0,2375.0
+2016_HYUNDAI_Tucson_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.909,0.667,0.769,0.7,,,2163.0
+2016_JEEP_Cherokee_24L,groundTruthSchema.json,aiSchema.json,3.0,1.0,1.0,2.0,0.667,0.5,0.571,0.25,1750.0,4425.0,2675.0
+2016_JEEP_Renegade_24L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.5,0.556,0.526,0.4,,,6375.0
+2016_JEEP_Wrangler_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.429,0.75,0.545,0.667,3375.0,1800.0,5175.0
+2016_KIA_Sedona_33L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.5,0.75,0.6,0.333,,,2900.0
+2016_KIA_Soul_16L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.857,0.6,0.706,1.0,475.0,2275.0,1800.0
+2016_LEXUS_IS_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.714,0.667,0.69,0.9,,,6075.0
+2016_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.846,0.917,0.88,0.727,1400.0,4775.0,6175.0
+2016_LINCOLN_MKX_37L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.682,0.882,0.769,0.667,,,7675.0
+2016_MAZDA_Mazda3_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.615,0.8,0.696,0.75,575.0,4450.0,5025.0
+2016_MAZDA_Mazda6_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.8,0.615,0.696,0.875,,,4425.0
+2016_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.583,0.778,0.667,0.857,300.0,4800.0,4500.0
+2016_Mercedes_Benz_E_Class,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.667,0.909,0.769,0.8,,,5532.0
+2016_Mercedes_Benz_S_Class,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.833,0.714,0.769,0.8,2525.0,5150.0,2625.0
+2016_MINI_Countryman_16L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.889,0.727,0.8,0.625,,,2950.0
+2016_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.857,0.75,0.8,0.667,2250.0,4900.0,2650.0
+2016_NISSAN_Frontier_40L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.615,0.762,0.625,,,3125.0
+2016_NISSAN_Maxima_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.538,0.7,0.609,0.571,1660.0,3290.0,4950.0
+2016_NISSAN_Murano_35L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.647,0.917,0.759,0.727,,,8200.0
+2016_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.895,0.586,0.708,1.0,1390.0,8565.0,7175.0
+2016_NISSAN_Sentra_18L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.667,0.8,0.625,,,1800.0
+2016_RAM_1500_57L,groundTruthSchema.json,aiSchema.json,4.0,1.0,2.0,2.0,1.0,0.8,0.889,0.25,850.0,3850.0,3000.0
+2016_SUBARU_Impreza_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.607,0.85,0.708,0.941,,,15600.0
+2016_SUBARU_Legacy_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.571,0.8,0.667,0.667,750.0,11100.0,11850.0
+2016_TOYOTA_4-runner_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.923,0.75,0.828,0.636,,,3675.0
+2016_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.727,0.8,0.762,0.75,1776.0,3550.0,5326.0
+2016_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.545,0.5,0.522,0.667,,,2700.0
+2016_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.643,0.692,0.667,0.556,2725.0,7000.0,4275.0
+2016_TOYOTA_Scion_IM_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.778,0.778,0.778,1.0,,,9850.0
+2016_VOLKSWAGEN_Jetta_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,1.0,0.8,0.889,1.0,325.0,1275.0,1600.0
+2016_VOLKSWAGEN_Jetta_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.727,0.842,0.875,,,2500.0
+2017 AJS TEMPEST TEMPEST ROADSTER 124cc_LOT314368,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.625,0.769,1.0,,,343.0
+"2017 BMW 3 SERIES 335D XDRIVE M SPORT 2,993cc_LOT314299",groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.75,0.6,0.667,1.0,,,650.0
+2017 BMW 4 Series 420I_REF27066830,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.864,0.731,0.792,0.737,5450.0,13300.0,18750.0
+2017 DERBI SENDA SENDA XTREME DRD SM 50 49cc_LOT314295,groundTruthSchema.json,aiSchema.json,4.0,4.0,5.0,4.0,0.7,0.875,0.778,0.714,70.0,680.0,750.0
+"2017 FORD FIESTA ST-3 1,596cc_LOT314182",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.65,0.619,0.634,0.615,,,9000.0
+2017 Ford Transit 350L LWB VAN_REF27114076,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.444,0.4,0.421,0.5,,,3025.0
+2017 HONDA ANC ANC 125 H 125cc_LOT314282,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.714,0.833,0.8,,,600.0
+2017 Honda CRV Sport NT_REF27114360,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.667,0.667,0.833,,,3100.0
+"2017 MERCEDES C-CLASS C 220 D AMG LINE 2,143cc_LOT314181",groundTruthSchema.json,aiSchema.json,3.0,2.0,5.0,3.0,1.0,0.667,0.8,0.333,100.0,2150.0,2050.0
+2017 Mercedes-Benz GLS 350 D_REF27052790,groundTruthSchema.json,aiSchema.json,2.0,3.0,1.0,2.0,0.786,0.478,0.595,0.636,6950.0,15525.0,8575.0
+2017 Nissan Leaf_REF27107033,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.7,0.683,0.714,,,14350.0
+2017 Ssangyong Tivoli Sports Manual_REF27105693,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.632,0.667,0.649,0.818,,,7000.0
+2017 SYM SYMPHONY SYMPHONY 125 SR E4 125cc_LOT314276,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.846,0.786,0.815,0.727,,,2030.0
+2017 Toyota Rav4 GXL SUV_REF27059854,groundTruthSchema.json,aiSchema.json,5.0,2.0,3.0,3.0,0.733,1.0,0.846,0.455,325.0,3775.0,3450.0
+"2017 VAUXHALL ADAM ENERGISED 1,229cc_LOT314281",groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,1.0,1.0,1.0,0.889,,,5525.0
+2017_ACURA_ILX_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.462,0.75,0.571,0.833,1300.0,4200.0,5500.0
+2017_ACURA_MDX_30L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.444,0.8,0.571,1.0,,,4200.0
+2017_BMW_320i_20L,groundTruthSchema.json,aiSchema.json,4.0,2.0,4.0,3.0,0.889,0.727,0.8,0.375,175.0,4200.0,4025.0
+2017_BUICK_Cascada_16L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.643,0.692,0.667,0.667,,,3300.0
+2017_BUICK_Envision_20L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.647,0.917,0.759,0.727,1700.0,3675.0,5375.0
+2017_BUICK_Lacrosse_36L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.647,1.0,0.786,0.636,,,8925.0
+2017_CADILLAC_XT5_36L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.75,0.692,0.72,0.778,575.0,6325.0,5750.0
+2017_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.846,0.917,0.9,,,3825.0
+2017_CHEVROLET_Equinox_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.667,0.8,0.727,1.0,725.0,800.0,1525.0
+2017_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.636,0.778,0.7,0.571,,,3550.0
+2017_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,2.0,5.0,1.0,3.0,0.5,0.417,0.455,1.0,9900.0,16050.0,6150.0
+2017_CHEVROLET_Traverse_36L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,1.0,0.833,0.909,0.4,,,1075.0
+2017_CHEVROLET_Trax_14L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.6,0.6,0.6,0.667,575.0,2250.0,2825.0
+2017_DODGE_Durango_36L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.727,0.667,0.696,1.0,,,3932.5
+2017_FORD_Escape_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.857,0.857,0.857,0.833,825.0,2050.0,1225.0
+2017_FORD_Explorer_23L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.769,0.87,0.7,,,3763.0
+2017_FORD_Explorer_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.571,0.5,0.533,1.0,300.0,3450.0,3150.0
+2017_FORD_F-150_27L,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,,2475.0
+2017_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.833,0.625,0.714,0.8,1925.0,8700.0,6775.0
+2017_FORD_F-150_50L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.615,0.571,0.593,0.75,,,7025.0
+2017_FORD_Fusion_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.667,0.769,0.714,0.7,2175.0,5775.0,7950.0
+2017_FORD_Fusion_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.8,0.8,0.8,0.75,,,4150.0
+2017_GMC_Acadia_36L,groundTruthSchema.json,aiSchema.json,2.0,4.0,1.0,2.0,0.5,0.444,0.471,0.75,1050.0,2675.0,3725.0
+2017_GMC_Sierra_53L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,1.0,0.667,0.8,0.5,,,800.0
+2017_HONDA_Accord_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.7,0.875,0.778,0.571,1200.0,1225.0,2425.0
+2017_HONDA_Civic_15L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.667,0.4,0.5,1.0,,,900.0
+2017_HONDA_Civic_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.435,0.667,0.526,0.7,8000.0,4025.0,12025.0
+2017_HONDA_Hr-v_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.889,0.8,0.842,0.625,,,3300.0
+2017_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.692,0.562,0.621,1.0,325.0,5300.0,4975.0
+2017_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.833,0.833,0.833,0.6,,,1850.0
+2017_HYUNDAI_Santa_FE_33L,groundTruthSchema.json,aiSchema.json,4.0,3.0,2.0,3.0,0.857,0.857,0.857,0.5,1000.0,1850.0,2850.0
+2017_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.5,0.333,0.4,1.0,,,550.0
+2017_INFINITI_Qx50_37L,groundTruthSchema.json,aiSchema.json,4.0,3.0,5.0,4.0,1.0,0.857,0.923,0.5,100.0,1900.0,2000.0
+2017_JEEP_Cherokee_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.5,,,2050.0
+2017_JEEP_Wrangler_36L,groundTruthSchema.json,aiSchema.json,1.0,5.0,4.0,3.0,0.25,0.25,0.25,1.0,150.0,625.0,475.0
+2017_KIA_Forte_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.75,0.75,0.75,0.917,,,6575.0
+2017_KIA_Niro_16L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.727,0.889,0.8,0.5,500.0,3600.0,4100.0
+2017_KIA_Sorento_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.636,0.875,0.737,0.857,,,13500.0
+2017_LEXUS_ES_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.7,0.538,0.609,0.571,1975.0,6600.0,8575.0
+2017_LEXUS_NX_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.824,0.636,0.718,1.0,,,13025.0
+2017_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,2.0,3.0,0.571,0.667,0.615,1.0,850.0,1575.0,2425.0
+2017_LINCOLN_MKC_20L,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,1.0,1.0,1.0,1.0,,,2325.0
+2017_MAZDA_Cx-5_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.625,0.833,0.714,0.5,800.0,4000.0,3200.0
+2017_MAZDA_Mazda3_20L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.222,0.222,0.222,1.0,,,3100.0
+2017_Mercedes_Benz_E_Class,groundTruthSchema.json,aiSchema.json,3.0,3.0,5.0,4.0,0.571,0.667,0.615,0.5,75.0,3550.0,3475.0
+2017_MITSUBISHI_Outlander_Sport_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.8,0.727,0.75,,,4000.0
+2017_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.8,0.706,0.75,0.75,350.0,7025.0,6675.0
+2017_NISSAN_Frontier_40L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.636,0.7,0.667,0.571,,,3325.0
+2017_NISSAN_Maxima_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,5.0,5.0,0.714,0.833,0.769,1.0,100.0,2650.0,2550.0
+2017_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,1.0,0.333,0.5,0.0,,,275.0
+2017_NISSAN_Rogue_Sport_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.5,0.75,0.6,0.833,4175.0,5925.0,10100.0
+2017_RAM_1500_57L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.538,0.875,0.667,0.643,,,18200.0
+2017_RAM_Promaster_1500_36L,groundTruthSchema.json,aiSchema.json,3.0,1.0,5.0,3.0,0.25,0.5,0.333,0.0,100.0,375.0,475.0
+2017_SUBARU_Crosstrek_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.632,0.75,0.686,0.833,,,9580.0
+2017_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.778,0.875,0.824,0.714,785.0,2015.0,2800.0
+2017_SUBARU_Impreza_20L,groundTruthSchema.json,aiSchema.json,4.0,1.0,,2.0,0.7,0.778,0.737,0.286,,,3075.0
+2017_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,3.0,4.0,0.667,0.667,0.667,1.0,775.0,5700.0,6475.0
+2017_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.357,0.625,0.455,0.6,,,2950.0
+2017_TOYOTA_Prius_Prime_18L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,1.0,0.75,0.857,1.0,3450.0,4700.0,8150.0
+2017_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.562,0.692,0.621,0.667,,,5625.0
+2017_TOYOTA_Sienna_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,1.0,0.75,0.857,0.889,3900.0,7350.0,3450.0
+2017_VOLKSWAGEN_Golf_GTI_2L_I4_FI_DOHC_16V_NF4,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.75,0.692,0.72,0.667,,,5750.0
+2017_VOLKSWAGEN_Jetta_14L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.846,0.524,0.647,0.636,1425.0,7050.0,5625.0
+"2018 FORD TRANSIT CONNECT 210 TREND TDCI 1,499cc_LOT314371",groundTruthSchema.json,aiSchema.json,4.0,5.0,4.0,4.0,0.778,0.778,0.778,1.0,125.0,2300.0,2175.0
+"2018 FORD TRANSIT CUSTOM 270 LR P_V 1,996cc_LOT314370",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.455,0.556,0.5,0.6,,,2100.0
+2018 KEEWAY RKS RKS 125 STD 125cc_LOT314185,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.571,1.0,0.727,1.0,,,370.0
+2018 Suzuki Ignis_REF27070389,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.824,0.933,0.875,0.538,,,5725.0
+2018 SUZUKI SWIFT SZ-T BOOSTERJET 998cc_LOT314184,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.842,0.552,0.667,0.5,3500.0,13350.0,9850.0
+2018 Toyota Hiace_REF27111439,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.783,0.857,0.818,0.824,,,8650.0
+2018 Volkswagen T6 Transporter SWB 3.2G_REF27097191,groundTruthSchema.json,aiSchema.json,4.0,5.0,2.0,4.0,0.875,0.778,0.824,0.923,875.0,5300.0,4425.0
+2018_ACURA_ILX_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.765,0.765,0.765,0.923,,,9500.0
+2018_AUDI_Q5_20L,groundTruthSchema.json,aiSchema.json,2.0,5.0,3.0,3.0,0.333,0.333,0.333,1.0,325.0,1025.0,700.0
+2018_AUDI_Q7_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.625,0.714,0.667,0.6,,,2450.0
+2018_AUDI_SQ5_30L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.8,0.667,0.727,0.833,3050.0,8350.0,5300.0
+2018_BMW_530i_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.571,0.727,0.64,0.625,,,7000.0
+2018_BUICK_Encore_14L,groundTruthSchema.json,aiSchema.json,3.0,1.0,3.0,2.0,0.5,0.667,0.571,0.25,495.0,1800.0,2295.0
+2018_CHEVROLET_Cruze_14L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,3575.0
+2018_CHEVROLET_Equinox_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.438,0.7,0.538,0.571,5525.0,3200.0,8725.0
+2018_CHEVROLET_Impala_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.778,0.778,0.778,0.714,,,2900.0
+2018_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,4.0,2.0,1.0,2.0,0.857,0.75,0.8,0.333,3600.0,3450.0,7050.0
+2018_CHEVROLET_Silverado_53L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.667,0.889,0.762,0.625,,,6900.0
+2018_CHEVROLET_Traverse_36L,groundTruthSchema.json,aiSchema.json,2.0,3.0,2.0,2.0,0.5,0.333,0.4,0.5,975.0,4050.0,3075.0
+2018_DODGE_Journey_24L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.1,0.5,0.167,1.0,,,4825.0
+2018_FORD_Edge_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.762,0.615,0.681,0.812,6275.0,17150.0,10875.0
+2018_FORD_Escape_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.625,0.714,0.667,0.6,,,3100.0
+2018_FORD_Escape_20L,groundTruthSchema.json,aiSchema.json,2.0,3.0,1.0,2.0,0.462,0.462,0.462,0.5,1825.0,7025.0,5200.0
+2018_FORD_Explorer_35L,groundTruthSchema.json,aiSchema.json,5.0,2.0,,4.0,0.571,1.0,0.727,0.375,,,4800.0
+2018_FORD_Explorer_37L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.667,0.75,0.706,0.667,1125.0,4700.0,3575.0
+2018_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.875,0.35,0.5,0.8,,,5925.0
+2018_FORD_Transit_35L,groundTruthSchema.json,aiSchema.json,1.0,5.0,3.0,3.0,1.0,0.25,0.4,1.0,600.0,800.0,200.0
+2018_GENESIS_G90_50L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.615,0.889,0.727,0.667,,,12600.0
+2018_HONDA_Accord_20L,groundTruthSchema.json,aiSchema.json,2.0,5.0,3.0,3.0,1.0,0.333,0.5,1.0,575.0,825.0,250.0
+2018_HONDA_Civic_15L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.9,0.9,0.9,0.889,,,4050.0
+2018_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.75,0.857,0.8,0.5,2075.0,3325.0,5400.0
+2018_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.364,0.571,0.444,0.25,,,1575.0
+2018_HONDA_Hr-v_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.917,0.846,0.88,0.727,985.0,2990.0,3975.0
+2018_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.385,0.5,0.435,0.8,,,8500.0
+2018_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,2.0,3.0,0.5,0.667,0.571,0.5,875.0,800.0,1675.0
+2018_HYUNDAI_Santa_FE_Sport_24L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.308,0.364,0.333,1.0,,,6475.0
+2018_INFINITI_Q50_30L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.636,0.636,0.636,0.714,275.0,4975.0,4700.0
+2018_JEEP_Compass_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,1.0,0.833,0.909,0.778,,,3500.0
+2018_JEEP_Grand_Cherokee_36L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.864,0.826,0.844,0.684,7050.0,15600.0,8550.0
+2018_KIA_Forte_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.667,0.727,0.5,,,1815.0
+2018_KIA_Optima_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.933,0.778,0.848,0.929,700.0,6800.0,6100.0
+2018_KIA_Sorento_33L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.875,0.778,0.824,0.714,,,4100.0
+2018_MAZDA_Cx-9_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.8,0.571,0.667,0.75,3200.0,6650.0,3450.0
+2018_Mercedes_Benz_Gle_Class,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,1.0,0.583,0.737,0.429,,,3750.0
+2018_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.783,0.562,0.655,0.722,4800.0,16850.0,12050.0
+2018_NISSAN_Murano_35L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.667,,,4425.0
+2018_NISSAN_Pathfinder_35L,groundTruthSchema.json,aiSchema.json,3.0,5.0,4.0,4.0,0.429,0.6,0.5,1.0,200.0,3050.0,2850.0
+2018_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.833,0.741,0.8,,,4900.0
+2018_NISSAN_Rogue_Sport_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.875,0.583,0.7,0.857,3600.0,6050.0,2450.0
+2018_NISSAN_Sentra_18L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.667,0.667,0.667,0.375,,,3365.0
+2018_RAM_Promaster_2500_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.8,0.727,0.762,0.857,975.0,3700.0,2725.0
+2018_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.591,0.867,0.703,1.0,,,6000.0
+2018_SUBARU_Impreza_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.7,0.583,0.636,0.714,4300.0,10850.0,6550.0
+2018_TESLA_Model_3,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.5,0.571,0.533,1.0,,,4850.0
+2018_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,1.0,0.857,0.923,0.5,1275.0,2975.0,1700.0
+2018_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,2.0,1.0,,2.0,0.625,0.455,0.526,0.0,,,4950.0
+2018_TOYOTA_Prius_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.889,0.8,0.842,0.75,725.0,3425.0,2700.0
+2018_TOYOTA_Rav4_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.652,0.789,0.714,0.923,,,9650.0
+2018_TOYOTA_Sienna_35L,groundTruthSchema.json,aiSchema.json,2.0,2.0,1.0,2.0,0.556,0.385,0.455,0.4,3500.0,6000.0,2500.0
+2018_VOLKSWAGEN_Atlas_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.545,0.6,0.571,1.0,,,5925.0
+2018_VOLVO_Xc90_20L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,1.0,1.0,1.0,0.5,550.0,1800.0,2350.0
+"2019 FORD FIESTA BASE TDCI 1,498cc_LOT314287",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.941,0.696,0.8,0.625,,,4215.0
+2019 Holden Colorado LTZ DC PU_REF27092480,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.435,0.769,0.556,0.8,,,19150.0
+2019 KIA RIO GT-Line_REF27111500,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.867,0.619,0.722,0.692,,,4925.0
+2019 Mahindra Pikup S6_REF27083051,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.519,0.778,0.622,0.786,4250.0,19000.0,14750.0
+2019 Mazda CX-9 LTD_REF27090501,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.533,0.593,0.625,,,9150.0
+2019 SINNIS ENCANTO ZN 50 QT-56 ENCANTO 50cc_LOT314186,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.625,1.0,0.769,1.0,,,390.0
+2019_AUDI_A4_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.875,0.778,0.857,,,4325.0
+2019_BMW_X5_30L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.9,0.6,0.72,0.778,2850.0,8300.0,5450.0
+2019_BUICK_Encore_14L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.7,0.538,0.609,0.714,,,4825.0
+2019_CHEVROLET_Equinox_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.643,0.75,0.692,0.778,950.0,3725.0,4675.0
+2019_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.625,0.556,0.588,0.6,,,5050.0
+2019_CHEVROLET_Traverse_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.571,0.8,0.667,0.75,325.0,1925.0,2250.0
+2019_CHEVROLET_Trax_14L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.625,1.0,0.769,0.6,,,3700.0
+2019_FORD_Ecosport_10L,groundTruthSchema.json,aiSchema.json,3.0,5.0,2.0,3.0,0.5,0.556,0.526,1.0,825.0,3375.0,4200.0
+2019_FORD_Escape_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.75,0.8,0.774,0.583,,,4525.0
+2019_FORD_F-150_27L,groundTruthSchema.json,aiSchema.json,4.0,3.0,2.0,3.0,0.5,0.714,0.588,0.5,925.0,1850.0,2775.0
+2019_GMC_Acadia_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.824,0.757,0.786,,,12500.0
+2019_HONDA_Accord_15L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.889,0.615,0.727,0.625,2500.0,6050.0,3550.0
+2019_HONDA_Civic_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.625,0.526,0.571,0.7,,,4925.0
+2019_HONDA_Civic_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.818,0.75,0.783,1.0,1550.0,6450.0,4900.0
+2019_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.875,0.778,0.857,,,8400.0
+2019_HONDA_FIT_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.857,0.75,0.8,0.833,500.0,2325.0,1825.0
+2019_HYUNDAI_Santa_FE_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.857,0.8,0.828,0.583,,,4600.0
+2019_HYUNDAI_Sonata_24L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.833,1.0,0.909,0.778,2500.0,1875.0,4375.0
+2019_HYUNDAI_Tucson_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.684,0.65,0.667,0.923,,,14000.0
+2019_JEEP_Cherokee_24L,groundTruthSchema.json,aiSchema.json,2.0,3.0,3.0,3.0,0.4,0.333,0.364,0.5,225.0,1025.0,800.0
+2019_JEEP_Compass_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.615,0.762,0.681,0.562,,,13850.0
+2019_JEEP_Grand_Cherokee_36L,groundTruthSchema.json,aiSchema.json,5.0,4.0,2.0,4.0,0.6,0.9,0.72,0.889,1000.0,3750.0,4750.0
+2019_KIA_Sorento_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.667,0.8,0.727,0.75,,,2400.0
+2019_KIA_Sorento_33L,groundTruthSchema.json,aiSchema.json,5.0,5.0,5.0,5.0,0.857,0.923,0.889,1.0,50.0,4075.0,4125.0
+2019_KIA_Soul_16L,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.8,0.444,0.571,0.75,,,3075.0
+2019_KIA_Sportage_24L,groundTruthSchema.json,aiSchema.json,1.0,1.0,1.0,1.0,0.25,0.143,0.182,0.0,1975.0,3425.0,1450.0
+2019_LAND_Rover_Range_Rover_Sport_30L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,600.0
+2019_LINCOLN_MKC_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.75,0.667,0.706,0.833,2400.0,2025.0,4425.0
+2019_MAZDA_Mazda3_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.786,0.846,0.815,0.727,,,5450.0
+2019_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,1.0,5.0,2.0,3.0,0.4,0.222,0.286,1.0,850.0,4050.0,3200.0
+2019_Mercedes_Benz_Glc_Class,groundTruthSchema.json,aiSchema.json,2.0,4.0,,3.0,0.7,0.412,0.519,0.714,,,6050.0
+2019_Mercedes_Benz_Gle_Class,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.818,0.75,0.783,0.778,175.0,5300.0,5475.0
+2019_MITSUBISHI_Eclipse_Cross_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.8,0.762,0.75,,,4325.0
+2019_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.545,0.75,0.632,0.833,150.0,3775.0,3625.0
+2019_NISSAN_Rogue_Sport_20L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,1.0,1.0,1.0,0.667,,,1050.0
+2019_NISSAN_Sentra_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.857,0.6,0.706,0.833,2025.0,4450.0,2425.0
+2019_NISSAN_Sentra_18L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.941,0.842,0.889,0.688,,,6675.0
+2019_SUBARU_Impreza_20L,groundTruthSchema.json,aiSchema.json,,,,,0.0,0.0,0.0,,,0.0,0.0
+2019_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.588,0.625,0.606,0.9,,,7925.0
+2019_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.818,0.6,0.692,0.778,1025.0,6925.0,5900.0
+2019_VOLKSWAGEN_Atlas_36L,groundTruthSchema.json,aiSchema.json,3.0,1.0,,2.0,0.6,0.6,0.6,0.0,,,2000.0
+2019_VOLVO_Xc40_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.833,0.714,0.769,0.8,200.0,5100.0,4900.0
+"2020 BMW 4 SERIES M4 COMPETITION 2,979cc_LOT314290",groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.448,0.867,0.591,0.833,18675.0,20100.0,38775.0
+2020 Ford Puma ST-Line_REF27109759,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.769,0.833,0.8,0.8,,,6900.0
+2020 LEXMOTO DIABLO DIABLO 125 EFI LJ 125 T-8M 125cc_LOT314289,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.8,0.8,0.8,0.333,,,475.0
+2020 Ssangyong Tivoli XLV ULT 4WD D_REF27115839,groundTruthSchema.json,aiSchema.json,4.0,3.0,5.0,4.0,0.643,0.818,0.72,0.667,75.0,4125.0,4200.0
+2020 Toyota Yaris GX_REF27085233,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.63,0.895,0.739,0.706,,,12175.0
+2020 YAMAHA GPD125-A GPD125-A NMAX 125 ABS 125cc_LOT314291,groundTruthSchema.json,aiSchema.json,4.0,1.0,,2.0,0.6,0.857,0.706,0.0,,,1350.0
+2020_ACURA_MDX_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.714,0.526,0.606,0.7,,,8050.0
+2020_CHEVROLET_Equinox_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.636,0.778,0.7,0.857,3275.0,4000.0,7275.0
+2020_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.75,0.75,0.75,0.333,,,460.0
+2020_CHEVROLET_Silverado_30L,groundTruthSchema.json,aiSchema.json,4.0,2.0,1.0,2.0,0.812,0.867,0.839,0.462,6275.0,9650.0,3375.0
+2020_CHEVROLET_Traverse_36L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.6,0.5,0.545,0.5,,,3000.0
+2020_CHEVROLET_Trax_14L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.8,0.706,0.75,1.0,775.0,6600.0,5825.0
+2020_CHRYSLER_Pacifica_36L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.625,0.5,0.556,0.8,,,2425.0
+2020_DODGE_Challenger_36L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,1.0,0.833,0.909,0.8,425.0,2375.0,2800.0
+2020_FORD_F-150_27L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.632,0.8,0.706,0.833,,,13250.0
+2020_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,5.0,3.0,3.0,4.0,1.0,1.0,1.0,0.5,300.0,1950.0,2250.0
+2020_FORD_F-250_67L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.647,0.846,0.733,0.909,,,19525.0
+2020_FORD_Transit_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.765,0.812,0.788,0.769,5050.0,10500.0,15550.0
+2020_HONDA_Civic_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.6,0.857,0.706,0.667,,,5900.0
+2020_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,2.0,4.0,1.0,2.0,0.5,0.4,0.444,0.75,2600.0,4700.0,2100.0
+2020_HONDA_Hr-v_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.889,0.8,0.714,,,3550.0
+2020_HONDA_Insight_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.706,0.632,0.667,0.833,2175.0,9700.0,7525.0
+2020_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.8,0.889,0.5,,,3375.0
+2020_HYUNDAI_Elantra_20L,groundTruthSchema.json,aiSchema.json,4.0,1.0,1.0,2.0,1.0,0.7,0.824,0.286,3175.0,4900.0,1725.0
+2020_HYUNDAI_Kona_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.75,0.75,0.75,0.667,,,3300.0
+2020_HYUNDAI_Santa_FE_24L,groundTruthSchema.json,aiSchema.json,3.0,2.0,2.0,2.0,0.429,0.6,0.5,0.333,875.0,2050.0,2925.0
+2020_HYUNDAI_Sonata_16L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.636,0.778,0.7,0.571,,,2775.0
+2020_HYUNDAI_Sonata_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.667,0.667,0.667,0.833,550.0,2850.0,3400.0
+2020_JAGUAR_E-pace_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.75,0.692,0.72,1.0,,,6150.0
+2020_JEEP_Grand_Cherokee_36L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.417,0.556,0.476,0.75,775.0,5975.0,6750.0
+2020_JEEP_Renegade_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.889,0.8,0.842,0.714,,,5800.0
+2020_KIA_Optima_24L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,0.714,0.5,0.588,0.6,525.0,2575.0,2050.0
+2020_KIA_Sorento_24L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.727,0.727,0.727,0.375,,,3975.0
+2020_KIA_Sportage_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.75,0.75,0.75,0.667,800.0,6125.0,5325.0
+2020_LEXUS_ES_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.727,0.842,0.625,,,4050.0
+2020_LINCOLN_Nautilus_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.667,0.545,0.6,0.833,2300.0,6300.0,4000.0
+2020_MAZDA_Cx-30_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.875,0.778,0.824,1.0,,,2675.0
+2020_Mercedes_Benz_Gle_Class,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,1.0,0.6,0.75,0.833,475.0,4650.0,4175.0
+2020_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.7,0.538,0.609,0.571,,,4375.0
+2020_NISSAN_Kicks_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.571,0.5,0.533,0.75,1925.0,5075.0,3150.0
+2020_NISSAN_Pathfinder_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.857,0.75,0.8,0.75,,,7150.0
+2020_RAM_2500,groundTruthSchema.json,aiSchema.json,1.0,,,1.0,0.0,0.0,0.0,,,0.0,0.0
+2020_SUBARU_Outback_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.5,0.588,0.541,0.9,,,7400.0
+2020_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.5,0.714,0.588,0.8,3460.0,3300.0,6760.0
+2020_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.586,0.85,0.694,0.824,,,14775.0
+2020_VOLKSWAGEN_Jetta_14L,groundTruthSchema.json,aiSchema.json,4.0,3.0,2.0,3.0,0.8,0.8,0.8,0.667,975.0,1275.0,2250.0
+2021 BMW 4 Series 420I_REF27070786,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.556,0.556,0.556,1.0,,,4115.0
+2021 Ford Ranger Wildtrak_REF27097324,groundTruthSchema.json,aiSchema.json,2.0,5.0,1.0,3.0,0.385,0.312,0.345,1.0,1813.0,5488.0,3675.0
+2021 HYUNDAI I10 MPI SE CONNECT 998cc_LOT314373,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.565,0.765,0.65,0.538,1225.0,8800.0,10025.0
+2021 Mazda CX-5 SP25T PTL_REF27099439,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.636,0.778,0.7,0.857,,,8700.0
+2021 MG ZS T Essence_REF27105191,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.667,0.667,0.667,0.875,,,5800.0
+2021 Mitsubishi ASX LS_REF25931643,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.786,0.579,0.667,0.727,2472.0,6135.0,3663.0
+2021 Toyota Hilux SR TD DC_CC_REF27106489,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.833,0.5,0.625,0.778,,,9650.0
+2021 Toyota Hilux SR5 TD DC_REF27112624,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.577,0.682,0.625,0.933,,,19475.0
+2021 Volkswagen Tiguan TSI Life 2WD_REF27112075,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.8,0.8,0.8,0.917,500.0,6425.0,6925.0
+2021_ACURA_ILX_24L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,1.0,0.846,0.917,0.909,,,3100.0
+2021_AUDI_A4_20L,groundTruthSchema.json,aiSchema.json,1.0,1.0,3.0,2.0,1.0,0.286,0.444,0.0,250.0,2000.0,1750.0
+2021_BMW_X5_30L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.733,0.786,0.759,0.818,,,7650.0
+2021_BUICK_Encore_GX_12L,groundTruthSchema.json,aiSchema.json,3.0,2.0,1.0,2.0,0.5,0.625,0.556,0.4,1475.0,2900.0,4375.0
+2021_CADILLAC_XT4_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.909,0.667,0.769,0.7,,,12150.0
+2021_CHEVROLET_Colorado_36L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.769,0.714,0.741,0.9,2250.0,8150.0,5900.0
+2021_FORD_Ecosport_10L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.6,0.6,0.6,1.0,,,1850.0
+2021_FORD_Ranger_23L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.833,0.556,0.667,0.8,1575.0,3025.0,1450.0
+2021_GMC_Acadia_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.714,0.625,0.667,0.9,,,7200.0
+2021_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.692,0.818,0.75,0.778,450.0,6250.0,5800.0
+2021_HONDA_Passport_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.857,0.667,0.75,0.833,,,2725.0
+2021_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,5.0,3.0,1.0,3.0,0.7,1.0,0.824,0.571,1825.0,4650.0,6475.0
+2021_HYUNDAI_Kona_20L,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.8,0.8,0.8,0.375,,,3150.0
+2021_HYUNDAI_Palisade_38L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.846,0.786,0.815,0.545,1475.0,5350.0,3875.0
+2021_HYUNDAI_Veloster_16L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.833,0.5,0.625,0.4,,,1175.0
+2021_INFINITI_Qx50_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.6,0.692,0.643,0.778,6725.0,4525.0,11250.0
+2021_JEEP_Cherokee_32L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.125,0.25,0.167,1.0,,,9050.0
+2021_KIA_Forte_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,2.0,4.0,0.714,0.833,0.769,1.0,925.0,4500.0,5425.0
+2021_KIA_K5_16L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.7,0.7,0.857,,,5000.0
+2021_KIA_Seltos_20L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.545,0.923,0.686,0.833,2050.0,5850.0,7900.0
+2021_KIA_Sportage_24L,groundTruthSchema.json,aiSchema.json,1.0,1.0,,1.0,0.333,0.25,0.286,0.0,,,375.0
+2021_LEXUS_GX_46L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.75,0.923,0.828,0.833,1350.0,8950.0,7600.0
+2021_MAZDA_Cx-9_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.786,0.786,0.786,0.545,,,11075.0
+2021_NISSAN_Kicks_16L,groundTruthSchema.json,aiSchema.json,4.0,5.0,2.0,4.0,0.5,0.778,0.609,1.0,840.0,2825.0,3665.0
+2021_NISSAN_Rogue_25L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.889,0.615,0.727,0.875,,,3100.0
+2021_NISSAN_Versa_16L,groundTruthSchema.json,aiSchema.json,5.0,3.0,1.0,3.0,0.9,0.9,0.9,0.625,1695.0,4105.0,5800.0
+2021_RAM_1500_57L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.923,0.706,0.8,0.833,,,6050.0
+2021_TESLA_Model_3,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.571,0.857,0.686,0.583,3375.0,11375.0,8000.0
+2021_TOYOTA_4-runner_40L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,4400.0
+2021_TOYOTA_Highlander_35L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.769,0.769,0.769,0.8,450.0,8900.0,8450.0
+2021_TOYOTA_Sequoia_57L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.625,0.714,0.667,0.7,,,5400.0
+2021_VOLKSWAGEN_Atlas_Cross_Sport_36L,groundTruthSchema.json,aiSchema.json,3.0,1.0,1.0,2.0,0.417,0.625,0.5,0.25,4550.0,2350.0,6900.0
+2021_VOLVO_Xc60_20L,groundTruthSchema.json,aiSchema.json,5.0,4.0,,4.0,0.923,1.0,0.96,0.75,,,6100.0
+2022 HONDA VISION NSC 110-M 109cc_LOT314375,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.667,0.8,1.0,,,330.0
+2022 Hyundai Kona 2.0 Elite 2WD_REF27105400,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.731,0.95,0.826,0.579,,,11250.0
+2022 LEXMOTO LXS LXS TR125 GP2 E5 125cc_LOT314293,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.889,0.941,0.625,,,1025.0
+2022 Mitsubishi Mirage XLS_REF27095274,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,1.0,0.818,0.9,0.667,,,2825.0
+2022 Toyota Corolla_REF27109049,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.818,0.818,0.818,0.889,675.0,4450.0,5125.0
+2022 Toyota Rav4 GX_REF27021718,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.846,0.647,0.733,0.818,,,4950.0
+2022_ACURA_RDX_20L,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.545,1.0,0.706,0.833,4545.0,3350.0,7895.0
+2022_AUDI_A4_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.8,0.667,0.727,0.5,,,2600.0
+2022_BMW_X3_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.643,0.692,0.667,0.778,,,8400.0
+2022_BMW_X5_30L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.667,0.8,0.727,0.5,1675.0,3300.0,4975.0
+2022_BMW_X6_30L,groundTruthSchema.json,aiSchema.json,1.0,5.0,,3.0,0.5,0.143,0.222,1.0,,,1400.0
+2022_CHEVROLET_Malibu_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,5.0,4.0,0.625,0.769,0.69,0.8,25.0,5025.0,5000.0
+2022_FORD_F-150_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.846,0.733,0.786,1.0,,,9150.0
+2022_FORD_Maverick_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.7,0.7,0.7,0.857,950.0,5350.0,4400.0
+2022_FORD_Transit,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.875,0.636,0.737,0.333,,,3950.0
+2022_HONDA_Civic_15L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.65,0.867,0.743,1.0,3425.0,7450.0,10875.0
+2022_HONDA_Civic_20L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.7,0.583,0.636,0.714,,,8800.0
+2022_HONDA_Hr-v_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.545,0.667,0.6,0.8,550.0,3550.0,4100.0
+2022_JEEP_Gladiator_30L,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.25,0.333,0.286,1.0,,,1200.0
+2022_LEXUS_RX_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.619,0.722,0.667,0.923,8100.0,10850.0,18950.0
+2022_LEXUS_UX_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.571,0.5,0.533,0.5,,,3400.0
+2022_MAZDA_Cx-5_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.577,0.833,0.682,0.933,5555.0,6275.0,11830.0
+2022_NISSAN_Altima_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.875,0.824,0.848,0.857,,,6475.0
+2022_SUBARU_Ascent_24L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.762,0.762,0.762,0.688,2800.0,11350.0,8550.0
+2022_SUBARU_Crosstrek_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.467,0.778,0.583,0.714,,,8150.0
+2022_TESLA_Model_3,groundTruthSchema.json,aiSchema.json,4.0,4.0,2.0,3.0,0.889,0.8,0.842,0.75,1000.0,6000.0,7000.0
+2022_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.625,0.556,0.588,0.5,,,6950.0
+2023 Ford Escape ST-Line Fhev_REF27096648,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.542,0.867,0.667,0.615,,,13300.0
+2023 Ford Focus ST-Line X_REF27058891,groundTruthSchema.json,aiSchema.json,3.0,4.0,3.0,3.0,0.556,0.5,0.526,0.8,400.0,2350.0,2750.0
+2023 Ford Ranger XLT Double CAB W_SA_REF27092020,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.864,0.633,0.731,0.842,,,24800.0
+2023 KTM DUKE 125 DUKE 22 125cc_LOT314190,groundTruthSchema.json,aiSchema.json,4.0,3.0,3.0,3.0,0.375,0.75,0.5,0.667,360.0,1550.0,1190.0
+2023 Tesla Model Y Rear Wheel Drive_REF27087431,groundTruthSchema.json,aiSchema.json,4.0,4.0,4.0,4.0,0.632,0.857,0.727,0.833,150.0,13100.0,13250.0
+2023 Toyota Corolla GX_REF27101624,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.895,0.586,0.708,0.882,,,11500.0
+2023 Toyota Corolla GX_REF27110246,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.917,0.733,0.815,0.636,,,2800.0
+2023_BMW_X3_20L,groundTruthSchema.json,aiSchema.json,1.0,1.0,1.0,1.0,0.1,0.25,0.143,0.0,2500.0,1550.0,4050.0
+2023_CHEVROLET_Camaro_62L,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.9,0.692,0.783,0.556,,,6250.0
+2023_CHEVROLET_Equinox_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.917,0.688,0.786,0.727,1450.0,5400.0,3950.0
+2023_FORD_Maverick_20L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.75,0.75,0.75,1.0,,,1450.0
+2023_FORD_Maverick_25L,groundTruthSchema.json,aiSchema.json,3.0,2.0,1.0,2.0,0.5,0.6,0.545,0.333,1800.0,1575.0,3375.0
+2023_HONDA_Odyssey_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.722,0.812,0.765,0.692,,,10750.0
+2023_HONDA_Pilot_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.762,0.615,0.681,0.867,4700.0,19050.0,14350.0
+2023_HYUNDAI_Tucson_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.545,0.5,0.522,1.0,,,6250.0
+2023_KIA_K5_16L,groundTruthSchema.json,aiSchema.json,1.0,5.0,3.0,3.0,1.0,0.25,0.4,1.0,550.0,1300.0,750.0
+2023_KIA_K5_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.722,0.765,0.743,0.727,,,11975.0
+2023_KIA_RIO,groundTruthSchema.json,aiSchema.json,3.0,4.0,2.0,3.0,0.5,0.625,0.556,0.8,875.0,3975.0,4850.0
+2023_LEXUS_NX_24L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.7,0.7,0.7,0.714,,,7750.0
+2023_MINI_Cooper_Convertible_20L,groundTruthSchema.json,aiSchema.json,2.0,3.0,3.0,3.0,0.4,0.333,0.364,0.5,275.0,1475.0,1750.0
+2023_NISSAN_Frontier_38L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.727,0.727,0.727,0.867,,,18975.0
+2023_NISSAN_Rogue_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.571,0.8,0.667,0.625,1400.0,4050.0,5450.0
+2023_NISSAN_Titan_56L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.833,0.769,0.8,0.7,,,5250.0
+2023_SUBARU_Forester_25L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.556,0.789,0.652,0.667,1050.0,18200.0,17150.0
+2023_TESLA_Model_3,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.625,0.714,0.667,0.8,,,5000.0
+2023_TESLA_Model_Y,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.778,0.538,0.636,0.714,2550.0,6850.0,9400.0
+2023_VOLKSWAGEN_Atlas_36L,groundTruthSchema.json,aiSchema.json,3.0,2.0,,2.0,0.615,0.667,0.64,0.375,,,4950.0
+"2024 TEYIN TY50QT-19D TY 50 QT-19D, PETROL, MANUAL 50cc_LOT314376",groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.667,0.667,0.667,0.667,,,645.0
+2024_CHEVROLET_Colorado_27L,groundTruthSchema.json,aiSchema.json,4.0,4.0,3.0,4.0,0.789,0.833,0.811,0.714,425.0,8925.0,8500.0
+2024_CHEVROLET_Equinox_15L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.619,0.867,0.722,0.846,,,10425.0
+2024_CHRYSLER_Pacifica_36L,groundTruthSchema.json,aiSchema.json,4.0,5.0,1.0,3.0,0.875,0.737,0.8,0.929,2400.0,10350.0,7950.0
+2024_FORD_F-150_27L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.45,0.75,0.563,0.778,,,11812.5
+2024_GMC_Sierra_30L,groundTruthSchema.json,aiSchema.json,5.0,5.0,4.0,5.0,0.9,0.9,0.9,1.0,175.0,4650.0,4475.0
+2024_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.75,0.562,0.643,0.889,,,7550.0
+2024_KIA_Carnival_35L,groundTruthSchema.json,aiSchema.json,4.0,3.0,2.0,3.0,0.5,0.714,0.588,0.6,925.0,4125.0,5050.0
+2024_KIA_Forte_20L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.652,0.789,0.714,0.867,,,12325.0
+2024_KIA_Seltos_20L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.75,0.706,0.727,0.583,3525.0,11350.0,7825.0
+2024_Mercedes_Benz_C_Class,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.846,0.579,0.688,0.545,,,7450.0
+2024_NISSAN_Kicks_16L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.762,0.696,0.727,0.812,3385.0,12350.0,8965.0
+2024_SUBARU_Crosstrek_25L,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.632,0.667,0.649,0.917,,,14325.0
+2024_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,4.0,5.0,3.0,4.0,0.778,0.778,0.778,1.0,500.0,5550.0,5050.0
+2024_TOYOTA_Camry_35L,groundTruthSchema.json,aiSchema.json,4.0,5.0,,4.0,0.8,0.75,0.774,0.917,,,7500.0
+2024_TOYOTA_Corolla_Cross_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,2.0,3.0,0.9,0.6,0.72,0.556,825.0,4425.0,3600.0
+2024_TOYOTA_Rav4_Prime_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.625,0.714,0.667,0.8,,,4725.0
+2024_VOLKSWAGEN_Jetta_15L,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.8,0.727,0.762,0.625,2425.0,4500.0,2075.0
+2025 Honda HR-V HR-V Sport_REF27106616,groundTruthSchema.json,aiSchema.json,5.0,3.0,1.0,3.0,0.625,0.938,0.75,0.6,1520.0,7650.0,6130.0
+2025_BMW_X1_20L,groundTruthSchema.json,aiSchema.json,5.0,3.0,,4.0,0.75,0.9,0.818,0.667,,,12600.0
+2025_CHEVROLET_Express_43L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.833,0.588,0.69,0.6,5775.0,10850.0,5075.0
+2025_FORD_Transit_35L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.833,0.5,0.625,0.8,,,4150.0
+2025_HONDA_Cr-v_15L,groundTruthSchema.json,aiSchema.json,3.0,3.0,1.0,2.0,0.417,0.625,0.5,0.6,2075.0,3500.0,5575.0
+2025_HYUNDAI_Palisade_38L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.667,0.4,0.5,0.667,,,4575.0
+2025_KIA_Seltos_20L,groundTruthSchema.json,aiSchema.json,3.0,5.0,2.0,3.0,0.5,0.571,0.533,1.0,975.0,3025.0,4000.0
+2025_KIA_Soul_20L,groundTruthSchema.json,aiSchema.json,2.0,3.0,,2.0,0.333,0.375,0.353,0.667,,,4450.0
+2025_MCLAREN_Artura_30L,groundTruthSchema.json,aiSchema.json,5.0,5.0,3.0,4.0,0.5,1.0,0.667,1.0,500.0,2000.0,2500.0
+2025_TESLA_Model_S,groundTruthSchema.json,aiSchema.json,4.0,2.0,,3.0,0.7,0.7,0.7,0.429,,,6325.0
+2025_TOYOTA_Camry_25L,groundTruthSchema.json,aiSchema.json,3.0,2.0,1.0,2.0,0.9,0.692,0.783,0.375,1250.0,4250.0,3000.0
+2025_TOYOTA_Corolla_18L,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.917,0.688,0.786,0.818,,,3250.0
+2025_TOYOTA_Corolla_20L,groundTruthSchema.json,aiSchema.json,3.0,3.0,3.0,3.0,1.0,0.625,0.769,0.6,350.0,2550.0,2200.0
+2025_TOYOTA_Highlander_25L,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.812,0.812,0.812,0.75,,,16200.0
+2026_CHEVROLET_Colorado_27L,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.815,0.611,0.698,0.818,19700.0,37050.0,17350.0
+2026_CHEVROLET_Silverado_27L,groundTruthSchema.json,aiSchema.json,4.0,3.0,,4.0,0.882,0.833,0.857,0.6,,,13200.0
+2026_GMC_Terrain_15L,groundTruthSchema.json,aiSchema.json,5.0,4.0,2.0,4.0,0.9,1.0,0.947,0.889,975.0,8050.0,7075.0
+Audi_A3_Sportback_15_35_TFSi_110kW_5d_damaged_car__ID6796798,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.615,0.667,0.64,1.0,,,6850.0
+BMW_5_Reeks_Touring_520e_150kW_5d_Technical_issues__ID6796801,groundTruthSchema.json,aiSchema.json,3.0,5.0,1.0,3.0,0.4,0.667,0.5,1.0,12175.0,20450.0,8275.0
+BMW_X1_sDrive18d_110_kW_5d_Damaged_car_ENKEL_IB_I_en_COC_bes_ID6796800,groundTruthSchema.json,aiSchema.json,5.0,5.0,,5.0,0.818,1.0,0.9,1.0,,,3287.5
+BMW_X1_xDrive25e_180kW_5d_Damaged_car_ID6796797,groundTruthSchema.json,aiSchema.json,4.0,3.0,1.0,3.0,0.833,0.769,0.8,0.6,15450.0,28000.0,12550.0
+Citroën_Grand_C4_Spacetourer_15_BlueHDi_130_SS_EAT8_Feel_5d__ID6796799,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.667,0.444,0.533,1.0,,,4675.0
+Ford_Mustang_Mach-E_72kWh_198kW_Standard_Range_RWD_5d_Damage_ID6796802,groundTruthSchema.json,aiSchema.json,2.0,3.0,1.0,2.0,0.333,0.375,0.353,0.667,33400.0,45000.0,11600.0
+Ford_Transit_Connect_15_TDCi_74kW_L2_HD_Limited_4d_Technical_ID6796803,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.9,0.75,0.818,0.889,,,753.0
+Mercedes-Benz_EQA_EQA_250_Business_Solution_Luxury_5d_damage_ID6796805,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,0.667,0.571,0.615,1.0,,,7375.0
+Mercedes-Benz_EQB_EQB_250_Luxury_Line_5d_damaged_car__ID6796804,groundTruthSchema.json,aiSchema.json,4.0,4.0,1.0,3.0,0.722,0.722,0.722,0.846,44100.0,55500.0,11400.0
+Mercedes-Benz_GLE_GLE_350_de_4MATIC_5d_Technical_issues__ID6796806,groundTruthSchema.json,aiSchema.json,3.0,3.0,,3.0,0.333,0.545,0.414,0.667,,,6675.0
+Mercedes-Benz_Vito_114_CDI_L2_Aut_4d_technical_issues__ID6796810,groundTruthSchema.json,aiSchema.json,3.0,5.0,,4.0,1.0,0.5,0.667,1.0,,,1000.0
+Peugeot_508_SW_16_Hybrid_180_e-EAT8_Allure_5d_damaged_car_EN_ID6796808,groundTruthSchema.json,aiSchema.json,5.0,4.0,1.0,3.0,0.938,0.938,0.938,0.733,30050.0,35000.0,4950.0
+Peugeot_Boxer_22_BlueHDi_SS_165_Asphalt_335_L2H2_4d_technica_ID6796807,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.7,0.5,0.583,0.857,,,4305.0
+Renault_Kangoo_Express_Blue_dCi_80_Grand_Confort_4d_technica_ID6796809,groundTruthSchema.json,aiSchema.json,3.0,4.0,1.0,3.0,0.5,0.556,0.526,0.8,1120.0,780.0,1900.0
+Volkswagen_Caddy_Maxi_20_TDI_Manueel_75_kW_DC_2450_4d_damage_ID6796811,groundTruthSchema.json,aiSchema.json,3.0,4.0,,4.0,0.706,0.667,0.686,0.75,,,7650.0
+Volkswagen_Golf_15_eTSI_Mild-Hybrid_R-Line_LED-Matrix_Virtua_ID6740904,groundTruthSchema.json,aiSchema.json,2.0,5.0,1.0,3.0,0.25,0.333,0.286,1.0,11150.0,20300.0,9150.0
+Volvo_XC40_T3_XC40_5d_technical_issues__ID6796813,groundTruthSchema.json,aiSchema.json,2.0,5.0,,4.0,0.833,0.455,0.588,1.0,,,6100.0
+Volvo_XC40_T3_XC40_5d_Technical_issues__ID6796814,groundTruthSchema.json,aiSchema.json,1.0,1.0,1.0,1.0,0.333,0.25,0.286,0.0,4575.0,5425.0,850.0
+vWPoloTwistRAW2K,groundTruthSchema.json,aiSchema.json,4.0,4.0,,4.0,0.471,0.8,0.593,0.75,,,3287.5

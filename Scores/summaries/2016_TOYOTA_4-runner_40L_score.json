@@ -1,0 +1,46 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": null,
+  "score_overall": 4,
+  "part_precision": 0.923,
+  "part_recall": 0.75,
+  "part_f1": 0.828,
+  "gt_part_count": 16,
+  "ai_part_count": 13,
+  "matched_part_count": 12,
+  "severity_match_rate": 0.636,
+  "severity_matches": 7,
+  "severity_total_compared": 11,
+  "gt_estimated_repair_cost": null,
+  "ai_estimated_repair_cost": 3675.0,
+  "cost_abs_error": null,
+  "cost_rel_error": null,
+  "total_loss_match": null,
+  "matched_parts": [
+    "ac_condenser",
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "front_right_fender",
+    "headlight_left",
+    "headlight_right",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_right_quarter_panel",
+    "wheel_rear_right"
+  ],
+  "missed_parts": [
+    "engine",
+    "grille",
+    "mirror_right",
+    "rear_bumper"
+  ],
+  "extra_parts": [
+    "suspension"
+  ],
+  "vehicle_id": "2016_TOYOTA_4-runner_40L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

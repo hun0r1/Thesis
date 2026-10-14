@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_SUBARU_Impreza_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": null,
+    "severity": null,
+    "repair_action": null,
+    "cost": 5,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report is largely correct on damage details, repair costs, and total loss prediction, but it incorrectly provided specific values for damage category, overall severity, and drivability where the ground truth explicitly stated 'unknown' or null."
+}

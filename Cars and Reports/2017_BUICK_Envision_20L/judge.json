@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2017_BUICK_Envision_20L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 3,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI correctly identified all ground truth parts and repair actions for most items, but included several extra parts, had an incorrect overall severity and some individual part severities, and significantly overestimated the total repair cost."
+}

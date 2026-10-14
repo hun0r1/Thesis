@@ -1,0 +1,47 @@
+{
+  "score_parts": 4,
+  "score_severity": 5,
+  "score_cost": 5,
+  "score_overall": 5,
+  "part_precision": 0.667,
+  "part_recall": 0.769,
+  "part_f1": 0.714,
+  "gt_part_count": 13,
+  "ai_part_count": 15,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.9,
+  "severity_matches": 9,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 4225.0,
+  "ai_estimated_repair_cost": 4250.0,
+  "cost_abs_error": 25.0,
+  "cost_rel_error": null,
+  "total_loss_match": "mismatch",
+  "matched_parts": [
+    "airbag_curtain",
+    "airbag_driver",
+    "front_bumper",
+    "front_left_fender",
+    "headlight_left",
+    "hood",
+    "radiator",
+    "radiator_support",
+    "rear_bumper",
+    "taillight_left"
+  ],
+  "missed_parts": [
+    "ac_condenser",
+    "other",
+    "wheel_front_left"
+  ],
+  "extra_parts": [
+    "airbag_side",
+    "dashboard",
+    "front_left_door",
+    "grille",
+    "tire"
+  ],
+  "vehicle_id": "2012_HONDA_Civic_18L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

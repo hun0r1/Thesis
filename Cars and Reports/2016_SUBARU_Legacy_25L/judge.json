@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2016_SUBARU_Legacy_25L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": 4,
+    "total_loss": 5,
+    "overall": 4
+  },
+  "explanation": "The AI report accurately determined the total loss status and most repair actions, but contained inaccuracies in the detailed damage assessment, including missing several key parts, incorrectly stating passenger airbag deployment and b-pillar damage, and adding numerous unsupported parts."
+}

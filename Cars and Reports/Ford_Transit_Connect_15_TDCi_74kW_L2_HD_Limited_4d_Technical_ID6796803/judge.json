@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "Ford_Transit_Connect_15_TDCi_74kW_L2_HD_Limited_4d_Technical_ID6796803",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 2,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output missed critical powertrain damage (engine, clutch) and their associated severe repair actions and severities, and also incorrectly added parts not present in the ground truth."
+}

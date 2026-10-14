@@ -1,0 +1,44 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 0.833,
+  "part_recall": 0.769,
+  "part_f1": 0.8,
+  "gt_part_count": 13,
+  "ai_part_count": 12,
+  "matched_part_count": 10,
+  "severity_match_rate": 0.6,
+  "severity_matches": 6,
+  "severity_total_compared": 10,
+  "gt_estimated_repair_cost": 28000.0,
+  "ai_estimated_repair_cost": 12550.0,
+  "cost_abs_error": 15450.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "airbag_curtain",
+    "exhaust_system",
+    "rear_body_panel",
+    "rear_bumper",
+    "rear_left_quarter_panel",
+    "rear_right_quarter_panel",
+    "tailgate",
+    "taillight_left",
+    "taillight_right",
+    "wiring_harness"
+  ],
+  "missed_parts": [
+    "front_bumper",
+    "other",
+    "trunk_lid"
+  ],
+  "extra_parts": [
+    "floor_pan",
+    "impact_bar"
+  ],
+  "vehicle_id": "BMW_X1_xDrive25e_180kW_5d_Damaged_car_ID6796797",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

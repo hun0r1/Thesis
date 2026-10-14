@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2015_DODGE_Grand_Caravan_36L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI provided a partially complete damage assessment, correctly identifying overall severity and many front-end body and powertrain parts, but omitted several key components like suspension and rear body damage, and had specific inaccuracies in structural details and repair actions for the engine and interior parts."
+}

@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2014_MITSUBISHI_Outlander_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 2,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 2
+  },
+  "explanation": "The AI output significantly missed the severely damaged engine and structural frame damage, leading to an incorrect overall severity, despite correctly identifying some other damaged parts and their repair actions."
+}

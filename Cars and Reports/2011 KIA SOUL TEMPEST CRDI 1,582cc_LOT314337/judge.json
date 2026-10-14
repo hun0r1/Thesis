@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2011 KIA SOUL TEMPEST CRDI 1,582cc_LOT314337",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity but missed the 'paint' damage and incorrectly suggested 'repair' actions instead of 'inspect' for the listed parts."
+}

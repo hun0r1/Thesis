@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "BMW_5_Reeks_Touring_520e_150kW_5d_Technical_issues__ID6796801",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 5,
+    "repair_action": 4,
+    "cost": 2,
+    "total_loss": 5,
+    "overall": 3
+  },
+  "explanation": "The AI accurately identified overall severity and total loss, but had significant discrepancies in identifying specific parts and their correct locations, and provided a largely incorrect estimated repair cost."
+}

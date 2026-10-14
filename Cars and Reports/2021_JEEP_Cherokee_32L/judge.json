@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2021_JEEP_Cherokee_32L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 2,
+    "severity": 4,
+    "repair_action": 3,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report correctly identified the overall severity and airbag deployment status but showed significant inaccuracies and omissions in the detailed list of damaged parts, their specific severities, and repair actions compared to the ground truth."
+}

@@ -1,0 +1,35 @@
+{
+  "score_parts": 4,
+  "score_severity": 3,
+  "score_cost": 1,
+  "score_overall": 3,
+  "part_precision": 1.0,
+  "part_recall": 0.857,
+  "part_f1": 0.923,
+  "gt_part_count": 7,
+  "ai_part_count": 6,
+  "matched_part_count": 6,
+  "severity_match_rate": 0.5,
+  "severity_matches": 3,
+  "severity_total_compared": 6,
+  "gt_estimated_repair_cost": 2975.0,
+  "ai_estimated_repair_cost": 1700.0,
+  "cost_abs_error": 1275.0,
+  "cost_rel_error": null,
+  "total_loss_match": "match",
+  "matched_parts": [
+    "front_bumper",
+    "front_left_door",
+    "front_left_fender",
+    "rear_left_door",
+    "rear_left_quarter_panel",
+    "wheel_front_left"
+  ],
+  "missed_parts": [
+    "b_pillar"
+  ],
+  "extra_parts": [],
+  "vehicle_id": "2018_TOYOTA_Camry_25L",
+  "gt_file": "groundTruthSchema.json",
+  "ai_file": "aiSchema.json"
+}

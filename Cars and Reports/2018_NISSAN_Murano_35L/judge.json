@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2018_NISSAN_Murano_35L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 3,
+    "severity": 3,
+    "repair_action": 2,
+    "cost": null,
+    "total_loss": null,
+    "overall": 3
+  },
+  "explanation": "The AI report partially identified damaged parts, accurately matched the overall severity, but was mostly incorrect on individual part repair actions and missed several key parts present in the ground truth."
+}

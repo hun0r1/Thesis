@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "2019_JEEP_Compass_24L",
+  "judge_model": "gemini-2.5-flash",
+  "scores": {
+    "parts": 4,
+    "severity": 3,
+    "repair_action": 4,
+    "cost": null,
+    "total_loss": null,
+    "overall": 4
+  },
+  "explanation": "The AI accurately reported the overall total loss status and structural damage, correctly identified most damaged parts and their repair actions, but included additional details and showed inaccuracies in the specific severity levels for several individual parts."
+}
