@@ -1,0 +1,6 @@
+Metric,N,Mean,Median,Std,Min,Max
+Part Detection,1077,3.48,4,0.91,1,5
+Severity Accuracy,1070,3.66,4,1.04,1,5
+Cost Estimate,453,2.23,2,1.29,1,5
+Total Loss Decision,427,4.2,5,1.58,1,5
+Overall,1077,3.4,4,0.78,1,5
