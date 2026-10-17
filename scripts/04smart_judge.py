@@ -210,7 +210,7 @@ def compare(gt_data: dict, ai_data: dict, normalizer: dict[str, str]) -> dict[st
 
     # ── Total loss (optional check) ─────────────────────────────────────
     # NOTE: your GT uses insurer_total_loss sometimes; AI uses predicted_total_loss.
-    gt_tl = (gt_data.get("economics") or {}).get("insurer_total_loss")
+    gt_tl = (gt_data.get("economics") or {}).get("predicted_total_loss")
     ai_tl = (ai_data.get("economics") or {}).get("predicted_total_loss")
     total_loss_match = (bool(gt_tl) == bool(ai_tl)) if (gt_tl is not None and ai_tl is not None) else None
 

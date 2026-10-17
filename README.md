@@ -8,10 +8,10 @@ This repository contains the data, scripts, and evaluation results used in my th
 
 - **Graphs** — Contains visualizations of evaluation results, scores, vehicle data, and damage analysis statistics.
 
-- **Metadata** — Contains an Excel file with one entry per vehicle, including its model, year, ground truth coverage, number of images used for AI analysis, and evaluation scores. This information is also stored in a SQLite database.
+- **Metadata** — Contains a CSV file with one entry per vehicle, including its model, year, ground truth coverage, number of images used for AI analysis, and evaluation scores. This information is also stored in a SQLite database.
 
 - **Results and Statistics** — Contains structured evaluation metrics and summary statistics.
 
-- **Scores** — Contains per-vehicle evaluation scores in CSV format and JSON summaries organized by category, such as `score_parts` and `score_cost`. Evaluation is fully script-based: values from the AI-generated JSON files are compared against ground truth values and assigned scores from 0 to 5.
+- **Scores** — Contains per-vehicle evaluation scores in CSV format and JSON summaries organized by category, such as `score_parts` and `score_cost`. Evaluation is fully script-based: values from the AI-generated JSON files are compared against ground truth values and assigned scores from 1 to 5.
 
 - **Scripts** — Contains the scripts used throughout the processing pipeline, from collecting vehicle data and generating AI damage reports to comparing reports against ground truth and calculating evaluation scores.

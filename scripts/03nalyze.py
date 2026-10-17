@@ -132,7 +132,7 @@ def process_vehicle_folder(folder_path, vehicle_index):
   "meta": {
     "annotated_by": "ai",
     "annotated_at": "2026-01-01T00:00:00Z",
-    "confidence": "ai-generated"
+    "confidence": "ai-generated",
     "images_used": 0,
     "has_damage_ground_truth": false,
     "has_cost_ground_truth": false,
